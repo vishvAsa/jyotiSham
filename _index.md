@@ -2,6 +2,7 @@
 title: +परिचयः
 ---
 
+
 ## प्रस्तुतयः
 
 - परिचयलेखाः
@@ -21,3 +22,5 @@ title: +परिचयः
 - नरसिंहराय-सङ्ग्रहो [ऽत्र](http://www.vedicastrologer.org/groups.htm)।
 - [Vedic-Astrology yahoogroup: Discussion on astrology concepts, controversies, researches, examples and individual chart requests for study purpose. An unmoderated public forum with participants of all levels.](http://groups.yahoo.com/group/vedic-astrology)
 
+## अधिक्षेत्रम्
+- [![wercker status](https://app.wercker.com/status/a324b674189921a9c06f649944a119e2/s/master "wercker status")](https://app.wercker.com/project/byKey/a324b674189921a9c06f649944a119e2)
