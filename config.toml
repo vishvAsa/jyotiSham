@@ -1,6 +1,6 @@
 baseURL = "https://vvasuki.github.io/jyotiSham/"
 languageCode = "en-us"
-title = "संस्कारे विश्वासटिप्पणयः"
+title = "ज्योतिषे विश्वासटिप्पणयः"
 theme = "sanskrit-documentation-theme-hugo"
 publishDir = "build_github"
 disablePathToLower = true
