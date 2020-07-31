@@ -6,8 +6,7 @@ contents:
   - title: सङ्ग्रहान्तरम्
     contents:
       - title: संस्कारः
-        contents:
-          - url: recdir://saMskAraH/
+        url: ../saMskAraH/
       - title: संस्कृतम्
         url: ../sanskrit/
       - title: मीमांसा
