@@ -597,7 +597,7 @@ Sama Veda, 214, 218 Samhitãs, 214, 218 Samökrånti, 2, 7, 239, 244
 
 Mah&vipuva, 215; Makara, 215 rules of, 244, 247, 259; 
 
-Uttarāyaṇa, 215; .. Sampát calana, 269 Samudragupta, 255 Samvatsara, 255, 270 Sangava, 108 Sanku (gnomon), 188 Sara (celestial latitude), 262 Sargon I, 215 Saros, 184, 185, 202, 217 Sarton, George, 159, 188, 203, 204, 205 śāstry, Mm. Bapudey, 259 Såstry, Prof. Mm. Bidhusekhar, 235 Śåta karpi, 228, 233 . Satânanda, 160 Satapatha Brāhmaṇa, 18, 189, 219. Satavahanas, 212, 213, 227-231, 233, 234, 253 Saturn, planet, 194, 195, 203, 230 INDEX 
+Uttarāyaṇa, 215; .. Sampát calana, 269 Samudragupta, 255 Samvatsara, 255, 270 Sangava, 108 Sanku (gnomon), 188 Sara (celestial latitude), 262 Sargon I, 215 Saros, 184, 185, 202, 217 Sarton, George, 159, 188, 203, 204, 205 śāstry, Mm. Bapudey, 259 Såstry, Prof. Mm. Bidhusekhar, 235 Śåta karpi, 228, 233 . Satânanda, 160 Satapatha Brāhmaṇa, 18, 189, 219. śātavāhanas, 212, 213, 227-231, 233, 234, 253 Saturn, planet, 194, 195, 203, 230 INDEX 
 
 · 279 
 
