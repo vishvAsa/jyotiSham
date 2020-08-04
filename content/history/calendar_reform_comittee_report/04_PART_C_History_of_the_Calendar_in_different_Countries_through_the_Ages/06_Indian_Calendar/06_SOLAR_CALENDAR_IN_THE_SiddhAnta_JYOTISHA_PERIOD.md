@@ -55,7 +55,7 @@ REPORT OF THE CALENDAD BEFOBM COMMITTEE
 
 Kautiliya Arthadastra Nakgatrai stiprcchantar bālam artho'tiyartate Artho hyarthasya nakpatram kim karięyanti tārakāh. 
 
-to the Sungod.: Professional astrologers) in:imang parts of India, admit to being descendants tof these Sakadvipi" -Brāhmagas and probably many of the eminent astronomers like. Aryabhaṭa and Varahamihira who made great scientfic contributions to 'astronomy belonged to this race. The planetary Sungod is always shown with high boots on, as in the case of Central Asian kings (e.g., Kaniska)... 
+to the Sungod.: Professional astrologers) in:imang parts of India, admit to being descendants tof these Sakadvipi" -Brāhmagas and probably many of the eminent astronomers like. Aryabhaṭa and Varahamihira who made great scientfic contributions to 'astronomy belonged to this race. The planetary Sungod is always shown with high boots on, as in the case of Central Asian kings (e.g., Kaniṣka)... 
 
 It is a task for the historian to trace how the steps in which the importation of western astronomical knowledge took place for the Siddhāntas, which incorporate this knowledge and are all a few centuries later, and many of them bear no date. . 
 
@@ -69,7 +69,7 @@ This may be taken to represent the views of the practical politician about astro
 
 Canakya was the great minister of Candragupta, and history says that these two great leaders rolled back the bordes of the Macedonians, who had con. quered the Acheminid Empire of Iran comprising the whole of the Near East to the borders of Iran; and thereafter laid the foundation of the greatest empire India has ever seen. They clearly not only did not believe in astrology, but openly, and without reserve, ridiculed its pretensions. 
 
-But the influence of original Buddhism waned after the rise of Mahāyānist Buddhism, which received great encouragement during the reign of Kaniska (78 A.D. to 102 A.D.) and other Kuṣāna and śaka kings. Then came Buddhist iconography, coins, and knowledge of the methods of western date-recording which the Sakas and Kuṣānas used. They blended with the indigenous Indian system slowly. 
+But the influence of original Buddhism waned after the rise of Mahāyānist Buddhism, which received great encouragement during the reign of Kaniṣka (78 A.D. to 102 A.D.) and other Kuṣāna and śaka kings. Then came Buddhist iconography, coins, and knowledge of the methods of western date-recording which the Sakas and Kuṣānas used. They blended with the indigenous Indian system slowly. 
 
 The focus of diffusion of western astronomical knowledge appears to have been the city of Ujjayini, capital of the western Satraps who were apparently the first to use a continuous era ( the śaka era ), and a method of date-recording which was at first purely Graeco-Chaldean as prevalent in Seleucid Babylon, but gradually Indian elements like the tithi and the naksatra were blended, as we find for the first time in the inscription of Satrap Rudrasimha, dated 181 A.D. (vide § 5.5). 
 
@@ -313,19 +313,19 @@ The Indian gear, throughout ages, has been of two kinds, the solar and the lunar
 
 Table 15-—Indian Seasons. —30° to 30°...Spring (Vasanta) Caitra & Vaisākha 
 
-30 to 90 ... Summer (Griṣma) Jyaiṣtha & Aṣadha 
+30 to 90 ... Summer (Grīṣma) Jyaiṣtha & Aṣadha 
 
 90 to 150 ... Rains (Varṣa) Srāvapai & Bhādra 150 to 210 ... Early Autumn (Śarat) Āøvina & Kārtika 210 to 270 .. Late Autumn Agrahāyaṇa & Panpa 
 
 (Hemanta) 270' to 330 ...Winter (Sisira) Magha & Phālguna 
 
-The Siddhāntic astronomers, therefore, found themselves in a difficulty. If they were to follow the Indian convention, Caitra would be the first month of the solar year. If they were to follow the Graeco Chaldean covention, they had to take Vaisakha as the first month of the solar year. 
+The Siddhāntic astronomers, therefore, found themselves in a difficulty. If they were to follow the Indian convention, Caitra would be the first month of the solar year. If they were to follow the Graeco Chaldean covention, they had to take Vaiśākha as the first month of the solar year. 
 
-They struck a compromise. For defining the solar year, they took Vaisakha as the first month and for defining the lunar year they took Caitra as the first month (see § 57). 
+They struck a compromise. For defining the solar year, they took Vaiśākha as the first month and for defining the lunar year they took Caitra as the first month (see § 57). 
 
 But this rule has been followed only in North India. In South India, they had different practices, as shown in the list of solar month-names (Table No. 16). 
 
-In North India the first month is Vaisakha as laid down in the S.S. which starts just after sun's passage through the V.E. point. 
+In North India the first month is Vaiśākha as laid down in the S.S. which starts just after sun's passage through the V.E. point. 
 
 It is interesting to see that in Tamil Nad, some of the names are of Sanskritic origin, others are of Tamil origin. But the most siriking fact is that the first month, starting after vernat equinox is not Vaiśākha as in the 
 
@@ -365,7 +365,7 @@ Adi.
 
 Mithuna Karkata Siniha Kanyā Tulā Vrgoika Dhanuh Ma kara Kumbha Mina 
 
-VAISAKHA BAHAG 
+Vaiśākha BAHAG 
 
 CITTIRAI MEṣA Jy&iṣtha 
 
@@ -539,7 +539,7 @@ Sarya Siddhānta (1950 A.D.) (as proposed) (1)
 
 (5) a m 
 
-dh m . . Vaisakha (Meṣa) 
+dh m . . Vaiśākha (Meṣa) 
 
 ( 0° -30° ) 
 
@@ -547,7 +547,7 @@ dh m . . Vaisakha (Meṣa)
 
 ( 30 -60 ) 
 
-31 10 5.2 30 23 29.6 Vaisakha Aṣadha (Mithuna) 
+31 10 5.2 30 23 29.6 Vaiśākha Aṣadha (Mithuna) 
 
 ( 60-90 ) 
 
@@ -657,7 +657,7 @@ may differ by 1 to 2 days in different parts of India.
 
 (2) The integral number of days of the different solar months also vary from 29 to 32. 
 
-The mouths of Kārtika, Agrahāyana, Pauṣa, Māgha and Phālguna contain 29 or 30 days each, of which two months must be of 29 days, and others of 30 days. The months Caitra, Vaisakha and Asvina contain 30 or 31 days. 
+The mouths of Kārtika, Agrahāyana, Pauṣa, Māgha and Phālguna contain 29 or 30 days each, of which two months must be of 29 days, and others of 30 days. The months Caitra, Vaiśākha and Asvina contain 30 or 31 days. 
 
 The rest, viz., Jyaiṣtha, Āṣādha, Śrāvana and Bhadra have got 31 to 32 days each, of which one or two months will contain 32 days every year. 
 

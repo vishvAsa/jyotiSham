@@ -15,7 +15,7 @@ title = "15 BIBLIOGRAPHY"
 - Couderc, Paul (1948)—Lo Calendrier, France.
 - Cunningham, Alexander (1883)—Book of Indian Eras with tables for calculating Indian dates, Calcutta.
 - Debevoise (1938)—Political History of Parthia.
-- Deydier (1951)-Le date de Kaniska etc. Journal Asiatique, Vol. 239.
+- Deydier (1951)-Le date de Kaniṣka etc. Journal Asiatique, Vol. 239.
 - Digha Nikāya (1890), Vol. I, Pali Text Book Society
 - Dikgit, S. B. (1896)—Bbāratiya Jyotiśāstra (in Mārāthi).
 - Discovery (1953), Vol. XIV, p. 276, Norwich (Eng.).

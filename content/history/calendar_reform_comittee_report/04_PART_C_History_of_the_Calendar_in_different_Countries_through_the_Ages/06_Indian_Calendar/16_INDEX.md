@@ -265,7 +265,7 @@ Kalachuri (Chedi), 234 ; Discovery, 190
 
 Kaliyuga, 13, 182, 252, 254, 258; Durgåstami, 108 
 
-Kaniska, 232, 266 ; Dvadasaha, 217 
+Kaniṣka, 232, 266 ; Dvadasaha, 217 
 
 Kollam, 257, 258; Kollam Andu, 257; 
 
@@ -431,7 +431,7 @@ Islamic calendar, 180.:. Jewish calendar, 179 ; list of acc. to modern calculati
 
 Kabishah, 180 Kadamba, pole of the ecliptic, 192 Kalā or liptikā, 160 Kālāloka Prakāśa, 223. Kalasang (inscription), 229 Kalastami, 108 Kaldarra (inscription), 229 Kalends, 168 Kalhapa, Historian of Kashmir, 252 Kali, 162 ; long. of planets at Kali beginning 
 
-253 Kálidāsa, 7,261 Kalpa, 162, 175, 214, 240, 268, 269 Kalpādi, names of, 107 Kandāhár, 229. Kaniska, 230, 231, 236, 256 Kaniska I, 231 Kabiska II, 232 Kaniṣka III, 231, 232 Kaniṣka Casket (inscription), 230 Kåniza Dheri (inscription), 231 Kånva, 213, 228 Kapisthala Katha Samhitā, 218 Kapsa, 230 Karana, 163 Karaṇas, definition, names and calculation of, 
+253 Kálidāsa, 7,261 Kalpa, 162, 175, 214, 240, 268, 269 Kalpādi, names of, 107 Kandāhár, 229. Kaniṣka, 230, 231, 236, 256 Kaniṣka I, 231 Kabiska II, 232 Kaniṣka III, 231, 232 Kaniṣka Casket (inscription), 230 Kåniza Dheri (inscription), 231 Kånva, 213, 228 Kapisthala Katha Samhitā, 218 Kapsa, 230 Karana, 163 Karaṇas, definition, names and calculation of, 
 
 110 ; lords of, 110' Kathaka, 218 Kaurpa (name of a sign), 183 
 

@@ -7,7 +7,7 @@ The three events mentioned in (1), (2) and (3) above define the natural division
 
 The Day: defined by the alternation of daylight and night. 
 
-The Month : the complete cycle of moon's changes of phase, from end of mew-moon to next end of new moon (amānta months), or end of full-moon to end of next full-moon (pūrnimānta months). 
+The Month : the complete cycle of moon's changes of phase, from end of mew-moon to next end of new moon (amānta months), or end of full-moon to end of next full-moon (Pūrṇimānta months). 
 
 The Year : and its smaller subdivisions, viz., the seasons. 
 

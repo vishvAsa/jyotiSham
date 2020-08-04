@@ -10,7 +10,7 @@ Table 4.-Corresponding Lunar months.
 
 - Indian - Chaldean - Macedonian - Jewish
 - CAITRA Addaru Xanthicos 
-- Vaisakha NISANNU (30) Artemesios Nissan 
+- Vaiśākha NISANNU (30) Artemesios Nissan 
 - Jyaiṣtha Airu (29) Daisios Iyyar 
 - Asāḍha Sivannu (30) Panemos Sivan 
 - Śrāvana Duzu (29) Loios Tammuz 

@@ -119,7 +119,7 @@ To prevent the occurrence of this . undesirable feature, the system of intercala
 
 cience 
 
-2 Vaisakha 
+2 Vaiśākha 
 
 .. 12 Phalguna 
 
@@ -133,7 +133,7 @@ Siddhāntic rules for the Lunar Calendar There are two kinds of lunar months use
 
 (i) The new-moon ending lunar month covers the period from one new-moon to the next. This is known as amanta or mukhya candra māsa. It gets the same name as the solar month in which the moment of initial new-moon of the month falls. For this purpose the solar month is to be reckoned from the exact moment of one saṁkrānti of the sun to the moment of the next sankranti. When a solar month completely covers a lunar month, i.e., when there are two moments of "new-moon (amānta), one at the beginning and the other 
 
-at the end of a solar month, then the lunar month beginning from the first new-moon is the intercalary month, which is then called an adhika or mala māsa, and the lunar month beginning from the second new moon is the normal month which is termed as śuddha or nija in the Siddhāntic system. Both the months bear the name of the same solar month but are prefixed by adhika or śuddha as the case may be. In an adhika month religious observances are not generally allowed. . If on the other hand, a lunar month completely covers a solar month, no new-moon having occurred in that solar month, the particular lunar month is then called a kṣaya or decayed month. : As the mukhya or new-moon ending lunar month begins from the Amavasyā or the new-moon occurring in the solar month bearing the same name, the lunar month may begin on any day during that solar month -it may begin on the first or even on the last day of that solar month. : ? (ii) The full-moon ending lunar month known as pūrnimānta or gauna čāndra māsa, covers the period from one full-moon to the next, and is determined on the basis of the corresponding new-moon ending month as defined above. It begins from the moment of full moon just a fort-night before the initial new-moon of an amānta month, and it also takes the name of that month, 
+at the end of a solar month, then the lunar month beginning from the first new-moon is the intercalary month, which is then called an adhika or mala māsa, and the lunar month beginning from the second new moon is the normal month which is termed as śuddha or nija in the Siddhāntic system. Both the months bear the name of the same solar month but are prefixed by adhika or śuddha as the case may be. In an adhika month religious observances are not generally allowed. . If on the other hand, a lunar month completely covers a solar month, no new-moon having occurred in that solar month, the particular lunar month is then called a kṣaya or decayed month. : As the mukhya or new-moon ending lunar month begins from the Amavasyā or the new-moon occurring in the solar month bearing the same name, the lunar month may begin on any day during that solar month -it may begin on the first or even on the last day of that solar month. : ? (ii) The full-moon ending lunar month known as Pūrṇimānta or gauna čāndra māsa, covers the period from one full-moon to the next, and is determined on the basis of the corresponding new-moon ending month as defined above. It begins from the moment of full moon just a fort-night before the initial new-moon of an amānta month, and it also takes the name of that month, 
 
 ...But in the gaunamāna (i.es, full-moon ending lunar month), as the month starts 15 days earlier than the 
 
@@ -251,11 +251,11 @@ Gregorian date
 
 2 Caitra 17 Caitra 
 
-1 Vaisakha 
+1 Vaiśākha 
 
 16 Mar. 31 Mar. 14 Apr. 
 
-Caitra S Vaisakha K Vaisakha s 
+Caitra S Vaiśākha K Vaiśākha s 
 
 (mala) Vaiśākha K 
 
@@ -269,21 +269,21 @@ Caitra 8 Vaiśākba V Vaisīkha 8
 
 (adhika) Vaiśākha V 
 
-(adhika) Vaisakha S 
+(adhika) Vaiśākha S 
 
-Caitra s Caitra v Vaisakha 
+Caitra s Caitra v Vaiśākha 
 
-(adhika) Vaisakha V 
+(adhika) Vaiśākha V 
 
-(adhika) Vaisakha' s 
+(adhika) Vaiśākha' s 
 
-17 Vaisakha 
+17 Vaiśākha 
 
 30 
 
 Apr. 
 
-31 Vaisakha 
+31 Vaiśākha 
 
 14 May 
 
@@ -291,7 +291,7 @@ Jyoptha
 
 V 
 
-Vaisakha 
+Vaiśākha 
 
 V 
 
@@ -305,9 +305,9 @@ Caitra S Caitra K Vaiśākha s
 
 (mala) Vaiśākha K 
 
-(mala) Vaisakha 8 
+(mala) Vaiśākha 8 
 
-(śuddha) Vaisakha K 
+(śuddha) Vaiśākha K 
 
 (śuddha) Jye tha s Jyestha K Aṣādha 8 Aṣādha K Śrāvana S Srāvaṇa K Bhādra ·8 Bhadra Ağvina Aøvina Kārtika Kārtika Mārga. Mārga. Pausa Pauza Māgha Māgha K Phālguna s Phalguna K 
 
@@ -449,7 +449,7 @@ Aøvina, Phālguns 1302 1380-81 Mārgaśīrṣe Kārtika, Vaiśākba 1321 1399-1
 
 Kārtika, Caitra 1397 1475-76 Māgha 
 
-Aģvina, Phālguns 1443 1521-22 Mārgasirga Kārtika, Vaisakha 1462 1540-41 
+Aģvina, Phālguns 1443 1521-22 Mārgasirga Kārtika, Vaiśākha 1462 1540-41 
 
 Paußa 
 
@@ -471,13 +471,13 @@ Table 21. Intercalary months in the present century śaka
 
 1872 Aṣādha 1826 Jyaiṣtha 
 
-1875 Vaisakha 1828 Caitra 
+1875 Vaiśākha 1828 Caitra 
 
 1877 Bhadra 1831 Śrāvana 
 
 1880 Śrāvana 1834 Āṣādha 
 
-1883 Jyaiṣtha 1887 Vaisakha 
+1883 Jyaiṣtha 1887 Vaiśākha 
 
 1885* Aøvina, Caitra 1839 Bhadra 
 
@@ -515,7 +515,7 @@ Month
 
 Month 1877 1955-56 Bhadra. 1896 1974-75 Bhādra 1880 1958-59 Srāvana 1899 1977-78 Srāvana 1883 1961-62 Jyaiṣtha 1902 1980-81 Jyaiṣtha 1885 1963-64 Kārtika & Caitra 
 
-(Agrabāyaṇa kṣaya) 1888 1966-67 Śrāvana 1891 1969-70 Āsādha 1894 1972-73 Vaisakha 
+(Agrabāyaṇa kṣaya) 1888 1966-67 Śrāvana 1891 1969-70 Āsādha 1894 1972-73 Vaiśākha 
 
 śaka 
 

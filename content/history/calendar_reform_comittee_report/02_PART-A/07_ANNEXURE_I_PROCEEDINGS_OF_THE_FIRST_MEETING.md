@@ -192,7 +192,7 @@ It was decided that the first point of Meṣa is to be taken 23° 15' ahead of t
 
 ## 36. Names of Solar Months. 
 
-The names of the months should continue to be Caitra, Vaisakha, etc., as at present ; the appellation of solar or lunar should be attached to them as the case may be. 
+The names of the months should continue to be Caitra, Vaiśākha, etc., as at present ; the appellation of solar or lunar should be attached to them as the case may be. 
 
 The point regarding naming of the months of the National Civil Calendar was postponed for the next meeting. 
 
