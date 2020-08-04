@@ -2,83 +2,54 @@
 title = "05 INSCRIPTIONAL RECORDS ABOUT CALENDAR"
 
 +++
-In this chapter, we are undertaking a critical review of the references to the calendar in ancient inscriptions, because, from the point of view of accurate history, inscriptional records are far more valuable than any references in ancient scriptures or classics, as they are contemporary documents, which have remained unaltered since the framers left them.. 
 
-* Sometimes inscriptions and copper plate records have been found to have been forged at a latter date but such instances are rare and can not escape detection by an experienced archaeologist 
+## Intro
+In this chapter, we are undertaking a critical review of the references to the calendar in ancient inscriptions, because, from the point of view of accurate history, inscriptional records are far more valuable than any references in ancient scriptures or classics, as they are contemporary documents, which have remained unaltered since the framers left them.
+
+\* Sometimes inscriptions and copper plate records have been found to have been forged at a latter date but such instances are rare and can not escape detection by an experienced archaeologist.
 
 References in ancient scriptures, poems, epics and other literatures are, on the other hand, very often liable to alterations, interpolations and errors in the hands of latter-day copyists and are, therefore, less trust-worthy. 
 
+## Ashoka
 The oldest inscriptional records bearing a date ( barring those belonging to the Indus-valley period which have not been deciphered ) belong to the reign of the Emperor Asoka ( 273-236 B.C.). From these, we can make fairly accurate deductions regarding the calendar then in use. 
 
-We take the Fifth Pillar Edict, Rāmpurvā version found at the Champaran district, Bibar. The language is Asokan Prākrt, the script is the oldest form of Brāhmi. (Sircar pp. 62-63 ) 
+We take the Fifth Pillar Edict, Rāmpurvā version found at the Champaran district, Bihar. The language is Aśokan Prākr̥t, the script is the oldest form of Brāhmī. (Sircar pp. 62-63 ) 
 
-Fifth Pillar Edict--Rāmpurvā Version (1) Sadĩsati[a]sabhisitena($advensat-targabhiji 
+Fifth Pillar Edict--Rāmpurvā Version  
 
-ktena)--After twenty-six years had elapsed 
+(1) Saḍuvīsati[va]sābhisitena  
+(ṣaḍviṁśati-varṣābhiṣiktena)--  
+After twenty-six years had elapsed since coronation'. 
 
-since coronation'. (2) Tīsu cātummā[si]su tisyam pumnamāsiyain tini 
+(2) Tīsu cātummā[sī]su tisyaṁ puṁnamāsiyaṁ tini divasāni cāvudasaṁ paṁnaḍasaṁ paṭipadam.....  
+ ( Tisr̥ṣu cãturmāsīṣu tiṣyāyāṁ pūrṇamāsyām, triṣu divaseṣu caturdaśe pancadaśe prātipade ......  )
+ 'On the three cãturmāsī days, on the tiṣya full moon day, on the 14th, 15th and the first  day..............." (On these and some other days, sale of fish is forbidden). 
+ 
+ Again, in the same : 
 
-divasāni cāvudasam pamnadasan patipadam..... ( Tiszṣu cãturmāsīṣu tiṣyāyān pūrnamāsyām, triṣu divaseṣu.caturdaśe pancadaśe pratipadi...... 'On the three cãturmāsī days, on the tiṣya full 
+(3) Athami-pakhāye cãrudasāye paṁnaḍasāye tisāye punāvasune... ...  
+(Aṣṭami-pakṣe, catur-daśyāṁ, pañcadaśyān, tiṣyāyāṁ, punarvasau............);  
+'On the eighth pakṣa, on the 14th, and the 15th (new moon ) on the Tiṣya and Punarvasu Nakṣatra days........., (On these days, he forbids the castration of bulls). 
 
-moon day, on the 14th, 15th and the first 
+From these passages, we conclude that : 
 
-day..............." (On these and some other days, sale of fish is 
-
-forbidden). Again, in the same : 
-
-(3) Athami-pakhāye cãrudasāye pamnadasāye 
-
-tisāye punāvasune... ...(Aṣgami-pakṣe, catur-daśyāin, pancadaśyān, tiṣyāyāin, 
-
-punarvasau............); 'On the eighth pakṣa, on the 14th, and the 
-
-15th (new moon ) on the Tiṣya and 
-
-Punarvasu Nakṣatra days........., (On these days, he forbids the castration of 
-
-bulls). 
-
-From these passages, we conclude that : 1. No era was used, but .regnal years ( number of 
-
-years elapsed since the king's coronation ) 
-
-were used for dating. 2. The time-reckoning was by seasons, each of 
-
-8 pakṣas. The seasons are : Grīsma (Summer): Comprising Caitra, Vaiśākha, 
-
-Jyaiṣtha, Astrid Varṣā (Rains) : Comprising? Śrārana, Bhadra, 
-
-Āśvina, Kārtika. Hemanta (Winter): Comprising Agrahāyana, 
-
-Parṣa, Māgha, Phālguna. 
-
-3. The months are not mentioned by name, except 
-
-in one case where the month of Māgha is mentioned. They are purṇimānta, i.e., they started after full moon and ended in full moon. This is not expressly mentioned but can be inferred from the fact that the 14th, the 15th (Pañicadaßi) and the Pratipada, i.e., the first tithi are enjoined to be the days on which certain actions are forbidden. These must be the three days of invisibility of the moon, the 14th being before new moon, the 15th the new moon, and the first, the day after new moon, which were observed as unsuitable for 
-
-many particular performances. 4. The day reckoning was by the tithi (lunar day), 
-
-but the word tithi is probably not to be taken in the sense of the present Siddhāntic tithi, but in the sense of the Vedānga Jyōtiṣa tithi or the old Brahmanic tithi. In the latter system, a tithi was counted from moon-set to moon-set during the bright half, and from 
-
-·moon-rise to moon-rise during the dark-half. 
-
-There was the same tithi for the whole day. Prof. P. C. Sen Gupta has discussed this 
-
-method of tithi reckoning (see p. 222 ). . 5. Two days are mentioned by the lunar asterisms 
-
-Tiṣya (8 Cancri), and Punarvasu (6 Geminorum). As suggested one was probably his birth naksatra, the other his coronation naksatra. The days were therefore also named after the nakṣatra. This system is found in vogue in the epic Mahābhārata, e.g., in the following 
-
-passage : Balarama, the elder brother of Krṣna, after returning from pilgrimage on the eighteenth day of the battle states : 
-
-M. Bh., Salya Parva, Ch.34, 6 Catvāriṇsadahānyadya dve ca me niħsștasya vai Puṣyeṇa samprayāto'smi śravane punarāgataḥ.. 
-
+- 1. No era was used, but **regnal years** ( number of years elapsed since the king's coronation ) were used for dating. 
+- 2. The time-reckoning was by **seasons, each of 8 pakṣas**. The seasons are : 
+  - Grīṣma (Summer): Comprising Caitra, Vaiśākha, Jyaiṣṭha, Aṣāḍha 
+  - Varṣā (Rains) : Comprising Śrāvaṇa, Bhādra, Āśvina, Kārtika. 
+  - Hemanta (Winter): Comprising Agrahāyaṇa, Pauṣa, Māgha, Phālguna. 
+- 3. The months are not mentioned by name, except in one case where the **month** of Māgha is mentioned. They are **pūrṇimānta**, i.e., they started after full moon and ended in full moon. This is not expressly mentioned but can be inferred from the fact that the 14th, the 15th (Pañcadaśī) and the Prātipada, i.e., the first tithi are enjoined to be the days on which certain actions are forbidden. These must be the **three days of invisibility of the moon**, the 14th being before new moon, the 15th the new moon, and the first, the day after new moon, which were observed as **unsuitable for many particular performances**. 
+- 4. The day reckoning was by the tithi (lunar day), but the word tithi is probably not to be taken in the sense of the present Siddhāntic tithi, but in the sense of the **Vedānga Jyōtiṣa tithi or the old Brahmanic tithi**. In the latter system, a tithi was counted from **moon-set to moon-set during the bright half, and from moon-rise to moon-rise during the dark-half**. There was the same tithi for the whole day. Prof. P. C. Sen Gupta has discussed this method of tithi reckoning (see p. 222 ). . 
+- 5. Two days are mentioned by the lunar asterisms - **Tiṣya** (δ Cancri), and **Punarvasu** (β Geminorum). As suggested one was probably his **birth naksatra**, the other his **coronation naksatra**. The days were therefore also named after the nakṣatra. This system is found in vogue in the epic Mahābhārata, e.g., in the following passage : Balarāma, the elder brother of Kr̥ṣṇa, after returning from pilgrimage on the eighteenth day of the battle states :  
+M. Bh., Salya Parva, Ch.34, 6  
+Catvāriṁśad ahāny adya  
+dve ca me niḥsr̥tasya vai  
+Puṣyeṇa samprayāto'smi  
+śravane punarāgataḥ.  
 Translation: It is forty-two days since I left the house. I started on the Puṣya (day) and have returned on the Śravaṇa. 
+- 6. There is no mention of the year-beginning.  The Tiṣya Purnamāsi, i.e., the full-moon day ending the lunar month of Pauṣa is marked out particularly. +++(Corresponds to Summer solstice of \~ 500BCE.)+++
 
-6. There is no mention of the year-beginning. 
-
-The Tiṣya Purnamāsi, i.e., the full-moon day ending the lunar month of Pauṣa is marked 
-
-out particularly. It appears from the records that in Asoka's time, the principles followed in framing the calendar were those given in the Vedānga Jyotiṣa. No era was used. From the inscriptions, we can make no inference about the luni-solar adjustment, but there is no doubt that the year was seasonal as given in the inscription of the Satavahanas (see next page). 
+It appears from the records that in Asoka's time, the principles followed in framing the calendar were those given in the Vedānga Jyotiṣa. No era was used. From the inscriptions, we can make no inference about the luni-solar adjustment, but there is no doubt that the year was seasonal as given in the inscription of the Satavahanas (see next page). 
 
 C. R.--37 
 

@@ -64,7 +64,7 @@ Translation : When at the time of Ottarāyana the sun is found turning (north) w
 
 It shows that at the time of Garga the W.S. did no longer occur in Śraviṣthā, neither the S.S. occurred in the Aśleṣā division.
 
-{{< figure src="../images/bce-0600-01-14_ashvinau_chitra-13deg_equinox_Ashresha-4deg_shroNa-4deg_abhijit_solstice.png"  >}}
+{{< figure src="../images/zodiac_history/bce-0600-01-14_ashvinau_svAti_equinox_tiShya_shroNA_solstice.png"  >}}
 
 
 ### mahābhāratam
