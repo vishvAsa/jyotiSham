@@ -49,23 +49,17 @@ Puṣyeṇa samprayāto'smi
 Translation: It is forty-two days since I left the house. I started on the Puṣya (day) and have returned on the Śravaṇa. 
 - 6. There is no mention of the year-beginning.  The Tiṣya Purnamāsi, i.e., the full-moon day ending the lunar month of Pauṣa is marked out particularly. +++(Corresponds to Summer solstice of \~ 500BCE.)+++
 
-It appears from the records that in Asoka's time, the principles followed in framing the calendar were those given in the Vedānga Jyotiṣa. No era was used. From the inscriptions, we can make no inference about the luni-solar adjustment, but there is no doubt that the year was seasonal as given in the inscription of the Satavahanas (see next page). 
+It appears from the records that in Asoka's time, the principles followed in framing the calendar were those given in the Vedānga Jyotiṣa. No era was used. From the inscriptions, we can make no inference about the luni-solar adjustment, but there is no doubt that the year was seasonal as given in the inscription of the śātavāhanas (see next page). 
 
-C. R.--37 
-
-228 
-
-No records bearing a date of the imperialdynasties following the Mauryas, viz., the Sungas, and Kanvas (186 B.C.-45 A:D.) are known. But the next imperial dynasty, the Satavahanas have left plenty of dated records. In these, the same system of date-recording by regnal years, the seasons, the pakṣas, and tithis are found. There are 8 pakṣas in a season of four months, and they were serially numbered from 1 to 8. The odd ones were Krṣṇa pakṣas, the even ones śukla paksas. 
+## śātavāhana-s
+No records bearing a date of the imperial dynasties following the Mauryas, viz., the śuṅgas, and Kāṇvas (186 B.C.- 45 A.D.) are known. But the next imperial dynasty, the śātavāhanas have left plenty of dated records. In these, the same system of date-recording by regnal years, the seasons, the pakṣas, and tithis are found. There are **8 pakṣas in a season of four months**, and they were serially numbered from 1 to 8. The **odd ones were Kr̥ṣṇa pakṣas**, the even ones śukla paksas. 
 
 Some examples are given below : 
 
-(1) Nāsik Inscription of the Satavahana Emperor, Gautamiputra Sri Satakarni (Sircar, pp. 192-93). 
-
-Data patikā Savachare 10+8 vāsapakhe 2 divase 1 
-
-(dattā pritika Samvatsare aṣtādase 18 Varsāpakṣe 
-
-divtiye 2 divase prathame 1). i.e. the inscription was recorded in the eighteenth year elapsed since the coronation on the first day of the second Paksa of the Varṣā season, i.e., in the lunar month of Śrāvana, on the first day after new moon (śukla pakṣa). 
+(1) Nāsik Inscription of the Satavahana Emperor, Gautamiputra Sri Satakarni (Sircar, pp. 192-93).  
+Data patikā Savachare 10+8 vāsapakhe 2 divase 1  
+(dattā paṭṭikā Samvatsare aṣṭādaśe 18, Varṣāpakṣe divtiye 2, divase prathame 1).  
+i.e. the inscription was recorded in the eighteenth year elapsed since the coronation on the first day of the second Paksa of the Varṣā season, i.e., in the lunar month of Śrāvana, on the first day after new moon (śukla pakṣa). 
 
 There are other Satavahana inscriptions similarly dated as summarized in the table below : 
 
@@ -77,9 +71,9 @@ pp. 220-221) Ramno Siri Virapurisadatasa Sava 6 vā pa 6 di 10
 
 (Rājfiah Sri Virapuruṣadattasya sainvatsare 
 
-ṣaṣthe 6 rarṣāpakṣe ṣaṣthe 6 divase daśame 10. On the sixth year of King Sri Virapuruṣadatta on 'the 6th pakṣa of the varṣā season, on the tenth day. The sixth of varṣā pakṣa is month of Aśvina, second or light half (śukla pakṣa). - It is obvious from the above inscriptional evidences, that continuous era-recording was not used by Indian dynasts up to the time of the Satavahanas, and no ancient books, not even the Mahabhārata mentions an era. 
+ṣaṣthe 6 rarṣāpakṣe ṣaṣthe 6 divase daśame 10. On the sixth year of King Sri Virapuruṣadatta on 'the 6th pakṣa of the varṣā season, on the tenth day. The sixth of varṣā pakṣa is month of Aśvina, second or light half (śukla pakṣa). - It is obvious from the above inscriptional evidences, that continuous era-recording was not used by Indian dynasts up to the time of the śātavāhanas, and no ancient books, not even the Mahabhārata mentions an era. 
 
-As no era is mentioned, it has been difficult to work out a chronology of the early Indian dynasts including the Satavahanas. 
+As no era is mentioned, it has been difficult to work out a chronology of the early Indian dynasts including the śātavāhanas. 
 
 Table 14. Table of Inscriptions of Sāta vāhana Kings, 
 
@@ -111,7 +105,7 @@ The number in the first column indicates the serial number of the inscription in
 
 The Coming of the Era to India As, we have seen in §3.5, the era reckoning had been in use in Babylon since 747 B.C., and the Seleucidean era which marked the accession to power of Seleucus at Babylon in 312 B.C., was widely current in the whole of the Middle East, both by the royalty and the public. 
 
-But though as Asoka's Girnar inscription says that he was in diplomatic correspondence with five Greek kings of the West, including Antiochus I and II of Babylon, and the Ptolemy of Egypt, and sent Buddhist missionaries, to these countries, it is clear from his records that he continued to use the purely Indian methods of date-recording based on the Vedanga-Jyotiṣa. There is not the slightest indication that any of the Indian imperial dynasties which followed the Mauryas, viz., the Sungas and Kanvas (186 B.C.-45 A.D.), the Satavahanas ( 100 A.D.) allowed themselves to be influenced by the Graeco-Chaldean luni-solar calendar which was then in vogue in the Near East.. 
+But though as Asoka's Girnar inscription says that he was in diplomatic correspondence with five Greek kings of the West, including Antiochus I and II of Babylon, and the Ptolemy of Egypt, and sent Buddhist missionaries, to these countries, it is clear from his records that he continued to use the purely Indian methods of date-recording based on the Vedanga-Jyotiṣa. There is not the slightest indication that any of the Indian imperial dynasties which followed the Mauryas, viz., the Sungas and Kanvas (186 B.C.-45 A.D.), the śātavāhanas ( 100 A.D.) allowed themselves to be influenced by the Graeco-Chaldean luni-solar calendar which was then in vogue in the Near East.. 
 
 From about 180 B.C., North-Western India having Taxila as capital passed under the Bactrian Greeks. 
 
@@ -193,7 +187,7 @@ The month, mostly in Sanskrit ; the day, by its ordinal number, e.g., No. 11, wh
 
 The months are all in Sanskrit, except in No. 6, in which the month is in Greek (Panemos= Āsādha). No. 6 alone of this group contains the rather mysterious phrase 'Etaye pūrvaye' which means, 'before these'. This phrase, the meaning of which is not clear, occurs in Kuṣāna (Group B) and even in Gupta inscriptions. 
 
-This method of dating is quite different from that of the contemporary Indian dynasts, viz., the Satavahanas, which mentioned regnal years, the season, the pakṣa, and then probably the old tithi or the lunar day. But it agrees with the method followed in contemporary Parthia, which mentions the year usually in the Seleucidean era, rarely in the Arsacid era, the name of the month in Greek, and the ordinal number of the day, which ranges from 1 to 30 (see Debevoise, 1938). From No. 10, it appears that whenever Indian months were used they were Purnimanta, following the classical Indian custom. 
+This method of dating is quite different from that of the contemporary Indian dynasts, viz., the śātavāhanas, which mentioned regnal years, the season, the pakṣa, and then probably the old tithi or the lunar day. But it agrees with the method followed in contemporary Parthia, which mentions the year usually in the Seleucidean era, rarely in the Arsacid era, the name of the month in Greek, and the ordinal number of the day, which ranges from 1 to 30 (see Debevoise, 1938). From No. 10, it appears that whenever Indian months were used they were Purnimanta, following the classical Indian custom. 
 
 which is supposed to stand for Azes. But this has been disputed. 
 
@@ -325,7 +319,7 @@ From the above review of inscriptional records and contemporary history, the fol
 
 (2) When the - Sakas spread from "Sakasthān', i.e., modern Afghanistan into contiguous parts of India, they began to be influenced by Indian culture. During the first stage, they exclusively used Greek in their coins, but later they began to use Kharoṣthi and Brahmi as well. The coins of Maues (80 B.C:---45 B.C.), Azes I, Azilises, Azes II show increasing influence of Indian culture. The southern Sakas who penetrated into Saurashtra and Malwa show Indian influence to a greater degree. . 
 
-(3) In the first three centuries, they (Maues group, Nahapāna group and Kuṣānas) used the old śaka era omitting hundreds, and using a method of date recording which was an exact copy of the contem porary Graeco-Chaldean system prevalent throughout the Parthian empire (Macedonian months, and ordinal number of days). But they also began to use Indian months. Whenever they did it, the , month was Purnimānta, as was the custom with old Hindu dynasts (Mauryas and Satavahanas). 
+(3) In the first three centuries, they (Maues group, Nahapāna group and Kuṣānas) used the old śaka era omitting hundreds, and using a method of date recording which was an exact copy of the contem porary Graeco-Chaldean system prevalent throughout the Parthian empire (Macedonian months, and ordinal number of days). But they also began to use Indian months. Whenever they did it, the , month was Purnimānta, as was the custom with old Hindu dynasts (Mauryas and śātavāhanas). 
 
 (4). The classical śaka era starting from 78 A.D. is nothing but the old Śaka era, starting from 123 B.C. with 200 omitted, so that the year 1 of Kaniska is year 201 of the Old śaka era. 
 
