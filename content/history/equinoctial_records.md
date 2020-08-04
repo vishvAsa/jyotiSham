@@ -64,10 +64,13 @@ Translation : When at the time of Ottarāyana the sun is found turning (north) w
 
 It shows that at the time of Garga the W.S. did no longer occur in Śraviṣthā, neither the S.S. occurred in the Aśleṣā division.
 
+{{< figure src="../images/bce-0600-01-14_ashvinau_chitra-13deg_equinox_Ashresha-4deg_shroNa-4deg_abhijit_solstice.png"  >}}
+
+
 ### mahābhāratam
 In the Mahabharata we get the following verse : 
 
-Aśvamedha, Chap. 44;2: 
+Aśvamedha, Chap. 44;2:  
 Ahaḥ pūrvam tato rātrir  
 māsāḥ śuklādayaḥ smr̥tāḥ  
 śravaṇādīni r̥kṣāṇi  
@@ -75,7 +78,7 @@ r̥tavaḥ śiśirādayaḥ
 
 Translation : Day comes first and then the night ; months, are known to commence with the bright half, the nakṣatras with Śravaṇa, and the seasons with śiśira. 
 
-Here the asterism Śravaṇa is described as the one where the winter solstice takes place. śravaṇa is just preceding Sravistha and the solstices take about 460 years to retrograde through one nakṣatra division. 
+Here the asterism Śravaṇa is described as the one where the winter solstice takes place. śravaṇa is just preceding Sravistha and the solstices take about 960 years to retrograde through one nakṣatra division. 
 
 
 ## 200 BCE - Vernal equinox at ashvinI
@@ -85,6 +88,17 @@ Here the asterism Śravaṇa is described as the one where the winter solstice t
 
 ## 550 AD - varAhamihira
 - "the Hindu encyclopedist varAhamihira, who was an acute observer, writing around 550 AD states that the spring equinox fell 10′ East of Zeta Piscium in revatI." This is ashvinI-reavtI border.
+
+Pañica Siddhāntika, III, 21 A  
+śleṣārdhād āsit yadā nivr̥ttiḥ kiloṣṇakiraṇasya  
+Yuktam ayanan tadāsīt sāmpratamayanam punarvasūtaḥ. 
+Translation : When the return of the sun towards the south (1.., the summer solstice ) took place from. the middle of Aśleṣa, tbe ayana was right, at the present time ayana begins from Punarvasu. 
+
+Brhat-Samhitā, III, 1  
+Asleṣārdhād dakṣiṇam uttaram ayanaṁ raver dhaniṣthādyam  
+Nūnaṁ kadācid āsīt yenoktaṁ pūrvaśāstreṣu. 
+
+Translation : The beginning of the southern motion when the sun has passed half of Aśleṣā and the beginning of the northern motion when the sun has passed the beginning of Dhaniṣthā, must have taken place at some epoch; for these are recorded in old treatises. 
 
 {{< figure src="../images/zodiac_history/ce-0499-12-20_revatI_chitrA_equinox_makara-sankramaNa_shroNa-10deg_punarvasU_solstice.png"  >}}
 

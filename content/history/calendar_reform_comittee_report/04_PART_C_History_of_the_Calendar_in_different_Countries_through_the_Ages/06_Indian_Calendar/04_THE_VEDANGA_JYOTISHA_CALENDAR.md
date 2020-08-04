@@ -141,7 +141,7 @@ It shows that at the time of Garga the W.S. did no longer occur in Śraviṣthā
 
 In the Mahabharata we get the following verse : 
 
-Aśvamedha, Chap. 44;2: 
+Aśvamedha, Chap. 44;2:  
 Ahaḥ pūrvam tato rātrir  
 māsāḥ śuklādayaḥ smr̥tāḥ  
 śravaṇādīni r̥kṣāṇi  
@@ -149,29 +149,26 @@ r̥tavaḥ śiśirādayaḥ
 
 Translation : Day comes first and then the night ; months, are known to commence with the bright half, the nakṣatras with Śravaṇa, and the seasons with śiśira. 
 
-Here the asterism Śravaṇa is described as the one where the winter solstice takes place. śravaṇa is just preceding śraviṣṭha and the solstices take about 460 years to retrograde through one nakṣatra division. 
+Here the asterism **Śravaṇa** is described as the one where the **winter solstice** takes place. śravaṇa is just preceding śraviṣṭha and the solstices take about 960 years to retrograde through one nakṣatra division. 
 
 We get from this the time of composition of the Mahābhārata as about 450 B.C. or sometime earlier.
 
-Varahamihira also notes that the winter solstice: no longer took place at Dhansstha. 
+Varahamihira also notes that the winter solstice: no longer took place at Dhaniṣṭhā.  
 
-.. - Pañica Siddhāntika, III, 21 A śleṣārdbádāsit yadā nivșttiḥ kiloṣnakiraṇasya Yuktamayanan tadāsit sāmpratamayanam 
+Pañica Siddhāntika, III, 21 A  
+śleṣārdhād āsit yadā nivr̥ttiḥ kiloṣṇakiraṇasya  
+Yuktam ayanan tadāsīt sāmpratamayanam punarvasūtaḥ. 
 
-punarvasutab. Translation : When the return of the sun towards the south (1.., the summer solstice ) took place from. the middle of Aślesa, tbe ayana was right : at the present time ayana begins from Punarvasu. 
+Translation : When the return of the sun towards the south (1.., the summer solstice ) took place from. the middle of Aśleṣa, tbe ayana was right, at the present time ayana begins from Punarvasu. 
 
-In his Brhat Saṁhita, an astrological treatise, he. records : 
+In his Brhat Saṁhita, an astrological treatise, he records : 
 
+Brhat-Samhitā, III, 1  
+Asleṣārdhād dakṣiṇam uttaram ayanaṁ raver dhaniṣthādyam  
+Nūnaṁ kadācid āsīt yenoktaṁ pūrvaśāstreṣu. 
 
+Translation : The beginning of the southern motion when the sun has passed half of Aśleṣā and the beginning of the northern motion when the sun has passed the beginning of Dhaniṣthā, must have taken place at some epoch; for these are recorded in old treatises. 
 
+From the time of Vedānga Jyotiṣa to Varāhamihira's time the summer solstice moved through more than 1.5 nakṣatras ( 1/2 of āśleṣa + Puṣya ) which indicated a lapse of more than 1500 years from the time of Vedānga Jyotiṣa. 
 
-Brhat Samhitā, III, 1 Asleṣārdbātdakgiṇam uttaramayanan raverdbaniṣthôdyam Nūnaṁ kadācidāsīt yenoktani pūrvasõstresu. 
-
-Translation : The beginning of the southern motion when the sun has passed half of Aśleṣā and the begin ning of the northern motion when the sun has passed the beginning of Dhaniṣthā, must have taken place at some epoch; for these are recorded in old treatises. 
-
-From the time of Vedānga Jyotiṣa to Varāhamihira's. time the summer solstice moved through more than 14 nakṣatras ( f of Aslesá + Pusya ) which indicated a lapse of more than 1500 years from the time of Vedānga Jyotiṣa. 
-
-It is thus seen that the Hindu astronomers observed. the shifting of the cardinal points due to precession of the equinoxes ; but as they had not developed the sense of era, they were unable to find out the time. interval between different records, and obtain a rate for precession, as was done by Hipparchos. Their observations were also crude; as they used only the lunar zodiac. The shifting of the solstitial colures remained to them an unsolved mystery. 
-
-dawnicy. 
-
-AR 
+It is thus seen that the Hindu astronomers **observed the shifting of the cardinal points** due to precession of the equinoxes ; but as they **had not developed the sense of era**, they were **unable to find out the time interval between different records**, and obtain a rate for precession, as was done by Hipparchos. Their observations were also crude; as they used only the lunar zodiac. The shifting of the solstitial colures remained to them an unsolved mystery.

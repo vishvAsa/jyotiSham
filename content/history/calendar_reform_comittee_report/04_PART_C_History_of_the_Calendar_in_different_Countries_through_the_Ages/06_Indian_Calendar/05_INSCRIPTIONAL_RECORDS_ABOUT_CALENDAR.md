@@ -6,10 +6,6 @@ In this chapter, we are undertaking a critical review of the references to the c
 
 * Sometimes inscriptions and copper plate records have been found to have been forged at a latter date but such instances are rare and can not escape detection by an experienced archaeologist 
 
-INDIAN OALENDAR 
-
-227 
-
 References in ancient scriptures, poems, epics and other literatures are, on the other hand, very often liable to alterations, interpolations and errors in the hands of latter-day copyists and are, therefore, less trust-worthy. 
 
 The oldest inscriptional records bearing a date ( barring those belonging to the Indus-valley period which have not been deciphered ) belong to the reign of the Emperor Asoka ( 273-236 B.C.). From these, we can make fairly accurate deductions regarding the calendar then in use. 
