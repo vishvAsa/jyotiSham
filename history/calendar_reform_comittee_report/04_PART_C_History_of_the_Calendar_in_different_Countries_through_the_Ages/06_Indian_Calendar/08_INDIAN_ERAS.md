@@ -300,9 +300,9 @@ INDIAN CALENDAR
 
 Rajasthan, conquered the city of Kanauj about 828 A.D., they brought the Vikrama era from their original home, and it became the current era all over northern India except the eastern region, and was used by all Rajput dynasties of medieval times. . 
 
-The months of the Vikrama era are all lunar, and the first month is Caitra. The months begin after the full-moon but the year begins 15 days after the full moon of Phalguna, i.e. after the new-moon of Caitra. But for astronomical calculations, it is pegged on to a solar year, which starts on the first of solar Vaisakha, theoretically the day after the vernal equinox. The Vikrama era is current also in parts of Gujrat, but there the year begins in Kārtika and the months are amānta, which corresponds to the Macedonian month of Dios, and the epoch is just six months later. Thus the western and northern varieties of the Vikrama era follow respectively the Macedonian and Babylonian reckonings (see § 3.3), the year of starting is 255 years later than that of the Seleucidean era. 
+The months of the Vikrama era are all lunar, and the first month is Caitra. The months begin after the full-moon but the year begins 15 days after the full moon of Phalguna, i.e. after the new-moon of Caitra. But for astronomical calculations, it is pegged on to a solar year, which starts on the first of solar Vaiśākha, theoretically the day after the vernal equinox. The Vikrama era is current also in parts of Gujrat, but there the year begins in Kārtika and the months are amānta, which corresponds to the Macedonian month of Dios, and the epoch is just six months later. Thus the western and northern varieties of the Vikrama era follow respectively the Macedonian and Babylonian reckonings (see § 3.3), the year of starting is 255 years later than that of the Seleucidean era. 
 
-The conclusion is that the champions of the Vikrama era have still to prove the existence of king Vikrama of Ujjain. Early inscriptions show that the method of date-retording is not typically Indian as in the Satavahana inscriptions but follow the śaka-Kuṣāṇa method, which follows the contemporary . Graeco Chaldean method. It was therefore a foreign recko ning introduced either by the Greeks or Sakas, or an Indian prince or tribe who had imbibed some Graeco-Chaldean culture, but was adopted by the Malava tribes who migrated from the Punjab to Rajas than about the first century B.C. . The association with a king Vikrama occured 800 years later, and is probably due to lapse of historical memory, for the only historical king Vikramaditya who is known to have crushed the śaka power in Ujjain, was king Candragupta II of the Gupta dynasty (about 395 A.D.). Before this, the śaka dynasty in Ujjain had reigned almost in unbroken sequence from about 100 A.D. to 395 A.D., and had used an era of their own, later known as the "śaka' era. All the Gupta emperors from Samudragupta, had an "Aditya" title, and many of them had the title "Vikramaditya" so that the Gupta age was par excellence the age of Vikramadityas. But all the Gupta emperors use in their inscriptions the family era called the Guptakala which commemorated the foundation of Gupta empire (319 A.B). The association of the Malava era with king Vikramaditya, and assignment of king Vikramaditya to Ujjain, was due to confusion of historical memory not infrequent in Indian history. It may be mentioned that the Vikrama era is never used by Indian astro nomers for their calendaric calculations, for which puapose the śaka era is exclusively used. 
+The conclusion is that the champions of the Vikrama era have still to prove the existence of king Vikrama of Ujjain. Early inscriptions show that the method of date-retording is not typically Indian as in the Sātavāhana inscriptions but follow the śaka-Kuṣāṇa method, which follows the contemporary . Graeco Chaldean method. It was therefore a foreign recko ning introduced either by the Greeks or Sakas, or an Indian prince or tribe who had imbibed some Graeco-Chaldean culture, but was adopted by the Malava tribes who migrated from the Punjab to Rajas than about the first century B.C. . The association with a king Vikrama occured 800 years later, and is probably due to lapse of historical memory, for the only historical king Vikramaditya who is known to have crushed the śaka power in Ujjain, was king Candragupta II of the Gupta dynasty (about 395 A.D.). Before this, the śaka dynasty in Ujjain had reigned almost in unbroken sequence from about 100 A.D. to 395 A.D., and had used an era of their own, later known as the "śaka' era. All the Gupta emperors from Samudragupta, had an "Aditya" title, and many of them had the title "Vikramaditya" so that the Gupta age was par excellence the age of Vikramadityas. But all the Gupta emperors use in their inscriptions the family era called the Guptakala which commemorated the foundation of Gupta empire (319 A.B). The association of the Malava era with king Vikramaditya, and assignment of king Vikramaditya to Ujjain, was due to confusion of historical memory not infrequent in Indian history. It may be mentioned that the Vikrama era is never used by Indian astro nomers for their calendaric calculations, for which puapose the śaka era is exclusively used. 
 
 (e) Tho śaka Bra The śaka Era is the era par excellence which has been used by Indian astronomers all over India in their calculations since the time of the astronomer Varaha mihira (died 587 A.D.) and probably earlier. The Indian almanac-makers, even now, use the śaka era for calculations, and then convert the calculations to their own systems. 
 
@@ -328,7 +328,7 @@ Mithradates I. Recently Dr. Van Lohuizen de Leeuw has discus sed the starting po
 
 256 
 
-in which the Parthian emperor Phraates II was defea- ted and killed, and the rich. province of Bactria was occupied by the Sakas. They founded an era to com memorate their victory over the Parthians which their successors took to India, as they expanded and put an end to the Bactrian Greek principalities in Afghanistan and north-west Punjab. She suggests that the old Śaka era was also used by the Kuṣanas, who were after all a Sakish ruling tribe, but from the time of Kaniska with hundreds omitted. 
+in which the Parthian emperor Phraates II was defea- ted and killed, and the rich. province of Bactria was occupied by the Sakas. They founded an era to com memorate their victory over the Parthians which their successors took to India, as they expanded and put an end to the Bactrian Greek principalities in Afghanistan and north-west Punjab. She suggests that the old Śaka era was also used by the Kuṣanas, who were after all a Sakish ruling tribe, but from the time of Kaniṣka with hundreds omitted. 
 
 Dr. M. N. Saba has supported this theory in its main features, but he thinks that the era was founded in 123 B.C., for he shows from historical records that the Sakas assailed Bactria first in 129 B.C. and entered into a seven year conflict with the Parthians, and finally. conquered Bactria in 123 B.C., when the Par thian' emperor Artabanus II, was defeated and killed. Probably the Sakas then founded their era. This was also called the era of Azes. Dr. Van Lohuizen, de Leeuw has accepted Saha's suggestion. 
 
@@ -338,7 +338,7 @@ The points given in § 5.5 and above may be summarized as follows:
 
 (a) The Sakas starting from Central Asia attacked the Parthian empire in 129: B.C., and overcame Parthian resistance by 123 B.C. : It is very probable that they started an era to commemorate their accession to power in Bactria from 123 B.C. They used Macedonian months and Graeco-Chaldean methods of calendaric. calculations as prevalent in the Seleucid and Parthian dominions, Probably the era was some times named after Azes, who was probably their leader. But this Azes is not to be confounded with later Azes I or Azes II, who reigned in Taxila between 40 B.C. and 20 B.C. Within the first 200 years of its starting, the era was alternatively called the Azes era, 
 
-(b) This śaka era ( known to archaeologists as the old Śaka era ) was used by the śaka emperors and śaka satraps in their Indian territories, but the time reckoning began to be gradually influenced by Indian customs. They began to use Indian months alter natively with Macedonian months and Parnimānta months in place of Amanta months. During the first 200 years, the hundreds were sometimes omitted, in the use of the era. : (c) The so-called Kaniska era is nothing but the old śaka era with 200 omitted. 
+(b) This śaka era ( known to archaeologists as the old Śaka era ) was used by the śaka emperors and śaka satraps in their Indian territories, but the time reckoning began to be gradually influenced by Indian customs. They began to use Indian months alter natively with Macedonian months and Parnimānta months in place of Amanta months. During the first 200 years, the hundreds were sometimes omitted, in the use of the era. : (c) The so-called Kaniṣka era is nothing but the old śaka era with 200 omitted. 
 
 (d) The Śaka era was used by the house of Castana of Ujjain with 200 omitted, but gradually they forgot the origin of the era and continued their own reckoning without further omission of hundreds upto the end of the śaka satrapal rule over Ujjaini about 395 A.D. As the early Indian astronomers were mostly of foreign origin (viz. Sakadvipi Brahmana) the astronomical reckonings necessary for compiling the calendar were carried out using the śaka era and Graeco-Chaldean astronomy. The blending of Graeco-Chaldean astronomy as known about the early years of the Christian era with older Indian calendarical features formed the basis of Siddhānta Jyotiṣa. The Sakadvipi Brahmins also brought to India horoscopic astrology using the śaka era exclusively in horoscopes, a custom which has persisted to this day. These facts explain the pre-eminence of the śaka era. 
 
@@ -488,7 +488,7 @@ All India
 
 . A (8. India) 
 
-Asvina 81 | Pūrnimānta Western & Central India 
+Asvina 81 | Pūrṇimānta Western & Central India 
 
 318 
 
@@ -498,7 +498,7 @@ Both P. & A | Kathiawar & Saurashtra
 
 $19 
 
-Caitra 81 Pūrnimānta Gupta empire (Con. I. & Nep.) 
+Caitra 81 Pūrṇimānta Gupta empire (Con. I. & Nep.) 
 
 Mathurs & Kanauj 
 
@@ -518,7 +518,7 @@ Bengal & Orissa
 
 Orissa 
 
-1362 Sept. 13 Bhādrs K1 Pūrnimānta 
+1362 Sept. 13 Bhādrs K1 Pūrṇimānta 
 
 Bengal 1 
 

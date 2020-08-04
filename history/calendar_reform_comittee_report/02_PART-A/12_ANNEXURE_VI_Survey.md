@@ -31,7 +31,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 7. Solar. 
 - 8. Mesha Sankranti. 
 - 9. Bengali San, 1360 begins on 14th April, 1953. 
-- 10. Vaisakha to Chaitra. 
+- 10. Vaiśākha to Chaitra. 
 - 11. 365.25636. 
 - 12. 23° 12' 45" 
 - 13. 50".3. 
@@ -91,9 +91,9 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 5. Pt. Ramrup Vidyabagis. 
 - 6. Nirayana. 
 - 7. Solar (with all informations regarding luni-solar, both purnimanta and amanta of the year). 
-- 8. 1st Vaisakha. 
+- 8. 1st Vaiśākha. 
 - 9. Bangabda 1360 begins on 14th April, 1953. 
-- 10. Vaisakha to Chaitra. 
+- 10. Vaiśākha to Chaitra. 
 - 11. 365d.258756481 mean solar days. 
 - 12. 21° 49' 26."55 13. 54" 14. Siddhantic method. (Surya Siddhanta)
 
@@ -212,7 +212,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 7. Solar.
 - 8. Mesha Sankranti. 
 - 9. Bengali San 1360 begins on 14th April, 1953. 
-- 10. Vaisakha to Chaitra 
+- 10. Vaiśākha to Chaitra 
 - 11. 365d.256363 
 - 12. 23° 13' 25" 
 - 13. 50".27 
@@ -301,7 +301,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 7. Solar. 
 - 8. Meşa Samkrānti 
 - 9. Bengali San, 1360 B.S. begins on 14th April, 1953. 
-- 10. Vaisakha to Caitra. 
+- 10. Vaiśākha to Caitra. 
 - 11. 365.d25636 
 - 12. 23° 13' 25" 
 - 13. 50".27 
@@ -586,7 +586,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 5. Pt. Brajalal Sharma. 
 - 6. Sayana (?) 
 - 7. Luni-Solar, Amanta. 
-- 8. Chaitra S 1 and Vaisakha Sankranti. 
+- 8. Chaitra S 1 and Vaiśākha Sankranti. 
 - 9. Vikram Samvat 2011. 
 - 10. Chaitra to Phalguna. 
 - 11. 365 days 
@@ -755,7 +755,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 7. Solar. 
 - 8. Nirayana Mesha Sankranti. 
 - 9. Bengali San 1360 starts on 14th April, 1953. 
-- 10. Vaisakha to Chaitra. 
+- 10. Vaiśākha to Chaitra. 
 - 11. 365d 6h 12m 368.57 (365d 15€ 31P 31P.4) 
 - 12. 21° 49' 27" 
 - 13. 54". 

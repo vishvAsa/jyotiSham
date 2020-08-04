@@ -40,7 +40,7 @@ Taittiriya Saṁhita, 4.4.11
 - (e) (Ye are) Sahas and Sahasya, the months of (Early) Winter (Hemanta). 
 - (f) (Ye are) Tapas and Tapasya, the months of cool season. 
 
-The month-names which are given here and repeated in many other verses of the Yajur Veda have been interpreted by all authorities to be **tropical**. Further this is probably the earliest mention of month names in Indian literature ; these names are no longer in use, and have been replaced by lunar month-names (Castra, Vaisakha, etc.) which are, however, found at a later stage. 
+The month-names which are given here and repeated in many other verses of the Yajur Veda have been interpreted by all authorities to be **tropical**. Further this is probably the earliest mention of month names in Indian literature ; these names are no longer in use, and have been replaced by lunar month-names (Castra, Vaiśākha, etc.) which are, however, found at a later stage. 
 
 Madhu and Madhava have been taken in **later literature** to correspond to the time-period when the **sun moves from -30° to 30° along the ecliptic**, and so on for the other months. But we have no reason to believe that the Yajurvedic priests had developed such a fine mathematical sense of seasonal definition. But it is almost certain that they must have developed some method of observing the cardinal points of the sun's yearly course, viz., the two solstices and the equinoxes. From these observations, they must have counted that the number of days in a year was 366 in round numbers. 
 
@@ -98,7 +98,7 @@ There are twenty-seven nakṣatras and so only 12 can be selected for lunar mont
 The twelve names which we have got are : 
 
 - Caitra from Citra (No. 14) 
-- Vaisakha Visakhā ( 16) 
+- Vaiśākha Visakhā ( 16) 
 - Jyaiṣtha Jyeṣtha ( 18) 
 - Aṣadha Āṣadha ( 20 & 21 ) 
 - śravaṇa Śravaṇa ( 22 ) 

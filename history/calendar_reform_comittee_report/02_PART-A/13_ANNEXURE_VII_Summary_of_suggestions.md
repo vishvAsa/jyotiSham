@@ -78,7 +78,7 @@ Judicial Minister, Tehri Garhawal State, Ex-President, International Aryan Leagu
 
 Letters dated 25. 3. 53, and 21. 10. 53. 
 
-(i) National Solar Calendar on “sāyana” system of time reckoning to be adopted. (ii) 23 days to be omitted from the month of "Chait” in any year, the eighth day of Chait being followed by the first day of Vaisakha. (iii) Supports the adoption of Vikrama Samvat as the era of the Indian National Calendar. (iv) Favours the names of months as Caitra, Vaiśākha, etc., and not Mega, Vrṣa, etc. to another. (iii) Checkoned from Sunesa. (ii) Beginning 
+(i) National Solar Calendar on “sāyana” system of time reckoning to be adopted. (ii) 23 days to be omitted from the month of "Chait” in any year, the eighth day of Chait being followed by the first day of Vaiśākha. (iii) Supports the adoption of Vikrama Samvat as the era of the Indian National Calendar. (iv) Favours the names of months as Caitra, Vaiśākha, etc., and not Mega, Vrṣa, etc. to another. (iii) Checkoned from Sunesa. (ii) Beginning 
 
 ## 11. Shri Harihar P. Bhatt, B.A.
 President, Editorial Board, The Sandesh Pratyaksha Panchang, 22, Saraswati Society, Sarkhej Road. Ahmedabad. 
