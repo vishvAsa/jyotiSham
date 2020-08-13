@@ -24,3 +24,12 @@ title: +परिचयः
 
 ## अधिक्षेत्रम्
 - [![wercker status](https://app.wercker.com/status/a324b674189921a9c06f649944a119e2/s/master "wercker status")](https://app.wercker.com/project/byKey/a324b674189921a9c06f649944a119e2)
+
+
+## Predictions track
+Some people presume to predict fates and outcomes based on natal charts. Here we track some predictions.
+
+- Narasimha Rao.
+  - 
+  - (video referred to post in BVP)
+  - 
