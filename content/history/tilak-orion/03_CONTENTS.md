@@ -9,7 +9,7 @@ title = "03 CONTENTS"
 - IV. Agrahayana ... 61 – 96 
 - V. The Antelope's head  96-128 
 - VI. Orion and his Belt --156 ... 107-197 
-- VII, Ribhus and Vrişhákapi 
+- VII, Ribhus and Vriṣākapi 
 - VIII. Conclusion 198.-220 ... 291-327 
 - Appendix 
 
