@@ -4,7 +4,7 @@ unicode_script: devanagari
 
 ---
 
-## नक्षत्रताराः
+## चान्द्रनक्षत्रताराः
 [नक्षत्रसूक्तं](../../../../saMkAraH/mantraH/worlds/Rk/naxatra-suuktam/) दृश्यताम्।
 
 ## राशिताराः
