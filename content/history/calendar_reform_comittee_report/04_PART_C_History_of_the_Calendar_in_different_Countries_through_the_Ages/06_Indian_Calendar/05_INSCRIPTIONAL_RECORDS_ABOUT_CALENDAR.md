@@ -249,7 +249,7 @@ From the above review of inscriptional records and contemporary history, the fol
 
 The senior author has shown that Nahapjna used the old śaka bra with one hundred omitted, so that the year 46 of Nahapāna was the year 146 of the old śaka era or about 24 A.D. 
 
-The Sātavāhana kings Gautamiputra Satakarni and his son Vasiṣthiputra Pulumaví, whose records are .found dated in the typical Indian fashion, reigned according to his hypothesis from about 40 A.D. to 80 A.D. From epigraphical record, Nahapana is at least separated by about 100 years from the next group of śaka rulers, viz., the Sakas of Ujjain belonging to the house of Caṣtana. 
+The Sātavāhana kings Gautamiputra Satakarni and his son Vasiṣthiputra Pulumavī, whose records are .found dated in the typical Indian fashion, reigned according to his hypothesis from about 40 A.D. to 80 A.D. From epigraphical record, Nahapana is at least separated by about 100 years from the next group of śaka rulers, viz., the Sakas of Ujjain belonging to the house of Caṣtana. 
 
 The śaka satraps of Ujjain. We come across the records of another śaka ruling family, reigning in Ujjain. 
 
