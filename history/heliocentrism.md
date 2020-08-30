@@ -51,7 +51,7 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 - He was a chaturvedin son of madhusUdana bhaTTa.
 - "भ-पञ्जरः स्थिरः । भूर् एवावृत्यावृत्य प्रति-दैवसिकौ उदयास्तमयौ सम्पादयति नक्षत्र-ग्रहाणाम् । आचार्यार्यभटेन+अपि भू-भ्रमणम् अभ्युपगतम्: “प्राणेनैति कलां भूः ।"" - "The celestial sphere is stationary. Only the earth keeps rotating and rotating, once everyday, causing the rising and setting of the stars and planets. The earth's rotation had been accepted by professor Aryabhata: "the earth rotates by the angle of a kala in unit of time of a prāņa"".
 
-## bhaTTa-bhAskarakaNTha of kAshmIra
+## bhaTTa-bhAskarakaNTha of kAshmIra 1200-1600CE
 भूमिर् एषा महा-प्राणि-देहा खे ऽत्र स्वभवतः ।  
 स्थितस् तत्र जना यूका इव सीमन्त-संस्थिताः ॥  
 This earth here is the body of a giant living being, self-supported in empty space. On that are situated the people like lice dwelling in the hair.
