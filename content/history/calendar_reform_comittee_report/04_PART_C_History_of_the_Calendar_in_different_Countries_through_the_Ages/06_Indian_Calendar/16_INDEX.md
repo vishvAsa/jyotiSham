@@ -699,7 +699,7 @@ origin and invention of, 169, 170 Winternitz, 214, 215, 218 World Calendar Assoc
 
 Year, 216 ; beginning of, 1; 4, 6, 13, 175; Year-contd. 
 
-beginning of in Brihmapas, 241, 245; 
+beginning of in Brāhmaṇas, 241, 245; 
 
 starting day of the solar, 241, beginning of lunar, 221; 
 
