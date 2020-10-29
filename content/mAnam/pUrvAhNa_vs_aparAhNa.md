@@ -19,7 +19,7 @@ title = "पूर्वाह्णापराह्णभेदः"
 ## Proper disambiguation
 - In the context of muhUrta-s, the 5 fold division is to be taken.
 - In the context of pitRkArya-s (used in contrast with pUrvAhNa rather than sAngava etc.., and in juxtaposition with other two fold divisions like ayana, day-night etc.. ), the 2-fold division is to be taken.
-  - But sAyAhNa should be omitted, (wrongly) leading to preference of the 5-fold division context: अन्तिमत्रिमुहूर्त्तस्य तु राक्षसवेलात्वेन कर्म्मानर्हत्वात् कर्म्मयोग्य- शेषभागत्वाभावान् नापराह्णत्वम् ।
+  - But sAyAhNa should be omitted, (wrongly) leading to preference of the 5-fold division context: "पञ्चधा विभक्तस्य तु चतुर्थभागे च तस्य च कर्म्मयोग्येतरापेक्षया ऽपरत्वात् तथात्वम् । अन्तिमत्रिमुहूर्त्तस्य तु राक्षसवेलात्वेन कर्म्मानर्हत्वात् कर्म्मयोग्य- शेषभागत्वाभावान् नापराह्णत्वम् ।" इति वाचस्पत्ये।
   - mAdhvas of vyAsarAjamaTha reckon vyApti of the kutupa-muhUrta (8th from sunrise out of 15).
 
 
