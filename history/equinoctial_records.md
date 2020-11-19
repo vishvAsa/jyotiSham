@@ -55,6 +55,11 @@ mantra of vAmadeva gautama to agni - In dwellings first he came into being, at g
 - Corresponds to equinox at bharaNI.
 
 ## 1300 BCE - Solstice : shraviShThAdi
+
+
+{{< figure src="../images/zodiac_history/bce-1400-01-13_bharaNi-3deg_vishAkhA_equinox_dhaniShTha_AshreShA-maghA_solstice.png"  >}}
+
+
 - "Dating by precession gives the date of the VJ as being around 1300 BC because the it states that the winter solistice was in the beginning for shraviShThA and summer in the mid-point of AshleShA. This is important because in the maitrAyaNi brAhmaNa, shAkhAyanya tells king bR^ihadratha that the winter solistice was in the middle of shraviShThA (MBU 6.14). Thus, the lagadha was clearly aware of the change from the epoch time little before his times. "
 - वेदाङ्गज्योतिषे - "प्रपद्येते श्रविष्ठादौ सूर्याचन्द्रमसावुदक् । सार्पार्धे दक्षिणार्कस्तु माघश्रावणयोः सदा ।।"
     - तदा नाक्षत्रिकाव् ऽपि मासौ माघश्रावणौ।
@@ -64,8 +69,8 @@ mantra of vAmadeva gautama to agni - In dwellings first he came into being, at g
 - वायुपुराणात् सायनांशप्रायकलनम्- 
   - मेषान्ते च तुलान्ते च भास्करोदयतः स्मृताः । मुहूर्त्ता दश पञ्चैव अहोरात्रिश्च तावती ।। ५०.१९५ ।। कृत्तिकानां यदा सूर्यः प्रथमांशगतो भवेत् । विशाखानां तथा ज्ञेयश्चतुर्थांशे निशाकरः।। ५०.१९६ ।। विशाखायां यदा सूर्यश् चरतेऽंशं तृतीयकम्। तदा चन्द्रं विजानीयात् कृत्तिकाशिरसि स्थितम् ।। ५०.१९७ ।। विषुवन्तं तदा विद्यादेवमाहुर्महर्षयः। सूर्येण विषुवं विद्यात् कालं सोमेन लक्षयेत् ।। ५०.१९८ ।। 
 
-
-{{< figure src="../images/zodiac_history/bce-1400-01-13_bharaNi-3deg_vishAkhA_equinox_dhaniShTha_AshreShA-maghA_solstice.png"  >}}
+### Influence in later literature
+- This epoch was very influential in later literature. We see then evidence of offsetting nakshatras to match tropical months. See [ayanachalanam](../ayanachalanam) page.
 
 ## 1000 BCE - Summer solstice at AshreShA (shrAvaNa monsoons)
 - This also corresponds to shrAvaNI pUrNimA being around summer solstice (~ the time of Apastamba gRhya sUtra-s, see [ayanAMshachayanam](../../naxatram/chAndra-naxatram/04_ayanAMshachayanam/) page).
