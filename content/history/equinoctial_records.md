@@ -18,6 +18,8 @@ mantra of vAmadeva gautama to agni - In dwellings first he came into being, at g
 
 {{< figure src="../images/zodiac_history/bce-3000-01-13_rohiNI_jyeShThA_equinox_shatabhiShak_pUrva_phAlgunI_solstice.png"  >}}
 
+{{< figure src="../images/zodiac_history/bce-3000_naxatra-chakra.jpg">}}
+
 ### फाल्गुनय् उत्तरायणम्
 - विवाहसूक्ते तथा ([MT](https://twitter.com/blog_supplement/status/1214057993840578561))।
 - "मुखम् वा एतत् संवत्सरस्य यत् फाल्गुनी पौर्णमासी ।" इति कौषीतकिब्राह्मणे।
@@ -29,7 +31,7 @@ mantra of vAmadeva gautama to agni - In dwellings first he came into being, at g
 ## 2300 BCE - Vernal equinox at kRttikA 
 {{< figure src="../images/zodiac_history/bce-2300-01-13_kRttikA_anUrAdhAH_equinox_dhaniShThA-shatabhiShak_maghA_solstice.png">}}
 
-{{< figure src="../images/zodiac_history/bce-3000_naxatra-chakra.jpg">}}
+{{< figure src="../images/zodiac_history/bce-2300_naxatra-chakra.jpg">}}
 
 - Vernal equinox was at actual kRttikA in 2300 BCE - yajurveda period (described elsewhere).
 - Corresponds to daxiNAyanArambha in maghA and uttarAyaNArambha in mAgha. See [saura-chAndra-mAna](../../saura-chAndra-mAnam/) page for details.
@@ -47,13 +49,6 @@ mantra of vAmadeva gautama to agni - In dwellings first he came into being, at g
 - वेदाङ्गज्योतिषमानेन मैत्रायणीयोपनिषन्मानेन च \- मासो माघः, ऋतुः शिशिरः। वाक्योल्लेखा [अत्र](../naxatram/chAndra-naxatram/) दृश्याः।
 - "वेदाङ्गज्योतिषे- माघशुक्लप्रपन्नस्य पौषकृष्णसमापिनः। युगस्य पञ्चवर्षस्य कालज्ञानं प्रचक्षते।। "
 
-### पुराणेषु
-- पुराणेश्वथ - "वर्षाणामपि पञ्चानामाद्यः संवत्सरः स्मृतः। ऋतूनां शिशिरश्चाऽपि मासानां माघ एव च ।। ब्रह्माण्डपुराणे (पूर्वभागे २४।१४१) वायुपुराणे(१।१५३।११३) लिङ्गपुराणे (१।६१।५२) च।"
-- वायुपुराणात् सायनांशप्रायकलनम्- 
-  - मेषान्ते च तुलान्ते च भास्करोदयतः स्मृताः । मुहूर्त्ता दश पञ्चैव अहोरात्रिश्च तावती ।। ५०.१९५ ।। कृत्तिकानां यदा सूर्यः प्रथमांशगतो भवेत् । विशाखानां तथा ज्ञेयश्चतुर्थांशे निशाकरः।। ५०.१९६ ।। विशाखायां यदा सूर्यश् चरतेंऽशं तृतीयकम्। तदा चन्द्रं विजानीयात् कृत्तिकाशिरसि स्थितम् ।। ५०.१९७ ।। विषुवन्तं तदा विद्यादेवमाहुर्महर्षयः। सूर्येण विषुवं विद्यात् कालं सोमेन लक्षयेत् ।। ५०.१९८ ।। 
-
-
-
 ## 1400 BCE solistice at shraviShThArdha
 - Summer solistice at magha and winter solistice at shraviShTha (~ full moon at maghA)
 - मैत्रायणीयोपनिषदि - "द्वादशात्मकं वत्सरम्। एतस्याग्नेयमर्धम्, अर्धं वारुणं। मघाद्यं श्रविष्ठार्धमाग्नेयं क्रमेण, +उत्क्रमेण सार्पाद्यं श्रविष्ठार्धान्तं सौम्यम्" "solisticial points here are indicated as maghAdyam|sarpAdyam+++(=their boundary)+++ and shraviShTArdham. this would approximately correspond to ~1300 BCE marking a change from the earlier reference to solisticial point lying inside magha in AV nakShatrasUkta"\[[SD](https://sanskritdocuments.org/doc_upanishhat/maitri.html?lang=sa), [MT_TW](https://twitter.com/blog_supplement/status/984634039909978112)
@@ -61,12 +56,18 @@ mantra of vAmadeva gautama to agni - In dwellings first he came into being, at g
 
 ## 1300 BCE - Solstice : shraviShThAdi
 - "Dating by precession gives the date of the VJ as being around 1300 BC because the it states that the winter solistice was in the beginning for shraviShThA and summer in the mid-point of AshleShA. This is important because in the maitrAyaNi brAhmaNa, shAkhAyanya tells king bR^ihadratha that the winter solistice was in the middle of shraviShThA (MBU 6.14). Thus, the lagadha was clearly aware of the change from the epoch time little before his times. "
+- वेदाङ्गज्योतिषे - "प्रपद्येते श्रविष्ठादौ सूर्याचन्द्रमसावुदक् । सार्पार्धे दक्षिणार्कस्तु माघश्रावणयोः सदा ।।"
+    - तदा नाक्षत्रिकाव् ऽपि मासौ माघश्रावणौ।
+
+### पुराणेषु
+- पुराणेश्वथ - "वर्षाणामपि पञ्चानामाद्यः संवत्सरः स्मृतः। ऋतूनां शिशिरश्चाऽपि मासानां माघ एव च ।। ब्रह्माण्डपुराणे (पूर्वभागे २४।१४१) वायुपुराणे(१।१५३।११३) लिङ्गपुराणे (१।६१।५२) च।"
+- वायुपुराणात् सायनांशप्रायकलनम्- 
+  - मेषान्ते च तुलान्ते च भास्करोदयतः स्मृताः । मुहूर्त्ता दश पञ्चैव अहोरात्रिश्च तावती ।। ५०.१९५ ।। कृत्तिकानां यदा सूर्यः प्रथमांशगतो भवेत् । विशाखानां तथा ज्ञेयश्चतुर्थांशे निशाकरः।। ५०.१९६ ।। विशाखायां यदा सूर्यश् चरतेऽंशं तृतीयकम्। तदा चन्द्रं विजानीयात् कृत्तिकाशिरसि स्थितम् ।। ५०.१९७ ।। विषुवन्तं तदा विद्यादेवमाहुर्महर्षयः। सूर्येण विषुवं विद्यात् कालं सोमेन लक्षयेत् ।। ५०.१९८ ।। 
+
 
 {{< figure src="../images/zodiac_history/bce-1400-01-13_bharaNi-3deg_vishAkhA_equinox_dhaniShTha_AshreShA-maghA_solstice.png"  >}}
 
 ## 1000 BCE - Summer solstice at AshreShA (shrAvaNa monsoons)
-- वेदाङ्गज्योतिषे - "प्रपद्येते श्रविष्ठादौ सूर्याचन्द्रमसावुदक् । सार्पार्धे दक्षिणार्कस्तु माघश्रावणयोः सदा ।।"
-    - तदा नाक्षत्रिकाव् ऽपि मासौ माघश्रावणौ।
 - This also corresponds to shrAvaNI pUrNimA being around summer solstice (~ the time of Apastamba gRhya sUtra-s, see [ayanAMshachayanam](../../naxatram/chAndra-naxatram/04_ayanAMshachayanam/) page).
 - "We have a text of the nagna nAstika-s, termed sUrya-praj~nApti, where the same system of calenderics as the VJ is expounded. But the jaina-s correct the winter solstice to shravaNa, suggesting that they were after the VJ in the period when you would actually expect the jaina-s to be around. Thus, we have a continuous system of precessional corrections even in the period around the VJ, leave alone the vedic antiquity."
 - Vernal equinox was likely *before* actual ashvinI during taittirIya-AraNyaka period "नक्षत्राणि रूपम्, अश्विनौ व्यात्तम्" ([MT1](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/), आरण्यके [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_01#page/n309/mode/2up))
@@ -76,6 +77,8 @@ mantra of vAmadeva gautama to agni - In dwellings first he came into being, at g
 {{< figure src="../images/zodiac_history/bce-1100-01-14_bharaNI_vishAkhA_equinox_dhaniShThA-6deg_Ashlesha_solstice.png"  >}}
 
 ## 800 BCE
+{{< figure src="../images/zodiac_history/bce-0600-01-14_ashvinau_svAti_equinox_tiShya_shroNA_solstice.png"  >}}
+
 ### garga-saṁhitā
 **Garga**, an astronomer whose name is found in the Mahabharata, where he is described as having an astronomical school at a place called **Gargasrota in the Sarasvatī basin**, is the reputed author of a pre-Siddhāntic calendaric treatise called **Garga Saṁhita**. He notes : 
 
@@ -86,7 +89,9 @@ Translation : When at the time of Ottarāyana the sun is found turning (north) w
 
 It shows that at the time of Garga the W.S. did no longer occur in Śraviṣthā, neither the S.S. occurred in the Aśleṣā division.
 
-{{< figure src="../images/zodiac_history/bce-0600-01-14_ashvinau_svAti_equinox_tiShya_shroNA_solstice.png"  >}}
+Garga, quoted by Somākara on Ved. Jy. 6, says (referring to older VJ epoch?):  
+यदा माघस्य शुक्लस्य प्रतिपद्य् उत्तरायणम् ।  
+सहोदयं श्रविष्ठाभिः सौमार्कौ प्रतिपद्यतः॥ 
 
 
 ### mahābhāratam
@@ -112,15 +117,19 @@ Here the asterism Śravaṇa is described as the one where the winter solstice t
 - "the Hindu encyclopedist varAhamihira, who was an acute observer, writing around 550 AD states that the spring equinox fell 10′ East of Zeta Piscium in revatI." This is ashvinI-reavtI border.
 
 Pañica Siddhāntika, III, 21 A  
-śleṣārdhād āsit yadā nivr̥ttiḥ kiloṣṇakiraṇasya  
-Yuktam ayanan tadāsīt sāmpratamayanam punarvasūtaḥ. 
-Translation : When the return of the sun towards the south (1.., the summer solstice ) took place from. the middle of Aśleṣa, tbe ayana was right, at the present time ayana begins from Punarvasu. 
+आश्लेषार्धाद् आदीद् यदा निवृत्तिः किलोष्णकिरणस्य। युक्तम् अयनं तदासीत् साम्प्रतम् अयनं पुनर्वसुतः॥ 
+
+Translation : When the return of the sun towards the south (the summer solstice ) took place from. the middle of Aśleṣa, tbe ayana was right, at the present time ayana begins from Punarvasu. 
 
 Brhat-Samhitā, III, 1  
-Asleṣārdhād dakṣiṇam uttaram ayanaṁ raver dhaniṣthādyam  
-Nūnaṁ kadācid āsīt yenoktaṁ pūrvaśāstreṣu. 
+आश्लेषार्धाद् दक्षिणम् उत्तरम् अयनं रवेर् धनिष्ठाद्यम् ।  
+नूनं कदाचिद् आसीद् येनोक्तं पूर्वशास्त्रेषु॥ 
 
-Translation : The beginning of the southern motion when the sun has passed half of Aśleṣā and the beginning of the northern motion when the sun has passed the beginning of Dhaniṣthā, must have taken place at some epoch; for these are recorded in old treatises. 
+साम्प्रतम् अयनं सवितुः कर्कटकाद्यं मृगादितश् चान्यत्।  
+उक्ताभावो विकृतिः प्रत्यक्ष-परिक्षणैर् व्यक्तिः ॥
+ 
+
+Translation : The beginning of the southern motion when the sun has passed half of Aśleṣā and the beginning of the northern motion when the sun has passed the beginning of Dhaniṣthā, must have taken place at some epoch; for these are recorded in old treatises. He appeals to his readers to ascertain for themselves by actual observation which of the two positions of the solstices is the correct one.
 
 {{< figure src="../images/zodiac_history/ce-0499-12-20_revatI_chitrA_equinox_makara-sankramaNa_shroNa-10deg_punarvasU_solstice.png"  >}}
 
