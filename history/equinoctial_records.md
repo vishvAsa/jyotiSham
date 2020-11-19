@@ -45,10 +45,6 @@ mantra of vAmadeva gautama to agni - In dwellings first he came into being, at g
 - कौषीतकिब्राह्मणे १९.१.२२ गवामयनब्राह्मणे - "तैषस्य अमावास्याया एक अह- उपरिष्टाद् दीक्षेरन्  । माघस्य वा इत्य् आहुः  ।  तद् उभयम् व्युदिताम् । तैषस्य त्वा इव उदिततरम् इव । त एतम् त्रयोदशम् अधिचरम् मासम् आप्नुवन्ति । एतावान् वै संवत्सरो यद् एष त्रयोदशो मासः । तद् अत्र एव सर्वः संवत्सर आप्तो भवति । स +++(सूर्यः)+++ वै माघस्य अमावास्यायाम् उपवसत्य् उदन्न् आवर्त्स्यन् । उप इमे वसन्ति । … स षण् मासान् उदङ्ङ् एति  । तम् ऊर्ध्वैः षडहैर् अनुयन्ति  । स षण् मासान् उदन्नित्वा तिष्ठते दक्षिणा आवर्त्स्यन्  । उप इमे वसन्ति वैषुवतीयेन अह्ना यक्ष्यमाणाः  । … स षण् मासान् दक्षिणा एति  । तम् आवृत्तैः षडहैर् अनुयन्ति  । स षण् मासान् दक्षिणेत्वा तिष्ठत उदङ्ङ् आवर्त्स्यन्  । उप इमे वसन्ति माहाव्रतीयेन अह्ना यक्ष्यमाणाः  ।"। [MT](https://twitter.com/blog_supplement/status/1213682073132818437) (-२३०० BCE).
 - कृत्तिकाविषुवकालोऽप्ययमेव। वाक्योल्लेखा [अत्र](../naxatram/chAndra-naxatram/) दृश्याः।
 
-### वेदाङ्गज्योतिषे
-- वेदाङ्गज्योतिषमानेन मैत्रायणीयोपनिषन्मानेन च \- मासो माघः, ऋतुः शिशिरः। वाक्योल्लेखा [अत्र](../naxatram/chAndra-naxatram/) दृश्याः।
-- "वेदाङ्गज्योतिषे- माघशुक्लप्रपन्नस्य पौषकृष्णसमापिनः। युगस्य पञ्चवर्षस्य कालज्ञानं प्रचक्षते।। "
-
 ## 1400 BCE solistice at shraviShThArdha
 - Summer solistice at magha and winter solistice at shraviShTha (~ full moon at maghA)
 - मैत्रायणीयोपनिषदि - "द्वादशात्मकं वत्सरम्। एतस्याग्नेयमर्धम्, अर्धं वारुणं। मघाद्यं श्रविष्ठार्धमाग्नेयं क्रमेण, +उत्क्रमेण सार्पाद्यं श्रविष्ठार्धान्तं सौम्यम्" "solisticial points here are indicated as maghAdyam|sarpAdyam+++(=their boundary)+++ and shraviShTArdham. this would approximately correspond to ~1300 BCE marking a change from the earlier reference to solisticial point lying inside magha in AV nakShatrasUkta"\[[SD](https://sanskritdocuments.org/doc_upanishhat/maitri.html?lang=sa), [MT_TW](https://twitter.com/blog_supplement/status/984634039909978112)
@@ -61,8 +57,12 @@ mantra of vAmadeva gautama to agni - In dwellings first he came into being, at g
 
 
 - "Dating by precession gives the date of the VJ as being around 1300 BC because the it states that the winter solistice was in the beginning for shraviShThA and summer in the mid-point of AshleShA. This is important because in the maitrAyaNi brAhmaNa, shAkhAyanya tells king bR^ihadratha that the winter solistice was in the middle of shraviShThA (MBU 6.14). Thus, the lagadha was clearly aware of the change from the epoch time little before his times. "
+
+### वेदाङ्गज्योतिषे
 - वेदाङ्गज्योतिषे - "प्रपद्येते श्रविष्ठादौ सूर्याचन्द्रमसावुदक् । सार्पार्धे दक्षिणार्कस्तु माघश्रावणयोः सदा ।।"
     - तदा नाक्षत्रिकाव् ऽपि मासौ माघश्रावणौ।
+- वेदाङ्गज्योतिषमानेन मैत्रायणीयोपनिषन्मानेन च \- मासो माघः, ऋतुः शिशिरः। वाक्योल्लेखा [अत्र](../naxatram/chAndra-naxatram/) दृश्याः।
+- "वेदाङ्गज्योतिषे- माघशुक्लप्रपन्नस्य पौषकृष्णसमापिनः। युगस्य पञ्चवर्षस्य कालज्ञानं प्रचक्षते।। "
 
 ### पुराणेषु
 - पुराणेश्वथ - "वर्षाणामपि पञ्चानामाद्यः संवत्सरः स्मृतः। ऋतूनां शिशिरश्चाऽपि मासानां माघ एव च ।। ब्रह्माण्डपुराणे (पूर्वभागे २४।१४१) वायुपुराणे(१।१५३।११३) लिङ्गपुराणे (१।६१।५२) च।"
