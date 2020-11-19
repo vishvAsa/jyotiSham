@@ -14,7 +14,7 @@ unicode_script: devanagari
 
 (3000BC thuban) \[[ऽत्र](../../../saMkAraH/mantraH/misc-devas/yajuH/dhruva/)\]
 
--  "Starting from Tilak, it has been proposed the that dogs (Canis Major and Canis Minor), Bear, Draco, Hunter (in Hindu world moved to Canis Major on occassions); mR^iga and other constellations were known and figured distinctly from the ecliptic divisions in the form of the nakShatra-s." \[[MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/)\]
+-  "Starting from Tilak, it has been proposed the that dogs (Canis Major and Canis Minor), Bear, Draco, Hunter (in Hindu world moved to Canis Major on occassions); mR^iga and other constellations were known and figured distinctly from the ecliptic divisions in the form of the nakShatra-s." \[[MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/)\]
 
 ## वृषभः
 - [sauchIka agni mantra](https://manasataramgini.wordpress.com/2006/11/21/the-path-of-fire/)

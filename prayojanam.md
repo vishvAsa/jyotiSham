@@ -9,7 +9,7 @@ unicode_script: devanagari
 ## पुण्यनक्षत्रम्
 - पुण्याह\-नक्षत्रे कर्म स्याद् इति चोदनम् \- तैत्तिरीयब्राह्मणे सायणभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_1_-_Narayanasastri_Godbole_1934#page/n233/mode/2up), भट्टभास्करभाष्ये [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_brahmana_bhaskara_01#page/n259/mode/2up)।
 - पूण्यनक्षत्रावधेर् ज्ञानस्य विधानम् \- 
-    -  तैत्तिरीयब्राह्मणे [ऽत्र](../../kalpaH/brAhmaNam/taittirIyam/kriyA/puNya-naxatra/)।
+    -  तैत्तिरीयब्राह्मणे [ऽत्र](../../kalpaH/brAhmaNam/taittirIyam/kriyA/puNya-naxatra/)।
     - सम्प्रति चान्द्रनक्षत्रम् एव स्वीक्रियत इति श्रीरमणः \- [अत्र](https://twitter.com/agnimaan/status/961087719483981824)।
     - पुंसवने तिष्यनक्षत्रं स्याद् इत्यापस्तम्बः। तच्च "यत्पुण्य॒न्नक्ष॑त्रम्" इत्यादिना विधिना सर्वेषु मासेषु न सम्भवति। By the time of Apastamba (same as vedAnga jyotiSha) lunar naxatra must have been well established.
 
