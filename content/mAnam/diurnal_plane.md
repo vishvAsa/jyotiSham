@@ -23,11 +23,11 @@ Certain objections were raised, among which were (I paraphrase and correct misst
 
 ## Initial definitions
 
-**Celestial equatorial plane**: Celestial equator and the plane corresponding to it is pictured below. celestial equator: 1. the great circle on the celestial sphere midway between the north and south celestial poles. 2. the great circle on the celestial sphere determined by extending the Earth’s equator to the celestial sphere. Daily motions of celestial objects occur in planes parallel to the celestial equator.
+**Celestial equatorial plane**: Celestial equator and the plane corresponding to it is pictured below. celestial equator: 1. the great circle on the celestial sphere midway between the north and south celestial poles. 2. the great circle on the celestial sphere determined by extending the Earth’s equator to the celestial sphere. Daily motions of celestial objects occur in planes parallel to the celestial equator.
 
 ![](https://pbs.twimg.com/media/DVuneZ6VMAA-Z2U.jpg)
 
-**Diurnal circle**: The apparent path of a star in the sky during one day due to the the rotation of the Earth. Diurnal circles are parallel to the celestial equator. Note that the diurnal circle for a day is NOT the ecliptic (a blunder in an earlier version of this post). Let the plane defined by the diurnal circle be called **Diurnal plane.**
+**Diurnal circle**: The apparent path of a star in the sky during one day due to the the rotation of the Earth. Diurnal circles are parallel to the celestial equator. Note that the diurnal circle for a day is NOT the ecliptic (a blunder in an earlier version of this post). Let the plane defined by the diurnal circle be called **Diurnal plane.**
 
 **Ecliptic**: From the point of view of a person on Earth, the sun appears to travel through a path of constellations called the ecliptic. The plane corresponding to this is called the ecliptic plane. This is pictured below, in reference to the equatorial plane (specified by "cardinal directions" NSEW).
 
@@ -45,7 +45,7 @@ So just line the base of a plank along the EW line, then tilt it by the angle of
 
 This is simple, but I say it explicitly just in case folks don’t get it at once.
 
-- Just use a stick lying flat on the Diurnal plane (a plank or a screen as described above), with its lower end fixed at a point. Draw a semicircle on the face of the Diurnal plane.  There – you have something corresponding to the diurnal arc.
+- Just use a stick lying flat on the Diurnal plane (a plank or a screen as described above), with its lower end fixed at a point. Draw a semicircle on the face of the Diurnal plane.  There – you have something corresponding to the diurnal arc.
 - At any point in time, you can note the position of the sun by moving the top of this stick (lying on the Diurnal plane as described above) so that it casts no shadow.
 - You can do fancy things like dividing the arc into 5\*3 sections corresponding to the 5\*3 muhUrta-s in a day, as described in the tattirIya brAhmaNa (तैत्तिरीयब्राह्मणे सायणभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_1_-_Narayanasastri_Godbole_1934#page/n239/mode/2up), भट्टभास्करभाष्ये [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_brahmana_bhaskara_01#page/n265/mode/2up)। ).
 
