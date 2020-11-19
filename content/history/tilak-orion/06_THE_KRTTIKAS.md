@@ -68,10 +68,11 @@ Mah. Apu. 167, 26 and 28:
 
 Lele, Modak, Ketkar and other Hindu astronomers have recently tried to determine the date of the Mahabharata war from such references, and they hold that the vernal equinox was then in the Krittikas.
 
+There is thus sufficient independent evidence to show that before the Hindus began to make their measurements from the vernal equinox in Revati there existed a system in which the year commenced with the winter solstice in the month of Magha and the vernal equinox was in the last quarter of Bharaṇi or the beginning of the Krittikas. † Prof. Max Muller has pointed out that in the Atharva Veda 1. 19. 7 and in the YAjnavalkya Smriti i. 267, the Kr̥ttikas occupy their early position, while the Vishṇu Purāna actually places the vernal equinox in the Kr̥ttikas. See Pref. to Rig., Vol. IV., p. xxxi.
+ 
+ We need not, therefore, have any doubts about the authenticity of a work which describes this older system and gives rules of preparing a calendar accordingly. Now this is what the Vedānga Jyotiṣa has done. It is a small treatise on the Vedic calendar, and though some of its verses still remain upintelligible, yet we now know enough of the work to ascertain the nature of the calculations given therein. It was once supposed that the treatise mentions the Rāshis, 
 
-There is thus sufficient independent evidence to show that before the Hindus began to make their measurements from the vernal equinox in Revati there existed a system in which the year commenced with the winter solstice in the month of Magha and the vernal equinox was in the last quarter of Bharaṇi or the beginning of the Krittikas.t We need not, therefore, have any doubts about the authenticity of a work which describes this older system and gives rules of preparing a calendar accordingly. Now this is what the Vedānga Jyotiṣa has done. It is a small treatise on the Vedic calendar, and though some of its verses still remain upintelligible, yet we now know enough of the work to ascertain the nature of the calculations given therein. It was once supposed that the treatise mentions the Rāshis, 
 
-† Prof. Max Muller bas pointed out that in the Atharva Veda 1. 19. 7 add in the YAjnavalkya Smriti i. 267, the Ksittikas occupy their early position, while the Visbnu Purāna actually places the vernal equinox in the Ksittikas. See Pref. to Rig., Vol. IV., p. xxxi.
 but a further study of the work has shown that though the word Rāshi occurs in some of its verses, it is there used in a totally different sense. This work gives the following positions of the solstices and the equinoxes :-\* 
 1. The winter solstice in the beginning of Shravishthā, 
 (divisional); 2. The verbal equinox in 10° of Bharani; 3. The summer solstice in the middle of Ashlesha, 
