@@ -19,6 +19,15 @@ unicode_script: devanagari
 - {[MT04](https://manasataramgini.wordpress.com/2004/12/06/the-snake-of-vishnu/)} - "ViShNu is a predominantly precessional deity. All his five early incarnations contain the precessional motifs that were uncovered by Santillana and von Dechend in The Hamlet’s Mill."
 - {[MT06](https://manasataramgini.wordpress.com/2006/04/22/dandins-purvapithika-of-dasha-kumara-charitra/)} - "It is in this context that the great R^ikSha jAmbavant is described as circumambulating trivikrama as he took his great strides. This represents the new axis being established and the constellation of the Great Bear (represented as the bear jAmbavant) making a circle of the north celestial pole. Indeed viShNu himself is identified with the constellation of the shishumAra or Draco associated with the old north pole from earlier period of Aryan memory.  As the knowledge of precession is very subtle (even alluded in the opening of the maitrayaNi brAhmaNa fragment ("अथ किमेतैर्वान्यानां शोषणं महार्णवानां शिखरिणां प्रपतनं ध्रुवस्य प्रचलनं स्थानं वा तरूणां निमज्जनं पृथिव्याः स्थानादपसरणं सुराणं" [MU](https://sanskritdocuments.org/doc_upanishhat/maitri.html?lang=sa)) by shAkAyanya who was well aware of these matters) the third step of viShNu is secret and was only know to the great kavi-s." ... "In Indian architecture its depicted more directly on many occasions, but more subtly in the great iron pillar of the guptas. Before the iron pillar was uprooted by the Mohammedans and placed in the vicinity of their giant phallic signpost at Delhi, it graced the now derilict Hindu astronomical observatory at the viShNupAda-giri in the udayagiri complex. The iron pillar (as shown by Balasubramanian) was graced by a nakShatra-chakra on the top and was known as the viShNu dhvaja– depicting the great axis in front of the observatory located atop the hill. Thus, in the immortal pillar did chandragupta II vikramAditya, one of the greatest rulers of bhArata commemorate the step of viShNu and and world axis."
 
+## Early ayanAMsha offset records
+- The mAgha-solstice epoch was very influential in later literature. We see then evidence of offsetting nakshatras to match tropical months.
+- Amara i. 4.13: द्वौ द्वौ माघादिमासौ स्याद् ऋतुस् तैर् अयनं त्रिभिः। 
+-  Mah. Apu. 167, 26 and 28: 
+  परिवृत्तो हि भगवान् सहस्रांशुर् दिवाकरः ॥२६॥  
+  … माघोऽयं समनुप्राप्तो मासः सौम्यो युधिष्ठिर॥
+  त्रिभागशेषः पक्षोऽयं शुक्लो भवितुम् अर्हति ॥२८॥ 
+
+
 ## Trepidation
 (The below includes extracts from: wikipedia.)
 
