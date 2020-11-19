@@ -6,19 +6,24 @@ title: Equinoctial records
 - In case of equal division of zodiac into nakShatra-s - "precession of solstices takes place by a full _Nakshatra_ in about 972 years." Such equal division might not have existed in early vedic times - so in that case, visual neighborhood estimates are more apt.
 
 ## 4500 BCE - Equinox at mRgashIrSha/ prajApati
+
+{{< figure src="../images/zodiac_history/bce-5000-11-19_mRgashIrSha_AShADha_equinox_chitrA_uttara-proShThapadAH_solstice.png"  >}}
+
+
 - "प्रजापतेर् यत् सहजम् पुरस्तात्"।
 - Rbhus associated with seasons being awakened after the 12 intercalcary days rest by the dog (canis major), as related by the goat! सु॒षु॒प्वांस॑ ऋभव॒स् तद् अ॑पृच्छ॒ता"गो॑ह्य॒ क इ॒दं नो॑ अबूबुधत्" । श्वानं॑ ब॒स्तो बो॑धयि॒तार॑म् अब्रवीत्, संवत्स॒र इ॒दम् अ॒द्या व्य॑ख्यत ॥ १.१६१.१३ (Noted by Tilak in Orion book.)
 
 ## 3000 BCE - Vernal equinox at rohiNI 
-- Corresponds to phAlguna full moon being first month of the year/ uttarAyANArambha. Mentioned in jaiminIya brAhmaNa, kauShItakI brAhmaNa. See [saura-chAndra-mAna](../saura-chAndra-mAnam/) page for details.
-- स जा॑यत प्रथ॒मः प॒स्त्या॑सु  
-म॒हो बु॒ध्ने रज॑सो अ॒स्य योनौ॑ ।  
-अ॒पाद॑शी॒र्षा गु॒हमा॑नो॒ अन्ता॒योयु॑वानो वृष॒भस्य॑ नी॒ळे ॥ ४.००१.११  
-mantra of vAmadeva gautama to agni - In dwellings first he came into being, at great base [of heaven], and in this atmosphere’s womb; Footless and headless, concealing both his ends, drawing himself together in the bull’s station. ("The first hemistich refers to the 3 manifestations of agni: the ritual fire, the celestial fire and the atmospheric fire. Here, as Santillana and von Dechend argued in the Hamlet’s Mill the heavenly fire (vaishvAnara) is associated with the equinoctial colure: This is implied in this mantra by the statement that his ends come together – i.e. the ecliptic ends meet and this happens in the station of the bull." Via MT.)
-
 {{< figure src="../images/zodiac_history/bce-3000-01-13_rohiNI_jyeShThA_equinox_shatabhiShak_pUrva_phAlgunI_solstice.png"  >}}
 
 {{< figure src="../images/zodiac_history/bce-3000_naxatra-chakra.jpg">}}
+
+- Corresponds to phAlguna full moon being first month of the year/ uttarAyANArambha. Mentioned in jaiminIya brAhmaNa, kauShItakI brAhmaNa.
+
+> स जा॑यत प्रथ॒मः प॒स्त्या॑सु  
+म॒हो बु॒ध्ने रज॑सो अ॒स्य योनौ॑ ।  
+अ॒पाद॑शी॒र्षा गु॒हमा॑नो॒ अन्ता॒योयु॑वानो वृष॒भस्य॑ नी॒ळे ॥ ४.००१.११  
+> mantra of vAmadeva gautama to agni - In dwellings first he came into being, at great base [of heaven], and in this atmosphere’s womb; Footless and headless, concealing both his ends, drawing himself together in the bull’s station. ("The first hemistich refers to the 3 manifestations of agni: the ritual fire, the celestial fire and the atmospheric fire. Here, as Santillana and von Dechend argued in the Hamlet’s Mill the heavenly fire (vaishvAnara) is associated with the equinoctial colure: This is implied in this mantra by the statement that his ends come together – i.e. the ecliptic ends meet and this happens in the station of the bull." Via MT.)
 
 ### फाल्गुनय् उत्तरायणम्
 - विवाहसूक्ते तथा ([MT](https://twitter.com/blog_supplement/status/1214057993840578561))।
@@ -27,21 +32,24 @@ mantra of vAmadeva gautama to agni - In dwellings first he came into being, at g
 - जैमिनीयब्राह्मणे - "फाल्गुनो वै मासो द्वादशाहस्य प्रथमम् अहश्, चैत्रो द्वितीयं, वैशाखस् तृतीयम्, आषाढापौर्णमासश् चतुर्थं, श्रोणाश्रविष्ठः पञ्चमं, शातभिषजष् षष्ठं, प्रोष्ठपदः सप्तमम्, आश्वयुजो ऽष्टमं, कार्तिको नवमम्, मार्गशीर्षो दशमं, तैष एकादशं, माघो द्वादशं, प्रायणीय एवातिरात्रस् त्रयोदशो मास, उदयनीयस् संवत्सरश् चतुर्दशः। स एष द्वादशाहस् सर्वेषु लोकेषु प्रतिष्ठितः। स य एवम् एतं द्वादशाहं सर्वेषु लोकेषु प्रतिष्ठितं वेद सर्वेषु लोकेषु प्रतितिष्ठति। " (-4000 - -2850 BCE).
 - कौषीतकिब्राह्मणे प्राचीना स्मृतिः - "चातुर्मास्यानि प्रयुञ्जानः फाल्गुन्याम् पौर्णमास्याम् प्रयुङ्क्ते । मुखम् वा एतत् संवत्सरस्य यत् फाल्गुनी पौर्णमासी । मुखम् उत्तरे फल्गू । पुच्छम् पूर्वे । तद् यथा प्रवृत्तस्य अन्तौ समेतौ स्याताम् । एवम् एव एतौ संवत्सरस्य अन्तौ समेतौ।"
 - तैत्तिरीयसंहितायाम् ब्राह्मणे (2.1.1) - "न पूर्व॑यो॒ᳶ फल्गु॑न्योर॒ग्निमाद॑धीत । ए॒षा वै ज॑घ॒न्या॑ रात्रि॑स्संवत्स॒रस्य॑ । यत्पूर्वे॒ फल्गु॑नी । पृ॒ष्टि॒त ए॒व सं॑वत्स॒रस्या॒ग्निमा॒धाय॑ । पापी॑यान्भवति । उत्त॑रयो॒रा द॑धीत । ए॒षा वै प्र॑थ॒मा रात्रि॑स्संवत्स॒रस्य॑ । यदुत्त॑रे॒ फल्गु॑नी । मु॒ख॒त ए॒व सं॑वत्स॒रस्या॒ग्निमा॒धाय॑ । वसी॑यान्भवति । " (पूर्वोत्तरफाल्गुन्योस् तु मध्ये ऽयनारम्भरेखा ३४५२ BCE इति कालस्य परिसरे ऽवर्तत।)
+- तैत्तिरीयसंहितायाम् 7.4.8.2 माघे वत्सरारम्भम् उक्त्वा पुनस् स्मरति फाल्गुनीष्व् अयनारम्भम् - "फल्गुनीपूर्णमा॒से दी॑क्षेर॒न्। मुखँ॒व्वा ए॒तत्। तस्यैकै॒व नि॒र्या यत् साम्मे॑घ्ये विषू॒वान्त् स॒म्पद्य॑ते। (अतस् तथा मा भूत्।) चित्रापूर्णमा॒से दी॑क्षेर॒न्। मुखँ॒व्वा ए॒तत्सँ॑व्वत्स॒रस्य॒ यच्चि॑त्रापूर्णमा॒सो मु॑ख॒त ए॒व सँ॑व्वत्स॒रमा॒रभ्य॑ दीक्षन्ते॒, तस्य॒ न का च॒न नि॒र्या भ॑वति। "
 
 ## 2300 BCE - Vernal equinox at kRttikA 
 {{< figure src="../images/zodiac_history/bce-2300-01-13_kRttikA_anUrAdhAH_equinox_dhaniShThA-shatabhiShak_maghA_solstice.png">}}
 
-{{< figure src="../images/zodiac_history/bce-2300_naxatra-chakra.jpg">}}
+{{< figure src="../images/zodiac_history/bce-2300_naxatra-chakra.png">}}
 
 - Vernal equinox was at actual kRttikA in 2300 BCE - yajurveda period (described elsewhere).
-- Corresponds to daxiNAyanArambha in maghA and uttarAyaNArambha in mAgha. See [saura-chAndra-mAna](../../saura-chAndra-mAnam/) page for details.
-    - shaunaka atharvaveda 19.7 nakShatra sUktam भानुराश्लेषा अयनं मघा मे : sun \[in\] AshleSha(=sarpa), \*solistice\* \[in\] maghA for me.
-        सुहवमग्ने कृत्तिका रोहिणी चास्तु | agnI well-invoked in kR^ittikA: setting of fires in kR^ittkA
+- Corresponds to daxiNAyanArambha in maghA and uttarAyaNArambha in mAgha.
 
 ### वेदेषु
-- सूचिकाग्निसूक्तम् ऋग्वेदे दृश्यताम् - [महत् तदुल्बम्](../../../../saMkAraH/mantraH/agniH/Rk/mahat_tad_ulbam/) इति।
+- In the Taittirīya Brāhmnana (i. 1, 2, 1) it is distinctly stated " one should consecrate the (sacred) fire in the Krittikas; ......the Kr̥ttikās are the mouth of the Nakṣatras. " (* कृतिकास्वग्निमादधीत । ...... । मुखं वा एतन्नक्षत्राणां । यस्कृत्तिकाः । ) This shows that the first place given to the Krittikas in the list of the Nakṣatras is not accidental and that we must at Icast suppose that the Krittikas were the “ mouth of the Nakṣatras," in the same way as Vasanta or spring was the "mouth of the seasons " (+ Taitt. Br.i. 1. 2. 6 मुखं वा एतदतूनां यद्वसंतः। ) or the Phālguni full moon the "mouth of the year."
+- तैत्तिरीयकानां [नक्षत्रसूक्तम्](../../../saMkAraH/mantraH/worlds/Rk/naxatra-suuktam/) दृश्यताम्।
+ अपि वर्तते।
+- सूचिकाग्निसूक्तम् ऋग्वेदे दृश्यताम् - [महत् तदुल्बम्](../../../saMkAraH/mantraH/agniH/Rk/mahat_tad_ulbam/) इति।
+- shaunaka atharvaveda 19.7 nakShatra sUktam भानुराश्लेषा अयनं मघा मे : sun \[in\] AshleSha(=sarpa), \*solistice\* \[in\] maghA for me.
+    सुहवमग्ने कृत्तिका रोहिणी चास्तु | agnI well-invoked in kR^ittikA: setting of fires in kR^ittkA
 - śatapatha Brāhmaṇa, 2.1.2. Ekam dve triṇi catvārīti vā anyāni nakṣatrāṇy athaitā eva bhūyiṣṭhā yat kr̥ttikā.... Etā ha vai prācyai diśo na cyavante. Sarvāṇi ha vã anyāni nakṣatraṇi prācyai diśaś cyavante. Translation :--Other nakṣatras have one, two, three or four ( stars ) only ; these Krttikās have many ( stars )... They do not deviate from the east; all other nakṣatras deviate from the east. 
-- तैत्तिरीयसंहितायाम् 7.4.8.2 इत्यत्रेवं वर्तते - "फल्गुनीपूर्णमा॒से दी॑क्षेर॒न्। मुखँ॒व्वा ए॒तत्। तस्यैकै॒व नि॒र्या यत् साम्मे॑घ्ये विषू॒वान्त् स॒म्पद्य॑ते। (अतस् तथा मा भूत्।) चित्रापूर्णमा॒से दी॑क्षेर॒न्। मुखँ॒व्वा ए॒तत्सँ॑व्वत्स॒रस्य॒ यच्चि॑त्रापूर्णमा॒सो मु॑ख॒त ए॒व सँ॑व्वत्स॒रमा॒रभ्य॑ दीक्षन्ते॒, तस्य॒ न का च॒न नि॒र्या भ॑वति। "
 - कौषीतकिब्राह्मणे १९.१.२२ गवामयनब्राह्मणे - "तैषस्य अमावास्याया एक अह- उपरिष्टाद् दीक्षेरन्  । माघस्य वा इत्य् आहुः  ।  तद् उभयम् व्युदिताम् । तैषस्य त्वा इव उदिततरम् इव । त एतम् त्रयोदशम् अधिचरम् मासम् आप्नुवन्ति । एतावान् वै संवत्सरो यद् एष त्रयोदशो मासः । तद् अत्र एव सर्वः संवत्सर आप्तो भवति । स +++(सूर्यः)+++ वै माघस्य अमावास्यायाम् उपवसत्य् उदन्न् आवर्त्स्यन् । उप इमे वसन्ति । … स षण् मासान् उदङ्ङ् एति  । तम् ऊर्ध्वैः षडहैर् अनुयन्ति  । स षण् मासान् उदन्नित्वा तिष्ठते दक्षिणा आवर्त्स्यन्  । उप इमे वसन्ति वैषुवतीयेन अह्ना यक्ष्यमाणाः  । … स षण् मासान् दक्षिणा एति  । तम् आवृत्तैः षडहैर् अनुयन्ति  । स षण् मासान् दक्षिणेत्वा तिष्ठत उदङ्ङ् आवर्त्स्यन्  । उप इमे वसन्ति माहाव्रतीयेन अह्ना यक्ष्यमाणाः  ।"। [MT](https://twitter.com/blog_supplement/status/1213682073132818437) (-२३०० BCE).
 - कृत्तिकाविषुवकालोऽप्ययमेव। वाक्योल्लेखा [अत्र](../naxatram/chAndra-naxatram/) दृश्याः।
 
