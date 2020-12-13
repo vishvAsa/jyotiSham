@@ -5,7 +5,7 @@ title = "Planets"
 For overview, see [here](../../matnraH/lokAntaram/).
 
 ## ग्रहेष्टिः
-- काठकम् ब्राह्मणम् [अत्र](../../../kalpaH/brAhmaNam/kAThakam/graheShTiH/)।
+- काठकम् ब्राह्मणम् [अत्र](../../../kalpe_svamatam/brAhmaNam/kAThakam/graheShTiH/)।
 - "neither nakShatra-s nor planets had a dedicated ritual in the earliest layers, but they were certainly known and referred to in ritual contexts. "
 - "in the case of graha-s we see a profusion of rituals appearing the late vedic period as a part of the terminal sections of the gR^ihya texts. Examples of these include the jaiminIya gR^ihyasUtra 2.9; vaikhAnasa gR^ihyasUtra grahashAnti of 1.4.13; and the shanti-kalpa of the atharvan-s; graha homa of the kaTha-s usually appended after the graheShTi as a gR^ihya rite; the bodhAyanIya gR^ihya-sheSha sUtra 1.6. Their late character is established by the nature of the ritual, which often has elements of the smArta sarvopachAra pUja and use of images made of wood or metal or drawings of the planetary archons."
 - "They sudden appearance across the gR^ihya texts as late sections lent fuel to the indological assertion that they were Babylonian or Greek imports that were brought into the Indic world along with Greek/Babylonian astrology and weekdays. However, the kaTha brAhmaNa and mantra-s with distinct names of the planets and also older ritual structure suggests that what ever the role of the Middle Eastern influence, the graha rituals certainly had an endogenous element."
