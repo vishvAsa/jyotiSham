@@ -22,6 +22,15 @@ In the medieval era literature, a samvatsara refers to the "Jovian year" (59.577
 
 This difference requires that about once every 85 tropical years (~ 86 jovian years, 86*4 \~ 344 days), one of the named samvatsara is expunged (skipped as a shadow year), to synchronize the two calendars. However, the details of the synchronization varies slightly between the north and south Indian calendars.
 
+### Usage
+> From ["The Indian calendar, with tables"](https://archive.org/details/indiancalendarw00dkgoog/page/n98/mode/2up)
+> 
+> 61. The years of Jupiter's cycle are not mentioned in very early inscriptions. They are mentioned in the Sürya-Siddhanta. Dr. J. Burgess states that he has reason to think that they were first introduced about A.D. 349, and that they were certainly in use in A.D. 530. We have therefore given them throughout in Table I.
+> 
+> 62. The southern (luni-solar) sixty-year cycle. The sixty-year cycle is at present in daily use in Southern India (south of the Narmada), but there the samvatsaras are made to correspond with the luni-solar year as well as the solar; and we therefore term it the luni-solar 60-year cycle in contradistinction to the more scientific Bårhaspatya cycle of the North.
+>
+>  There is evidence to show that the cycle of Jupiter was in use in Southern India before Saka 828 (A.D. 905-6); but from that year, according to the Arya Siddhanta, or from Saka 831 (A.D. 908-9) according to the Sürya-Siddhanta, the expunction of the samvatsaras was altogether neglected, with the result that the 60-year cycle in the south became luni-solar from that year. At present the northern samvatsara has advanced by 12 on the southern: There is an easy rule for finding the samvatsara according to the luni-solar cycle, viz., add 11 to the current Saka year, and divide by 60; the remainder is the corresponding luni-solar cycle year. It must not be forgotten that the samvatsaras of Jupiter's and the southern cycle, are always to be taken as current years, not expired.
+
 ## संवत्सराः
 - १. प्रभवः,
 - २. विभवः,
