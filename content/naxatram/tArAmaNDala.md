@@ -5,7 +5,7 @@ unicode_script: devanagari
 ---
 
 ## चान्द्रनक्षत्रताराः
-- [नक्षत्रसूक्तं](../../../../saMkAraH/mantraH/worlds/Rk/naxatra-suuktam/) दृश्यताम्।
+- [नक्षत्रसूक्तं](../../../../saMkAraH/mantraH/worlds/Rk/naxatra-suuktam/) दृश्यताम्। तथा ऽथर्ववेद-नक्षत्र-कल्पो ऽप्य् [अत्र](../2005-11-27_the-nakshatra-kalpa-of-the-atharva-veda/)।
 - See also notes and references on [equinoctial records](../../history/equinoctial_records/).
 
 ## राशिताराः
