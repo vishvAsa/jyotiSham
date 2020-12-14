@@ -4,7 +4,7 @@ title = "AV naxatra-kalpa"
 +++
 
 ## परिचयः
-मानसतरङ्गिणीकृता लिखितम्।
+[मानसतरङ्गिणीकृता](https://manasataramgini.wordpress.com/) लिखितम्। अत्र सौकर्याय रक्षितम्।
 
 ## The nakshatra kalpa of the Atharva veda
 
