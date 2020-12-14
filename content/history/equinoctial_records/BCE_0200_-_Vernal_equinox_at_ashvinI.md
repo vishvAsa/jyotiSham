@@ -1,5 +1,5 @@
 +++
-title = "BCE 200 - Vernal equinox at ashvinI"
+title = "BCE 0200 - Vernal equinox at ashvinI"
 
 +++
 - "One also wonders if the tale of Prajāpati being fitted with a goat’s head after his beheading by Rudra’s agent Vīrabhadra alludes to this period, with the goat’s had representing Aries."
