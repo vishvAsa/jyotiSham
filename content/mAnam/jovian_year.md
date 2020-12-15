@@ -20,7 +20,7 @@ A great conjunction is a conjunction of the planets Jupiter and Saturn (Κρόν
 ## Jovian year
 In the medieval era literature, a samvatsara refers to the "Jovian year" (59.577/60), that is a year based on the relative position of the planet Jupiter, while the solar year is called varsha. Rough calculation of jovian year length in days: 59.577/60*365 = 362.67. Surya Siddhanta calculates the Jovian year to be about 361.026721 days or about 4.232 days shorter than the tropical solar year.  
 
-This difference requires that about once every 85 tropical years (~ 86 jovian years, 86*4 \~ 344 days), one of the named samvatsara is expunged (skipped as a shadow year), to synchronize the two calendars. However, the details of the synchronization varies slightly between the north and south Indian calendars.
+This difference requires that about once every 85 tropical years (~ 86 jovian years, 86*4 \~ 344 days), one of the named samvatsara is expunged (skipped as a shadow year), to synchronize the two calendars.
 
 ### Usage
 > From ["The Indian calendar, with tables"](https://archive.org/details/indiancalendarw00dkgoog/page/n98/mode/2up)
