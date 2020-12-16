@@ -37,3 +37,6 @@ unicode_script: devanagari
 ## सप्तर्षिमण्डलम्
 - ऋश॑यस् स॒प्तात्रि॑श् च॒ यत्। सर्वे ऽत्रयो अ॑गस्त्य॒श्च। नक्ष॑त्रै॒श् शङ्कृ॑तो ऽवसन्। (तैत्तिरीयारण्यके १.११.२)
     - अगस्त्यः (canopus) first visible in N India around 3000-3500BC; could be seen by people living south of 34 deg N \[[YT](https://youtu.be/5R2lXuUMdoo?t=1470)\].
+- the Shatapatha Brahmana , when speaking about these aforementioned Pleiades as the Wives of the Saptarishis - pointedly refers to these as the "Wives of the Bears". Perhaps in the early days, it was used to denote stars of Ursa Major, and thence later came to refer to stars in general?
+  - Vedic index: the constellation of the ‘Great Bear’ (ursa). 1) v. 56, 3. 2) Maitrāyaṇī Saṃhitā, iii. 14, 17; Vājasaneyi Saṃhitā, xxiv. 36; Jaiminīya Brāhmaṇa, i. 184. Cf. Zimmer, Altindisches Leben, 81. 3) Rv. i. 24, 10; Satapatha Brāhmaṇa. ii. 1, 2, 4; Taittirīya Āraṇyaka, i. 11, 2. Cf. Hillebrandt, Vedische Mythologie, 3, 422. 4) Cf. Macdonell, Vedic Mythology, p. 144 (D).
+- Somethimes imagined as jAmbavAn circumambulating the foot of viShNu as it touches dhruva +++(where??)+++.
