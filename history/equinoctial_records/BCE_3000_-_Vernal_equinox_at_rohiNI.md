@@ -13,7 +13,7 @@ title = "BCE 3000 - Vernal equinox at rohiNI"
 अ॒पाद॑शी॒र्षा गु॒हमा॑नो॒ अन्ता॒योयु॑वानो वृष॒भस्य॑ नी॒ळे ॥ ४.००१.११  
 > mantra of vAmadeva gautama to agni - In dwellings first he came into being, at great base [of heaven], and in this atmosphere’s womb; Footless and headless, concealing both his ends, drawing himself together in the bull’s station. ("The first hemistich refers to the 3 manifestations of agni: the ritual fire, the celestial fire and the atmospheric fire. Here, as Santillana and von Dechend argued in the Hamlet’s Mill the heavenly fire (vaishvAnara) is associated with the equinoctial colure: This is implied in this mantra by the statement that his ends come together – i.e. the ecliptic ends meet and this happens in the station of the bull." Via MT.)
 
-"[स जनास इन्द्रः](../../../vedAH/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते ऽप्य् उल्लेखः। 
+"[स जनास इन्द्रः](../../../vedAH/Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते ऽप्य् उल्लेखः। 
 - तथा वृषाकपिसूक्ते ऽपि।
 
 ## फाल्गुनय् उत्तरायणम्
