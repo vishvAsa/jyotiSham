@@ -23,7 +23,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 
 ## REPLIES TO QUESTIONNAIRE (1) 
 
-### 1. Biguddha Siddhanta Panjika. 
+### Biguddha Siddhanta Panjika. 
 - 2. 1297 B, S., 1890 A, D, 
 - 3. Bengali. 
 - 4. 85, Grey Street, Calcutta-5. 
@@ -37,7 +37,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50".3. 
 - 14. Modern method. Karanvallabha by Radhavallabha Jyotistirtha & Nautical Almanacs of different countries.
 
-### 1. Kumbakonam Madathu Panchangam. 
+### Kumbakonam Madathu Panchangam. 
 - 2. 1876 A.D. 
 - 3. Tamil. 
 - 4. The Pioneer Publication, Teppakulam, Trichinipoly, Madras State. 
@@ -52,7 +52,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50".2677 
 - 14. Modern method. Ketaki's Grahaganitam, Jyotirganitam, Grahakoghtha Ganitam, Ganita Nirnayam & Nautical Almanac.
 
-### 1. Paturi Vari Panchangam. 
+### Paturi Vari Panchangam. 
 - 2. 1946 A.D. 
 - 3. Telegu. 
 - 4. 147 Mint Street, Madras-1. 
@@ -68,7 +68,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 14, Old Siddhantic Method. Gana kananda.
 
 
-### 1. Chitrasala Panchang. 
+### Chitrasala Panchang. 
 - 2. 1924-25 A. D. (Saka 1846). 
 - 3. Marathi. 
 - 4. Chitrasala Press, 10/26 Sadasiv Peth, Poona-2. 
@@ -84,7 +84,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 14. Modern method. Ketkar's Jyotirganitam, Grahaganita.
 
 
-### 1. Gupta Press Panjika. 
+### Gupta Press Panjika. 
 - 2. 1277 B. S. (Sakabda 1792). 
 - 3. Bengali. 
 - 4. 37/7 Beniatola Lada Calcutta-9. 
@@ -97,7 +97,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 11. 365d.258756481 mean solar days. 
 - 12. 21° 49' 26."55 13. 54" 14. Siddhantic method. (Surya Siddhanta)
 
-### 1. Gharcha Jyotishi. 
+### Gharcha Jyotishi. 
 - 2. 1920 A.D. 
 - 3. Marathi. 
 - 4. 471 Somwar Peth, P. O. Karad, Bombay State. 
@@ -112,7 +112,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50" 
 - 14. Modern method. Ketaki Jyotirganita.
 
-### 1. Ruikar Varsha Bhavishya. 
+### Ruikar Varsha Bhavishya. 
 - 2. 1933 A.D. 
 - 3. Marathi. 
 - 4. 471, Somwar Peth, P.O. Karad, Bombay State. 
@@ -127,7 +127,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50" 14. Modern method. Ketaki Jyotirganita.
 
 
-### 1. Latkar Panchang. 
+### Latkar Panchang. 
 - 2. 1910 A.D. (Saka 1832). 
 - 3. Marathi & Sanskrit mixed. 
 - 4. 152B, Mahadwar Road, Kolhapur. 
@@ -142,7 +142,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50". 22 
 - 14. Modern method. Jyotirganita, Grahaganita, Karanakalpalata.
 
-### 1. Kolhapuri Panchang. 
+### Kolhapuri Panchang. 
 - 2. 1910 A.D. (Saka 1832). 
 - 3. Marathi & Sanskrit mixed. 
 - 4. Hire Math, Sukrawar Peth, Kolhapur. 
@@ -157,7 +157,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50". 22 
 - 14. Modern method. Jyotirganita, Karanakalpalata.
 
-### 1. Sandesh Pratyaksha Panchang. 
+### Sandesh Pratyaksha Panchang. 
 - 2. 1944 A.D. 
 - 3. Gujrati. 
 - 4. 22. Saraswati Society, Sarkhej Road. Ahmedabad 7. 
@@ -172,7 +172,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50".2 
 - 14. Modern method.
 
-### 1. H. Kartigeya Iyer Drigganita Panchangam. 
+### H. Kartigeya Iyer Drigganita Panchangam. 
 - 2. 1887 A.D. 
 - 3. Tamil 
 - 4. Thillaivasam, Madduvil, P.O. Chavakachcheri (Ceylon) S. India. 
@@ -187,7 +187,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50".26 
 - 14. Modern method, Chathray's Tables & . Chandrasarani.
 
-### 1. PurnaSastriya Andhra Patrika Panchangam. (aka Krishnamurthi Sastry Panchangam (Family panchangam) before being published) A fork being published separately as PurnaSastriya Panchangam 
+### PurnaSastriya Andhra Patrika Panchangam. (aka Krishnamurthi Sastry Panchangam (Family panchangam) before being published) A fork being published separately as PurnaSastriya Panchangam 
 - 2. 1945 A.D. From about 350 years as a family panchangam.
 - 3. Sanskrit & Telegu. 
 - 4. P.O. Podagatlapally, Dt. East Godavari. 
@@ -203,7 +203,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 14. Modern method. Grahasadhanakoshtaka by Kerolaxmana Chatraji, Ketkar's Jyotirganita.
 
 
-### 1. Directory Susiddhanta Panjika. 
+### Directory Susiddhanta Panjika. 
 - 2. 1356 B, S. (1949 A.D.) 
 - 3. Bengali. 
 - 4. 62A, Jaymitra Street, Calcutta-5. 
@@ -218,7 +218,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50".27 
 - 14. Modern method. By the help of special tables.
 
-### 1. Bhungalia Panchang. 
+### Bhungalia Panchang. 
 - 2. Since 100 years. 
 - 3. Gujrati. 
 - 4. Kameswar Pustakalaya, Amareli, Kathiawad. 
@@ -233,7 +233,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 58".5 
 - 14. Old Grahalagaviya method. Siddhantic
 
-### 1. Jogakshemam Panchangam. 
+### Jogakshemam Panchangam. 
 - 2. 1908-09 A.D. (Malayalam year 1085). 
 - 3. Malayalam. 
 - 4. Panchangam Press, Kunnam kulam, T. C. State. 
@@ -248,7 +248,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 48" 
 - 14. Old Brahma Siddhanta method. Kriyakramam & Panchabodham.
 
-### 1. Janmabhoomi Khagola Siddha Nirayana Kartiki Panchanga. 
+### Janmabhoomi Khagola Siddha Nirayana Kartiki Panchanga. 
 - 2. (2002 Samvat) 1945 A.D. 
 - 3. Gujrati. 
 - 4. Janmabhoomi Bhavan, Ghoga Street, Fort-Bombay, 
@@ -263,7 +263,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50".25 
 - 14. Modern method. Tables of the Sun & the Moon by Dr. Gorakh Prasad, Ketkar's Jyotirganitam, Tables of Mercury by H. P. Bhatt, Karanakalpalata by Dr. K. L. Daftari, Raj Jyotish Ganitam by C. G. Rajan and Nautical Almanacs.
 
-### 1. Nagpur Tilak Panchang. 
+### Nagpur Tilak Panchang. 
 - 2. 1925 A. D. (1848 Saka) 
 - 3. Marathi. 
 - 4. Panchang gulli, Mahal, Nagpur-2 
@@ -278,7 +278,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50".27 
 - 14. Modern method. Karanakalpalata by Dr. K. L. Daftari.
 
-### 1. Prachin Grahalagaviya Paddhati Panchang. 
+### Prachin Grahalagaviya Paddhati Panchang. 
 - 2. 1852 Saka. 
 - 3. Marathi. 
 - 4. Ganapati Sangsthan Press, Sangli, Poona. 
@@ -293,7 +293,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 58".2 
 - 14. Old & modern method mixed. Surya Siddhanta, Grahalaghava, and works of R. N. Apte.
 
-### 1. Jagajjyoti Panjika. 
+### Jagajjyoti Panjika. 
 - 2. 1952 A. D. (1359 B. S.) 
 - 3. Bengali. 55A, Raja Dinendra Street, Calcutta-6. 
 - 5. N. C. Lahiri M.A. 
@@ -307,7 +307,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50".27 
 - 14. Modern method. Tables of the Sun by N. C. Lahiri, Karanavallabha by Radhavallabha Jyotistirtha & Nautical Almanacs.
 
-### 1. Visapurkar Panchang. 
+### Visapurkar Panchang. 
 - 2. 1922 A. D. 
 - 3. Marathi. 
 - 4. Old Sangli, P. O. Sangli, Dt. Satara South. 
@@ -321,7 +321,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 12. - 23° 12' 6" 
 - 13. 50".22 14. Modern method. Jyotirganita & Karana kalpalata
 
-### 1. Datey's Panchang (Big size & small size ). 
+### Datey's Panchang (Big size & small size ). 
 - 2. Shaliva hana Saka 1833. 
 - 3. Marathi. 
 - 4. 537, South Kasaba, Sholapur. 
@@ -336,7 +336,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50".25 
 - 14. Modern method. Tables of the Sun & the Moon by Dr. Gorakh.Prasad, Jyotirganita by Ketkar, Karana kalpalata by Dr. K. L. Daftari, Tables of Mercury by Prof. Harihar Bhatt, Raja Jyotish Ganitam by C. G. Rajan and Nautical Almanac.
 
-### 1. Nirnaysagar Panchang. 
+### Nirnaysagar Panchang. 
 - 2. Shalivahana Saka 1786. 
 - 3. Marathi. 
 - 4. Nirnaysagar Press, 26/28, Kolbhat Street, Kolbadevi Road, Bombay-2. 
@@ -351,7 +351,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50".25 
 - 14. Modern method. Tables of the Sun & the Moon by Dr. Gorakh Prasad, Jyotirganitam by V. B. Ketkar, Karanakalpalata by Dr. K. L. Daftari, Tables of Mercury By Prof. Harihar Bhatt, Raja Jyotish Ganitam by C. G. Rajan & help of Nautical Almanacs.
 
-### 1. Grahalaghaviya Panchang. 
+### Grahalaghaviya Panchang. 
 - 2. 1917 A.D. 
 - 3. Marathi. 
 - 4. Jyotirvijaya office, P.O. Deshing, Kolhapur (S. Satara). 
@@ -367,7 +367,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 14. Ancient Sidhantaka Grahalaghava System. 
 
 
-### 1. Udiyavar Panchanga. 
+### Udiyavar Panchanga. 
 - 2. 1887 A.D. 
 - 3. Kanada and Hindi since 1946. 
 - 4. Dharmaprakash Press, Mangalore-1. 
@@ -382,7 +382,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50".2671  
 - 14. Arya Siddhanta, and modern method for planets with hand written tables.
 
-### 1. Kutchi Ashadhi Panchang. 
+### Kutchi Ashadhi Panchang. 
 - 2. Samvat 1960 (1903 A.D.) 
 - 3. Gujrathi. 
 - 4. Shree Ramkrishna Jyotish Karyalaya, Kailash Bhavan, Penchhatdi, Bhuj, Kutch. 
@@ -397,7 +397,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50".2 
 - 14. Modern method.
 
-### 1. Brihan Maharashtriya Panchang. 
+### Brihan Maharashtriya Panchang. 
 - 2. Shalivahan Saka 1871 (1949-50 A.D.) 
 - 3. Marathi. 
 - 4. 364, Somwar Peth, Poona-2. 
@@ -412,7 +412,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50."26 
 - 14. Modern method. Jyotirganitam & Grahaganitha by V. B. Ketkar.
 
-### 1. Sri Bapudev Shastri Panchang. 
+### Sri Bapudev Shastri Panchang. 
 - 2. Vikram Samvat 1933. 
 - 3. Sanskrit & Hindi. 
 - 4. Govt. Sanskrit College, Banaras. 
@@ -427,7 +427,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50."2 
 - 14. Modern method.
 
-### 1. Jyothir Deepika. 
+### Jyothir Deepika. 
 - 2. 1947 A. D. 
 - 3. Malayalam. 
 - 4. K. Rama Variar, Astrologer P.O. Thakazhi, T. C. State. 8. 
@@ -442,7 +442,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50."2 
 - 14. Modern Method.
 
-### 1. Nava Bharatha Panchangam. 
+### Nava Bharatha Panchangam. 
 - 2. 1951 A. D. 
 - 3. Malayalam. 
 - 4. Ramchandra Astro-Research Institute, P. O. Ambalapuzha, T. C. State. 
@@ -457,7 +457,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50."25747+0'000222 T 
 - 14. Modern method. Astronomical papers of the American Ephemeris. 
 
-### 1. Uthara Malayala Panchangam. 
+### Uthara Malayala Panchangam. 
 - 2. 1114 Malayalam Era. 
 - 3. Malayalam. 
 - 4. “Jyotissadan”, P.O. Payyannur, N. Malabar. 
@@ -472,7 +472,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50."25 
 - 14. Modern Method. Ketaki Grahaganitham.
 
-### 1. Bhagyavati Panchanga. 
+### Bhagyavati Panchanga. 
 - 2. 1930 A.D. 
 - 3. Manipuri. 
 - 4. Bhagyavati Karyalaya, Chudachand Printing Works, Imphal, Manipur. 
@@ -487,7 +487,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50.13 
 - 14. Modern method. Works of Bapuji Venkatesh Ketkar.
 
-### 1. Prabhakar Panchangam. 
+### Prabhakar Panchangam. 
 - 2. Shalivahan Saka 1863. 
 - 3. Kanada & Sanskrit. 
 - 4. Prabhakar Panchang Karyalaya, Mudgal, Dt. Raichur (Hyderabad). 
@@ -503,7 +503,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 14. Modern Method. Ketkar's Sanskrit Jyotirganitam.
 
 
-### 1. Chinta dalan Jantri. 
+### Chinta dalan Jantri. 
 - 2. 1946 A.D. 
 - 3. Hindi. 
 - 4. Jyotish Karyalaya, Dt. Buland Sahar. Khurja, 
@@ -519,7 +519,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 14. Jyotirganitam ?
 
 
-### 1. Khandesh Panchang. 
+### Khandesh Panchang. 
 - 2. Shaka 1866, 1944 A. D. 
 - 3. Marathi. 
 - 4. P. K. Joshi, Rampeth, H.N. 15, Jalgaon, E.K. 
@@ -534,7 +534,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50."2 
 - 14. Modern method. Mathematical system of Ketkar.
 
-### 1. Jyolsyabharanam and Vidyabhivardhini Kanakajoobili Prasasti. 
+### Jyolsyabharanam and Vidyabhivardhini Kanakajoobili Prasasti. 
 - 2. 1085 M. E. (1910 A.D.) 
 - 3. Malayalam. 
 - 4. Shri P. S. Purushothaman Numboodiri, P. O. Puliyoor, (Via) Chengannur, T. C. State. 
@@ -549,7 +549,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50.25645 +0.'000229 Y +0.00000000027Y 
 - 14. Modern method since 1932. Ganitha Nirnayam by P. S. Numboodiri.
 
-### 1. Vaijayanthi Panchanga. 
+### Vaijayanthi Panchanga. 
 - 2. Pingala Samvatsaram Chaitra Shalivahan 1839 (23.3. 1917). 
 - 3. Kanada. 
 - 4. Vaijayanthi Panchang Office, Nerlakatte, P.O. Puttur Taluk, S. Kanada (Madras). 
@@ -564,7 +564,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50."2 
 - 14. Modern method. Jyotirganitham by Ketkar.
 
-### 1. Siddhanta Panchangam. 
+### Siddhanta Panchangam. 
 - 2. Vyaya. 
 - 3. Telegu. 
 - 4. Adijyotisalayam, Anantavaram, Tenali Taluk, Dt Guntur. 
@@ -579,7 +579,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50."2 
 - 14. Tithi, Nakshatra, Yoga, Karana based on Siddhantic method. Grahasanchara on Modern Method. Marhati Grahaganitham by L. Chatri. & Jyotirganitam by Ketkar.
 
-### 1. Sri Saptarshi Panchang. 
+### Sri Saptarshi Panchang. 
 - 2. 1933 A.D. 
 - 3. Hindi. 
 - 4. Bazar Sitarm, Delhi-6. 
@@ -594,7 +594,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 1 pal in a year. 
 - 14. Old method. Makaranda Sarani.
 
-### 1. Sri Viswa Martanda Panchang. 
+### Sri Viswa Martanda Panchang. 
 - 2. 1934 A.D. 
 - 3. Hindi. 
 - 4. 53/66, Ramjas Road, Karol Bagh, New Delhi-5. 
@@ -609,7 +609,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50" 13." 95 
 - 14. Modern methood. Ketaki and Grahalaghavi.
 
-### 1. Joshi Girijasankar Harisankar's śuddha Panchang. 
+### Joshi Girijasankar Harisankar's śuddha Panchang. 
 - 2. 1912 A.D. 
 - 3. Gujrati. 
 - 4. Sankadi Sheri Hajirani Pole, Ahmedabed. 
@@ -624,7 +624,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50."2 
 - 14. Modern method.
 
-### 1. Hosaritti Panchanga. 
+### Hosaritti Panchanga. 
 - 2. 1907 A. D. 
 - 3. Sanskrit, Marathi & Kanada. 
 - 4. Jyotirmartanda Pat. Shankar Shastri. Hosaritti, Kesar i Hind, Haveri, Dt. Dharwar, Bombay. 
@@ -640,7 +640,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 14. Surya Siddhanta method. (a) Surya Siddhanta, (b) Siddhanta Shiromoni by Bhaskaracharya, (c) Grahalaghava by Ganesh Daivajnya, (d) Tithi Ratnavalli by Rama Daivajnya,
 
 
-### 1. Gouri Sankara Panchang. 
+### Gouri Sankara Panchang. 
 - 2. 1930 A.D. 
 - 3. Sanskrit & Telegu. 
 - 4. Gouri Sankara Jyotisalayam, Lakshmi Polavaram, via. Tanuku, Dt. East Godavari. 
@@ -657,7 +657,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 
 
 
-### 1. Namogal Drigganitha Saura Muhurtha Panchangam. 
+### Namogal Drigganitha Saura Muhurtha Panchangam. 
 - 2. 1921 A.D. 
 - 3. Tamil. 
 - 4. Sm. C. Kanakammal of Messrs. C. Subramanian & Bros., 31 Ayalur Muthiah Mudali St. P. O. Sowcarpet, Madras-1. 
@@ -673,7 +673,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 14. Modern method. Nautical Almanacs of different countries. 
 
 
-### 1. Bhagyodaya Panchang. 
+### Bhagyodaya Panchang. 
 - 2. 1936-37 A.D. 
 - 3. Kanada. 
 - 4. Madihal, Dharwar, Bombay State. 
@@ -687,7 +687,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. - 
 - 14. Old Siddhantic method. Arghyaprakashika.
 
-### 1. Bhagyodaya Panchang alias Chintaharan Jantri. 
+### Bhagyodaya Panchang alias Chintaharan Jantri. 
 - 2. 1941 A. D. 
 - 3. Hindi 
 - 4. Chinta haran Jantri Karyalay, P.O. Kaswanda, Dt. Sitapur. 
@@ -702,7 +702,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 54" 
 - 14. Old Siddhantic method. Surya-Siddhanta.
 
-### 1. Sri Sringagiri Sri Jagat Guru Srimath Panchangam. 
+### Sri Sringagiri Sri Jagat Guru Srimath Panchangam. 
 - 2. Published since the last 12 yrs. 
 - 3. Kanada. 
 - 4. Clo. Sri Venkata Subba Shastri, P. O. Kollegal, Dt. Coimbatore. 
@@ -717,7 +717,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 54".9 
 - 14. Old Surya Siddhanta method.
 
-### 1. Kottur Guru Basaveswara Panchangam. 
+### Kottur Guru Basaveswara Panchangam. 
 - 2. 1947 A. D. 
 - 3. Kanada. 
 - 4. Kottur Guru Basaveswara Jyotishalaya, Kottur, Dt. Bellary. Mysore State. 5. M. V. S. Kotrapaiah Sastry. 
@@ -731,7 +731,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 
 - 14. Old Siddhantic method. (a) Driksiddhanta, (b) Grahalaghava, (c) Khacharadarpana, (a) Panchanga Manjusa, (e) Surya Siddhanta.
 
-### 1. Shri Visva Vijaya Panchangam. 
+### Shri Visva Vijaya Panchangam. 
 - 2. Vikrama Samvat 2003 (1946'A.D.) 
 - 3. Hindi & Sanskrit. 
 - 4. Shri Swadhaya Sadan, Solan, (Simla Hills). 
@@ -746,7 +746,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50"2 
 - 14. Modern method. Jyotirganitha, Grahalaghava.
 
-### 1. Nutan Purna Chandra Directory Panjika 
+### Nutan Purna Chandra Directory Panjika 
 - 2. 1325 B.S. (1918 A.D.) 
 - 3. Bengali. 
 - 4. 40 Garanhatta Street, Calcutta. 
