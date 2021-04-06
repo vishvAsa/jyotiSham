@@ -43,3 +43,6 @@ unicode_script: devanagari
 
 ## Leo
 - "Leo being clear of the Milky Way (areNavaH panthAH) it gives a snapshot into the depth of the universe. The M 96- M 66 group are a cluster of galaxies that has 2 sub groups. The M65, M66, and NGC 3628 triplet on the 'back' thigh below theta form one group. The other is the M 95-M 96 group along the  'front' facing hind leg of the lion. Even a small telescope will show at least 5 of the Leo galaxies & are part of one of the near by galaxy groups to our own local group at ~37*10^6 light years."
+
+## वृश्चिकराशिः
+- "It is notable that if mUlam is root the vishAkhe are the dual branches. jyeShThA could mean the foremost or the trunk. Thus it is possible that in old Aryan uranography the whole Scorpius-Libra complex was seen as a tree rooted ay the nether end of the equinoctial colure. This probably gave rise to the vaiShNava concept of the viShAkhayUpa mentioned in the pa~ncharAtra texts & illustrated in some of the early vaiShNava iconography & coinage from the kuShANa age."
