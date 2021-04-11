@@ -46,3 +46,7 @@ unicode_script: devanagari
 
 ## वृश्चिकराशिः
 - "It is notable that if mUlam is root the vishAkhe are the dual branches. jyeShThA could mean the foremost or the trunk. Thus it is possible that in old Aryan uranography the whole Scorpius-Libra complex was seen as a tree rooted ay the nether end of the equinoctial colure. This probably gave rise to the vaiShNava concept of the viShAkhayUpa mentioned in the pa~ncharAtra texts & illustrated in some of the early vaiShNava iconography & coinage from the kuShANa age."
+
+## दधिक्रावा
+- Pegasus. 
+- From the Rgveda we may infer that dadhikra, the flying horse, probably stood for a constellation whose rising before dawn was significant to the early Arya-s. It remains as yet unclear if that was in someway associate with Pegasus. 
