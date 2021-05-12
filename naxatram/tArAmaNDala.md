@@ -4,8 +4,13 @@ unicode_script: devanagari
 
 ---
 
+## Constellations
+Constellations are patterns of stars which aid in describing locations of various celestial objects. They are associated with colorful tales which motivated the ancients of various cultures - a great mnemonic (and spiritual) device!
+
+Various stars in a constellation are often identified with greek letters - like apha centauri, alpha virginis.
+
 ## चान्द्रनक्षत्रताराः
-- [नक्षत्रसूक्तं](../../../../saMkAraH/mantraH/worlds/Rk/naxatra-suuktam/) दृश्यताम्। तथा ऽथर्ववेद-नक्षत्र-कल्पो ऽप्य् [अत्र](../2005-11-27_the-nakshatra-kalpa-of-the-atharva-veda/)।
+- [नक्षत्रसूक्तं](/saMkAraH/mantraH/worlds/Rk/naxatra-suuktam/) दृश्यताम्। तथा ऽथर्ववेद-नक्षत्र-कल्पो ऽप्य् [अत्र](../2005-11-27_the-nakshatra-kalpa-of-the-atharva-veda/)।
 - See also notes and references on [equinoctial records](../../history/equinoctial_records/).
 
 ## राशिताराः
