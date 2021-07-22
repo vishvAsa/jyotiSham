@@ -79,6 +79,9 @@ In the manner of ants son a ball, the beings are stationed on the earth. Held by
 - गोलाकारं मण्डलम् अर्कादीनां स्मृतं गणक-मुख्यैः । दर्पण-वृत्ताकारं दूरगतत्वात् प्रदृश्यते ऽस्माभिः ॥ - The orbs of the sun and the like are known to be spheres according to great mathematicians. The appear like circular mirrors to us on account of their great distance. 
 - शशि-बिम्बे दर्पणवद् वृत्ते तस्यैक-देश-सित-लब्धिः । भनोः कर-सम्पाते व्यवधानाभावतो न संभवति ॥ २.४६-४७ - If the moon were like a plane circular mirror then only a part of it appearing lit by the rays of the sun falling on it is not possible because of the absence of obstruction.
 
+## nIlakaNTha somayAjI  (1444-1550)
+- Nīlakaṇtha's greatest contribution to the world was his geoheliocentric cosmological model, which said the planets orbit the sun which in turn orbits the earth, one step ahead of the dominant geocentric view that had prevailed for millenia. The same model would be proposed by Tycho Brahe 200 years later, by whose name it is known now.
+
 ## kamalAkara-bhaTTa 1600s
 - Not the more famous kamalAkarabhaTTa who authored शूद्रकमलाकर. Son of nRsiMha-jyotirvid. Actually travelled to Tajikistan to observe their astronomy.
 - भूगोलो जल-मग्नोऽस्ति जलाद बहिर् अपि स्थितः । तत्र+अधिको जलान्तः स्थो बहिः स्वल्पोऽस्ति गोलवित् ॥ १.१२४  "The earth-sphere is covered with water with some parts which are indeed above it. The greater part is underwater and the smaller part is above it, geographer."
