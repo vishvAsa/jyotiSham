@@ -16,7 +16,8 @@ Various stars in a constellation are often identified with greek letters - like 
 ## राशिताराः
 चान्द्र-नक्षत्रपृष्ठे [राशिसूचौ](../chAndra-naxatram/) दृश्यताम्।
 
-## ध्रुवमण्डलम् शिंशुमारपुच्छस्थं सुविख्यातम् च।
+## ध्रुवमण्डलम् 
+शिंशुमारपुच्छस्थं सुविख्यातम् च।
 
 (3000BC thuban) \[[ऽत्र](../../../saMkAraH/mantraH/misc-devas/yajuH/dhruva/)\]
 
@@ -46,7 +47,7 @@ Various stars in a constellation are often identified with greek letters - like 
   - Vedic index: the constellation of the ‘Great Bear’ (ursa). 1) v. 56, 3. 2) Maitrāyaṇī Saṃhitā, iii. 14, 17; Vājasaneyi Saṃhitā, xxiv. 36; Jaiminīya Brāhmaṇa, i. 184. Cf. Zimmer, Altindisches Leben, 81. 3) Rv. i. 24, 10; Satapatha Brāhmaṇa. ii. 1, 2, 4; Taittirīya Āraṇyaka, i. 11, 2. Cf. Hillebrandt, Vedische Mythologie, 3, 422. 4) Cf. Macdonell, Vedic Mythology, p. 144 (D).
 - Somethimes imagined as jAmbavAn circumambulating the foot of viShNu as it touches dhruva +++(where??)+++.
 
-## Leo
+## सिंहः
 - "Leo being clear of the Milky Way (areNavaH panthAH) it gives a snapshot into the depth of the universe. The M 96- M 66 group are a cluster of galaxies that has 2 sub groups. The M65, M66, and NGC 3628 triplet on the 'back' thigh below theta form one group. The other is the M 95-M 96 group along the  'front' facing hind leg of the lion. Even a small telescope will show at least 5 of the Leo galaxies & are part of one of the near by galaxy groups to our own local group at ~37*10^6 light years."
 
 ## वृश्चिकराशिः
