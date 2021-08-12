@@ -188,129 +188,34 @@ Table 3 and Table 4 demonstrate that if all the six prominent stars should have 
 
 ## RISE OF AGASTYA AND SUN IN HASTA-DIVISION
 
-The background for PT specifying that Agastya rises when Sun is in Hasta is made
-reasonably clear by the season zodiac discussed above. As per PT season Varṣā ends at the last
-point of Hasta division which is same as the beginning of season Śarat. Agastya rose when Sun
-was in this Hasta-nakṣatra division. Quite obviously the lunar month tithi positions of (PT.2)
-would have been too approximate to time the rise of Agastya correctly for observing prescribed
-Vedic rites. This should have been a strong motivation for PT to continuously observe Agastya
-and arrive at its novel solar zodiac scheme of equal r̥tu divisions of 41⁄2 nakṣatra lengths. However,
-like with the six individual stars being heliacally visible some time during the notional astronomical
-seasons, Agastya should have risen when constellation Hasta was visible in the eastern sky,
-such that Sun was still below the horizon. This point needs some further discussion with respect
-to the place of observation. As we have seen previously, PT has connections with the Kr̥ṣṇa-
-Yajurveda texts that prescribe observation of early morning rise of stars. Hence Kurukṣetra as a
-reference place for PT appears reasonable. To be on the safer side we include Puṣkara and Gagnāni
-also as possible alternates for further analysis. As a preliminary interpretation of (PT. 2) the early
-morning sky picture at Kurkṣetra on 21 st September of year -1300 when Agastya would be
-visible on the southern horizon is shown in Fig.1 using the Stellarium software
-(www.stellarium.org). It can be observed that sun was still 10o below the horizon and the
-constellation Hasta would be clearly visible in the eastern sky. The predominant star γ-Corvi was
-more than 8° above the horizon at Kurukṣetra. Hence for the epoch of PT a relation between
-Hasta and Agastya was natural. Within a few minutes it would be day light and the star becomes
-invisible. Thus any naked eye observer would remember the position of Sun as that patch below
-or very near to the constellation Hasta. 
+The background for PT specifying that Agastya rises when Sun is in Hasta is made reasonably clear by the season zodiac discussed above. As per PT season Varṣā ends at the last point of Hasta division which is same as the beginning of season Śarat. Agastya rose when Sun was in this Hasta-nakṣatra division. Quite obviously the lunar month tithi positions of (PT.2) would have been too approximate to time the rise of Agastya correctly for observing prescribed Vedic rites. This should have been a strong motivation for PT to continuously observe Agastya and arrive at its novel solar zodiac scheme of equal r̥tu divisions of 41⁄2 nakṣatra lengths.+++(5)+++ However, like with the six individual stars being heliacally visible some time during the notional astronomical seasons, Agastya should have risen when constellation Hasta was visible in the eastern sky, such that Sun was still below the horizon. This point needs some further discussion with respect to the place of observation. 
 
-On similar lines the evening sky view for Puṣkara on 16th April -1200 is shown in Fig.2.
-Canopus was approaching its last visibility which was on 24thApril. Star Rohiṇī would have been
-visible in the western sky very near its last visibility. Again it may be noted that the setting
-of Canopus was coeval with the western visibility of Aldebaran. Like with its rise, the setting of
-Agastya got observationally associated with Sun being near to Rohiṇī. The above two sky pictures
-indicate the reason for Parāśara to bring in solar nakṣatra divisions of (PT.3) in stating the visibility
-condition for Agastya. It is equally well possible the importance of the visibility and set of Agastya
-provided the motivation for developing the season solar zodiac.
+As we have seen previously, PT has connections with the Kr̥ṣṇa- Yajurveda texts that prescribe observation of early morning rise of stars. Hence Kurukṣetra as a reference place for PT appears reasonable. To be on the safer side we include Puṣkara and Gagnāni also as possible alternates for further analysis. As a preliminary interpretation of (PT. 2) the early morning sky picture at Kurkṣetra on 21 st September of year -1300 when Agastya would be visible on the southern horizon is shown in Fig.1 using the Stellarium software (www.stellarium.org). It can be observed that sun was still 10o below the horizon and the constellation Hasta would be clearly visible in the eastern sky. The predominant star γ-Corvi was more than 8° above the horizon at Kurukṣetra. Hence for the epoch of PT a relation between Hasta and Agastya was natural. Within a few minutes it would be day light and the star becomes invisible. Thus any naked eye observer would remember the position of Sun as that patch below or very near to the constellation Hasta.  
+
+On similar lines the evening sky view for Puṣkara on 16th April -1200 is shown in Fig.2. Canopus was approaching its last visibility which was on 24th April. Star Rohiṇī would have been visible in the western sky very near its last visibility. Again it may be noted that the setting of Canopus was coeval with the western visibility of Aldebaran. Like with its rise, the setting of Agastya got observationally associated with Sun being near to Rohiṇī. The above two sky pictures indicate the reason for Parāśara to bring in solar nakṣatra divisions of (PT.3) in stating the visibility condition for Agastya. It is equally well possible the importance of the visibility and set of Agastya provided the motivation for developing the season solar zodiac. 
+
+The above analysis helps one to get a better understanding as to how ancient should have been the tradition of PT during the time of VM. The difference in the epochs of VM and Parāśara can be visualized by the simulation of the early morning rise of Agastya at Ujjain shown in Fig.3 for 530 AD. The constellation of Hasta was well below the horizon and naturally PT statement would have been taken as incorrect by VM and by his commentator Utpala. The star that was rising at the eastern horizon at Ujjain can be easily identified as Regulus. As per BS, Sun was 7° behind the beginning of sign Virgo. That is Sun was in Simha Rāśi, at longitude 143° and this was quite accurate for the era of VM as per the twelve Rāśi zodiac taking the equinox to coincide with the first point of star Aśvinī. The amount of precession between the epoch of PT and that of BS would be 23o20′ which number was first computed by William Jones correctly though not with reference to rise of star Agastya. 
 
 
-The above analysis helps one to get a better understanding as to how ancient should have been
-the tradition of PT during the time of VM. The difference in the epochs of VM and Parāśara can
-be visualized by the simulation of the early morning rise of Agastya at Ujjain shown in Fig.3
-for 530 AD. The constellation of Hasta was well below the horizon and naturally PT statement
-would have been taken as incorrect by VM and by his commentator Utpala. The star that was
-rising at the eastern horizon at Ujjain can be easily identified as Regulus. As per BS, Sun was 7°
-behind the beginning of sign Virgo. That is Sun was in Simha Rāśi, at longitude 143° and this was
-quite accurate for the era of VM as per the twelve Rāśi zodiac taking the equinox to coincide with
-the first point of star Aśvinī. The amount of precession between the epoch of PT and that of
-BS would be 23o20′ which number was first computed by William Jones correctly though not
-with reference to rise of star Agastya. 
-
-
-The above discussion helps us to understand that the phrase hastasthe savitari in
-(PT. 2) should not be taken in its literal sense as Sun staying at/in/near star Hasta. It is the star
-division of that name as defined by the season zodiac of (PT. 3) in which Sun is said to be
-stationed. This does not mean that the stars γ-Corvi (Gienah) and Aldebaran should not have been
-visible within a few days interval. It is the near simultaneity of the first visibility (udaya) and last
-visibility (praveśa, pravāsa, asta) of Agastya with the respective morning rise and evening set of the
-above two nakṣatras that has lead to the concept of referring to Sun being in those star divisions.
-
+The above discussion helps us to understand that the phrase "hastasthe savitari" in (PT. 2) should not be taken in its literal sense as Sun staying at/in/near star Hasta. It is the star division of that name as defined by the season zodiac of (PT. 3) in which Sun is said to be stationed. This does not mean that the stars γ-Corvi (Gienah) and Aldebaran should not have been visible within a few days interval. It is the near simultaneity of the first visibility (udaya) and last visibility (praveśa, pravāsa, asta) of Agastya with the respective morning rise and evening set of the above two nakṣatras that has lead to the concept of referring to Sun being in those star divisions. 
 
 ## FIRST AND LAST VISIBILITY DATES
-To complete the analysis of Parāśara’s observations on Agastya one more step is
-remaining. This is to acquire the visibility dates and longitude of Sun for the epoch of PT. The
-software PLVS comes in handy for this purpose. This has provision of varying arcus visionis that
-is the minimum vertical separation needed between sun and a chosen star for visibility of the
-star on the same horizon. The software also has option for changing the critical altitude of visibility
-of a star to account for atmospheric perturbations at the horizon. But this parameter is unknown for
-ancient star observations. We can however reason out that for the naked eye visibility of star Agastya,
-emerging from below the horizon for the first time near the end of the rainy season, on a yet unknown
-date, some altitude would have been essential. On the other hand once it was visible in the evening
-sky nearer to the spring equinox the observer had to only follow it and hence could see it vanish
-almost at zero altitude. Dates of first and last visibility of Agastya at three different locations
-for two altitude values are shown in Table 5 and Table 6.
-    
-These tables provide a further rational basis for understanding the statements of PT. The
-Hasta-division in the scheme of PT extended from 136o40′ to 150o00′. As per the first visibility shown
-in Table 5 for altitude values of (0o- 4o) Agastya would have been visible at Puṣkara when Sun was
-in the Hasta-division. For other places also this would be valid if the altitude for observing Agastya
-were to be reduced to zero degree which, however does not appear to be realistic.
-The Rohinī-division of Parāśra’s zodiac was from 16o40′ to 30o00′. Again the condition of
-Sun in the Rohiṇī-division gets satisfied at Puṣkara for altitude of visibility between 0o and 4o. But at
-the other two places the condition is not satisfactory. We have previously noted that for last
-visibility zero altitude may be sufficient. Under this argument at Kurukṣetra, Sun in Rohiṇī-
-division would be acceptable but the observation year slides towards c 950 BC. These results point
-in the direction of Puṣkara as the place of composition of PT where, Parāśara is said to have
-held his discourse. 
+To complete the analysis of Parāśara’s observations on Agastya one more step is remaining. This is to acquire the visibility dates and longitude of Sun for the epoch of PT. The software PLVS comes in handy for this purpose. This has provision of varying arcus visionis that is the minimum vertical separation needed between sun and a chosen star for visibility of the star on the same horizon. The software also has option for changing the critical altitude of visibility of a star to account for atmospheric perturbations at the horizon. But this parameter is unknown for ancient star observations. We can however reason out that for the naked eye visibility of star Agastya, emerging from below the horizon for the first time near the end of the rainy season, on a yet unknown date, some altitude would have been essential. On the other hand once it was visible in the evening sky nearer to the spring equinox the observer had to only follow it and hence could see it vanish almost at zero altitude. Dates of first and last visibility of Agastya at three different locations for two altitude values are shown in Table 5 and Table 6.     
+
+These tables provide a further rational basis for understanding the statements of PT. The Hasta-division in the scheme of PT extended from 136o40′ to 150o00′. As per the first visibility shown in Table 5 for altitude values of (0o- 4o) Agastya would have been visible at Puṣkara when Sun was in the Hasta-division. For other places also this would be valid if the altitude for observing Agastya were to be reduced to zero degree which, however does not appear to be realistic. The Rohinī-division of Parāśra’s zodiac was from 16o40′ to 30o00′. Again the condition of Sun in the Rohiṇī-division gets satisfied at Puṣkara for altitude of visibility between 0o and 4o. But at the other two places the condition is not satisfactory. We have previously noted that for last visibility zero altitude may be sufficient. Under this argument at Kurukṣetra, Sun in Rohiṇī- division would be acceptable but the observation year slides towards c 950 BC. These results point in the direction of Puṣkara as the place of composition of PT where, Parāśara is said to have held his discourse.  
 
 ## CONCLUSION
-The efforts of Parāśara culminated in proposing a zodiac with six equal seasons, which
-were not strictly experiential based on weather, but each of four-and-half nakṣatra length along
-the ecliptic harmonizing with the heliacal visibility of some of the prominent nakṣatras and the
-southern star Agastya. Fixing the solstice point precisely might not have been possible, but this
-as the starting point was the best naked eye observational option. Some of the Vedic nakṣatras
-could not have been observed before sunrise in their assigned periods simply because they were
-at unequal distances. But taking an astronomical definition of six equal divisions of the year, each
-comprising of 41⁄2 nakṣatras, at least some of the stars handed down by the Vedic tradition could
-be seen in the putative seasons. The solar season scheme of (PT.3) represents a scientific
-development of considerable significance in the history of Hindu astronomy. The six division r̥tu
-zodiac evolved as an improvement over the older two division ayana zodiac of MAU. Vr̥ddhagarga
-seems to have changed the notation of six-r̥tu to six-rāśi, where the word rāśi meant a group of
-41⁄2 nakṣatras. This we see clearly in the commentary of Somākara on the fifth verse of the
-Vedāñgajyotiṣa, where Garga is quoted24 
-> nakṣatrāṇām sarvāsām ṣaḍrāśītānām ādiḥ śraviṣṭhā |
+The efforts of Parāśara culminated in proposing a zodiac with six equal seasons, which were not strictly experiential based on weather, but each of four-and-half nakṣatra length along the ecliptic harmonizing with the heliacal visibility of some of the prominent nakṣatras and the southern star Agastya. Fixing the solstice point precisely might not have been possible, but this as the starting point was the best naked eye observational option.+++(why?)+++ Some of the Vedic nakṣatras could not have been observed before sunrise in their assigned periods simply because they were at unequal distances. But taking an astronomical definition of six equal divisions of the year, each comprising of 4 1⁄2 nakṣatras, at least some of the stars handed down by the Vedic tradition could be seen in the putative seasons. The solar season scheme of (PT.3) represents a scientific development of considerable significance in the history of Hindu astronomy. The six division r̥tu zodiac evolved as an improvement over the older two division ayana zodiac of MAU. Vr̥ddhagarga seems to have changed the notation of six-r̥tu to six-rāśi, where the word rāśi meant a group of 4 1⁄2 nakṣatras.+++(5)+++ This we see clearly in the commentary of Somākara on the fifth verse of the Vedāñgajyotiṣa, where Garga is quoted24  
+> 
+> nakṣatrāṇām sarvāsām ṣaḍ-rāśītānām - ādiḥ śraviṣṭhā |
 
 
-This essentially means that the beginning of the six rāśis (groups) of the 27 stars was taken
-from Śraviṣṭhā, which was the winter solstice indicator in the PT and in the Vedāñgajyotiṣa.
-Vr̥ddhagarga-saṁhitā under variant names is available in the manuscript libraries. Two such
-manuscripts25, 26 have been verified by the present writer for the correctness of the above statement.
-The later twelve rāśi solar zodiac must have been a natural development of the above
-model. The concept of the equinoctial-day with day and night being equal would have been
-certainly available to PT, but this is not strongly reflected in the available text portions. It is
-surmised that the idea of the ecliptic and the celestial equator intersecting at the equinoctial
-point had to wait for some more years so that the zero point of the Vedic solar zodiac could be
-shifted from the winter solstice to the spring equinox, for which progress of Indian astronomy
-Parāśara had laid the foundation.    
+This essentially means that the beginning of the six rāśis (groups) of the 27 stars was taken from Śraviṣṭhā, which was the winter solstice indicator in the PT and in the Vedāñgajyotiṣa. Vr̥ddhagarga-saṁhitā under variant names is available in the manuscript libraries. Two such manuscripts25, 26 have been verified by the present writer for the correctness of the above statement. The later twelve rāśi solar zodiac must have been a natural development of the above model.+++(5)+++ The concept of the equinoctial-day with day and night being equal would have been certainly available to PT, but this is not strongly reflected in the available text portions. It is surmised that the idea of the ecliptic and the celestial equator intersecting at the equinoctial point had to wait for some more years so that the zero point of the Vedic solar zodiac could be shifted from the winter solstice to the spring equinox, for which progress of Indian astronomy Parāśara had laid the foundation.+++(5 Doubtful - what of shrauta viShuva yAga-s?)+++     
 
-The date of c 1400 BC proposed previously as the starting period of the PT tradition
-is still valid as per the analysis of the position of six prominent visible stars in the scheme of
-Parāśara. The Parāśaratantra solar nakṣatra division statements on the heliacal rise and set of
-Agastya were correct for the epoch of 1350-1130 BC and the observations were most probably
-carried out in the Puṣkara-Kurukṣetra region. 
+The date of c 1400 BC proposed previously as the starting period of the PT tradition is still valid as per the analysis of the position of six prominent visible stars in the scheme of Parāśara. The Parāśaratantra solar nakṣatra division statements on the heliacal rise and set of Agastya were correct for the epoch of 1350-1130 BC and the observations were most probably carried out in the Puṣkara-Kurukṣetra region.  
 
 ## ACKNOWLEDGEMENT
-Discussions with Dr. S.Y. Wakankar, Visiting Professor, IIT Gandhinagar and
-correspondence with Sri V.H. Sateeshkumar, Dept. of Physics, Baylor University, USA were helpful
-in preparing this paper. Mr. Dieter Koch, Zurich, Switzerland offered useful observations on a
-preliminary version of the paper. 
+Discussions with Dr. S.Y. Wakankar, Visiting Professor, IIT Gandhinagar and correspondence with Sri V.H. Sateeshkumar, Dept. of Physics, Baylor University, USA were helpful in preparing this paper. Mr. Dieter Koch, Zurich, Switzerland offered useful observations on a preliminary version of the paper.  
 
 ## NOTES & REFERENCES
 
