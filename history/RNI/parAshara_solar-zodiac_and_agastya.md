@@ -119,113 +119,68 @@ Nevertheless it can be seen that between MAU and PT the winter solstice is said 
 The main objection of some indologists for dating VJ and hence PT to c 1400 BC has been the assumption involved in taking the statement of Varāhamihira, who lived in the 6th century, on face value that once upon a time winter solstice was at the first point of star Dhaniṣṭhā. This objection is partly valid as far as Dhaniṣṭhā is concerned. This constellation is made up of five (or four) stars and there is no unbroken identification of the constituent stars starting from the Vedic to the siddhānta to the present period. However the same is not true about Kr̥ttikā, Rohiṇī, Maghā, Citrā, Viśākhā and Jyeṣṭhā. These six stars have stood the test of time and are always identifiable with their modern equivalents; Pleiades, Aldebaran, Regulus, Spica, α-Libra and Antares. Here Pleiades like Kr̥ttikā is a group of six stars but its spread is not too wide and hence can be safely represented by η-Tauri or Alcyone. Rohiṇī as a group has five stars but identification of its prominent star with Aldebaran is unambiguous. Arcturus has always been identified with Svāti but being too close to Spica or Citrā it causes some confusion when equal star divisions are considered. In MAU the named star is Maghā and this should have been within the star division of the same name during the ancient epoch when the summer solstice was noted with the visibility of this star, most probably in the early morning sky, since MAU mentions that Sun moves with the stars. This constrains the longitude of the visible star Maghā to have been in the range of 900 to 103020′. Modern astronomy indicates that the longitude of Regulus varied in the above range during 2340 BC to 1370 BC. This result naturally gives an upper and lower bound date for the solar ayana-nakṣatra-zodiac picture of MAU (6.14). It is interesting to note here that in the Atharvaṇaveda also ayana is associated with the star Maghā19.
 
 
+The concept of seasons determining the year is available in several Vedic texts. For example the Śatapatha-Brāhamaṇa states: only by r̥tu year is possible to be established20. There are texts indicating the year to have five r̥tu, which were probably weather indicators. In some places there is mention of even seven r̥tu in a year, which refers to the intercalary year21. But as the year had only two ayanas, due to symmetry six r̥tu, three for each ayana, evolved as the standard. Now, it is easy to note that Parāśara in PT extends these older concepts and gives position of a few more identifiable stars for the six r̥tus. The nakṣatra- r̥tu (star-season) statement of PT can be better expressed as a table of solar zodiac with 21⁄4 nakṣatra divisions per month. The enumeration starts from the first point of Dhaniṣṭhā even if the precise identity of the star of that name can be treated as unknown. We however know that it should have stretched for a width of 130 20′, which was true for the other 26 stars also.  
 
-The concept of seasons determining the year is available in several Vedic texts. For
-example the Śatapatha-Brāhamaṇa states: only by r̥tu year is possible to be established20. There
-are texts indicating the year to have five r̥tu, which were probably weather indicators. In some places
-there is mention of even seven r̥tu in a year, which refers to the intercalary year21. But as the year had
-only two ayanas, due to symmetry six r̥tu, three for each ayana, evolved as the standard. Now, it
-is easy to note that Parāśara in PT extends these older concepts and gives position of a few more
-identifiable stars for the six r̥tus. The nakṣatra- r̥tu (star-season) statement of PT can be better
-expressed as a table of solar zodiac with 21⁄4 nakṣatra divisions per month. The enumeration
-starts from the first point of Dhaniṣṭhā even if the precise identity of the star of that name can be
-treated as unknown. We however know that it should have stretched for a width of 130 20′, which
-was true for the other 26 stars also. 
+Table 2. Solar Season zodiac of Parāśara (*Vernal Equinox or 0° Longitude, The width of the associated divisions are
+shown in degrees and minutes)
 
+| Month | Nakṣatra 1             | Nakṣatra 2           | Nakṣatra 3              | Season  |
+|-------|------------------------|----------------------|-------------------------|---------|
+| 1     | Dhaniṣṭhādyāt (13o20′) | Śatabhiṣak (13o20′)  | P. Bhādra1⁄4 (3o20′)    | Śiśira  |
+| 2     | 1⁄4P. Bhādra (10o)     | U. Bhādra (13o20′)   | Revatyardhāntam (6o40′) |         |
+| 3     | Revatyardhāt (6o40′)   | Aśvini (13o20′)      | Bharaṇi3⁄4* (10o)       | Vasanta |
+| 4     | *3⁄4Bharaṇi (3o20’)    | Krittikā (13o20′)    | Rohinyantam (13o20′)    |         |
+| 5     | Mr̥gaśirādyāt (13o20′)  | Ardrā (13o20′)       | Punarvasu1⁄4 (3o20′)    | Varṣā   |
+| 6     | Punarvasu3⁄4(10o)      | Puṣya (13o20′)       | Āśleṣārdhāntam (6o40′)  |         |
+| 7     | Āśleṣārdhāt (6o40′)    | Maghā (13o20′)       | P.Phalguni3⁄4 (10o)     | Varṣā   |
+| 8     | 3⁄4P.Phalguni (3o20′)  | U. Phalguni (13o20′) | Hastāntam (13o20′)      |         |
+| 9     | Citrādyāt (13o20′)     | Svāti (13o20′)       | Viśākhā1⁄4 (3o20’)      | Śarat   |
+| 10    | 1⁄4Viśākhā (10o)       | Anurādhā (13o20′)    | Jyeṣṭhārdhāntam (6o40′) |         |
+| 11    | Jyeṣṭhārdhāt (6o40′)   | Mūlā (13o20′)        | P. Āṣāḍhā3⁄4 (10o)      | Hemanta |
+| 12    | 3⁄4P. Āṣāḍhā (3o20′)   | U. Āṣāḍhā (13o20′)   | Śravaṇāntam (13o20′)    |         |
 
-In Table 2 the terminology used in PT for the beginning, middle and end of the star divisions
-is shown in italics. Since PT mentions only the seasons this table is an expansion to include the
-months and the remaining stars also. As in the previous discussion with MAU if we look for the
-six identifiable stars we find that PT specifically names Rohiṇī, Citrā and Jyeṣṭhā and their
-corresponding divisions. Since the sequence of the nakṣatra names has remained unchanged over
-several millennia, it is easy to recognize the positions of Kr̥ttikā, Maghā and Viśākhā also. It
-follows that for the epoch of PT the equinox should have been at the 3⁄4 point of the Bharaṇī-division.
-From this one can find the divisional position of the selected six single stars in the solar zodiac
-scheme of PT. Based on this information the possible epoch for these stars to be in their
-prescribed divisions has been determined and shown in Table 3.
-The period range shown in Table 3 demonstrates that the PT solar zodiac should have
-been conceptualized in 1350-1130 BC. 
+In Table 2 the terminology used in PT for the beginning, middle and end of the star divisions is shown in italics. Since PT mentions only the seasons this table is an expansion to include the months and the remaining stars also. As in the previous discussion with MAU if we look for the six identifiable stars we find that PT specifically names Rohiṇī, Citrā and Jyeṣṭhā and their corresponding divisions. Since the sequence of the nakṣatra names has remained unchanged over several millennia, it is easy to recognize the positions of Kr̥ttikā, Maghā and Viśākhā also. It follows that for the epoch of PT the equinox should have been at the 3⁄4 point of the Bharaṇī-division. 
 
+From this one can find the divisional position of the selected six single stars in the solar zodiac scheme of PT. Based on this information the possible epoch for these stars to be in their prescribed divisions has been determined and shown in Table 3. The period range shown in Table 3 demonstrates that the PT solar zodiac should have been conceptualized in 1350-1130 BC.  
 
-Winter Solstice as the starting point is explainable because the stationary point of Sun
-in the sky can be experienced and also recognized by orientation of normal shadows on ground. As
-in all observations, there would be errors in the nakṣatra stretches which have to be taken as
-estimated boundaries. Originally the rising stars should have helped people to indicate the felt
-seasons corroborated by weather conditions. But PT in course of time formalized this knowledge
-as a theoretical basis for dividing the year into six equal parts with Sun making one full tropical
-cycle. Nonetheless PT could have arrived at its zodiac only in terms of at least a few isolated stars,
-among the 27 nakṣatras available from the Vedic tradition. It may be emphasized here that even
-though the well known 27 nakṣatras were at unequal distances, PT created an equal division
-of two month long seasons with four-and-half nakṣatra spans. With just the cryptic statement
-kālakṣetrayoḥ sāmyam, which roughly means ‘time and space are congruent’; PT mapped the
-year of six equal seasons of time expended by humans on earth to six equal spaces of 41⁄2 stars
-each, on the celestial path along which Sun traversed from winter solstice to winter solstice.
-It was one more step from here to arrive at the 12 equal divisions of the year and the twelve equal
-sky parts for Sun travelling through 27 equal star divisions. This was the natural basis for the later
-twelve Rāśi division of the zodiac, but PT in the available quotations by later authors does not
-mention such a nomenclature, nor does it explicitly describe solar months. Parāśara definitely knew
-the solar tropical zodiac with its first point being the imaginary winter solstice colure in the sky.
-But there is no reference to any angular measure in the available text attributed to him.
+Table 3. Six Prominent Identifiable Stars of PT
 
+| Single identifiable Nakṣatra | Nakṣatra Division Valid Period of PT Longitude | Valid Period BCE |
+|------------------------------|------------------------------------------------|------------------|
+| Kr̥ttikā (η-Tauri)            | 3°20′- 16°40′                                  | 2090-1130        |
+| Rohiṇī (Aldebaran)           | 16°40′-30°00′                                  | 1830-870         |
+| Maghā (Regulus)              | 96°40′-110°00′                                 | 1850-880         |
+| Citrā (Spica)                | 150°00′-163°20′                                | 1890-930         |
+| Viśākhā (α-Libra)            | 176°40′-190°00′                                | 1500-550         |
+| Jyeṣṭhā (Antares)            | 203°20′-216°40′                                | 1350-400         |
+
+Winter Solstice as the starting point is explainable because the stationary point of Sun in the sky can be experienced and also recognized by orientation of normal shadows on ground. As in all observations, there would be errors in the nakṣatra stretches which have to be taken as estimated boundaries. Originally the rising stars should have helped people to indicate the felt seasons corroborated by weather conditions. But PT in course of time formalized this knowledge as a theoretical basis for dividing the year into six equal parts with Sun making one full tropical cycle. Nonetheless PT could have arrived at its zodiac only in terms of at least a few isolated stars, among the 27 nakṣatras available from the Vedic tradition. It may be emphasized here that even though the well known 27 nakṣatras were at unequal distances, PT created an equal division of two month long seasons with four-and-half nakṣatra spans. With just the cryptic statement kālakṣetrayoḥ sāmyam, which roughly means ‘time and space are congruent’; PT mapped the year of six equal seasons of time expended by humans on earth to six equal spaces of 4 1⁄2 stars each, on the celestial path along which Sun traversed from winter solstice to winter solstice. It was one more step from here to arrive at the 12 equal divisions of the year and the twelve equal sky parts for Sun travelling through 27 equal star divisions. This was the natural basis for the later twelve Rāśi division of the zodiac, but PT in the available quotations by later authors does not mention such a nomenclature, nor does it explicitly describe solar months. Parāśara definitely knew the solar tropical zodiac with its first point being the imaginary winter solstice colure in the sky. But there is no reference to any angular measure in the available text attributed to him. 
 
 ## AUSPICIOUSNESS OF TIME
-At this stage one may question how PT could have arrived at the names of the equal
-division nakṣatras for demarcating seasons. The answer is contained in the MAU model where
-measure of time is declared as Sun following the nakṣatras. It is the early morning rise of the
-nakṣatras that was observed. Some prominent stars, even before PT, should have been connected
-with the natural seasons in popular perception. The nearly equal 13-16 day interval between
-subsequent rises of some known stars would have given the idea of equal solar nakṣatra spans similar
-to the lunar nakṣatras on subsequent nights. To make these points clear in Table 4 the six
-previously identified nakṣatras and their first visibility pattern for the period 1400-950 BC is
-shown for the location of Puṣkara. In all the six cases the individual star was in the season division
-assigned to it by PT. All the six stars would have been visible in the eastern sky roughly an hour
-before local sunrise. The visibility dates between the two consecutive stars Kr̥ttikā and Rohiṇī differ
-by about 15 days as expected. The differences between the dates of rise of other stars also fairly
-match with their position in the scheme of PT. 
+At this stage one may question how PT could have arrived at the names of the equal division nakṣatras for demarcating seasons. The answer is contained in the MAU model where measure of time is declared as Sun following the nakṣatras. It is the early morning rise of the nakṣatras that was observed. Some prominent stars, even before PT, should have been connected with the natural seasons in popular perception. The nearly equal 13-16 day interval between subsequent rises of some known stars would have given the idea of equal solar nakṣatra spans similar to the lunar nakṣatras on subsequent nights.+++(5)+++ To make these points clear in Table 4 the six previously identified nakṣatras and their first visibility pattern for the period 1400-950 BC is shown for the location of Puṣkara. In all the six cases the individual star was in the season division assigned to it by PT. All the six stars would have been visible in the eastern sky roughly an hour before local sunrise. The visibility dates between the two consecutive stars Kr̥ttikā and Rohiṇī differ by about 15 days as expected. The differences between the dates of rise of other stars also fairly match with their position in the scheme of PT.  
+
+Table 4. First Visibility of six prominent stars (critical altitude = 4°) at Puṣkara, during 1400-950 BC. Results are from the PLVS software with separate provision of arcus visionis for each star depending on its magnitude
+
+| Support Star       | F. V Date   | tu             |
+|--------------------|-------------|-----------------|
+| Kr̥ttikā (η-Tauri)  | 12.5-15.5   | Vasanta         |
+| Rohiṇī (Aldebaran) | 27.5-30.5   | Vasanta         |
+| Maghā (Regulus)    | 6.8-10.8    | Varṣā           |
+| Citrā (Spica)      | 28.9-2.10   | Śarat           |
+| Viśākhā (α-Libra)  | 25.10-28.10 | Śarat           |
+| Jyeṣṭhā (Antares)  | 13.11-16.11 | Śarat- Hemanta  |
 
 
-The above points have been over looked by main stream academic indologists who have
-routinely assumed nakṣatras to be the so called lunar mansions meant only for reckoning lunar
-months by observing the position of moon in the nights. While it is a fact that the R̥gveda clearly
-implies that month and further the year was measured by the moon, this does not mean over
-some three thousand years Vedic people had not observed that Sun’s position also can be specified
-with respect to the nakṣatras. Concrete evidence for using early morning rise of nakṣatras for
-ritualistic purpose is available in the Taittirīya Brāhamaṇa. The original hymn and its explanation
-as per the Vedic tradition preserved in the commentary of Bhaṭṭa Bhāskara (10th Century AD)
-are reproduced below22. 
+The above points have been over looked by main stream academic indologists who have routinely assumed nakṣatras to be the so called lunar mansions meant only for reckoning lunar months by observing the position of moon in the nights. While it is a fact that the R̥gveda clearly implies that month and further the year was measured by the moon, this does not mean over some three thousand years Vedic people had not observed that Sun’s position also can be specified with respect to the nakṣatras. Concrete evidence for using early morning rise of nakṣatras for ritualistic purpose is available in the Taittirīya Brāhamaṇa. The original hymn and its explanation as per the Vedic tradition preserved in the commentary of Bhaṭṭa Bhāskara (10th Century AD) are reproduced below22. 
 
-> yatpuṇyam nakṣattram
-tadbaṭkurvītopavyuṣam | yadā vai sūrya udeti | atha nakṣattram naiti | yāvati tatra
-sūryo gacchet | yatra jaghanyam paśyet | tāvati kurvīta yatkārī syāt | puṇyāha eva
-kurute || [Tai. Brā. 1.5.2]
+> yatpuṇyam nakṣattram tad baṭkurvītopavyuṣam |  
+> yadā vai sūrya udeti, atha nakṣattram naiti - yāvati tatra sūryo gacchet, yatra jaghanyam paśyet, tāvati kurvīta yat-kārī syāt | puṇyāha eva kurute || [Tai. Brā. 1.5.2]
 
-> One has to confirm a nakṣatra which he prefers for some auspicious work. He has
-to mark also in the sky ‘this space is for this nakṣatra’. This has to be done before
-sunrise, nearer to day break. When Sun comes up, that auspicious star will not be
-seen. Hence that particular space in the sky wherein the star remains still visible
-has to be confirmed. Or knowing this part of the sky marks may be done. The rite
-has to be completed before the time taken by Sun to cover that space.
+> One has to confirm a nakṣatra which he prefers for some auspicious work. He has to mark also in the sky ‘this space is for this nakṣatra’. This has to be done before sunrise, nearer to day break. When Sun comes up, that auspicious star will not be seen. Hence that particular space in the sky wherein the star remains still visible has to be confirmed. Or knowing this part of the sky marks may be done. The rite has to be completed before the time taken by Sun to cover that space. 
 
++++(Interpretations of both sAyaNa and bhaTTabhAskara of this passage are unsatisfactory due to arbitrariness. This is better: याव॑ति॒ तत्र॒ सूर्यो॒ गच्छे॑त् यत्र॑ (पुण्य-नक्षत्रं) जघ॒न्यं॑ (=अस्तम्) पश्ये॑त् - ताव॑ति कुर्वीत यत्का॒री स्यात् । That both the naxatra and sUrya are to be present in the sky when the ritual is performed is a simple and satisfying interpretation.)+++
 
-The word baṭ refers to fixing or confirmation. This could also mean making a mark
-by some means for the position of the desired star. Uṣas is the twilight period. But upavyuṣam is when
-the sky is still illuminated for the star to be visible. The lower point or mark denoted as jaghanyaṁ is
-such that the person is confident of the visibility interval of the star. One is asked to view the desired
-nakṣatra when it is visible in the eastern sky before sun rise and also to mark or make sure of a point
-below. This point at a lower altitude is such that as Sun reaches this point the star vanishes from
-sight. The dictum of the Vedic text is to observe the rise of a desired star among the twenty seven
-recognized nakṣatras early in the morning and to have an estimation of the time taken for Sun to
-make the selected asterism invisible. The work done in such a period is deemed to have been done
-at an appropriate time without any doubt about the auspiciousness of the time. Quite interestingly
-this belief in the auspiciousness of time, an hour- and-half before sunrise continues to this day in
-many parts of India. This practice of early morning observation, in the absence of any other time
-measuring instruments, would have made the visible nakṣatras as supports for getting a sense
-of elapsed time. The commentary of Sāyaṇācārya (14th Century AD) on the above text is similar in
-its emphasis on early morning observation of the rise of the nakṣatras23. The above practice, in
-course of time, would have demonstrated to the observers that a particular nakṣatra appears for
-the first time in a year in the east before sunrise to be followed by the next nakṣatra in the sequence
-after 13-14 days. 
-
+The word baṭ refers to fixing or confirmation. This could also mean making a mark by some means for the position of the desired star. Uṣas is the twilight period. But upavyuṣam is when the sky is still illuminated for the star to be visible. The lower point or mark denoted as jaghanyaṁ is such that the person is confident of the visibility interval of the star. One is asked to view the desired nakṣatra when it is visible in the eastern sky before sun rise and also to mark or make sure of a point below. This point at a lower altitude is such that as Sun reaches this point the star vanishes from sight. The dictum of the Vedic text is to observe the rise of a desired star among the twenty seven recognized nakṣatras early in the morning and to have an estimation of the time taken for Sun to make the selected asterism invisible. The work done in such a period is deemed to have been done at an appropriate time without any doubt about the auspiciousness of the time. Quite interestingly this belief in the auspiciousness of time, an hour- and-half before sunrise continues to this day in many parts of India. This practice of early morning observation, in the absence of any other time measuring instruments, would have made the visible nakṣatras as supports for getting a sense of elapsed time. The commentary of Sāyaṇācārya (14th Century AD) on the above text is similar in its emphasis on early morning observation of the rise of the nakṣatras23. The above practice, in course of time, would have demonstrated to the observers that a particular nakṣatra appears for the first time in a year in the east before sunrise to be followed by the next nakṣatra in the sequence after 13-14 days.  
 Table 3 and Table 4 demonstrate that if all the six prominent stars should have been visible
 and stationed within their eponymous divisions the possible epoch has to be accepted as 1350-
 1130 BC. This result naturally brackets the most probable date of Parāśara’s solar zodiac scheme.
@@ -329,7 +284,7 @@ zodiac evolved as an improvement over the older two division ayana zodiac of MAU
 seems to have changed the notation of six-r̥tu to six-rāśi, where the word rāśi meant a group of
 41⁄2 nakṣatras. This we see clearly in the commentary of Somākara on the fifth verse of the
 Vedāñgajyotiṣa, where Garga is quoted24 
-> nakṣatrāṇām sarvāsām ṣarāśītānām ādiḥ śraviṣṭhā |
+> nakṣatrāṇām sarvāsām ṣaḍrāśītānām ādiḥ śraviṣṭhā |
 
 
 This essentially means that the beginning of the six rāśis (groups) of the 27 stars was taken
@@ -429,7 +384,7 @@ commentary on BS (12.21)]
 
 
 
-21. tasya ṣvimśatirardhamāsāstrayodaśamāsāḥ saptartavo dve ahorātre |
+21. tasya ṣḍvimśatirardhamāsāstrayodaśamāsāḥ saptartavo dve ahorātre |
 (Śatapatha Brāhmaṇa VIII.4.1.25) 
 
 
@@ -441,8 +396,8 @@ Research Institute, Mysore, 1908.
 Anandashrama Series No.37, Pune, 1979. 
 
 
-24. Lagadhamuniproktam Vedāñgajyotiṣam with the commentaries of Somākara and Kauṇinyāyana (in
-Sanskrit with notes in Hindi) Śivarāja Ācārya Kauṇinyāyana, Chaukāmba Vidyābhavan. Vārāṇasī, 2005.
+24. Lagadhamuniproktam Vedāñgajyotiṣam with the commentaries of Somākara and Kauṇḍinyāyana (in
+Sanskrit with notes in Hindi) Śivarāja Ācārya Kauṇḍinyāyana, Chaukāmba Vidyābhavan. Vārāṇasī, 2005.
 
 
 
