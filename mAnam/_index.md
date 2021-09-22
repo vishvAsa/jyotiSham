@@ -68,3 +68,7 @@ unicode_script: devanagari
 ## Longitude
 - The eclipse timing method is simple: first, you determine the local time that the lunar eclipse starts or ends by direct observation. Then you compare your local time for that event against the local time at some distant place. The difference in the two times is the difference in longitude.
 - "you'll find a method based on eclipses given by pR^ithUdakasvAmin using ujjayinI as the prime meridian. The method was evidently known well before that for varAhamihira gives different long differences. There is some discussion by parameshvara the nambUtiri too."
+
+## Ephemerides
+### NASA ephemerides
+NASA ephemerides - and looks like they can calculate solar eclipses to within 1-2ms / year - and they publish predictions till 3000CE where the biggest variable is the flow of ocean currents, and associated change in earth's rotation speed (delta-T).
