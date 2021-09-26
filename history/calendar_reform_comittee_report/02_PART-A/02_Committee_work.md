@@ -39,7 +39,7 @@ After discussion on the several points mentioned by the Chairman, the Committee 
 - (5) The day should be reckoned from midnight to midnight of the central station for civil purposes, but for religious purposes the local sunrise system may be followed. 
 The Committee made the following recommendations to the Government of India : 
 
-- (i) A tentative national calendar for the whole of India should be prepared for five years in advance, showing dates, days, months, tithi's (lunar days) and naksatras (lunar asterisms). 
+- (i) A tentative national calendar for the whole of India should be prepared for five years in advance, showing dates, days, months, tithi's (lunar days) and nakṣatras (lunar asterisms). 
 - (ii) Steps should be taken to compile an Indian Ephemeris and Nautical Almanac by the Government of India showing in advance positions of the sun, the moon, planets and other important heavenly bodies. 
 - (iii) There should be a National Observatory at a suitable place provided with modern equipments, apparatus and time-service. 
 The Council of Scientific and Industrial Research accepted the first recommendation and appointed Shri N. C. Lahiri and Prof. R. V. Vaidya, members of the Committee, as whole-time workers for the purpose of implementation of this recommendation, and also provided them with necessary assistants. The experimental National Calendar of India for the five years 1954-55 to 1958-59 A.D. (śaka 1876 to 1880) has ingly been prepared and will be found as Part B. 

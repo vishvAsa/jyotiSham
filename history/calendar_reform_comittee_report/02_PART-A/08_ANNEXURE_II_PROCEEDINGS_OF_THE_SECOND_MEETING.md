@@ -29,7 +29,7 @@ The following members were present :--
 - (6) Dates of **heliacal rising and setting** of Jupiter and Venus should be given in the calendar. 
 - (7) **śukla and Krṣna Pakṣas** should be separately shown and tithis should be numbered from s1 to 15 and K 1 to 14 and K 30. 
 - (8) **Moment of rising of the centre of the apparent Sun** to be given after making correction for refraction. The moment of sunset similarly calculated should also be given. 
-- (9) The **moment of Sun's entry into the naksatra divisions** should also be stated in the calendar. 
+- (9) The **moment of Sun's entry into the nakṣatra divisions** should also be stated in the calendar. 
 
 4. Dr. Gorakh Prasad enquired as to the **amount of the precession of the equinoxes** adopted in calculating the nakṣatras. He was informed that the calculations have been made with a constant ayanāṁśa of 23° 15', as no definite directive was given in the previous meeting for changing the ayanāṁśa year after year. He remarked that this is unscientific and opposed to the actual happenings in the sky. 
 
