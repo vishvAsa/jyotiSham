@@ -299,7 +299,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 5. N. C. Lahiri M.A. 
 - 6. Nirayana 
 - 7. Solar. 
-- 8. Meşa Samkrānti 
+- 8. Meṣa Samkrānti 
 - 9. Bengali San, 1360 B.S. begins on 14th April, 1953. 
 - 10. Vaiśākha to Caitra. 
 - 11. 365.d25636 
