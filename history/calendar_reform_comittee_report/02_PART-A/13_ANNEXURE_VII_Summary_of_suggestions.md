@@ -92,7 +92,7 @@ Letter dated 25. 5. 53.
 (i) Tithi and nakṣatra to be calculated according to Sūrya Siddhānta and not according to modern correct method. (ii) Dr̥ksiddha calculations to be taken only for eclipse purposes. (iii) Single calendar for the whole of India may be adopted for dating purposes and not for religious purposes, and this calendar is also unnecessary if we take the present English calendar for dating purposes. 
 
 ## 12. Shri Ambhujprasad P. Shulet
-Mersakasan's Chawk, Ghodhandur Road, Jogeswari, Bombay. Letter dated 1. 3. 53. 
+Merśakasan's Chawk, Ghodhandur Road, Jogeswari, Bombay. Letter dated 1. 3. 53. 
 
 (i) Favours adoption of Vikrama Samyat. (ii) Starting month as Kārtika śuklapakṣa. (iii) śuklapakṣa first, krṣṇapaksa second in each month. 
 
@@ -209,7 +209,7 @@ Narasaraopet, (Andhra) Letters dated 20. 4. 53 & 15. 8. 53.
 
 Advocates adoption of Gandhian era : (a) Year commencing from 15th August, (b) Dates of this calendar to be fixed, (c) Names of the months and number of days of the months to be as follows (for the 7th Year): 
 
-Svatantriyam 31 (First month) (15. 8. 53 to 14. 9. 53) Bhāratiyam 30 (15. 9. 53 to 14. 10. 53) Khādiprobodham 31 (15. 10. 53 to 14. 11. 53) Harijanadharanam 30 (15. 11, 53 to 14. 12. 53) Mārgadarsakam 31 (15. 12. 53 to 14. 1 54) Paramapadam. 31 (15. 1. 54 to 14. 2. 54) Uthejam 28 (15. 2. 54 to 14. 3. 54) Caitanyam 31 (15. 3. 54 to 14. 4. 54) Ahiṁsātmakam 30 (15. 4. 54 to 14. 5. 54) Matasa hanam 31 (15. 5. 54 to 14. 6. 54). Satyāgraham 30 (15. 6. 54 to 14. 7. 54) śāntimayam 31 (15. 7. 54 to 14. 8. 54) 
+Svatantriyam 31 (First month) (15. 8. 53 to 14. 9. 53) Bhāratiyam 30 (15. 9. 53 to 14. 10. 53) Khādiprobodham 31 (15. 10. 53 to 14. 11. 53) Harijanadharanam 30 (15. 11, 53 to 14. 12. 53) Mārgadarśakam 31 (15. 12. 53 to 14. 1 54) Paramapadam. 31 (15. 1. 54 to 14. 2. 54) Uthejam 28 (15. 2. 54 to 14. 3. 54) Caitanyam 31 (15. 3. 54 to 14. 4. 54) Ahiṁsātmakam 30 (15. 4. 54 to 14. 5. 54) Matasa hanam 31 (15. 5. 54 to 14. 6. 54). Satyāgraham 30 (15. 6. 54 to 14. 7. 54) śāntimayam 31 (15. 7. 54 to 14. 8. 54) 
 
 (d) 1st, 5th, 9th, 13th, 47th, 21st years etc. are leap years. 
 

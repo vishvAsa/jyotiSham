@@ -55,7 +55,7 @@ REPORT OF THE CALENDAD BEFOBM COMMITTEE
 
 Kautiliya Arthadastra Nakgatrai stiprcchantar bālam artho'tiyartate Artho hyarthasya nakpatram kim karięyanti tārakāh. 
 
-to the Sungod.: Professional astrologers) in:imang parts of India, admit to being descendants tof these Sakadvipi" -Brāhmagas and probably many of the eminent astronomers like. Aryabhaṭa and Varahamihira who made great scientfic contributions to 'astronomy belonged to this race. The planetary Sungod is always shown with high boots on, as in the case of Central Asian kings (e.g., Kaniṣka)... 
+to the Sungod.: Professional astrologers) in:imang parts of India, admit to being descendants tof these śakadvipi" -Brāhmagas and probably many of the eminent astronomers like. Aryabhaṭa and Varahamihira who made great scientfic contributions to 'astronomy belonged to this race. The planetary Sungod is always shown with high boots on, as in the case of Central Asian kings (e.g., Kaniṣka)... 
 
 It is a task for the historian to trace how the steps in which the importation of western astronomical knowledge took place for the Siddhāntas, which incorporate this knowledge and are all a few centuries later, and many of them bear no date. . 
 
@@ -69,13 +69,13 @@ This may be taken to represent the views of the practical politician about astro
 
 Canakya was the great minister of Candragupta, and history says that these two great leaders rolled back the bordes of the Macedonians, who had con. quered the Acheminid Empire of Iran comprising the whole of the Near East to the borders of Iran; and thereafter laid the foundation of the greatest empire India has ever seen. They clearly not only did not believe in astrology, but openly, and without reserve, ridiculed its pretensions. 
 
-But the influence of original Buddhism waned after the rise of Mahāyānist Buddhism, which received great encouragement during the reign of Kaniṣka (78 A.D. to 102 A.D.) and other Kuṣāna and śaka kings. Then came Buddhist iconography, coins, and knowledge of the methods of western date-recording which the Sakas and Kuṣānas used. They blended with the indigenous Indian system slowly. 
+But the influence of original Buddhism waned after the rise of Mahāyānist Buddhism, which received great encouragement during the reign of Kaniṣka (78 A.D. to 102 A.D.) and other Kuṣāna and śaka kings. Then came Buddhist iconography, coins, and knowledge of the methods of western date-recording which the śakas and Kuṣānas used. They blended with the indigenous Indian system slowly. 
 
 The focus of diffusion of western astronomical knowledge appears to have been the city of Ujjayini, capital of the western Satraps who were apparently the first to use a continuous era ( the śaka era ), and a method of date-recording which was at first purely Graeco-Chaldean as prevalent in Seleucid Babylon, but gradually Indian elements like the tithi and the nakṣatra were blended, as we find for the first time in the inscription of Satrap Rudrasimha, dated 181 A.D. (vide § 5.5). 
 
 This city of Ujjayini was later adopted as the Indian Greenwich, for the measurement of longitudes of places. The borrowal of astronomical knowledge was not therefore from Greece direct, but as now becomes increasingly clearer, from the West, which included Seleucid Babylon, and probably : through Arsacid Persia. The language of culture in these regions was Greek, and we therefore find Greek words like kendra fcentre), liptika (lepton), horā (hour) in use by Indian astronomers 
 
-This view is supported by the Indian myth that astrolatry and astrology were brought to India by a party of Sakadvipi Brahmanas (Scythian Brahmins), who were invited to come to India for curing Samba, the son of Krṣna, of leprosy by means of incantations 
+This view is supported by the Indian myth that astrolatry and astrology were brought to India by a party of śakadvipi Brahmanas (Scythian Brahmins), who were invited to come to India for curing Samba, the son of Krṣna, of leprosy by means of incantations 
 
 · The five Siddhāntas are : 
 

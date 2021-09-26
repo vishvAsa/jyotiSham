@@ -13,7 +13,7 @@ Further, all the numbers expressing month-lengths are fractional, and different 
 
 
 
-We have recommended the SAKA era, as this is the era par excellence used by all Indian astronomers, and had been used and is still used for calendaric calculations all over India, since the days of the Ujjain astronomers (first century A.D.). This is the only era used in all Indian scientific treatises. For other eras see C § 5.8. 
+We have recommended the śaka era, as this is the era par excellence used by all Indian astronomers, and had been used and is still used for calendaric calculations all over India, since the days of the Ujjain astronomers (first century A.D.). This is the only era used in all Indian scientific treatises. For other eras see C § 5.8. 
 
 
 

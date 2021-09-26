@@ -60,7 +60,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 6. Nirayana. 
 - 7. Luni-Solar. 
 - 8. Chaitra śuddha Pradhama. 
-- 9. Salivahana Saka (elapsed) begins on Chaitra śuddha Pradhama. 
+- 9. Salivahana śaka (elapsed) begins on Chaitra śuddha Pradhama. 
 - 10. Chaitra, Vaishaka, Jyestha, Asadba, śravaṇa, Bhādrapada, Agwayuja ,Kartika, Margasira, Pushya, Magha, Phalguna. 
 - 11. 365d 15g 31 vg 
 - 12. 23° 12' 4" 
@@ -69,14 +69,14 @@ The calendar makers were requested to furnish certain data relating to their cal
 
 
 ### Chitrasala Panchang. 
-- 2. 1924-25 A. D. (Saka 1846). 
+- 2. 1924-25 A. D. (śaka 1846). 
 - 3. Marathi. 
 - 4. Chitrasala Press, 10/26 Sadasiv Peth, Poona-2. 
 - 5. Dhundiraj Laxman Date of Sholapur and Gopal Balwant Joshi of Poona. 
 - 6. Nirayana, Sun & Moon's entry into signs, nakshatras, yogas are also given on sayana basis. 
 - 7. Luni-Solar, Amanta. 
 - 8. 1st tithi of Chaitra. 
-- 9. Salivahana Saka 1875 begins on 16th March, 1953. 
+- 9. Salivahana śaka 1875 begins on 16th March, 1953. 
 - 10. Chaitra to Phalguna: 
 - 11. 365d 6h 9m 11s (365d 15g 22p 57vd) 
 - 12. 23° 12' 7" 
@@ -85,7 +85,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 
 
 ### Gupta Press Panjika. 
-- 2. 1277 B. S. (Sakabda 1792). 
+- 2. 1277 B. S. (śakabda 1792). 
 - 3. Bengali. 
 - 4. 37/7 Beniatola Lada Calcutta-9. 
 - 5. Pt. Ramrup Vidyabagis. 
@@ -105,7 +105,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 6. Nirayana. 
 - 7. Luni-Solar, Amanta. 
 - 8. Chaitra Sukla 1. 
-- 9. Salivahana Saka, 1875 begins on 16th March, 1953. 
+- 9. Salivahana śaka, 1875 begins on 16th March, 1953. 
 - 10. Chaitra to Phalguna. 
 - 11. 365d 158 23v8 
 - 12. 23° 12' 8" 
@@ -120,7 +120,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 6. Nirayana. 
 - 7. Luni-Solar, Amanta. 
 - 8. Chaitra Sukla 1. 
-- 9. Salivahana Saka 1875 begins on 16th March, 1953. 
+- 9. Salivahana śaka 1875 begins on 16th March, 1953. 
 - 10. Chaitra to Phalguna. 
 - 11. 365d 158 23v8. 
 - 12. 23° 12' 8" 
@@ -128,14 +128,14 @@ The calendar makers were requested to furnish certain data relating to their cal
 
 
 ### Latkar Panchang. 
-- 2. 1910 A.D. (Saka 1832). 
+- 2. 1910 A.D. (śaka 1832). 
 - 3. Marathi & Sanskrit mixed. 
 - 4. 152B, Mahadwar Road, Kolhapur. 
 - 5. Vasudeo Sankar Latkar. 
 - 6. Nirayana. 
 - 7. Luni-Solar, Amanta. 
 - 8. 1st day of Chaitra. 
-- 9. Salivahana Saka 1875 begins on 16th March, 1953. 
+- 9. Salivahana śaka 1875 begins on 16th March, 1953. 
 - 10. Chaitra to Phalguna. 
 - 11. 365d 65 gm 
 - 12. 23° 12'6" 
@@ -143,14 +143,14 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 14. Modern method. Jyotirganita, Grahaganita, Karanakalpalata.
 
 ### Kolhapuri Panchang. 
-- 2. 1910 A.D. (Saka 1832). 
+- 2. 1910 A.D. (śaka 1832). 
 - 3. Marathi & Sanskrit mixed. 
 - 4. Hire Math, Sukrawar Peth, Kolhapur. 
 - 5. Pt. Channabasava Sastry, Gurupad Swamy 
 - 6. Nirayana. 
 - 7. Luni-Solar, Amanta. 
 - 8. 1st day of Chaitra. 
-- 9. Salivahana Saka 1875, begins on 16th March, 1953. 
+- 9. Salivahana śaka 1875, begins on 16th March, 1953. 
 - 10. Chaitra to Phalguna. 
 - 11. 365d 6h gm 
 - 12. 23° 12' 6" 
@@ -180,7 +180,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 6. Nirayana. 
 - 7. Luni-Solar, Amanta. 
 - 8. Sun entering 1st point of Asvini. 
-- 9. Saka 1877 begins on 14th April, 1954 (Kali 5056). 
+- 9. śaka 1877 begins on 14th April, 1954 (Kali 5056). 
 - 10. Chitrai, Vaikasi, Ani, Adi, Avani Purottosi, Ipasi, Kartigai, Margali, Thai, Masi, Panguni. 
 - 11. 365d 155 23 
 - 12. 23° 12' 9".87 
@@ -195,7 +195,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 6. Nirayana. 
 - 7. Luni-Solar, Amanta. 
 - 8. Chaitra Sukla 1. 
-- 9. Salivahana Saka 1875 begins on 16th March, 1953. 
+- 9. Salivahana śaka 1875 begins on 16th March, 1953. 
 - 10. Chaitra to Phalguna. 
 - 11. 365d 15g 23vs. 
 - 12. 23° 12' 7". 
@@ -264,14 +264,14 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 14. Modern method. Tables of the Sun & the Moon by Dr. Gorakh Prasad, Ketkar's Jyotirganitam, Tables of Mercury by H. P. Bhatt, Karanakalpalata by Dr. K. L. Daftari, Raj Jyotish Ganitam by C. G. Rajan and Nautical Almanacs.
 
 ### Nagpur Tilak Panchang. 
-- 2. 1925 A. D. (1848 Saka) 
+- 2. 1925 A. D. (1848 śaka) 
 - 3. Marathi. 
 - 4. Panchang gulli, Mahal, Nagpur-2 
 - 5. Gangadhar Ramkrishna Deo of Nagpur & Dattatraya Krishna Rao Sule of Bombay. 
 - 6. Nirayana. 
 - 7. Luni-Solar, Amanta. 
 - 8. Chaitra 
-- 9. Saka era 1875 begins from 16th March, 1953. 
+- 9. śaka era 1875 begins from 16th March, 1953. 
 - 10. Chaitra to Phalguna. 
 - 11. 365.2564 
 - 12. 19° 13' 51" 
@@ -279,14 +279,14 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 14. Modern method. Karanakalpalata by Dr. K. L. Daftari.
 
 ### Prachin Grahalagaviya Paddhati Panchang. 
-- 2. 1852 Saka. 
+- 2. 1852 śaka. 
 - 3. Marathi. 
 - 4. Ganapati Sangsthan Press, Sangli, Poona. 
 - 5. Raghunath Sikdev Gulbani. 
 - 6. Nirayana. 
 - 7. Luni-Solar, Amanta. 
 - 8. Chaitra Sukla Pratipada. 
-- 9. Saka era begins on 16th March, 1953. 
+- 9. śaka era begins on 16th March, 1953. 
 - 10. Chaitra-Phalguna. 
 - 11. 365d 15€ 3148.52 
 - 12. 23° 8' 3" 
@@ -315,21 +315,21 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 6. Nirayana. 
 - 7. Luni-solar, Amanta. 
 - 8. Chaitra Sukla 1. 
-- 9. Salivahana Saka 1875 begins on 16th March, 1953. 
+- 9. Salivahana śaka 1875 begins on 16th March, 1953. 
 - 10. Chaitra-Phalguna. 
 - 11. 365d 6h gm 
 - 12. - 23° 12' 6" 
 - 13. 50".22 14. Modern method. Jyotirganita & Karana kalpalata
 
 ### Datey's Panchang (Big size & small size ). 
-- 2. Shaliva hana Saka 1833. 
+- 2. Shaliva hana śaka 1833. 
 - 3. Marathi. 
 - 4. 537, South Kasaba, Sholapur. 
 - 5. Laxman Gopal Date. 
 - 6. Nirayana. 
 - 7. Luni-Solar, Amanta. 
 - 8. Chaitra Sukla 1. 
-- 9. Current Salivahana Saka 1875 begins on 16th March, 1953. 
+- 9. Current Salivahana śaka 1875 begins on 16th March, 1953. 
 - 10. Chaitra to Phalguna. 
 - 11. 365.25636 
 - 12: 23° 12' 7" 
@@ -337,14 +337,14 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 14. Modern method. Tables of the Sun & the Moon by Dr. Gorakh.Prasad, Jyotirganita by Ketkar, Karana kalpalata by Dr. K. L. Daftari, Tables of Mercury by Prof. Harihar Bhatt, Raja Jyotish Ganitam by C. G. Rajan and Nautical Almanac.
 
 ### Nirnaysagar Panchang. 
-- 2. Shalivahana Saka 1786. 
+- 2. Shalivahana śaka 1786. 
 - 3. Marathi. 
 - 4. Nirnaysagar Press, 26/28, Kolbhat Street, Kolbadevi Road, Bombay-2. 
 - 5. Laxman Gopal Date of Sholapur. 
 - 6. Nirayana. 
 - 7. Luni-Solar, Amanta. 
 - 8. Chaitra Sukla 1. 
-- 9. Current Shalivahana Saka era 1875 begins on 16th March, 1953. 
+- 9. Current Shalivahana śaka era 1875 begins on 16th March, 1953. 
 - 10. Chaitra to Phalguna. 
 - 11. 365.25636 days 
 - 12. 23° 12' 7" 
@@ -359,7 +359,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 6. Nirayana. 
 - 7. Luni-Solar, Amanta. 
 - 8. Chaitra Shudha 1. 
-- 9. Sakarambha, April. 
+- 9. śakarambha, April. 
 - 10. Chaitra to Phalguna. 
 - 11. 365d 158 3.685 
 - 12. 23° 10' 1" * Zero ayanamasa year 450 from the starting point Nischar Revati yoga tara.
@@ -375,7 +375,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 6. Nirayana. 
 - 7. Luni-Solar, Purnimanta. 
 - 8. Chaitra Sukla 1. 
-- 9. Shalivahana Saka 1876 begins on 4th April, 1954. 
+- 9. Shalivahana śaka 1876 begins on 4th April, 1954. 
 - 10. Chaitra to Phalguna. 
 - 11. 3654 156 319 15vp 
 - 12. 23° 12' 14".3994 
@@ -398,14 +398,14 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 14. Modern method.
 
 ### Brihan Maharashtriya Panchang. 
-- 2. Shalivahan Saka 1871 (1949-50 A.D.) 
+- 2. Shalivahan śaka 1871 (1949-50 A.D.) 
 - 3. Marathi. 
 - 4. 364, Somwar Peth, Poona-2. 
 - 5. Ganak Choodamani Pandit Krishna Chandra Shastri Sharma. 
 - 6. Nirayana. 
 - 7. Luni-Solar, Amanta. 
 - 8. First day (Tithi) of the month of Chaitra. 
-- 9. Shalivahana Saka 1875 begins on 16th March, 1953. 
+- 9. Shalivahana śaka 1875 begins on 16th March, 1953. 
 - 10. Chaitra to Phalguna. 
 - 11. 365d 15€ 22P 57" (3654 6h gm 119) 
 - 12. 23° 12' 7" : 
@@ -488,14 +488,14 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 14. Modern method. Works of Bapuji Venkatesh Ketkar.
 
 ### Prabhakar Panchangam. 
-- 2. Shalivahan Saka 1863. 
+- 2. Shalivahan śaka 1863. 
 - 3. Kanada & Sanskrit. 
 - 4. Prabhakar Panchang Karyalaya, Mudgal, Dt. Raichur (Hyderabad). 
 - 5. Ramchandra Prabhakar Bhatt Joshi 
 - 6. Nirayana. 
 - 7. Luni-Solar, Amanta. 
 - 8. About March. 
-- 9. Shalivahan Saka 1875 begins on 16th March, 1953 
+- 9. Shalivahan śaka 1875 begins on 16th March, 1953 
 - 10. Chaitra to Phalguna: 
 - 11. 365d 154 22P 54 vp 
 - 12. 23° 12' 8" 
@@ -527,7 +527,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 6. Nirayana. 
 - 7. Luni-Solar, Amanta. 
 - 8. About March every year. 
-- 9. Saka 1875 begins on 16th March, 1953. 
+- 9. śaka 1875 begins on 16th March, 1953. 
 - 10. Chaitra to Phalguna. 
 - 11. 365d 6h gm 98.55 
 - 12. 23° 12' 8" 
@@ -557,7 +557,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 6. Nirayana. 
 - 7. Luni-Solar, Amanta. 
 - 8. Chaitradi. 
-- 9. Shalivahan Saka 1876 begins on 4th April, 1954 
+- 9. Shalivahan śaka 1876 begins on 4th April, 1954 
 - 10. Chaitra to Phalguna. 
 - 11. 365d 154 22.& 9479 
 - 12. 23° 12'6" 
@@ -632,7 +632,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 6. Nirayana. 
 - 7. Luni Solar, Purnimanta. 
 - 8. First day of Chaitra. 
-- 9. Shalivahana Saka begins in March or April. 
+- 9. Shalivahana śaka begins in March or April. 
 - 10. Chaitra to Phalguna. 
 - 11. 365d 155 30P 
 - 12. 23° 51' 
@@ -648,7 +648,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 6. Nirayana. 
 - 7. Luni Solar, Amanta. 
 - 8. Chaitra Sukla pratipad. 
-- 9. Shalivahana Saka 1875 begins on 16th March, 1953. 
+- 9. Shalivahana śaka 1875 begins on 16th March, 1953. 
 - 10. Chaitra to Phalguna. 
 - 11. 365d 158 23v8 or 365.256 days 
 - 12. 23° 12' 7" 
@@ -680,7 +680,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 5. Veerangonda D. S. Patil, Menasigi. 
 - 6. Nirayana. 
 - 8. Chaitra Sukla 1. 
-- 9. Salivahana Saka, 1876 begins on 4th April, 1954. 
+- 9. Salivahana śaka, 1876 begins on 4th April, 1954. 
 - 10. Chaitra-Phalguna. 
 - 11. 
 - 12. 23° 12' 9" 
@@ -724,7 +724,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 6. Sayana (?) 
 - 7. Luni-Solar 
 - 8. March to April. 
-- 9. Shalivahana Saka Jaya Samvatsara begins on 4th April, 1954. 
+- 9. Shalivahana śaka Jaya Samvatsara begins on 4th April, 1954. 
 - 10. Chaitra-Phalguna. 
 - 11. 
 - 12. 23° 12' 7" 

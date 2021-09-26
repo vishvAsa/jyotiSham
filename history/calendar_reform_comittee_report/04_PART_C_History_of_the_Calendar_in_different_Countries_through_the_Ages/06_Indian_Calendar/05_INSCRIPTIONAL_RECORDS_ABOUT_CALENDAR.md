@@ -239,9 +239,9 @@ INDIAN.CALENDAR
 
 From the above review of inscriptional records and contemporary history, the following story has been reconstructed. 
 
-(1) The. śaka era was first started in 123 B.C. when the Sakas coming from Central Asia due to the pressure of Hunas wrested Bactria from the Parthian emperors after a seven years' war. The leader was probably one 'Azes', and therefore the era was also alternately called the 'Azes' era. This Azes is not to be confounded with the two later Azes who succeeded Maues and reigned between 45 B. C. to 20 B. C. Earlier Sakas used Macedonian months and Graeco Chaldean method of date recording, prevalent throughout the whole of Near East. In Indian dominions, Indian months which were equated to Greek months were used. As their coins show, the ruling class had adopted Greek culture. 
+(1) The. śaka era was first started in 123 B.C. when the śakas coming from Central Asia due to the pressure of Hunas wrested Bactria from the Parthian emperors after a seven years' war. The leader was probably one 'Azes', and therefore the era was also alternately called the 'Azes' era. This Azes is not to be confounded with the two later Azes who succeeded Maues and reigned between 45 B. C. to 20 B. C. Earlier śakas used Macedonian months and Graeco Chaldean method of date recording, prevalent throughout the whole of Near East. In Indian dominions, Indian months which were equated to Greek months were used. As their coins show, the ruling class had adopted Greek culture. 
 
-(2) When the - Sakas spread from "Sakasthān', i.e., modern Afghanistan into contiguous parts of India, they began to be influenced by Indian culture. During the first stage, they exclusively used Greek in their coins, but later they began to use Kharoṣṭhi and Brahmi as well. The coins of Maues (80 B.C:---45 B.C.), Azes I, Azilises, Azes II show increasing influence of Indian culture. The southern Sakas who penetrated into Saurashtra and Malwa show Indian influence to a greater degree. . 
+(2) When the - śakas spread from "śakasthān', i.e., modern Afghanistan into contiguous parts of India, they began to be influenced by Indian culture. During the first stage, they exclusively used Greek in their coins, but later they began to use Kharoṣṭhi and Brahmi as well. The coins of Maues (80 B.C:---45 B.C.), Azes I, Azilises, Azes II show increasing influence of Indian culture. The southern śakas who penetrated into Saurashtra and Malwa show Indian influence to a greater degree. . 
 
 (3) In the first three centuries, they (Maues group, Nahapāna group and Kuṣānas) used the old śaka era omitting hundreds, and using a method of date recording which was an exact copy of the contem porary Graeco-Chaldean system prevalent throughout the Parthian empire (Macedonian months, and ordinal number of days). But they also began to use Indian months. Whenever they did it, the , month was Purnimānta, as was the custom with old Hindu dynasts (Mauryas and śātavāhanas). 
 
@@ -249,7 +249,7 @@ From the above review of inscriptional records and contemporary history, the fol
 
 The senior author has shown that Nahapjna used the old śaka bra with one hundred omitted, so that the year 46 of Nahapāna was the year 146 of the old śaka era or about 24 A.D. 
 
-The Sātavāhana kings Gautamiputra Satakarni and his son Vasiṣthiputra Pulumavī, whose records are .found dated in the typical Indian fashion, reigned according to his hypothesis from about 40 A.D. to 80 A.D. From epigraphical record, Nahapana is at least separated by about 100 years from the next group of śaka rulers, viz., the Sakas of Ujjain belonging to the house of Caṣtana. 
+The Sātavāhana kings Gautamiputra Satakarni and his son Vasiṣthiputra Pulumavī, whose records are .found dated in the typical Indian fashion, reigned according to his hypothesis from about 40 A.D. to 80 A.D. From epigraphical record, Nahapana is at least separated by about 100 years from the next group of śaka rulers, viz., the śakas of Ujjain belonging to the house of Caṣtana. 
 
 The śaka satraps of Ujjain. We come across the records of another śaka ruling family, reigning in Ujjain. 
 
@@ -267,7 +267,7 @@ There is no doubt that the year mentioned is that of the Baka era as now known. 
 
 The earliest authentic instance of the use of śaka era by name is supplied by the Badæmi inscription of Calikya Vallabhesvara (Pulakesin I of the Calukya dynasty), dated 465 of the śaka era (śaka- Varsanu Catus-sateṣu pañca-ṣasthi-yutesu : Epigraphia Indica XXVII, p. 8). In literature the use of the era by name appears still earlier. The Lokavibhāga of Simhasari, a Digambara Jaina work in Sanskrit is stated in a manuscript to have been completed in 80 beyond 300 (i.e. 380) of the śaka years (Ep. Ind., XXVII, p. 5). There is no doubt that the era used in the records of the western satrapal house beginning with Castana and Rudradaman have come down to the present times as the śaka Era, which is the 'Era' par excellence used by Indian astronomers for purposes of calculation. There ere 30 or more 'Eras' which have been in use in India (vide § 5*8), but none of them have been 
 
-Śaka Era in the South-West. Besides the earlier Sakas belonging to the Maues group, and the Kuṣānas, there was another groupof śaka kings, who penetrated into the south-western part of India. The earliest representative of this group was Nahapana and his son-in-law Uṣavadata. Their records are dated in years 41 to 46 of an unknown era. They use Indian lunar honths and days (probably tathis). These Sakas ruled in Rajputana, Malwa, and northern Maharastra and were engaged in continuous warfare with the Sātavāhana ruler Gautamiputra Satakarni who claim to have destroyed them root and branch. 
+Śaka Era in the South-West. Besides the earlier śakas belonging to the Maues group, and the Kuṣānas, there was another groupof śaka kings, who penetrated into the south-western part of India. The earliest representative of this group was Nahapana and his son-in-law Uṣavadata. Their records are dated in years 41 to 46 of an unknown era. They use Indian lunar honths and days (probably tathis). These śakas ruled in Rajputana, Malwa, and northern Maharastra and were engaged in continuous warfare with the Sātavāhana ruler Gautamiputra Satakarni who claim to have destroyed them root and branch. 
 
 234 
 
@@ -277,7 +277,7 @@ Yet it is difficuit wo assign the origin of the śaka era to the western satraps
 
 The conclusion is that the western Kṣatrapas used the old Śaka era, with 200 omitted ; so that year 1 of the present Śaka era is year 201 of the old Śaka era, i.e., (201-122)=79 A.D. . 
 
-The gradual adoption of characteristic Indian ideas by the Sakas is shown in a record of Satrap Rudrasimha dated 103 S.E. or 181 A.D. 
+The gradual adoption of characteristic Indian ideas by the śakas is shown in a record of Satrap Rudrasimha dated 103 S.E. or 181 A.D. 
 
 [Gundā Stone Inscription of the time of Rudrasimha I, Sircar, p. 176] 
 

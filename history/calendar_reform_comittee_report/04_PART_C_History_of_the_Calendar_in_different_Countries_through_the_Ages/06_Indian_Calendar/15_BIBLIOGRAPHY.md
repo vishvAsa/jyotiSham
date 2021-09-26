@@ -7,7 +7,7 @@ title = "15 BIBLIOGRAPHY"
 - Alter, D. & Cleminshaw, C. H. (1952)—Pictorial Astronomy, New York. 
 - Aryabhaṭīya of Āryabhaṭa-translated with notes by W. E. Clark, Chicago, 1930. 
 - American Ephemeris ' & Nautical Almanac for the years 1954 and 1955.
-- Bachuofer, Dr. L. (1936)-Herrscher and Munzen in spaten Kushanas, Journal of American Oriental Society. Vol. 56. - (1941) On Greeks and Sakas in India, Journal of American Oriental Sooiety, Vol. 61, p. 223. 
+- Bachuofer, Dr. L. (1936)-Herrscher and Munzen in spaten Kushanas, Journal of American Oriental Society. Vol. 56. - (1941) On Greeks and śakas in India, Journal of American Oriental Sooiety, Vol. 61, p. 223. 
 - Basak, Dr. Radhagovinda (1950)--Kauţiliya Arthaśāstra, Bengali translation, Calcutta.
 - Bhandarkar (1927-34)—Inscriptions of Northern India, Appendix to Epigraphia Indica, Vols. XIX-XXII. Brennand, W. (1896)-Hindu Astronomy.
 - Burgess, Rev. E. (1935)-The Sūrya-Siddhānta, English translation, with an introduction by P. O. Sengupta (Republished by the Calcutta University).
@@ -27,7 +27,7 @@ title = "15 BIBLIOGRAPHY"
 - Fotheringham, Dr. J. Ko (1935)-The Calendar, article published in the Nautical Almanac, London 1935.
 - Ginsel, F. K. (1906)-Handbuch der Mathematischen und Technischen Chronologie, Bd. I, Leipzig. 
 - Haug, Dr. Martin-Aitareya Brāhmaṇa of the Rig Veda.
-- Herzfeld (1932)--Sakasthan, Archaeologische Mitteilungen ans Iran.
+- Herzfeld (1932)--śakasthan, Archaeologische Mitteilungen ans Iran.
 - Jacobi, Prof. Hermann (1892)-The computation of Hindu dates in inscriptions, Eph. Ind. Vol. I, p. 403.
 - Jones, Sir H. Spencer (1934, 1955)-General Astronomy, : London - (1952)—Calendar, Past, Present & Future . \--a lecture delivered at the Royal Society of Arts, London, 1952. - (1937) The measurement of time, published in the Reports on Progress in Physics, Vol. IV, London. Journal of Calendar Reform, New York.
 - Keith, Dr. Berriedalo—The Veda of the Black Yajur School entitled Taittiriya Samhitā, Part. 2. Khandakhādyaka of Brahmagupta--Edited with an introduction by Babua Misra-translated by P. C. Sengupta (1934), Calcutta University, 1934.

@@ -591,7 +591,7 @@ krona or vahula, 15, 221, 228, 233, 247;
 
 196, 197: Paravidhå, 101, 108 ; 'malas for, 109 Parivatuara, 225 Passover fast, 170 Pataliputra, 10, 213, 234, 252 .. Paulina Siddhānta, 204 Paulus of Alexandria, 204, 237 Perihelion, 242 ; movement of, 243 Pesbiwar Museum (inscription), 229, 230 Philhellens, 213 
 
-Sachs, A., 199, 201 Saha, Prof. M. N., 173, 232, 252, 256 Sabdaur A (inscription), 229 Sahdaur B (inscription), 229 Sabni, Dayaram, 232 Sakas, 213, 230, 233, 236 Sakadvipi Brah mapas, 214, 236, 256 śaka sanyat, 255 Katasthån, 213, 233 Sakendra kāla, 255 Sáliváhana śaka, 255 Samarkand, 10 
+Sachs, A., 199, 201 Saha, Prof. M. N., 173, 232, 252, 256 Sabdaur A (inscription), 229 Sahdaur B (inscription), 229 Sabni, Dayaram, 232 śakas, 213, 230, 233, 236 śakadvipi Brah mapas, 214, 236, 256 śaka sanyat, 255 Katasthån, 213, 233 Sakendra kāla, 255 Sáliváhana śaka, 255 Samarkand, 10 
 
 Sama Veda, 214, 218 Samhitãs, 214, 218 Samökrånti, 2, 7, 239, 244 
 
