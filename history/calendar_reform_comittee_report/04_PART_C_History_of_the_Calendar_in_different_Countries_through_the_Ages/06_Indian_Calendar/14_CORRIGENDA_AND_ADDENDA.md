@@ -2,6 +2,7 @@
 title = "14 CORRIGENDA AND ADDENDA"
 
 +++
+[Jumbled 2 column text needs to be fixed]
 
 Part A Page 2, 1st ool, line 36, For O § 4'10, read 0 8 4'9 Page 3, 2nd col. line 46, For happend, read happened Page 4, 1st col. line 12, For was, read were Page 21, 2nd col. No. 35, Insert Ceylon after Chavakachcheri 
 

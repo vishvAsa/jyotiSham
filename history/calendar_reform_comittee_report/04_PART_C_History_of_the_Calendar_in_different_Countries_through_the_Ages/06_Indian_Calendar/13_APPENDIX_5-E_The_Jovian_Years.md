@@ -2,6 +2,7 @@
 title = "13 APPENDIX 5-E The Jovian Years"
 
 +++
+[Jumbled 2 column text needs to be fixed]
 
 (Bārhaspatya Varṣa) 
 

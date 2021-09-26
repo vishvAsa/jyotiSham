@@ -2,6 +2,7 @@
 title = "12 AP 5-D Precession of the Equinoxes amongst Indian Astronomers"
 
 +++
+[Jumbled 2 column text needs to be fixed]
 
 On p. 226, we have given references to pre-Siddhāntio The surmise that the early Siddhāntic astronomers were notices of the location of the vernal point in the sky. We ignorant of the movement of the equinoxes is supported by saw that ancient Indian savants noticed its gradual shift the fact that neither of the early eminent astronomers ( due to procession ), but were only puzzled by the pheno 
 

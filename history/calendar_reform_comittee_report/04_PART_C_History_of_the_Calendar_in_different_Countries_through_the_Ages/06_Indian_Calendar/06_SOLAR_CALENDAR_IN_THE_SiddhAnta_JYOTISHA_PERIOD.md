@@ -3,6 +3,8 @@ title = "06 SOLAR CALENDAR IN THE SiddhAnta JYOTISHA PERIOD"
 
 +++
 
+[Jumbled 2 column text needs to be fixed]
+
 Rise of Siddhāntas or Scientific Astronomy: 
 
 The Vedānga Jyotiṣa calendarical rules appear, from inscriptional records, to have been used right up to the end of the reign of the śātavāhanas (200 A.D.). The analysis of inscriptional data on methods of date recording given in § 5.5 shows that it was the śaka and Kuṣāṇa rulers (50 B.C. - 100 A.D.), who introduced the Graeco-Chaldean methods of date-recording, prevalent in' the Near East into India. These methods require a knowledge of the fundamentals of astronomy, which must have been available to the śaka and Kuṣāna rulers. In India, as 'the inscriptional records show, some purely Indian dynasts probably accepted the system in full from about 248 A.D. (date of foundation of the Kalachuri era, the earliest era founded by Indian kings, leaving aside the śaka era which is admittedly of foreign origin and the Vikrama era whose origin is still - shrouded in mystery). During the time of the Guptas who founded an era commemorating their accession to power in 319 A.D. the integration of the western system with the Indian appears to have been complete. 

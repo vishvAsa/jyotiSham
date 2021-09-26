@@ -2,6 +2,8 @@
 title = "11 APPENDIX 5-C Gnomon Measurements in Aitareya Brahmana"
 
 +++
+[Jumbled 2 column text needs to be fixed]
+
 
 References to the observation of the solstice are found The Vedic year-long sacrifices were begun in the earliest in vory early litorature as the following passage from the times on the day following the winter solstice. Honoo the Aitareja Brāhmaṇa shows?: 
 

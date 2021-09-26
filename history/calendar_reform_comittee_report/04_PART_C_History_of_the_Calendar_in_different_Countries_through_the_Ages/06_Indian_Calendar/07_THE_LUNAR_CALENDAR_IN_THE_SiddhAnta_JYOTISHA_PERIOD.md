@@ -3,6 +3,9 @@ title = "07 THE LUNAR CALENDAR IN THE SiddhAnta JYOTISHA PERIOD"
 
 +++
 
+[Jumbled 2 column text needs to be fixed]
+
+
 Justification of the Solar Calendar as proposed 
 
 by the Committee It has been shown that the intention of the maker of Sarya Siddhānta and of other Siddhāntas was to start the year from the moment of sun's crossing the vernal equinoctial point and to start the civil year from the day following. The Committee has also adopted this view and proposed that the civil year for all-India use should start from the day following the V. E. day, i.e., from March 22. In the Vedic literature also it is found that the starting of the year was related with one or other of the cardinal days of the year. The Vedānga Jyōtiṣa started the year from the winter solstice day, the Brāhmaṇas started the year from the Indian spring (Vasanta) when the tropical (Sayana) longitude of the sun amounted to 330°, but in the Siddhāntic period the year-beginning coincided with the V. E. day. So in adopting the Sāyana system in our calendar calculations, the Indian tradition, from the Vedic times up to the Siddhāntic times, has been very faithfully observed. This has ensured that the Indian seasons would occupy permanent places in the calendar. . 

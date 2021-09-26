@@ -2,6 +2,7 @@
 title = "09 AP 5A The Seasons"
 
 +++
+[Jumbled 2 column text needs to be fixed]
 
 We have seasons because the celestial equator is oblique The amount of daylight received at any place determines to the sun's path (or the ecliptic), or in modern parlanoo, the season. When we have maximum sunlight, we have the axis of rotation of the earth is not perpendioular to its the bot season. When we have minimum sunlight, we shall orbit, but inclined at an angle of 661. This causes varying have winter. The other seasons come in-between. Bain, amounts of sunlight to fall on a particular locality through frost, etc., are secondary effects produced by varying out the year. If the earth's axis were perpendicular to the amounts of sunlight, and of the atmospherio conditions ecliptic, in other words the obliquity were zero, overy stimulated by the sunlight received. The sun is the sole portion of the earth from the equator to the pole would Srbiter of the seasons. have had 12 hours of sunlight, and- 12 hours of shade. Hence the definitions of seasons as given by the ancient There would have been no seasons on any part of the earth, astronomers, whether Western and Indian, which base them just as we have now for places on the earth's equator, whore on the cardinal days of the year, are the only correct, we have no variation of geason throughout the year, because definitions. A system which deviates from this practice is the day and night are equal for all days of the year. 
 
