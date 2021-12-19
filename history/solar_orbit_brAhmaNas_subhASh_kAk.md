@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sun's orbit in brAhmaNas
 unicode_script: devanagari
 ---
