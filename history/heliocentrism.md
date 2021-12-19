@@ -1,7 +1,7 @@
 ---
 title: Heliocentrism, spherical earth
----
 
+---
 ## References
 Many of the uncited quotes and translations are by the mAnasatarangiNIkAra.
 
@@ -140,4 +140,3 @@ In the manner of ants son a ball, the beings are stationed on the earth. Held by
 - Modern visualizations - [SD](https://www.youtube.com/watch?v=oELKxRPHR6U).
 - "The Srimad-Bhagavatam’s mode of presentation is very different from the familiar modern approach. Although the Bhagavatam’s “Earth” (disk- shaped Bhu-mandala) may look unrealistic, careful study shows that the Bhagavatam uses Bhu-mandala to represent at least four reasonable and consistent models: (1) a polar- projection map of the Earth globe, (2) a map of the solar system, (3) a topographical map of south-central Asia, and (4) a map of the celestial realm of the demigods."
 - "He argues for the spheroid earth theory and synchronizes the calculations mentioned in the puranas with the modern calculation we have with our observations... this theory had already been challenged by other ISKCON members. One of the arguments is that in his theory he dismantles the idea of existence of plane bhumandala and reduces them to the imaginary description of the planetary orbits when seen from the geocentric reference. The data does match to about 65% accuracy."
-
