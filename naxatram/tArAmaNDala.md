@@ -63,7 +63,7 @@ Vedic Taittiriya Aranyaka names।  \[[ऽत्र](/saMkAraH/mantraH/misc-deva
 - pra vAM sharadvAn vR^iShabho na niShShAT pUrvIr iShash charati madhva iShNan |
     evair anyasya pIpayanta vAjair veShantIr UrdhvA nadyo na AguH || (RV 1.181.06)
     Approximately: The autumnal bull of you two, like a mighty one comes forth, sending from the east, sending forth honey. \[[MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/)\]
-- "[स जनास इन्द्रः](../../../vedAH/Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते ऽपि लक्ष्यते।
+- "[स जनास इन्द्रः](/vedAH_Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते ऽपि लक्ष्यते।
 
 ### रोहिणी-शकटम्, सारथिः
 - revad uvAha sachano ratho vAM vR^iShabhash cha shiMshumArash cha yuktA || \[RV 1.116.18cd\] \[[MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/)\] = The chariot that bore you two brought beautiful riches: a bull and a dolphin were yoked together.
