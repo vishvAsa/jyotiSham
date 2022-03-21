@@ -16,7 +16,7 @@ The following were present :
 ## PM Message
 3. The Prime Minister, who could not be personally present, sent the following message : 
 
-<div class="js_include" url="../../01_Intro/01_Nehrus_MESSAGE/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="../../01_Intro/01_Nehrus_MESSAGE/"></div>  
 
 ## Malaviya message
 4. Shri K. D. Malaviya, Deputy Minister, Natural Resources and Scientific Research, Government of India, inaugurated the first meeting of the Calendar Reform Committee. Shri Malaviya said : 
