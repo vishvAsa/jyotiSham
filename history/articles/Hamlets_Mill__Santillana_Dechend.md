@@ -10293,8 +10293,9 @@ Nobody is likely to contradict the stated uncertainty of the meaning; it would b
 
 
 
-# Notes
+## Notes
 
+### 
 **Chapter I**
 
 1. Saxo, however, wrote *gubernaculum*, i.e., steering oar \(3.6.10; *Gesta Danorum*, C. Knabe and P. Herrmann, eds. \(1931\), p. 79\).  
@@ -10320,6 +10321,7 @@ Nobody is likely to contradict the stated uncertainty of the meaning; it would b
 
 
 
+### 
 **Chapter II**
 
 1. FUF *3* \(1903\), pp. 61-97, 188-255; *7* \(1907\), pp. 188-224; *10* \(191\), pp. 44-127.
@@ -10342,6 +10344,7 @@ Nobody is likely to contradict the stated uncertainty of the meaning; it would b
 
 
 
+### 
 **Chapter III**
 
 1**.** We cite here the English translation of Arthur and Edward Warner \(1905-1909\).
@@ -10368,6 +10371,7 @@ Nobody is likely to contradict the stated uncertainty of the meaning; it would b
 
 
 
+### 
 **Chapter IV**
 
 1. Persia "belongs" to Aries according to Paulus Alexandrinus. See Boll's Sphaera, pp. 296f., where it is stated that this was the oldest scheme. It is still to be found in the Apocalypse. Moses' ram's horns stand for the same world-age.
@@ -10419,6 +10423,7 @@ Nobody is likely to contradict the stated uncertainty of the meaning; it would b
 
 
 
+### 
 **Chapter V**
 
 1. Firdausi, *Shahna* \(Warner trans.\), vol. *4*, pp. 136ff.
@@ -10463,6 +10468,7 @@ Nobody is likely to contradict the stated uncertainty of the meaning; it would b
 
 
 
+### 
 **Chapter VI**
 
 1. *Skaldskap*. *42*, according to Brodeur \(1929\), pp. 163-69, and Neckel and Niedner \(Thule 20 \[1942\]\), pp. 195f. The other translators of Snorri's *Edda* cannot agree on the manner of dividing the work into chapters, if they do not desist from doing so at all, as R. B. Anderson \(1880\), pp. 206-13, parts of whose translation we quote here. \(Simrock \[n.d.\], pp. 89-93, makes it chapter 63.\)
@@ -10482,6 +10488,7 @@ Nobody is likely to contradict the stated uncertainty of the meaning; it would b
 **  
 **
 
+### 
 **Chapter VII**
 
 1. The name is *Väinämöinen*, due to vowel harmonization, but we had pity on the typesetter.
@@ -10502,6 +10509,7 @@ Nobody is likely to contradict the stated uncertainty of the meaning; it would b
 
 
 
+### 
 **Chapter VIII**
 
 1. G. Roeder, *Altaegyptische Erzählungen und Märchen* \(1927\), p. 149; A. Wiedemann, *Herodots Zweites Buch* \(1890\), p. 455.
@@ -10607,6 +10615,7 @@ Nobody is likely to contradict the stated uncertainty of the meaning; it would b
 
 
 
+### 
 **Chapter IX**  
 
 
@@ -10647,6 +10656,7 @@ Nobody is likely to contradict the stated uncertainty of the meaning; it would b
 
 
 
+### 
 **Chapter X**  
 
 
@@ -10727,6 +10737,7 @@ As concerns *Makalii* \(Maori: *Matariki*; Micronesian and Melaesian dialects sp
 
 
 
+### 
 **Chapter XI**  
 
 
@@ -10751,6 +10762,7 @@ As concerns *Makalii* \(Maori: *Matariki*; Micronesian and Melaesian dialects sp
 
 
 
+### 
 **Chapter XII**  
 
 
@@ -10774,6 +10786,7 @@ As concerns *Makalii* \(Maori: *Matariki*; Micronesian and Melaesian dialects sp
 
 
 
+### 
 **Chapter XIII****  
 **
 
@@ -10802,6 +10815,7 @@ As concerns *Makalii* \(Maori: *Matariki*; Micronesian and Melaesian dialects sp
 **  
 **
 
+### 
 **Chapter XIV**
 
 1. See for Ireland, W. Stokes, "The Prose Tales in the Rennes Dindsenchas," RC *16* \(1895\), no. 145: "A great whirlpool there is between Ireland and Scotland on the North. It is the meeting of many seas \(from NSEW\) — it resembles an open caldron which casts the draught down \(and\) up, and its roaring is heard like far off thunder . . ."
@@ -10841,6 +10855,7 @@ As concerns *Makalii* \(Maori: *Matariki*; Micronesian and Melaesian dialects sp
 
 
 
+### 
 **Chapter XV**  
 
 
@@ -10901,6 +10916,7 @@ As concerns *Makalii* \(Maori: *Matariki*; Micronesian and Melaesian dialects sp
 
 
 
+### 
 **Chapter XVI**  
 
 
@@ -10921,6 +10937,7 @@ As concerns *Makalii* \(Maori: *Matariki*; Micronesian and Melaesian dialects sp
 
 
 
+### 
 **Chapter XVII**  
 
 
@@ -10965,6 +10982,7 @@ As concerns *Makalii* \(Maori: *Matariki*; Micronesian and Melaesian dialects sp
 
 
 
+### 
 **Chapter XVIII**  
 
 
@@ -11021,6 +11039,7 @@ As concerns *Makalii* \(Maori: *Matariki*; Micronesian and Melaesian dialects sp
 
 
 
+### 
 **Chapter XIX**  
 
 
@@ -11087,6 +11106,7 @@ Although we agree with Phyllis Ackerman's view \(in *Forgotten Religions* \[1950
 
 
 
+### 
 **Chapter XX**  
 
 
@@ -11149,6 +11169,7 @@ For the fun of it, a note of Monod's should be quoted here \(p. 4,21\): "Quand V
 
 
 
+### 
 **Chapter XXI**  
 
 
@@ -11227,6 +11248,7 @@ For the fun of it, a note of Monod's should be quoted here \(p. 4,21\): "Quand V
 
 
 
+### 
 **Chapter XXII**  
 
 
@@ -11355,6 +11377,7 @@ The common denominator of Ea-sǎr apsi, Ptah-Hephaistos, "he who is south of his
 
 
 
+### 
 **Chapter XXIII**  
 
 
