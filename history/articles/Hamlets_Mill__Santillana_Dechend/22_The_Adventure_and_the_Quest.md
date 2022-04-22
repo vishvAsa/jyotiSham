@@ -19,9 +19,11 @@ Together they plan an expedition to the great Forest, to overcome the terrible o
 
 Even if it is taken for granted that fights with dragons or ogres were a popular subject once upon a time, some dry data on this "monster" would do no harm. He "is invariably called a god in the texts" \[6\]  and appears to correspond to the Elamitic god Humba or Humban, who shares the title "the prevalent, the strong" with the planets Mercury and Jupiter and with Procyon \(alpha Canis Minoris\). He occurs, moreover, in a star list, carrying the determinative mul \(Babylonian kakkab\) announcing stars, as mulHumba \(appendix \#26\). The identification with Procyon may eventually turn out to be the decisive clue which will reconcile the Sumerian version with the many others.
 
-![](images/000017.png)
+{{< figure src="../images/humbaba.png" title="This terra-cotta mask shows the unlovely face of Humbaba/Huwawa, the guardian of the cedar felled by Gilgamesh and Enkidu. The title of 'God of the fortress of intestines' is also given to him, and some scholars conclude from this title, as well as from the pictorial evidence, that Humbaba was the inhabitant and lord of the labyrinth, a predecessor of Minotaurus." class="thumbnail">}}
 
-![](images/000024.png)  
+{{< figure src="../images/tlaloc.png" title="As revolting as the face of Humbaba are the features of Tlaloc, the so-called raingod of Mexico. They are revealing, however: constructed out of two serpents, Tlaloc's head represents, as it were, the caduceus of Hermes/Mercury." class="thumbnail">}}
+
+
 
 
 Ancient texts do not become more lucid if every strange-looking aspect is silently omitted, and so it is well to mention that Humbaba is some kind of a "god of intestines." More than that, his head or face is built of intestines, and Langdon \(MAR *5*, 254\) draws attention to the fact that "the face of this monster . . . is designed by a single winding line, except eyes." Böhl, moreover, in his inquiry on the Babylonian origin of the labyrinth, \[7\]  pointed out the Babylonian notion of the entrails as a labyrinthic "fortress of intestines."

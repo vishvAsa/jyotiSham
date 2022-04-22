@@ -49,7 +49,9 @@ A strange pastime for the heavenly queen, but it seems to have been a rather cel
 
 This is, however, no Iranian invention: the ritual text of the Babylonian New Year addresses Sirius as "mul.KAK.SI.DI. who measures the depth of the Sea." mul is the prefix announcing the star, KAK.SI.DI means "arrow," and it is this particular arrow which is behind most of the bewildering tales of archery. The bow from which it is sent on its way is a constellation, built from stars of Argo and Canis Major, which is common to the spheres of Mesopotamia, Egypt and China. \[11\]  And since the name Ishtar is shared by both Venus and Sirius, one may guess who "stirs up the apsu before Ea."
 
-![](images/000028.png)
+{{< figure src="../images/mesopotamian-bow-arrow.png" title="The Mesopotamian constellation of Bow and Arrow (mulBAN and mulKAK.SI.DI, or gagsi.sa), as reconstructed on the evidence of astronomical cuneiform texts; gag.si.sa/KAKSIDI is Sirius, the Arrow-Star." class="thumbnail">}}
+
+{{< figure src="../images/chinese-bow-arrow.png" title="The Chinese constellation built up by the same stars. In China, however, the arrow is shorter: Sirius is not the tip of the arrow, but the target: the celestial jackal Tien-lang." class="thumbnail">}}
 
 And here is what the "fire" accomplished, according to a Finnish rune of origin, \[12\]  after it had been "cradled . . . over there on the navel of the sky, on the peak of the famous mountain," when it rushed straightaway through seven or nine skies and fell into the sea: "The spark . . . rolled . . . to the bottom of Lake Aloe, roaring it rushed to the bottom of the sea, down into the narrow depression \(?\). This Lake Aloe then, thrice in the summer night, rose foaming to the height of its firs, driven in fury beyond its banks. Thereupon again Lake Aloe thrice in the summer night dried up its waters to the bottom, its perch on the rocks, its pope \(small fishes\) on the skerries."
 
@@ -57,7 +59,12 @@ And here is what the "fire" accomplished, according to a Finnish rune of origin,
 
 A violent spark this seems to have been; yet — is it not also said of the old Sage: "Vainamoinen in the mouth of the whirlpool boils like fire in water"? \[13\]  Which goes to show that mythical "fire" means more than meets the eye. Actually, the enigmatical events in "Lake Aloe" cannot be severed from those occurring in lake Vurukasha and the coming into being of the "three outlets," the first of which had the name Hausravahf/Kai Khusrau \(see chapter XIII, "Of Time and the Rivers," p. 201\).
 
-![](images/000000.png)
+{{< figure src="../images/chinese-star-map_mercator-projection.png" title="The star maps for the celestial globe in the Hsin I Hsiang Fa Yao of 1092 “Mercator's” projection. The constellation of the bow is seen near the center of the lower half." class="thumbnail">}}
+
+{{< figure src="../images/chinese_bow-and-sirius-jackal.png" title="Drawing the bow at Sirius, the celestial jackal, as it was done by the mythical emperors of Ancient China." class="thumbnail">}}
+
+{{< figure src="../images/dendera-zodiac.png" title="In the so-called 'Round Zodiac' of Dendera (Roman Egypt), the goddess Satit is aiming her arrow from the same bow at the star on the head of the Sothis-cow-Sirius again (on the right, lower half). The Egyptian conception is closer to that of the Chinese than to the Babylonian." class="thumbnail">}}
+
 
 Before we move on to many motifs which will be shown as related to the same "eddy-field" or whirl, it is appropriate to quote in full a version of the fire and water story from the Indians of Guyana. This not only provides charming variations, but presents that rarest of deities, a creator power neither conceited nor touchy nor jealous nor quarrelsome nor eager to slap down unfortunates with "inborn sin," but a god aware that his powers are not really unlimited. He behaves modestly, sensibly and thoughtfully and is rewarded with heartfelt cooperation from his creatures, at least from all except for the usual lone exception.
 >  
@@ -93,9 +100,6 @@ Before we move on to many motifs which will be shown as related to the same "edd
 
 > The alligator was standing by at the time, doing no harm to anybody; but as he was for some reason an unpopular character, all the other animals accused him of having stolen and swallowed the spark. In order to recover the spark from the jaws of the alligator Sigu tore out the animal's tongue, and that is why alligators have no tongue to speak of down to this very day \[14\]
 
-![](images/000013.png)
-
-![](images/000020.png)
 
 There are many more stories over the world of a plug whose removal causes the flood: with the Agaria, an iron smith tribe of Central India, it is the breaking of a nail of iron whch causes their Golden Age town of Lohripur to be flooded. \[15\]  According to the Mongolians, the Pole star is "a pillar from the firm standing of which depends the correct revolving of the world, or a stone which closes an opening: if the stone is pulled out, water pours out of the opening to submerge the earth." \[16\]  In the Babylonian myth of Utnapishtim," Nergal \(the God of the Underworld\) tears out the posts; forth comes Ninurta and causes the dikes to follow" \(GE *11*.101 f.\). But the new thing to be faced is the appearance of the Ark in the flood, Noah's or another's.
 
@@ -119,11 +123,12 @@ The humble little shard was brought in by pious legend to try to say that what c
 
 This sounds like a late mixture, with no reasons given; the way to unscramble the original motifs is to take them separately.
 
-![](images/000002.png)
-
 But first, some stock-taking is in order at this point. There are a number of figures to bring together. The brown monkey, father of mischief in Sigu's idyllic creation, is familiar under many disguises. He is the Serpent of Eden, the lone dissenter. He is Loke who persuaded the mistletoe not to weep over Balder's death, thus breaking the unanimity of creatures. Sigu himself, benevolent king of the Golden Age, is an unmistakably Saturnian figure, who dwelt among his creatures, and so is lahwe, at least when he still "walked with Adam in the garden." A ruler who "means well" is a Saturnian character. No one but Saturn dwelt among men. Says an Orphic fragment: "Orpheus reminds us that Saturn dwelt openly on earth and among men." \[22\]  Dionysius of Halicarnassus \(*1*.36.1\) writes: "Thus before the reign of Zeus, Kronos ruled on this very earth" to which Maximilian Mayer crisply annotates: "We find no mention anywhere of such an earthly sojourn on the part of Zeus." \[23\]  In a similar way, Sandman Holmberg states with respect to Ptah, the Egyptian Saturn: "The idea of Ptah as an earthly king returns again and again in Egyptian texts," and also points to "the remarkable fact that Ptah is the only one of the Egyptian gods who is represented with a straight royal beard, instead of with a bent beard." \[24\]
 
 The Saturnalia, from Rome to Mexico, commemorated just this aspect of Saturn's rule, with their general amnesties, masters serving slaves, etc., even if Saturn was not always directly mentioned. When this festival was due in China, so to speak "sub delta Geminorum" — more correctly, delta and the Gemini stars 61 and 56 of Flamsteed — "there was a banquet in which all hierarchic distinctions were set aside . . . The Sovereign invited his subjects through the 'Song of Stags'." \[25\]
+
+{{< figure src="../images/kepler-polyhedra.png" title="The Polyhedra inscribed into the planetary orbits. Kepler's drawing is a pure geometrical fancy, but it is meant to correspond to the actual relation between the radii of the planetary orbits. Most important here is the cube, fitted into the outermost sphere of Saturn." class="thumbnail">}}
+
 
 The cube was Saturn's figure, as Kepler showed in his *Mysterium Cosmographicum*; this is the reason for the insistence on cubic stones and cubic arks. Everywhere, the power who warns "Noah" and urges him to build his ark is Saturn, as Jehovah, as Enki, as Tane, etc. Sigu's basket stopper was obviously an inadequate version of the cube seen through the fantasy of basket-weaving natives. This leads to the conclusion that Noah's ark originally had a definite role in bringing the flood to an end. A interesting and unexpected conclusion for Bible experts.
 
