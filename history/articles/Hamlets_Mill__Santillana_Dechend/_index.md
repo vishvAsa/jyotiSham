@@ -17,3 +17,7 @@ by **Giorgio de Santillana** and **Hertha von Dechend**
 
 **1977**
 
+
+{{< figure src="images/God_setting_stars.png" title="" class="thumbnail">}}
+
+{{< figure src="images/equinoctial-precession.jpg" title="" class="thumbnail">}}

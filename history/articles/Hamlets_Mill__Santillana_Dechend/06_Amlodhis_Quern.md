@@ -110,7 +110,13 @@ However obscure the prophecy, it brought its own fulfillment. The maidens ground
 
 "And from that time there has been a whirlpool in the sea where the water falls through the hole in the mill-stone. It was then that the sea became salt."
 
-![](images/000033.png)
+{{< figure src="../images/carta-marina_with_maelstorm.png" title="The Carta Marina of Olaus Magnus (16th century) shows the 'horrenda caribdis,' i.e., the Maelstrom, on the lower right, with ships, destructive sea-animals, and icebergs on the left." class="thumbnail">}}
+
+{{< figure src="../images/norvegianus_vortex.png" title="The whirlpool, here called “Norvegianus Vortex,” but usually spoken of as “gurges mirabilis” by Athanasius Kircher, as depicted in his Mundus Subterraneus.
+" class="thumbnail">}}
+
+{{< figure src="../images/kircher_subterranean-river-from-vortex.png" title="Kircher's rather curious conception of the subterranean flow of rivers may have been evoked by Socrates' last tale, but transposed to a strictly geological level. This drawing illustrates the subterranean connection between the whirlpool west of Norway and the Baltic Sea." class="thumbnail">}}
+
 
 Here ends Snorri's tale \(appendix \#7\). Three fundamental and far-reaching themes have been set: the broken mill, the whirlpool, the salt. As for the curse of the miller women, it stands out alone like a megalith abandoned in the landscape. But surprisingly it can also be found, already looking strange, in the world of Homer, two thousand years before. \[4\]
 
@@ -120,8 +126,6 @@ It is the last night, in the *Odyssey* \(*20*.103-19, Rouse trans.\), which prec
 
 "The weakest of all," yet a giant figure in her own right. In the tight and shapely structure of the narrative, the episode is fitted with art, yet it stands out like a cyclopean stone embedded in a house. There are many such things in Homer.  
 
-
-![](images/000009.png)
 
 Going back to Grotte, the name has an interesting story. It is still used today in Norwegian for the "axle-block," the round block of wood which fills the hole in the millstone, and in which the end of the mill axle is fixed. In the Faroer as well as in the Shetland dialect, it stands for "the nave in the millstone." The original Sanskrit *nabhi* covers both "nave" and "navel," and this point should be kept in mind. In the story, it is obviously the nave that counts, for it created a hole when the mill tree sprang out of it, and the whirlpool formed in the hole. But "navel of the sea" was an ancient name for great whirlpools. Gollancz, with sound instinct, saw the connection right away:
 >  

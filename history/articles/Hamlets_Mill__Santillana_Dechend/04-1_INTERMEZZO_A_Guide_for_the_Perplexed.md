@@ -42,20 +42,28 @@ The sun's position among the constellations at the vernal equinox was the pointe
 
 Thus, the revolving heavens gave the key, the events of our globe receding into insignificance, attention was focused on the supernal presences, away from the phenomenal chaos around us. What moved in heaven of its own motion, the planets in their weeks and years, took on ever more awesome dignity. They were the Persons of True Becoming. The zodiac was where things really happened, for the planets, the true inhabitants, knew what they were doing, and mankind was only passive to their behest. It is revealing to look at the figure drawn by a West Sudanese Dogon at the request of Professor Zahan, showing the world egg, with the "inhabited world" between the tropics, "le cylindre ou rectangle du monde." \[2\]  The Dogon are fully aware of the fact that the region between the *terrestrial* tropics is not the best of inhabitable quarters, and so were their teachers of far-off times, the archaic scientists who coined the terminology of myth. What counted was the zodiacal band between the celestial tropics, delivering the houses, and the inns, the "masks" \(prosδpa\), and the disguises to the much traveling and "shape-shifting" planets.
 
-![](images/000032.png)
+{{< figure src="../images/equinox-precession-diagram.png" title="A diagram of the Precession of the equinoxes. The symmetrical drawing shows that the phenomenon occurs at both poles." class="thumbnail">}}
+
+{{< figure src="../images/cosmic-tree-motion_per_africans.png" title="“The internal motion of the cosmic tree,” according to North-West Africans. “In the firmament that motion marks the rotation of the stars above the earth and below the earth, around the fixed poles indicated by the axis formed by the elements in the middle of the cosmic tree.”" class="thumbnail">}}
+
 
 How far this point of view was from modern indifference can hardly be appreciated except by those who can see the dimensions of the historical chasm that opened with the adoption of the Copernican doctrine. What had been for Sir Thomas Browne an *o altitudo* crowded with religious emotions, presences and presentiments has become a platitude that could at best inspire a Russian cosmonaut with the triumphant observation: "I have been up in the sky, and nowhere did I find God." Astronomy has come down into the realm of exterior ballistics, a subject for the adventures of the Space Patrol.
 
-![](images/000012.png)
+{{< figure src="../images/demiurge-ways_per_Bambara.png" title="The ways of the Demiurge during creation, according to the Bambara." class="thumbnail">}}
+
+“In order to make heaven and earth, the demiurge stretched himself into a conical helix; the turnings-back of that spiral are marked graphically by the sides of two angles which represent also the space on high and the space below.”
+
+{{< figure src="../images/demiurge-mixing-ways_per_Bambara.png" title="“In order to mix the four elements (air, fire, water, earth) of which all things are formed, and to distribute them down to the borders of space which he had determined by girdling it, the demiurge travels through the universe turning on himself. These movements are figured by four spirals bound one to the other which represent at the same time the circular voyage, the four angles of the world in which the mixing of the elements takes place, and the motion of matter.”" class="thumbnail">}}
+
+{{< figure src="../images/mt-meru_in_sea_turkestan.png" title="Mount Meru, the world mountain, rising from the sea, surmounted by holy radiation, with sun and moon circling around it, as depicted in an old Buddhist cave sanctuary in Chinese Turkestan." class="thumbnail">}}
+
+{{< figure src="../images/meru-collapse_on_buddha-death.png" title="The collapse of the hourglass-shaped Meru, caused by Buddha's death, with sun and moon rolling down; the moon shows the hare contained in it. Many collapsing world-pillars, unhinged mill-trees, and the like have been mentioned in this book, and this is one of the few pieces of pictorial evidence for a crumbling skambha." class="thumbnail">}}
+
 
 One might say that it takes a wrenching effort of the imagination to restore in us the capacity for wonder of an Aristotle, But it would be misleading to talk of "us" generally, because the average Babylonian or Greek showed as little inclination to wonder at order and law in nature as our average contemporaries do. It has been and will be the mark of a true scientific mind to search for, and to wonder at the invariable structure of number behind the manifold appearances. \(It needs the adequate "expectation," the firm confidence in "sense" — and "sense" does mean number and order for us, since the birth of high civilization — to discover the periodical system of the elements or, further on, Balmer's series\) Whence it is much easier for a great scientist — for instance, Galileo, Kepler, or Newton — to appreciate master feats of early mathematicians than it is for the average humanist of all ages, No professional historian of culture is likely to understand better the intellectual frame of mind of the Maya than the astronomer Hans Ludendorff has done.
 
 It is not so much the enormous number of new facts established by scientists in the many centuries between antiquity and the 20th century which separates us from the outlook of our great scientific ancestors but the "deteriorated" expectations ruling our time. Kepler's quest, were he living today, would be to discover a modified perspective from which to rediscover the *Harmonice Mundi* on another scale, But, after all, what else if not such a quest for the establishment of a new kind of cosmos is the work on the "general field formula"? This time, the cosmos, as covered by the coming-to-be formula, will be understandable and will make "sense" only for the best mathematicians, to the complete exclusion of the common people, and it will hardly be a "meaningful" universe such as the archaic one had been.
 
-![](images/000030.png)  
-
-
-![](images/000004.png)
 
 To come back to the key words of ancient cosmology: if the words "flat earth" do not correspond in any way to the fancies of the flat-earth fanatics who still infest the fringes of our society and who in the guise of a few preacher-friars made life miserable for Columbus, so the name of "true earth" \(or of "the inhabited world"\) did not in any way denote our physical geoid for the archaics. It applies to the band of the zodiac, two dozen degrees right and left of the ecliptic, to the tracks of the "true inhabitants" of this world, namely, the planets. It comprises their various oscillations and curlicues from their courses, and also the "dragon," well known from very early times, which causes eclipses by swallowing the sun and moon.
 
