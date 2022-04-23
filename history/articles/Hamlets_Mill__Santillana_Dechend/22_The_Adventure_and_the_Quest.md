@@ -23,6 +23,18 @@ Even if it is taken for granted that fights with dragons or ogres were a popular
 
 {{< figure src="../images/tlaloc.png" title="As revolting as the face of Humbaba are the features of Tlaloc, the so-called raingod of Mexico. They are revealing, however: constructed out of two serpents, Tlaloc's head represents, as it were, the caduceus of Hermes/Mercury." class="thumbnail">}}
 
+{{< figure src="../images/mercury-movements.png" title="" class="thumbnail">}}
+
+{{< figure src="../images/saturn-movement.png" title="" class="thumbnail">}}
+
+The reason the caduceus, the face of Tlaloc, and the notion of a "god of intestines" point exclusively to Mercury, one of the inferior planets (together with Venus) which are nearer to the sun than our planet Earth, becomes evident from figures 3-5, which illustrate Mercury's movements; it becomes even more evident if the representations of Mercury's racing feats within one solar year are compared to those of one of the superior planets within the same time (figure 6). It takes Saturn thirty years to accomplish his revolution around the sun, returning to the same fixed star; Mercury comes around in eighty-seven days (sidereal revolution; 115 days synodical).
+
+
+{{< figure src="../images/serqet.png" title="The Egyptian goddess Serqet, or Selket." class="thumbnail">}}
+
+{{< figure src="../images/scarab.png" title="A green jasper scarab of Greco-Phoenician origin (6th-5th century B.C.) shows the goddess with 'the rear of a four-legged, winged scorpion'; the archaeologists recognize “the fore part of Isis,” but the Scorpion lady is clearly in evidence." class="thumbnail">}}
+
+{{< figure src="../images/maya-scorpion-tail-godess.png" title="In the Maya Codex Tro-Cortesianus we meet again the “old goddess with the scorpion's tail,” although with a very different graphic convention. In Nicaragua and Honduras, “Mother Scorpion, who dwells at the end of the Milky Way,” is described as many-breasted." class="thumbnail">}}
 
 
 
@@ -39,12 +51,6 @@ The only established features of the story seem to be that the heroes reached th
 Returned to Uruk, Gilgamesh washes his hair and garbs himself in festive attire. As he puts on his tiara, Ishtar, the goddess of love \(in Sumerian, Inanna\), is entranced with his looks and asks him to marry her. Gilgamesh rejects her, reminding her in scornful words of what happened to her previous mates, including the hapless Tammuz, later known as Adonis.
 
 It is not unusual for a hero to refuse the love, and the unheard-of presents, offered by a goddess. In every such case only two celestial personalities are possible candidates for this role: the planet Venus, and Sirius, alias Sothis, who has some of the reputation of a harlot. There is the story of Ugaritic Aqht, who shows mocking haughtiness to Anat; \[9\]  of Picus who flatly turns down the offer of Circe and who is subsequently turned into the woodpecker by the angry goddess; there is Arjuna — a "portion of Indra" — who rejected the heavenly Urvashi, whom he regarded as the "parent of my race, and object of reverence to me . . . and it behoveth thee to protect me as a son." \[10\]
-
-![](images/000006.png)
-
-![](images/000015.png)
-
-![](images/000021.png)
 
 There is also Tafa'i of Tahiti \(Maori: Tawhaki\) who went with his five brothers courting an underworld princess. As a test, the suitors "were told to pull up by the roots an *ava* tree which was possessed by a demon, and which had caused the death of all who had attempted to disturb it." Three of the brothers were devoured by the demon; Tafa'i revived them, and then gladly renounced the hand of the princess. \[11\]  \(Ava = Kawa, and stands for the "next-best-substitute" for Amrita, the drink of immortality which is the property of the gods; mythologically Polynesian Kawa resembles almost exactly the Soma of Vedic literature; even the role of the "Kawa-filter" is an ancient Indian reminiscence; and, as befits the pseudo-drink-of-immortality, it is stolen, by Maui, or by Kaulu, exactly as happens in India, and in the *Edda*, and elsewhere\).
 
@@ -80,7 +86,6 @@ My friend, whom I loved, has turned to clay*." \[16\]
 
 Gilgamesh has no metaphysical temperament like the Lord Buddha. He sets out on his great voyage to find Utnapishtim the Distant, who dwells at "the mouth of the rivers" and who can possibly tell him how to attain immortality. He arrives at the pass of the mountain of Mashu \("Twins"\), "whose peaks reach as high as the banks of heaven — whose breast reaches down to the underworld — the scorpion people keep watch at its gate — those whose radiance is terrifying and whose look is death — whose frightful splendor \[17\]  overwhelms mountains — who at the rising and setting of the sun keep watch over the sun." \[18\]
 
->  >  >  >  
 
 The hero is seized "with fear and dismay," but as he pleads with them, the scorpion-men recognize his partly divine nature. They warn him that he is going to travel through a darkness no one has traveled, but open the gate for him.
 
@@ -119,8 +124,6 @@ One can imagine how Atrahasis-Utnapishtim would explain some essentials during G
 "New life" sounds misleading, and Speiser remarks: "Note that the process is one of rejuvenation, not immortality." \[36\]  
 
 
-![](images/000011.png)
-
 To get hold of this plant, growing apparently in a tunnel leading to the Apsu which the hero has to open, Gilgamesh dives deep, weighting himself with stones. But then as he travels home with the boatman, he stops to take a bath in a well, a serpent \(literally, earth-lion\) comes up from the water, snatches the plant and, returning into the water, sloughs its skin. The last hope is gone — at least so it looks in the translations.
 
 Since this is not a manual on the Epic of Gilgamesh, this whole affair of the plant, the diving, the fateful bath in the well, must stand as it is, even though every word in it is no better than a man-trap \(appendix \#34\), to come to the point which is of particular relevance here.
@@ -128,6 +131,17 @@ Since this is not a manual on the Epic of Gilgamesh, this whole affair of the pl
 Leaving the boat on the shore, Gilgamesh and the boatman walked for another 50 double-hours on the way home.
 >  
 > When they arrived in Uruk, the enclosure, Gilgamesh said to him, to Urshanabi, the boatman: "Urshanabi, climb upon the wall of Uruk \(and walk about\); inspect the foundation terrace and examine the brickwork, \(to see\) if its brickwork is not of burnt bricks, And \(if\) the seven wise men did not lay its foundation\!" \(*11*.301-305\).
+
+{{< figure src="../images/god-boat_ziggurat.png" title="The Mesopotamian cylinder seal shows in the upper part the “God Boat"; in the lower part people are building a ziggurat, the proposition being that the boat is bringing the me from Eridu-Canopus, the measures of creation." class="thumbnail">}}
+
+{{< figure src="../images/god-boat_constellations.png" title="The “God Boat” surrounded by the crescent moon, three single stars, and constellations; recognizable are the Scorpion, the Plow (=mulAPIN, Triangulum), and perhaps the Lion following directly behind the boat; the jug above the Lion might indicate Aquarius." class="thumbnail">}}
+
+
+{{< figure src="../images/mAya-god-boat.png" title="The same character clearly occurs in the Maya Codex Tro-Cortesianus, second row." class="thumbnail">}}
+
+
+{{< figure src="../images/arab-god-boat.png" title="The 'God Boat' in the appropriate surroundings on the Arabian celestial globe made by Tabari (in the year 684 of the Hijra), after the catalogue of stars of 'Abd ar Rahman as Sufi. The name of Suhayl (Canopus) is written below the oar of this personified boat, i.e., of Argo, closest to the celestial South Pole." class="thumbnail">}}
+
 
 But before the Epic started \(Tabl. *1*, 19\), it was said that "the Seven Wise Ones" had laid the foundation of ramparted Uruk. So the ring has been closed.
 
@@ -137,8 +151,6 @@ To take the latter question first: the Seven Sages are the stars of the Big Dipp
 
 Next, why is it the business of the boatman from the "confluence of the rivers" \(that is what *pī nārāti* is\) to check the measures of Uruk? It is established that the boatman's name was "servant \(or priest\) of 40 or of 2/3," \[38\]  and that makes him a "piece," or what-ever one prefers to designate it, of Enki-Ea, called Shanabi = 2/3 \(of 60 = 40\). Enki's residence is Eridu, at the confluence of the rivers, at mulNUNki = Canopus \(alpha Carinae\), the seat of the *me*, the norms and measures. From there these *me* have to be procured. Urshanabi, however, seems to be bound with close family ties to Enki-Ea, in fact to be his son-in-law, husband of Nanshe. \[39\]  
 
-
-![](images/000027.png)
 
 Numerous texts and inscriptions show that Enki-Ea, Lord of the Apsu, was responsible for the ground plan of "temples," whether celestial or terrestrial ones. The one who actually drew up the plans, with the "holy stylus" of Eridu, was Nanshe, Enki's daughter. And to her, the wife of Urshanabi the boatman, the "holy stern of the ship was consecrated." \[40\]
 
