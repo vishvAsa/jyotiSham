@@ -132,7 +132,7 @@ Leaving the boat on the shore, Gilgamesh and the boatman walked for another 50 d
 >  
 > When they arrived in Uruk, the enclosure, Gilgamesh said to him, to Urshanabi, the boatman: "Urshanabi, climb upon the wall of Uruk \(and walk about\); inspect the foundation terrace and examine the brickwork, \(to see\) if its brickwork is not of burnt bricks, And \(if\) the seven wise men did not lay its foundation\!" \(*11*.301-305\).
 
-{{< figure src="../images/god-boat_ziggurat.png" title="The Mesopotamian cylinder seal shows in the upper part the “God Boat"; in the lower part people are building a ziggurat, the proposition being that the boat is bringing the me from Eridu-Canopus, the measures of creation." class="thumbnail">}}
+{{< figure src="../images/god-boat_ziggurat.png" title="The Mesopotamian cylinder seal shows in the upper part the God Boat; in the lower part people are building a ziggurat, the proposition being that the boat is bringing the me from Eridu-Canopus, the measures of creation." class="thumbnail">}}
 
 {{< figure src="../images/god-boat_constellations.png" title="The “God Boat” surrounded by the crescent moon, three single stars, and constellations; recognizable are the Scorpion, the Plow (=mulAPIN, Triangulum), and perhaps the Lion following directly behind the boat; the jug above the Lion might indicate Aquarius." class="thumbnail">}}
 
