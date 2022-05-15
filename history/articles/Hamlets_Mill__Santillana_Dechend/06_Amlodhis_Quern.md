@@ -112,8 +112,7 @@ However obscure the prophecy, it brought its own fulfillment. The maidens ground
 
 {{< figure src="../images/carta-marina_with_maelstorm.png" title="The Carta Marina of Olaus Magnus (16th century) shows the 'horrenda caribdis,' i.e., the Maelstrom, on the lower right, with ships, destructive sea-animals, and icebergs on the left." class="thumbnail">}}
 
-{{< figure src="../images/norvegianus_vortex.png" title="The whirlpool, here called “Norvegianus Vortex,” but usually spoken of as “gurges mirabilis” by Athanasius Kircher, as depicted in his Mundus Subterraneus.
-" class="thumbnail">}}
+{{< figure src="../images/norvegianus_vortex.png" title="The whirlpool, here called “Norvegianus Vortex,” but usually spoken of as “gurges mirabilis” by Athanasius Kircher, as depicted in his Mundus Subterraneus." class="thumbnail">}}
 
 {{< figure src="../images/kircher_subterranean-river-from-vortex.png" title="Kircher's rather curious conception of the subterranean flow of rivers may have been evoked by Socrates' last tale, but transposed to a strictly geological level. This drawing illustrates the subterranean connection between the whirlpool west of Norway and the Baltic Sea." class="thumbnail">}}
 
