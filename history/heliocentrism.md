@@ -52,10 +52,10 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 - "भ-पञ्जरः स्थिरः । भूर् एवावृत्यावृत्य प्रति-दैवसिकौ उदयास्तमयौ सम्पादयति नक्षत्र-ग्रहाणाम् । आचार्यार्यभटेन+अपि भू-भ्रमणम् अभ्युपगतम्: “प्राणेनैति कलां भूः ।"" - "The celestial sphere is stationary. Only the earth keeps rotating and rotating, once everyday, causing the rising and setting of the stars and planets. The earth's rotation had been accepted by professor Aryabhata: "the earth rotates by the angle of a kala in unit of time of a prāņa"".
 
 ## bhaTTa-bhAskarakaNTha of kAshmIra 1200-1600CE
-ब्रह्माण्डाकाशन्ध्ये  तु पृथ्वी कन्दूकवत् स्थिता । ...
+ब्रह्माण्डाकाशमध्ये तु पृथ्वी कन्दुकवत् स्थिता । ...
 
 भूमिर् एषा महा-प्राणि-देहा खे ऽत्र स्वभवतः ।  
-स्थितस् तत्र जना यूका इव सीमन्त-संस्थिताः ॥  
+स्थितास् तत्र जना यूका इव सीमन्त-संस्थिताः ॥  
 This earth here is the body of a giant living being, self-supported in empty space. On that are situated the people like lice dwelling in the hair.
 
 पक्षी स्वभाव-वशतो यत्र तिष्ठति खे स्वयम् ।  
@@ -68,7 +68,7 @@ Just as the amber gem attracts objects towards itself, Why indeed, so too the ea
 
 पिपीलिकानां न्यायेन जनाः पृथ्व्यां व्यवस्थिताः ।  
 परितः पात-शङ्कान न कार्येषां तथा स्थितेः ॥  
-In the manner of ants son a ball, the beings are stationed on the earth. Held by this force all around they have no risk of falling off from here.
+In the manner of ants on a ball, the beings are stationed on the earth. Held by this force all around they have no risk of falling off from here.
 
 ## makkibhaTTa 1377AD
 - Commented on Sripati's Siddhantasekhara.
