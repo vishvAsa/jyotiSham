@@ -4,9 +4,3 @@ unicode_script: devanagari
 
 ---
 
-- २७.३३ दिनानि चन्द्रस्य परिवर्तनाय।
-- २७ नक्षत्राणि।  तैः खगोलम् ~१३डिग्रि-भागेषु भिद्यते (कदाचित् १३डिग्रि-तः नैय्यून्यम् वाधिक्यं वा स्यात्।)
-  - Hindu-s divided the zodiac into 27 equal sections, each subdivided into 4 pAda-s (identified by a unique syllable). Each nakShatra naturally falls within one or two rAshi-s, and is associated with 1+ stars (though it may be named after a different maNDala to the north or south of the zodiac belt).
-- तारामण्डलानि नक्षत्रेभ्यो भिन्नानि। तानि [पृथक् पृष्ठे](../tArAmaNDala/)।
-- यन्त्रम् [अत्र](http://www.prokerala.com/astrology/nakshatra-finder/)।
-[अत्र खचित्राणि](../../history/images/) दृश्यन्ताम् -

@@ -1,5 +1,5 @@
 ---
-title: राशयः
+title: +राशयः
 
 ---
 This is a series of 12 constellations (one for each month, roughly) which form a band in the sky, through which visible objects of the solar system (saura-maNDala) wander. This is a result of the thin shape of the solar system. Each of these occupies roughly 30 degrees of the 360 degree band.
