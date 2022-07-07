@@ -3,6 +3,7 @@ title = "Tippu's maulUdi - frontline"
 +++
 NIDHIN G. OLIKARA  
 Print edition : September 10, 2021  
+
 Nidhin G. Olikara is an independent researcher based in Shivamogga. His primary area of academic interest is the ‘History of Mysore under Haidar Ali and Tipu Sultan’.
 
 A Persian manuscript in the British Library in London and other documents help correct an error in Tipu Sultan’s birthdate. The ensuing research also offers a fresh insight into the mind of the Mysore ruler.
@@ -19,7 +20,7 @@ It was this ‘error’ that could be corrected by way of a discovery at the Bri
 
 The British Library has in its collection a Persian manuscript, titled Fateh-al Mujahideen, with the seal and signature of Tipu Sultan. It is a military manual that Tipu Sultan prescribed to his army commanders. The fourth chapter in this manuscript contains a list of important dates on which the army was commanded to fire gun salutes. One such special day was the birthday of Tipu Sultan. This part of the document was translated into English by the Persian and Islamic scholar Adnan Rashid from London as:
 
-“Happy celebration for the birth-date of God’s blessing, may he live long, fourteen of month Zakiri year 1165 Hijri every year on the mentioned date after ten hours upon day-rise thirty-one canon-fires commence. The celebration/ceremony should be performed by all the people of the city….”
+> “Happy celebration for the birth-date of God’s blessing, may he live long, fourteen of month Zakiri year 1165 Hijri every year on the mentioned date after ten hours upon day-rise thirty-one canon-fires commence. The celebration/ceremony should be performed by all the people of the city….”
 
 ## The Mauludi calendar
 The mention of the Hijri year 1165 in the context of Tipu Sultan’s birthdate attracted attention because it was commonly held that Tipu Sultan was born in the Hijri year 1163. The next challenge was to relate the month Zakiri with the English calendar. There is no such month in the Islamic Hijri calendar. This month figures in the calendar Tipu Sultan created for use in Mysore. He named it the Mauludi calendar. Maulud in Arabic means ‘birth’. Tipu Sultan marked the birth of the Prophet in 572 CE as the first year of his calendar. The Mauludi calendar was not based on the lunar Islamic Hijri calendar but on the luni-solar Hindu panchanga calendar followed by his subjects across Mysore. This matching of calendars proved to be helpful for administration as now harvesting seasons, festival periods and tax collection deadlines matched.
