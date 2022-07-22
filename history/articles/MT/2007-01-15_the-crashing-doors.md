@@ -7,12 +7,13 @@ upstream_url = "https://manasataramgini.wordpress.com/2007/01/15/the-crashing-do
 Source: [here](https://manasataramgini.wordpress.com/2007/01/15/the-crashing-doors/).
 
 This note should be considered along with our earlier notes on the topic:  
-[The crossing of ashmanvatI](https://manasataramgini.wordpress.com/2006/11/26/the-crossing-of-ashmanvati/)  
-[The path of fire](https://manasataramgini.wordpress.com/2006/11/21/the-path-of-fire/)  
+
+- [The crossing of ashmanvatI](https://manasataramgini.wordpress.com/2006/11/26/the-crossing-of-ashmanvati/)  
+- [The path of fire](https://manasataramgini.wordpress.com/2006/11/21/the-path-of-fire/)  
+
 von Dechend and De Santillana while flippantly referring to “the Hindu verbiage” repeatedly find themselves needing to take recourse to the same “Hindu verbiage” to adduce evidence for their conjectures. But they must be credited for noting the significance of mythic motifs that were previously overlooked by most. One point they just allude to, but fail to expand upon is the issue of crashing doors. What exactly are these crashing doors in the language of myth? Based on some myths the above authors conclude that it must have some connection to the frame of time but fail to clarify this explicitly, especially in connection to their central theme — the mythic accounts of the precession of the axis. 
 
-## Catlo’Itq myth and parallels
-One striking tale they narrate contains this motif with some other motifs found in connection with precession myths in the Hindu world. This is apparently a tale from the Catlo’Itq tribes of British Columbia recorded by a Jewish ethnographer Franz Boas towards the end of the 1800s:
+## Catlo’Itq myth and parallels One striking tale they narrate contains this motif with some other motifs found in connection with precession myths in the Hindu world. This is apparently a tale from the Catlo’Itq tribes of British Columbia recorded by a Jewish ethnographer Franz Boas towards the end of the 1800s:
 
 > A man had a daughter who possessed a wonderful bow and arrow, with which she was able to bring down everything she wanted. But she was lazy and was constantly sleeping. At this her father was angry and said: “Do not be always sleeping, but take thy bow and shoot at the navel of the ocean, so that we may get fire.” The navel of the ocean was a vast whirlpool in which sticks for making fire by friction were drifting about. At that time men were still without fire. Now the maiden seized her bow, shot into the navel of the ocean, and the material for fire-rubbing sprang ashore. 
 > 
@@ -32,11 +33,9 @@ It almost looked as though the samans in whose mouth the enemy is placed are lik
 
 - there is the female archer who reappears as the archer goddess Satit in Egypt shooting the Sothis cow, as the archer 
   goddess Artemis in Greece shooting Orion at the instigation of Apollo (whose ortholog rudra shoots the same arrow in the Hindu world). 
-- There is the whirl-pool with the fire sticks.
-- There is the stag the stealer of fire for men, like bhR^igu brought fire for the Aryas.+++(5)+++ 
+- There is the whirl-pool with the fire sticks. - There is the stag the stealer of fire for men, like bhR^igu brought fire for the Aryas.+++(5)+++ 
 
-## Doors
-But what about the doors? Divine doors are mentioned in the great rite every true Arya does– the daivi dvArA of AprI rite. But these dangerous crashing doors do appear in hidden way in the veda, finally providing the clue for what they are:  
+## Doors But what about the doors? Divine doors are mentioned in the great rite every true Arya does– the daivi dvArA of AprI rite. But these dangerous crashing doors do appear in hidden way in the veda, finally providing the clue for what they are:  
 
 The taittirIya brAhmaNa 1.2.3.1/2 provide the brahmavAda for the [divAkIrtya](https://manasataramgini.wordpress.com/2007/01/13/the-divakirtya-samans/) chant, which is central to the sacrifice performed on the viShuvAn day-
 
