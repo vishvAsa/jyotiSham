@@ -57,22 +57,6 @@ Vedic Taittiriya Aranyaka names।  \[[ऽत्र](/saMkAraH/mantraH/misc-deva
 - 13.Kashyapa: Tail-3 
 - 14.Dhruva: Tail end.
 
-## वृषभः
-- [sauchIka agni mantra](https://manasataramgini.wordpress.com/2006/11/21/the-path-of-fire/)
-- yA rohiNIr devatyA gAvo yA uta rohiNIH | (AV-vulgate 1.22.3ab) \[[MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/)\]
-- pra vAM sharadvAn vR^iShabho na niShShAT pUrvIr iShash charati madhva iShNan |
-    evair anyasya pIpayanta vAjair veShantIr UrdhvA nadyo na AguH || (RV 1.181.06)
-    Approximately: The autumnal bull of you two, like a mighty one comes forth, sending from the east, sending forth honey. \[[MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/)\]
-- "[स जनास इन्द्रः](/vedAH_Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते ऽपि लक्ष्यते।
-
-### रोहिणी-शकटम्, सारथिः
-- revad uvAha sachano ratho vAM vR^iShabhash cha shiMshumArash cha yuktA || \[RV 1.116.18cd\] \[[MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/)\] = The chariot that bore you two brought beautiful riches: a bull and a dolphin were yoked together.
-
-> "In Greco-Roman star lore the constellation Auriga is the charioteer. Traditionally, in India too the constellation is refered to as the sArathi, which means the same thing. The mainstream Western scholarship has believed that this is a recent acquisition of the constellation name from the Greco-Roman world. If Auriga is the charioteer, where is his car? India star-lore records an unsual name for the Hyades cluster in constellation of Taurus: rohINi shakaTa: The cart of roHiNI (alpha Tauri) [sUrya siddhAnta, 8.13]. Not surprisingly, the constellation is also called the shakaTa of prajApati or brahmA [ pa~ncha siddhAnta 238-241]. Traditionally, Hindu astronomy records the star Capella (alpha-Aurigae) as brahma-hR^idaya (the heart of brahmA). This suggests that the Hyades, which indeed look like a simple cart was the cart of rohiNi or prajApati, thus linking the cart to the charioteer. Hence, while lateral Greco-Roman influence cannot be ruled out entirely, it is likely that the basic concepts concerning this constellation go back to the misty Indo-European past when Greeks and Indians shared a common ancestor." [MT](https://manasataramgini.wordpress.com/2003/08/17/rohinis-cart/)
-
-
-## रुद्रः
-- रुद्रः, आर्द्रा मृगशीर्षे, प्रजापतिः च।
 
 ## सप्तर्षिमण्डलम्
 - ऋश॑यस् स॒प्तात्रि॑श् च॒ यत्। सर्वे ऽत्रयो अ॑गस्त्य॒श्च। नक्ष॑त्रै॒श् शङ्कृ॑तो ऽवसन्। (तैत्तिरीयारण्यके १.११.२)
@@ -84,17 +68,17 @@ Vedic Taittiriya Aranyaka names।  \[[ऽत्र](/saMkAraH/mantraH/misc-deva
 ## सिंहः
 - "Leo being clear of the Milky Way (areNavaH panthAH) it gives a snapshot into the depth of the universe. The M 96- M 66 group are a cluster of galaxies that has 2 sub groups. The M65, M66, and NGC 3628 triplet on the 'back' thigh below theta form one group. The other is the M 95-M 96 group along the  'front' facing hind leg of the lion. Even a small telescope will show at least 5 of the Leo galaxies & are part of one of the near by galaxy groups to our own local group at ~37*10^6 light years."
 
-## वृश्चिकराशिः
-- "It is notable that if mUlam is root the vishAkhe are the dual branches. jyeShThA could mean the foremost or the trunk. Thus it is possible that in old Aryan uranography the whole Scorpius-Libra complex was seen as a tree rooted ay the nether end of the equinoctial colure. This probably gave rise to the vaiShNava concept of the viShAkhayUpa mentioned in the pa~ncharAtra texts & illustrated in some of the early vaiShNava iconography & coinage from the kuShANa age."
-
 ## दधिक्रावा
 - Pegasus. 
 - From the Rgveda we may infer that dadhikra, the flying horse, probably stood for a constellation whose rising before dawn was significant to the early Arya-s. It remains as yet unclear if that was in someway associate with Pegasus. 
 
+## यमुना
+- Eridanus (The southern river; the celestial yamunA of the Hindus which leads to the path of death).
+
 ## अगस्त्यः
 Canopus. Very close to the southern pole - so only rises above horizon at certain periods in history. 
 
-## Visibility constraints
+### Visibility constraints
 In northern hemisphere, agastya rises and sets within a short duration of time. If this happens after dark, he is visible.
 
 ### Current visibility
