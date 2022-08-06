@@ -9,5 +9,5 @@ unicode_script = "devanagari"
 +++(=δ, θ Leonis)+++
 
 - अत्र वै यदा चन्द्रमा ऽवर्तत ३००० BCE इति वर्षे, तदाभूद् वत्सरारम्भः।
-  - विवरणानि [सौर-चान्द्र-मान-पृष्ठे](/devaH/AryaH/hindukaH/worlds/Rk/naxatra-suuktam/)।
+  - विवरणानि सौर-चान्द्र-मान-पृष्ठे। 
 </details>
