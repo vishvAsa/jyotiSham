@@ -8,9 +8,10 @@ unicode_script = "devanagari"
 [<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/uttara-proShThapadau.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/uttara-proShThapadau.png)
 +++(γ Pegasi and α Andromedae)+++
 
-- यदा मृगशीर्षे बभूव विषुवस्थानम्, अत्रासीद् दक्षिणायनारम्भः। विश्व-स्कम्भमूलस्थो ऽहिर्बुध्नियः। स च प्रोष्ठपदास्व् अपि कल्पितः प्रायेण तेनैव कारणेन।
-- अत्रैवावर्तत दधिक्रावा?
-- प्रोष्ठपदानां धिष्णियाभिस् सम्बन्धः संहितायां व्यक्तः। धिष्णियाश् च सुपर्णेन गरुत्मता सम्बन्धो ऽप्य् आम्नातः। सर्वम् एतद् [अन्यत्र](/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/3/03_dhiShNiyAH/) प्रपञ्चितम्।
+{{< figure src="/jyotiSham/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg" title="" class="thumbnail">}}
+
+- यदा मृगशीर्षे बभूव विषुवस्थानम्, अत्रासीत् सौरं दक्षिणतमम् अयनम्। विश्व-स्कम्भमूलस्थो ऽहिर्बुध्नियः। स च प्रोष्ठपदास्व् अपि कल्पितः प्रायेण तेनैव कारणेन।
+- धिष्णियाभिस् तार्क्ष्य-सम्बन्धो ऽन्यत्र प्रपञ्चितः। सर्वम् एतद् [अन्यत्र](/jyotiSham/naxatram/tArAmaNDala) प्रपञ्चितम्।
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>

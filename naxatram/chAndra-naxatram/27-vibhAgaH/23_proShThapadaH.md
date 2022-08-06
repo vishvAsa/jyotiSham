@@ -9,9 +9,10 @@ unicode_script = "devanagari"
 [<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/pUrva-proShThapadau.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/pUrva-proShThapadau.png)
 +++(α and β Pegasi)+++
 
-[<img src="/jyotiSham/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg" width="250"/>](/jyotiSham/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg)
+{{< figure src="/jyotiSham/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg" title="" class="thumbnail">}}
 
-- अत्रैवावर्तत दधिक्रावा?
-- प्रोष्ठपदानां धिष्णियाभिस् सम्बन्धः संहितायां व्यक्तः। धिष्णियाश् च सुपर्णेन गरुत्मता सम्बन्धो ऽप्य् आम्नातः। सर्वम् एतद् [अन्यत्र](/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/3/03_dhiShNiyAH/) प्रपञ्चितम्।
+
+- धिष्णियाभिस् तार्क्ष्य-सम्बन्धो ऽन्यत्र प्रपञ्चितः। सर्वम् एतद् [अन्यत्र](/jyotiSham/naxatram/tArAmaNDala) प्रपञ्चितम्।
+- ३००० BCE इति काले ऽत्र परिसरे ऽवर्तत +अयनवर्तन-स्थानम्।
 </details>
 
