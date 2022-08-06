@@ -20,6 +20,13 @@ Various stars in a constellation are often identified with greek letters - like 
 ## राशिताराः
 चान्द्र-नक्षत्रपृष्ठे [राशिसूचौ](../chAndra-naxatram/) दृश्यताम्।
 
+## प्रकीर्णाम्
+- Śvā	"Canis Major"
+- Trishanku - southern cross
+- Śaravaṇa or Reed forest
+  - Provenance: kaumAra nakShatra or khachakra nyAsa.
+- "Sārathi"	"Charioteer of rohiNI's cart
+
 ## शिंशुमारः 
 शिंशुमारपुच्छस्थं सुविख्यातम् च।
 
@@ -59,6 +66,7 @@ Vedic Taittiriya Aranyaka names।  \[[ऽत्र](/devaH/AryaH/hindukaH/lokAn
 
 
 ## सप्तर्षिमण्डलम्
+- Ursa Major
 - ऋश॑यस् स॒प्तात्रि॑श् च॒ यत्। सर्वे ऽत्रयो अ॑गस्त्य॒श्च। नक्ष॑त्रै॒श् शङ्कृ॑तो ऽवसन्। (तैत्तिरीयारण्यके १.११.२)
     - अगस्त्यः (canopus) first visible in N India around 3000-3500BC; could be seen by people living south of 34 deg N \[[YT](https://youtu.be/5R2lXuUMdoo?t=1470)\].
 - the Shatapatha Brahmana , when speaking about these aforementioned Pleiades as the Wives of the Saptarishis - pointedly refers to these as the "Wives of the Bears". Perhaps in the early days, it was used to denote stars of Ursa Major, and thence later came to refer to stars in general?
@@ -66,11 +74,12 @@ Vedic Taittiriya Aranyaka names।  \[[ऽत्र](/devaH/AryaH/hindukaH/lokAn
 - Somethimes imagined as jAmbavAn circumambulating the foot of viShNu as it touches dhruva +++(where??)+++.
 
 ## सिंहः
-- "Leo being clear of the Milky Way (areNavaH panthAH) it gives a snapshot into the depth of the universe. The M 96- M 66 group are a cluster of galaxies that has 2 sub groups. The M65, M66, and NGC 3628 triplet on the 'back' thigh below theta form one group. The other is the M 95-M 96 group along the  'front' facing hind leg of the lion. Even a small telescope will show at least 5 of the Leo galaxies & are part of one of the near by galaxy groups to our own local group at ~37*10^6 light years."
+> "Leo being clear of the Milky Way (areNavaH panthAH) it gives a snapshot into the depth of the universe. The M 96- M 66 group are a cluster of galaxies that has 2 sub groups. The M65, M66, and NGC 3628 triplet on the 'back' thigh below theta form one group. The other is the M 95-M 96 group along the  'front' facing hind leg of the lion. Even a small telescope will show at least 5 of the Leo galaxies & are part of one of the near by galaxy groups to our own local group at ~37*10^6 light years."
 
 ## दधिक्रावा
 - Pegasus. 
-- From the Rgveda we may infer that dadhikra, the flying horse, probably stood for a constellation whose rising before dawn was significant to the early Arya-s. It remains as yet unclear if that was in someway associate with Pegasus. 
+
+> From the Rgveda we may infer that dadhikra, the flying horse, probably stood for a constellation whose rising before dawn was significant to the early Arya-s. It remains as yet unclear if that was in someway associate with Pegasus. 
 
 ## यमुना
 - Eridanus (The southern river; the celestial yamunA of the Hindus which leads to the path of death).
