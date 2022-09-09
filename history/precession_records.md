@@ -1,6 +1,5 @@
 ---
-title: अयनचलनम्
-unicode_script: devanagari
+title: Precession records
 ---
 
 ## Prehistory
@@ -10,7 +9,8 @@ unicode_script: devanagari
 ## Record of shifting equinox points
 - See [tropicalization section of ayanAMsha](../equinoctial_records/) notes
 - तैत्तिरीय-ब्राह्मणारण्यकयोर् नक्षत्रमुखभेदेन तज्ज्ञानं व्यक्तम्। 
-- "assertion of the American indologist Whitney maintained to this date among Abrahamistic white indologists and their imitators: "The Hindus borrowed their nakShatra system from Mesopotamia and would probably have retained it in that form \[i.e. with kR^ittikA at the vernal equinox of 2300 BCE\] until the present day but for the revolution wrought in their science by Greek teaching." Clearly even within the vaidika period (including vedA~Nga jyotiSha) the Hindus had made multiple changes for precession not just at the time of varAhamihira after interactions with yavana-s." \[[MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/)\]
+
+> "assertion of the American indologist Whitney maintained to this date among Abrahamistic white indologists and their imitators: "The Hindus borrowed their nakShatra system from Mesopotamia and would probably have retained it in that form \[i.e. with kR^ittikA at the vernal equinox of 2300 BCE\] until the present day but for the revolution wrought in their science by Greek teaching." Clearly even within the vaidika period (including vedA~Nga jyotiSha) the Hindus had made multiple changes for precession not just at the time of varAhamihira after interactions with yavana-s." \[[MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/)\]
 
 ## Record of pole stars
 - references - [RNI2021-YT](https://www.youtube.com/watch?v=iWGBnE9PtsE)
