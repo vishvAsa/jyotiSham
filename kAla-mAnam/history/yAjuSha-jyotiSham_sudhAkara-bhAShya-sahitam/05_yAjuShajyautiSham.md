@@ -6,13 +6,7 @@ title = "05 याजुषज्यौतिषम्"
 
 ज्यौतिषवेदाङ्गम् याजुषाचार्यः
 
-←[उपोद्घातः](/wiki/Jyautisha_Vedangam/%E0%A4%89%E0%A4%AA%E0%A5%8B%E0%A4%A6%E0%A5%8D%E0%A4%98%E0%A4%BE%E0%A4%A4%E0%A4%83 "Jyautisha Vedangam/उपोद्घातः")
-
-**[ज्यौतिषवेदाङ्गम्](/wiki/%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%8C%E0%A4%A4%E0%A4%BF%E0%A4%B7%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%AE%E0%A5%8D "ज्यौतिषवेदाङ्गम्")**  
 याजुषज्यौतिषम्  
-[याजुषाचार्यः](/w/index.php?title=%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%95%E0%A4%83:%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%81%E0%A4%B7%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%83&action=edit&redlink=1 "लेखकः:याजुषाचार्यः (पृष्ठं न विद्यते)")
-
-[आर्चज्यौतिषम्](/wiki/Jyautisha_Vedangam/%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%8C%E0%A4%A4%E0%A4%BF%E0%A4%B7%E0%A4%AE%E0%A5%8D "Jyautisha Vedangam/आर्चज्यौतिषम्")→
 
 **श्रीजानकीवल्लभो विजयते ।**  
 
