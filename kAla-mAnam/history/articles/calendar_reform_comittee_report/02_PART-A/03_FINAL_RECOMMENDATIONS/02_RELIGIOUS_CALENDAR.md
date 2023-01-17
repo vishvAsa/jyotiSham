@@ -11,7 +11,7 @@ The months would thus commence at the moments when the tropical longitude of the
 
 - Saura Vaiśākha commences when the Sun has the longitude of 23° 15' 0"
 - Jyestha 53 15 0 
-- Aṣādha 83 15 0 
+- Aṣāḍha 83 15 0 
 - Śrāvana 113 15 0 
 - Bhādrapada 143 15 0 
 - Āśvina 173 15 0 

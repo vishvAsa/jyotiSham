@@ -6,7 +6,7 @@ title = "14 CORRIGENDA AND ADDENDA"
 
 Part A Page 2, 1st ool, line 36, For O § 4'10, read 0 8 4'9 Page 3, 2nd col. line 46, For happend, read happened Page 4, 1st col. line 12, For was, read were Page 21, 2nd col. No. 35, Insert Ceylon after Chavakachcheri 
 
-Part B śaka 1877 Page 56, Aṣādha 9—For Ravinārāyaṇa ekādasi, read 
+Part B śaka 1877 Page 56, Aṣāḍha 9—For Ravinārāyaṇa ekādasi, read 
 
 Lakṣminārāyaṇa ekādasi Page 57, Śrāvana 1-Insert Jāgratgauri pañcami. 
 
@@ -48,7 +48,7 @@ books).
 
 (Orissa) read Ravinārāyaṇa ekādasi 
 
-(Orissa) Page 88, Aṣādha 4- Insert Guru pañcami (Orissa) . 27Delete Ravinārāyana ekādasi 
+(Orissa) Page 88, Aṣāḍha 4- Insert Guru pañcami (Orissa) . 27Delete Ravinārāyana ekādasi 
 
 (Orissa) Page 69, Śrāvaṇa 17-Insert Madhusravā (Gujerat) 
 
@@ -92,7 +92,7 @@ Orissa) (Paraviddhā), read Madanabhanji (Bengal
 
 paraviddhā & Orissa-pūryaviddhā) Vaiśākha S 11-Delete Lakṣmīnārāyaṇā ekādasi. 
 
-(Orissa) Jyaiṣtha S 11--Delete Rukmiṇi vivāha (Orissa) Aṣādha 811Delete Ravinārāyaṇa ekādasi : 
+(Orissa) Jyaiṣtha S 11--Delete Rukmiṇi vivāha (Orissa) Aṣāḍha 811Delete Ravinārāyaṇa ekādasi : 
 
 . (Orissa) Page 103, Śrāvana K 5–Insert and rātrivyāpini' after 
 

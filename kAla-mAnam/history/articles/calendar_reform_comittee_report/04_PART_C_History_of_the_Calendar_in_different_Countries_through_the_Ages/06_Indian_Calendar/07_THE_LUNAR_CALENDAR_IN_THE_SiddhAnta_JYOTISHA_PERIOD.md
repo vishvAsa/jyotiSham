@@ -146,7 +146,7 @@ The months used for civil purposes in the Hindi calendar are the full-moon endin
 
 The Samvat and śaka years in the Hindi calendar begins with Caitra śukla Pratipad. For astronomical purposes, however, the year begins a few days later with the entrance of the sun into Meṣa. 
 
-The calendars of Āṣādhi Samvat and Kārtiki Samvat are, on the other hand, based on the new-moon ending months, and consequently the months begin 15 days later than the months of the Caitrādi full-moon ending calendar. The Āsādhi calendar begins with Aṣādha śukla 1, and the Kārtiki calendar with Kārtika śukla 1. 
+The calendars of Āṣādhi Samvat and Kārtiki Samvat are, on the other hand, based on the new-moon ending months, and consequently the months begin 15 days later than the months of the Caitrādi full-moon ending calendar. The Āsādhi calendar begins with Aṣāḍha śukla 1, and the Kārtiki calendar with Kārtika śukla 1. 
 
 The table (No. 20 on p. 249) shows the scheme of the different calendars for the year śaka 1875 (1953-54). The year contains a māla or adhika month. 
 
@@ -168,7 +168,7 @@ system Samvat era 2010 . 2010
 
 2010 Beginning 
 
-of year Caitra S 1 Āṣādha S 1 Kārtika S 1 
+of year Caitra S 1 Āṣāḍha S 1 Kārtika S 1 
 
 (16 Mar., 1953) (12 July, 1953) (7 Nov., 1953) 
 
@@ -312,7 +312,7 @@ Caitra S Caitra K Vaiśākha s
 
 (śuddha) Vaiśākha K 
 
-(śuddha) Jye tha s Jyestha K Aṣādha 8 Aṣādha K Śrāvana S Srāvaṇa K Bhādra ·8 Bhadra Ağvina Aøvina Kārtika Kārtika Mārga. Mārga. Pausa Pauza Māgha Māgha K Phālguna s Phalguna K 
+(śuddha) Jye tha s Jyestha K Aṣāḍha 8 Aṣāḍha K Śrāvana S Srāvaṇa K Bhādra ·8 Bhadra Ağvina Aøvina Kārtika Kārtika Mārga. Mārga. Pausa Pauza Māgha Māgha K Phālguna s Phalguna K 
 
 12 June 28 June 12 July 27 July 10 Aug. 25 Aug. 
 
@@ -328,11 +328,11 @@ Asving
 
 ८ 
 
-Jyestha S Aṣādha K Aṣadha 8 Śrāvaṇa K Śrāvanas Bhādra K Bhadra s A śvina K Āévina S Kārtika K Kārtika 's Mārga. K Mārga. · s Pausa Pausa Māgha K Māgha 8 Phālguna K Phālguna s Caitra K 
+Jyestha S Aṣāḍha K Aṣadha 8 Śrāvaṇa K Śrāvanas Bhādra K Bhadra s A śvina K Āévina S Kārtika K Kārtika 's Mārga. K Mārga. · s Pausa Pausa Māgha K Māgha 8 Phālguna K Phālguna s Caitra K 
 
 7 
 
-29 Jyeṣtha 14 Aṣādba 28 Aṣādha 11 Śrāvana 25 Śrāvaṇa 
+29 Jyeṣtha 14 Aṣādba 28 Aṣāḍha 11 Śrāvana 25 Śrāvaṇa 
 
 9 Bhādra 24 Bhadra 
 
@@ -354,13 +354,13 @@ bag to be a good cod com
 
 Jyeṣtha S 
 
-Jyestha S Aṣādha 
+Jyestha S Aṣāḍha 
 
 V 
 
 Jyestha Aṣadha S 
 
-Āṣādha Srāvana v 
+Āṣāḍha Srāvana v 
 
 Ā§ādha Srāvana 8 Śrāvana S Bbādra 
 
@@ -472,13 +472,13 @@ Table 21. Intercalary months in the present century śaka
 
 śaka 1823 Śrāvana 
 
-1872 Aṣādha 1826 Jyaiṣtha 
+1872 Aṣāḍha 1826 Jyaiṣtha 
 
 1875 Vaiśākha 1828 Caitra 
 
 1877 Bhadra 1831 Śrāvana 
 
-1880 Śrāvana 1834 Āṣādha 
+1880 Śrāvana 1834 Āṣāḍha 
 
 1883 Jyaiṣtha 1887 Vaiśākha 
 
@@ -492,7 +492,7 @@ Table 21. Intercalary months in the present century śaka
 
 1896 Bbādra 1850 Srāvana 
 
-1899 Āṣādha 1853 Āsādha 
+1899 Āṣāḍha 1853 Āsādha 
 
 1902 Jyaiṣtha 1856 Vaiśākha 
 
@@ -506,7 +506,7 @@ Table 21. Intercalary months in the present century śaka
 
 1915 Bhādra 1869 Srāvana 
 
-1918 Aṣādha * Pauṣa is Kșaya, ** Māgha is Kṣaya. As regards the kṣaya months that occurred and will be occurring during the period from 421 śaka (499-500 A.D.) to 1885 śaka (1963-64 A.D.) a statement is given below showing all such years mentioning the month which is kṣaya and also the months which are adhika in these years. The calculations are based on Surya Siddhānta without bija corrections upto 1500 A. D. and with these corrections after that year. 
+1918 Aṣāḍha * Pauṣa is Kșaya, ** Māgha is Kṣaya. As regards the kṣaya months that occurred and will be occurring during the period from 421 śaka (499-500 A.D.) to 1885 śaka (1963-64 A.D.) a statement is given below showing all such years mentioning the month which is kṣaya and also the months which are adhika in these years. The calculations are based on Surya Siddhānta without bija corrections upto 1500 A. D. and with these corrections after that year. 
 
 Intercalary months according to 
 

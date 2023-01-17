@@ -557,7 +557,7 @@ dh m . . Vaiśākha (Meṣa)
 
 ( 90 – 120 ) 
 
-31 11 24.4 31 10 54.6 Aṣādha Bhādra (simba) 
+31 11 24.4 31 10 54.6 Aṣāḍha Bhādra (simba) 
 
 (120 -150 ) 
 
@@ -661,7 +661,7 @@ may differ by 1 to 2 days in different parts of India.
 
 The mouths of Kārtika, Agrahāyana, Pauṣa, Māgha and Phālguna contain 29 or 30 days each, of which two months must be of 29 days, and others of 30 days. The months Caitra, Vaiśākha and Asvina contain 30 or 31 days. 
 
-The rest, viz., Jyaiṣtha, Āṣādha, Śrāvana and Bhadra have got 31 to 32 days each, of which one or two months will contain 32 days every year. 
+The rest, viz., Jyaiṣtha, Āṣāḍha, Śrāvana and Bhadra have got 31 to 32 days each, of which one or two months will contain 32 days every year. 
 
 (3) The length of the month by integral number. of civil days is not fixed, it varies from year to year. 
 
