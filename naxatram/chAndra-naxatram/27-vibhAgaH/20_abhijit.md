@@ -5,8 +5,8 @@ title = "२० अभिजित्"
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/abhijit.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/abhijit.png)
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/abhijit.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/abhijit.png)
+[<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/abhijit.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/abhijit.png)
+[<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/abhijit.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/abhijit.png)
 +++(Vega)+++
 </details>
 

@@ -4,8 +4,8 @@ unicode_script = "devanagari"
 +++
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/shroNA.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/shroNA.png)
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/shroNA.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/shroNA.png)
+[<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/shroNA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/shroNA.png)
+[<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/shroNA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/shroNA.png)
 +++(α, β and γ Aquilae)+++
 </details>
 

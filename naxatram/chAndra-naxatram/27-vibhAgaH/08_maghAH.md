@@ -5,8 +5,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png)
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/maghAH.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/maghAH.png)
+[<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/maghA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/maghA.png)
+[<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/maghAH.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/maghAH.png)
 
 - Regulus इति केचित्। " 6 stars - entire sickle of Leo" इत्यन्ये।
 </details>

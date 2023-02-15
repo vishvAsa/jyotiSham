@@ -4,8 +4,8 @@ unicode_script = "devanagari"
 +++
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/tiShya.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/tiShya.png)
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/tiShyaH.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/tiShyaH.png)
+[<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/tiShya.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/tiShya.png)
+[<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/tiShyaH.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/tiShyaH.png)
 
 γ, δ and θ Cancri इति केचित्। Praesepe open cluster (M44) इति केचित्।
 </details>

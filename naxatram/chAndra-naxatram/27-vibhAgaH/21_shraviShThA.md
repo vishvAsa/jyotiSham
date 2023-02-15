@@ -5,8 +5,8 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/dhaniShThA.svg" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/dhaniShThA.svg)
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/dhaniShThA_shraviShThA.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/dhaniShThA_shraviShThA.png)
+[<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/dhaniShThA.svg" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/dhaniShThA.svg)
+[<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/dhaniShThA_shraviShThA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/dhaniShThA_shraviShThA.png)
 +++(α to δ Delphini)+++
 </details>
 

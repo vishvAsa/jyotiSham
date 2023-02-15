@@ -5,8 +5,8 @@ unicode_script = "devanagari"
 +++
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/AshreShA.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/AshreShA.png)
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/AshreShAH.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/AshreShAH.png)
+[<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/AshreShA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/AshreShA.png)
+[<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/AshreShAH.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/AshreShAH.png)
 
 - δ, ε, η, ρ, σ, θ Hydrae
 - वेदाङ्गज्योतिषानुसारम् अस्य मध्य आसीद् अयनारम्भः ~ ११०० BCE इत्यस्मिन्।

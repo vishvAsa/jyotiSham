@@ -4,8 +4,8 @@ unicode_script = "devanagari"
 +++
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/proShThapada.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/proShThapada.png)
-[<img src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/uttara-proShThapadau.png" width="250"/>](/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/uttara-proShThapadau.png)
+[<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/proShThapada.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/proShThapada.png)
+[<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/uttara-proShThapadau.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/uttara-proShThapadau.png)
 +++(γ Pegasi and α Andromedae)+++
 
 {{< figure src="/jyotiSham/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg" title="" class="thumbnail">}}
