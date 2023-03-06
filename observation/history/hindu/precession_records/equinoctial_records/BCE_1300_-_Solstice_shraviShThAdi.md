@@ -4,7 +4,7 @@ title = "BCE 1300 - Solstice : shraviShThAdi"
 +++
 
 
-{{< figure src="../images/zodiac_history/bce-1400-01-13_bharaNi-3deg_vishAkhA_equinox_dhaniShTha_AshreShA-maghA_solstice.png"  >}}
+{{< figure src="/jyotiSham/astrophysics/history/images/zodiac_history/bce-1400-01-13_bharaNi-3deg_vishAkhA_equinox_dhaniShTha_AshreShA-maghA_solstice.png"  >}}
 
 
 - "Dating by precession gives the date of the VJ as being around 1300 BC because the it states that the winter solistice was in the beginning for shraviShThA and summer in the mid-point of AshleShA. This is important because in the maitrAyaNi brAhmaNa, shAkhAyanya tells king bR^ihadratha that the winter solistice was in the middle of shraviShThA (MBU 6.14). Thus, the lagadha was clearly aware of the change from the epoch time little before his times. "

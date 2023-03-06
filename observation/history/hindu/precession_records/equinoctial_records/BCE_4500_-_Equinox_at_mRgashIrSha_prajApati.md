@@ -3,7 +3,7 @@ title = "BCE 4500 - Equinox at mRgashIrSha/ prajApati"
 
 +++
 
-{{< figure src="../images/zodiac_history/bce-5000-11-19_mRgashIrSha_AShADha_equinox_chitrA_uttara-proShThapadAH_solstice.png"  >}}
+{{< figure src="/jyotiSham/astrophysics/history/images/zodiac_history/bce-5000-11-19_mRgashIrSha_AShADha_equinox_chitrA_uttara-proShThapadAH_solstice.png"  >}}
 
 
 - "प्रजापतेर् यत् सहजम् पुरस्तात्"।

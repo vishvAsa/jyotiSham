@@ -2,9 +2,9 @@
 title = "BCE 3000 - Vernal equinox at rohiNI"
 
 +++
-{{< figure src="../images/zodiac_history/bce-3000-01-13_rohiNI_jyeShThA_equinox_shatabhiShak_pUrva_phAlgunI_solstice.png"  >}}
+{{< figure src="/jyotiSham/astrophysics/history/images/zodiac_history/bce-3000-01-13_rohiNI_jyeShThA_equinox_shatabhiShak_pUrva_phAlgunI_solstice.png"  >}}
 
-{{< figure src="../images/zodiac_history/bce-3000_naxatra-chakra.jpg">}}
+{{< figure src="/jyotiSham/astrophysics/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg">}}
 
 - Corresponds to phAlguna full moon being first month of the year/ uttarAyANArambha. Mentioned in jaiminIya brAhmaNa, kauShItakI brAhmaNa.
 
