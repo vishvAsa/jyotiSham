@@ -1,0 +1,41 @@
++++
+title = "prAchyam on weekdays"
++++
+
+Source: [TW](https://www.youtube.com/watch?v=1Pz9L7PDmg4)
+
+## True claims
+This video demonstrates that the logic behind naming the weekdays - in the Hindu way - was well recorded in Hindu texts.
+
+> सप्त +एते होरेशाः शनैश्चराद्याः यथाक्रमं शीघ्राः ।  
+शीघ्रक्रमात्चतुर्थाः भवन्ति सूर्योदयात्दिनपाः ॥ १६ ॥  
+> इत्य् आर्यभटीये। 
+
+
+## False claims
+### 7 day week
+7 day week does not itself originate in India. There is no record or reference to it in vedic and vedAnga jyotiSha texts. 
+
+The video blatantly lies saying "There is no evidence for all these- zero." Scholarly consensus (backed by strong evidence/ written records) is as follows:
+
+> The seven-day week originates from the calendar of the Babylonians, which in turn is based on a Sumerian calendar dated to 21st-century B.C. Seven days corresponds to the time it takes for a moon to transition between each phase: full, waning half, new and waxing half. ... The Romans also inherited this system from Babylonian tradition, though they didn’t begin using it until the instatement of the Julian Calendar in the first-century B.C.
+
+Hindu texts which mention the 7 day week system are - by their own astronomical references and declarations - from the AD-s.
+
+### Day names
+Day names associated with planets were recorded far earlier outside India, than inside.
+
+Babylonians famously adored planets. Babylonian tablets, for example, record planetary movements meticulously.
+
+- Sun - shamash
+- Moon - sin
+- Mars - Nergal
+- Mercury - Nabu
+- Jupiter - Marduk
+- Venus - Ishtar
+
+> the seven days of the Greek astrological “week” were: ἡμέρᾱ Ἡλίου (day of Helios), ἡμέρᾱ Σελήνης (day of Selene), ἡμέρᾱ Ἄρεως (day of Ares), ἡμέρᾱ Ἑρμοῦ (day of Hermes), ἡμέρᾱ Διός (day of Zeus), ἡμέρᾱ Ἀφροδῑ́της (day of Aphrodite), and, lastly, ἡμέρᾱ Κρόνου (day of Kronos). These days were only known by astrologers and were not used by everyday people.
+
+(The Greeks acknowledged and used records from other civilizations.)
+
+> dies Solis (day of Sol), dies Lunae (day of Luna), dies Martis (day of Mars), dies Mercurii (day of Mercurius), dies Iovis (day of Iove), dies Veneris (day of Venus), and dies Saturni (day of Saturnus).
