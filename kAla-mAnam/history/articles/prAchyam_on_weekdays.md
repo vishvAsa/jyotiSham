@@ -13,7 +13,7 @@ This video demonstrates that the logic behind naming the weekdays - in the Hindu
 
 This logic (or something similar) has been long known to scholars. For example:
 
-> "The names for the days of the week which have been adopted throughout western Europe are based on the names of the seven known 'planets', arranged in their supposed order of decreasing distance from the Earth -- Saturn, Jupiter, Mars, the Sun, Venus, Mercury, the Moon -- and are of astrological origin. There was a great development of astrology in Egypt at the beginning of the Christian era; according to the current astrological beliefs, each hour in succession was consecrated to a different planet, the sequence following the order of their distance. The planet to which the first hour of the day was consecrated was regarded as the regent of that day.... In the Teutonic languages, the names of their divinities Tiu, Woden, Thor, and Freya are used instead of their Roman counterparts, Mars, Mercury, Jupiter, Venus." {{A History of Technology, volume 3, p. 565f}}
+> "The names for the days of the week which have been adopted throughout western Europe are based on the names of the seven known 'planets', arranged in their supposed order of decreasing distance from the Earth -- Saturn, Jupiter, Mars, the Sun, Venus, Mercury, the Moon -- and are of astrological origin. ... The planet to which the first hour of the day was consecrated was regarded as the regent of that day.... In the Teutonic languages, the names of their divinities Tiu, Woden, Thor, and Freya are used instead of their Roman counterparts, Mars, Mercury, Jupiter, Venus." {{A History of Technology, volume 3, p. 565f}}
 
 
 ## False claims
