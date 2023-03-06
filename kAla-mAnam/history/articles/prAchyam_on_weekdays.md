@@ -39,3 +39,8 @@ Babylonians famously adored planets. Babylonian tablets, for example, record pla
 (The Greeks acknowledged and used records from other civilizations.)
 
 > dies Solis (day of Sol), dies Lunae (day of Luna), dies Martis (day of Mars), dies Mercurii (day of Mercurius), dies Iovis (day of Iove), dies Veneris (day of Venus), and dies Saturni (day of Saturnus).
+
+## Conclusion
+Besides some true quotations, video makes false claims and deliberately hides contrary evidence.
+
+The attitude it imbibes is that Hindus did not learn from others when it was clearly not the case. This "vishva-guru-syndrome" leads to an arrogant mindset, which is opposed to humble and honest pursuit of truth - no matter where it comes from.
