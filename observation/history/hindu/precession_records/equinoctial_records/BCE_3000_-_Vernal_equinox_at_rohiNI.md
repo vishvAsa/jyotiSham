@@ -19,6 +19,9 @@ title = "BCE 3000 - Vernal equinox at rohiNI"
 - शकलसंहितायां [10/189](/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/189_AyaM_gauH/) इत्यत्र वर्तन्ते, तैत्तिरीयसंहितायाम् ईषत्परिवर्तिता [१/५/३](/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/) इत्यत्र पुनराधानप्रकरणे। 
 
 
+> Interestingly, the R^igveda provides a fragment of an ancient mythology associated with manu’s son, ashvaghna nAbhAnedhishhTha (Añ¹ na-aneixó) (RV 10.61.1-7) points to the legend of prajApati (the year beginning) associating with rohiNi. This fits well with the equinox in Taurus (circa 2800-3000 BC) for the early phase of Aryan existence.  
+> - MT
+
 ## तैत्तिरीये
 - आरण्यके ध्रुववन्दनम् अत्र \[[ऽत्र](/devaH/AryaH/hindukaH/lokAntaram/yajuH/dhruva/)\]
 
