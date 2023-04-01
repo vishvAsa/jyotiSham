@@ -56,7 +56,7 @@ unicode_script = "devanagari"
 ## Eclipse
 - Lunar nodes, where eclipses occur
   - rAhu and ketu
-- Saros cycle (223 synodic months, approximately 6585.3211 days)
+- Saros cycle (223 synodic months, approximately 6585.3211 days at 29.530588 mean solar days per month, or 6690 tithis, ~241 naxatra months)
 - Solar eclipse
   - Seizure by demon svarbhAnu. Slain by Indra
   - divAkIrtya-s, deployed by the ashvins, are said to restore the "head of the yaJNa". 
