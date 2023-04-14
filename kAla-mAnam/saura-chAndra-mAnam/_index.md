@@ -17,7 +17,7 @@ unicode_script: devanagari
 Because the Earth is constantly moving along its orbit about the Sun, the Moon must travel slightly more than 360° to get from one new moon to the next. Thus, the synodic month, or lunar month, is longer than the sidereal month. A sidereal month lasts 27.322 days, while a synodic month lasts 29.531 days.
 
 ## Saros
-Saros is a period of exactly 223 synodic months (approximately 6585.3211 days, or 18 years, 11 days, 8 hours), that can be used to predict eclipses of the Sun and Moon. One saros period after an eclipse, the Sun, Earth, and Moon return to approximately the same relative geometry, a near straight line, and a nearly identical eclipse will occur, in what is referred to as an eclipse cycle. A sar is one half of a saros.
+Saros is a period of exactly 223 synodic months (approximately 6585.3211 days at 29.530588 mean solar days per month, or 18 years, 11 days, 8 hours, or 6690 tithis, ~241 naxatra months), that can be used to predict eclipses of the Sun and Moon. One saros period after an eclipse, the Sun, Earth, and Moon return to approximately the same relative geometry, a near straight line, and a nearly identical eclipse will occur, in what is referred to as an eclipse cycle. A sar is one half of a saros.
 
 ## सौर-चान्द्रम् उत्तरायणम्, विषुवादिकञ्च।
 - सौरचान्द्र-उत्तरायणे वैदिक\-वर्षारम्भः।
