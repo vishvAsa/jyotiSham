@@ -11,7 +11,7 @@ title = "BCE 2300 - Vernal equinox at kRttikA"
 
 ## वेदेषु
 - In the Taittirīya Brāhmnana (i. 1, 2, 1) it is distinctly stated " one should consecrate the (sacred) fire in the Krittikas; ......the Kr̥ttikās are the mouth of the Nakṣatras. " (* कृतिकास्वग्निमादधीत । ...... । मुखं वा एतन्नक्षत्राणां । यस्कृत्तिकाः । ) This shows that the first place given to the Krittikas in the list of the Nakṣatras is not accidental and that we must at Icast suppose that the Krittikas were the “ mouth of the Nakṣatras," in the same way as Vasanta or spring was the "mouth of the seasons " (+ Taitt. Br.i. 1. 2. 6 मुखं वा एतदतूनां यद्वसंतः। ) or the Phālguni full moon the "mouth of the year."
-- तैत्तिरीयकानां [नक्षत्रसूक्तम्](/devaH/AryaH/hindukaH/lokAntaram/Rk/naxatra-suuktam/) दृश्यताम्।
+- तैत्तिरीयकानां [नक्षत्रसूक्तम्](/devaH/AryaH/hindukaH/classes/lokAntaram/Rk/naxatra-suuktam/) दृश्यताम्।
  अपि वर्तते।
 - सूचिकाग्निसूक्तम् ऋग्वेदे दृश्यताम् - [महत् तदुल्बम्](/shAkalam/saMhitA/vishvAsa-prastutiH/10/051_mahat_tad_ulbam/) इति।
 - shaunaka atharvaveda 19.7 nakShatra sUktam भानुराश्लेषा अयनं मघा मे : sun \[in\] AshleSha(=sarpa), \*solistice\* \[in\] maghA for me.

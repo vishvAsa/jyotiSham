@@ -23,7 +23,7 @@ title = "BCE 3000 - Vernal equinox at rohiNI"
 > - MT
 
 ## तैत्तिरीये
-- आरण्यके ध्रुववन्दनम् अत्र \[[ऽत्र](/devaH/AryaH/hindukaH/lokAntaram/yajuH/dhruva/)\]
+- आरण्यके ध्रुववन्दनम् अत्र \[[ऽत्र](/devaH/AryaH/hindukaH/classes/lokAntaram/yajuH/dhruva/)\]
 
 ## फाल्गुनय् उत्तरायणम्
 - विवाहसूक्ते तथा ([MT](https://twitter.com/blog_supplement/status/1214057993840578561))।

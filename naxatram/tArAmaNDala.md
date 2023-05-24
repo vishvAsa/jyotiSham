@@ -14,7 +14,7 @@ Various stars in a constellation are often identified with greek letters - like 
 
 
 ## चान्द्रनक्षत्रताराः
-- [नक्षत्रसूक्तं](/devaH/AryaH/hindukaH/lokAntaram/Rk/naxatra-suuktam/) दृश्यताम्। तथा ऽथर्ववेद-नक्षत्र-कल्पो ऽप्य् [अत्र](../2005-11-27_the-nakshatra-kalpa-of-the-atharva-veda/)।
+- [नक्षत्रसूक्तं](/devaH/AryaH/hindukaH/classes/lokAntaram/Rk/naxatra-suuktam/) दृश्यताम्। तथा ऽथर्ववेद-नक्षत्र-कल्पो ऽप्य् [अत्र](../2005-11-27_the-nakshatra-kalpa-of-the-atharva-veda/)।
 - See also notes and references on [equinoctial records](/jyotiSham/observation/history/hindu/precession_records/equinoctial_records/).
 
 ## राशिताराः
@@ -35,7 +35,7 @@ Various stars in a constellation are often identified with greek letters - like 
 
 
 ### तारानामानि तैत्तिरीयारण्यके 
-Vedic Taittiriya Aranyaka names।  \[[ऽत्र](/devaH/AryaH/hindukaH/lokAntaram/yajuH/dhruva/)\]
+Vedic Taittiriya Aranyaka names।  \[[ऽत्र](/devaH/AryaH/hindukaH/classes/lokAntaram/yajuH/dhruva/)\]
 
 - 1. Head: Dharma
 - 2. Upper Jaw: Brahma
