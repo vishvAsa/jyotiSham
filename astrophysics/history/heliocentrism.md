@@ -119,7 +119,7 @@ In the manner of ants on a ball, the beings are stationed on the earth. Held by 
 
 ### वेदान्तदेशिकः (1268–1369)
 - He has written a work called भूगोलनिर्णय . Seems to closely follow bhAgavata. 
-- "गोल" seems to refer to "गोलकटाह", a spherical manifold or section, according to the commentary -  "एवं सूर्याण्डगोलकटाहयोर्मध्ये पञ्चविंशतिकोटियोजनत्वम् ऊर्द्ध्वमधश्चेत्यण्डकटाहान्तरविवरोच्छ्रायस्य पञ्चाशत्कोटियोजनत्वं सिद्धम् ॥"
+- "गोल" seems to refer to "गोलकटाह", a spherical manifold or section, according to the commentary -  "एवं सूर्याण्ड-गोल-कटाहयोर् मध्ये पञ्च-विंशति-कोटि-योजनत्वम् ऊर्द्ध्वम् अधश् चेत्य् अण्डकटाहान्तर-विवरोच्छ्रायस्य पञ्चाशत्-कोटियोजनत्वं सिद्धम् ॥"
 
 ### विजयध्वजतीर्थः (1450)
 - अधोक्षजमठपीठाधिपो माध्वः। टीकाचार्यस्य जयतीर्थस्य समकालीनः। गौडीयानाम् अपि पूज्यः।
