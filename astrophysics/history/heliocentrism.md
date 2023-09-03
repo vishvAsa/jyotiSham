@@ -105,7 +105,7 @@ In the manner of ants on a ball, the beings are stationed on the earth. Held by 
 ## bhAgavata-s
 {{< figure src="../images/bhAgavata-universe.png"  class="thumbnail">}}
 
-### bhAgavata-purANa
+### भागवत-पुराणम्
 - References to "bhUgola" in multiple purANa-s including bhAgavata -  [IMG](https://i.imgur.com/GsxAOcY.png) . As is clear from interpretations by vedAntadeshika and later bhAgavata-s, this is to be understood as a spherical manifold (गोलकटाह) or hemisphere rather than a full sphere. 
 - Essentially a flat earth model. 
 - Example: 5.21.8 - [VB](https://vedabase.io/en/library/sb/5/21/8-9/). Zero calculations. Best treated as kavi-samaya type arthavAda.
