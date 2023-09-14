@@ -1,5 +1,5 @@
 ---
-title: Heliocentrism, spherical earth
+title: Heliocentrism, spherical earth …
 
 ---
 ## References
@@ -50,6 +50,14 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 ## pRthUdaka-svAmI  864 CE
 - He was a chaturvedin son of madhusUdana bhaTTa.
 - "भ-पञ्जरः स्थिरः । भूर् एवावृत्यावृत्य प्रति-दैवसिकौ उदयास्तमयौ सम्पादयति नक्षत्र-ग्रहाणाम् । आचार्यार्यभटेन+अपि भू-भ्रमणम् अभ्युपगतम्: “प्राणेनैति कलां भूः ।"" - "The celestial sphere is stationary. Only the earth keeps rotating and rotating, once everyday, causing the rising and setting of the stars and planets. The earth's rotation had been accepted by professor Aryabhata: "the earth rotates by the angle of a kala in unit of time of a prāņa"".
+
+## Śrīdharācārya (10th century CE)
+
+Śrīdharācārya (10th century CE) states that sunlight, moonlight & so forth are white because of lack of any interference. It's in case of an interference that other colours appear. So, for him, Sun's colour is white. 
+
+> यत्त्वस्य लोहितं कपिलं वा रूपं क्वचित् प्रतीयते तदाश्रयोपाधिकृतम्, निराश्रयस्य शुक्लतामात्रप्रतीतेः यथा प्रदीपप्रभामण्डलस्य सौरचन्द्राद्यालोकस्य च। 
+> 
+> - न्यायकन्दली, तेजोद्रव्यप्रकरण
 
 ## bhaTTa-bhAskarakaNTha of kAshmIra 1200-1600CE
 ब्रह्माण्डाकाशमध्ये तु पृथ्वी कन्दुकवत् स्थिता । ...
