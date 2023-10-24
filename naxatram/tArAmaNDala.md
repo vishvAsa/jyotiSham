@@ -86,6 +86,8 @@ Vedic Taittiriya Aranyaka names।  \[[ऽत्र](/devaH/AryaH/hindukaH/class
 
 > From the Rgveda we may infer that dadhikra, the flying horse, probably stood for a constellation whose rising before dawn was significant to the early Arya-s. It remains as yet unclear if that was in someway associate with Pegasus. 
 > 
+> ... I posted sometime back that I think dadhikra deifies a constellation. Pegasus would come to mind but there is no evidence that H ever saw Pegasus as a horse. Now based on iranic parallel I have concluded that it is likely an interpretation of  Canis Major with rainy associations
+> 
 > - MT
 
 
