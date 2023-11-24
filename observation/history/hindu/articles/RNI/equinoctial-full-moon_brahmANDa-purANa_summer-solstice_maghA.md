@@ -58,7 +58,7 @@ formally the varṣa ṛtu (rainy season) started. The mean-
 ing of the word viṣuva indicates a point in time that
 divides the year in half. This point is figuratively
 13
-Vol.:(0123456789)Indian Journal of History of Science
+Vol.:(0123456789)
 explained in the Taittirīya Brāhmaṇa (TB) by comparing
 the viṣuva day to the east–west running central roof beam
 of a sacrificial hall that divides the hall symmetrically
@@ -150,7 +150,8 @@ solar zodiac that changed into the śraviṣṭhādi scheme circa
 This represents an interesting period of pre-siddhāntic Hindu
 astral sciences that is important for the history of Indian
 astronomy before Common Era.
-2 Brahmāṇḍa Purāṇa (BP)
+
+## 2 Brahmāṇḍa Purāṇa (BP)
 Among the traditionally recognised eighteen Purāṇas, the
 Brahmāṇḍa, Vāyu, Matsya, Viṣṇu, Liṅga Purāṇa texts carry
 interesting astronomical and cosmological models inherited
@@ -163,7 +164,7 @@ also available in the above texts with variant readings, addi-
 tions and omissions. Even though some of the statements
 may sound fanciful, there is a discernible layer of observation
 and effort to explain the same in terms of prevalent physical
-models. The first part of BP, in chapters 21 to 24 totalling 520Indian Journal of History of Science
+models. The first part of BP, in chapters 21 to 24 totalling 520
 verses presents this Purāṇic astronomy that must have been
 formulated before the Common Era. The intention here is not
 to critically assess or discuss the ancient Purāṇic cosmogra-
@@ -256,7 +257,7 @@ and tulā, whether they refer to solar months or rāśi names
 vation of the equinoctial full moon near the two unambigu-
 ously recognizable stars and within their eponymous sectors
 is amenable for archaeo-astronomical analysis.
-3 Equinoctial full moon
+## 3 Equinoctial full moon
 3
 शरि्िसन्तयोर्मर्यं रिषुित्पररिाि्यतये । अहोरात्रये कलाश्चैि समं सोमः
 समश्नुतये ॥ (Ch. 21.124).
@@ -265,7 +266,7 @@ Krishna Das Academy, Varanasi is followed.
 The BP text quoted above clearly takes equinoctial sun to be
 at the quarter point of the kṛttikā sector when moon would
 be at the third-quarter of the viśākha division. The asterism
-13Indian Journal of History of Science
+13
 Fig. 1 Full moon points around 180° longitude with sun at 0° longitude (vasanta/spring equinox) are marked in the viśākhā sector. Full moon
 points around 0° longitude with sun at 180° longitude (śarat/autumn equinox) are marked in the kṛttikā sector. Red and blue lines show the vari-
 ation in longitude of the stars kṛttikā (η-Tau) and viśākhā (α1-Lib) due to precession of the equinoxes
@@ -335,7 +336,7 @@ hundred years, shown shaded in the above figure. However
 as pointed out before, the spring equinox statement is more
 specific than the other one. Thus, one may argue that FM
 observations nearer to star viśākha should be treated as
-more reliable. With this rider, 1700–1600 BCE will be aIndian Journal of History of Science
+more reliable. With this rider, 1700–1600 BCE will be a
 Fig. 2 a, b Dial plot of the 27 nakṣatra sectors, each 13(5/9) days long, super posed on the invariant N-S axis defining the beginning of the śiśira
 ṛtu (WS) and the varṣa ṛtu (SS) as in the Vedic MAU. The E-W axis bisects the centre of the vasanta (SE) and śarat ṛtu (AE) domains as in the
 Brahmāṇḍa Purāṇa. a The number of days counted from the summer solstice day to the beginning of each nakṣatra sector is marked clockwise
@@ -349,7 +350,7 @@ text is silent about other nakṣatra sectors and the solstices
 while mentioning about the FM. But it can be demonstrated
 that kṛttikā-¼ being the equinoctial day is same as the winter
 solstice being at śraviṣṭhā-½ as in the Vedic MAU.
-4 Maghādi scheme
+## 4 Maghādi scheme
 The BP text from a critical study of its content can be
 understood to have acquired its present scriptural form
 in the early centuries of CE. But as pointed out above
@@ -392,11 +393,11 @@ for the first time, is a pointer to the existence of an ancient
 convention to follow the position of sun, in terms of nakṣatra
 sectors, starting from a fixed summer solstice point on the
 horizon. This inference brings up in its wake the question of
-13Indian Journal of History of Science
+13
 the cultural influence of maghā nakṣatra on the Vedic society
 and how the naked eye visibility of the stars of this asterism
 might have been taken to indicate the beginning of varṣa ṛtu.
-5 Stars of Maghā Nakṣatra
+## 5 Stars of Maghā Nakṣatra
 Summer solstice or the rise of sun at the same north eastern
 point of the horizon for a few days in the yearly cycle would
 have been naturally observed and felt as a weather condi-
@@ -500,10 +501,10 @@ Saṁhitā; 19.7.2b).
 13
 The Sūrya-candraprajñapti of the Jaina tradition counts seven
 stars in maghā asterism looking like prākāra.
-12Indian Journal of History of Science
+12
 nakṣatra maghā made up of six stars can be identified as the
 group (α, ε, ζ, η, γ, μ Leo).
-6 Maghādi epoch
+## 6 Maghādi epoch
 The Vṛddhagārgīya Jyotiṣa (VGJ) includes a section called
 Mahāsalilaṁ, in archaic prose, in the form of a set of ques-
 tions followed by answers. One of the questions is about
@@ -582,7 +583,7 @@ fall. Two of the Sanskrit words varṣaḥ (rainfall) and abdaḥ
 (water giver) used popularly to mean Year in Indian lan-
 guages even now, primarily referred to the start of the rainy
 season in ancient times.
-7 Śraviṣṭhā Nakṣatra
+## 7 Śraviṣṭhā Nakṣatra
 It has been pointed out that the maghā asterism with its con-
 nection to summer solstice has had a long memory before
 the formulation of the maghādi scheme. On similar lines, the
@@ -607,7 +608,7 @@ rātrisūkta (Night hymn) poetically describes the rising of
 in the evenings around the summer solstice when the stars
 14
 अरतविश्वान्यरुहत् गंिीरो िरषत्यष्मरुहन् श्रविष्ाः ॥ (AV 19.49.2a).
-13Indian Journal of History of Science
+13
 of the maghā nakṣatra were setting. Śraviṣṭhā asterism is
 invoked in TB as composed of four goddesses belonging to
 the Year and arriving from south.15 This can be taken as an
@@ -622,7 +623,7 @@ visibility, but in longitudes they start spilling over to the next
 sector. The stars of constellation Delphinius, that were vis-
 ible already by the 164th day in the śravaṇa sector (Fig. 2 a)
 fall into the śraviṣṭhā sector (Fig. 2 b) in terms of longitudes.
-8 Discussion
+## 8 Discussion
 The year − 1700 chosen here is only an example to show
 primarily the positions of the visible cardinal stars vis-à-
 vis their sectors. It is obvious that these positions would
@@ -685,7 +686,7 @@ by four to five centuries the much discussed śraviṣṭhādi later
 known as dhaniṣṭhādi scheme of Lagadha (Abhyankar,
 1991; Gondhalekar, 2013; Sastry, 1984) usually propagated
 as the original Vedic calendar.
-9 Conclusion
+## 9 Conclusion
 A tendency to describe sky observations allegorically along
 with a predisposition to associate numbers with visible
 objects and to count words and syllables is widely recog-
@@ -707,7 +708,7 @@ in the MAU where the solstices are linked to the maghā
 and the śraviṣṭhā group of stars, with a further measure
 assigned to them in terms of four quarters. Start of the
 ayana of sun from the first point of maghā to ½-śraviṣṭhā
-and back, implies a year of twenty-seven equal nakṣatraIndian Journal of History of Science
+and back, implies a year of twenty-seven equal nakṣatra
 sectors of 13 (5/9) days each. Each nakṣatra is considered
 to have four parts such that the complete stellar circle is
 made of 108 parts, foreshadowing the modern ecliptic lon-
@@ -756,33 +757,32 @@ treated as containing hidden source material for mapping
 the history of Indian astronomy and mathematics before the
 advent of siddhānta astronomy in the early centuries of the
 Common Era.
-Acknowledgements The study reported here is supported by the
-Ministry of Education, Govt. of India, under the IKS Center Scheme
-Project: AICTE/IKS/CENTER-1/2021-22/02.
-References
-Abhyankar, K. D. (1991). Mis-identification of some Indian nakṣatras.
-Indian Journal of History of Science, 26(1), 1–10.
-Das, P. (2018). Bhāgavata Cosmology. Tulsi Books, Mumbai.
-Gondalekhar, P. (2013). The time keepers of the Vedas. Manohar. [ISBN
-978-81-7304-969-9].
-Iyengar, R. N. (2013). Parāśara Tantra (Ed. Trans & Notes). Jain Uni-
-versity Press. [ISBN 978-81-9209-924-8].
-Iyengar, R. N. (2016). Astronomy in Vedic texts, (Book Chapter
-pp.107–169). History of Indian Astronomy A Handbook, (Ed.
-K.Ramsubramanian, A.Sule &M. Vahia), Publn. by IITB and
-TIFR, Mumbai.
-Iyengar, R. N., & Chakravarty, S. (2021). Transit of sun through the
-seasonal nakṣatra cycle in the Vṛddha-Gārgīya Jyotiṣa. Indian
-Journal of History of Science, 56(2), 159–170.
-Koch, D. (2014), Astronomical dating of the Mahābhārata war. Erlen-
-bach, Switzerland. (https://www.gilgamesh.ch/KochMahabharata
-6x9_V1.00.pdf)
-Sastry, T. S. K. (1984). Vedāṅga Jyotiṣa of Lagadha. Indian Journal of
-History of Science, 19(4), 1–74.
+
+## Acknowledgements 
+
+The study reported here is supported by the Ministry of Education, Govt. of India, under the IKS Center Scheme Project: AICTE/IKS/CENTER-1/2021-22/02.
+
+## References
+Abhyankar, K. D. (1991). Mis-identification of some Indian nakṣatras. Indian Journal of History of Science, 26(1), 1–10.
+
+Das, P. (2018). Bhāgavata Cosmology. Tulsi Books, Mumbai. 
+
+Gondalekhar, P. (2013). The time keepers of the Vedas. Manohar. [ISBN 978-81-7304-969-9].
+
+Iyengar, R. N. (2013). Parāśara Tantra (Ed. Trans & Notes). Jain Uni- versity Press. [ISBN 978-81-9209-924-8].
+
+Iyengar, R. N. (2016). Astronomy in Vedic texts, (Book Chapter pp.107–169). History of Indian Astronomy A Handbook, (Ed.
+
+K.Ramsubramanian, A.Sule &M. Vahia), Publn. by IITB and TIFR, Mumbai.
+
+Iyengar, R. N., & Chakravarty, S. (2021). Transit of sun through the seasonal nakṣatra cycle in the Vṛddha-Gārgīya Jyotiṣa. Indian Journal of History of Science, 56(2), 159–170.
+
+Koch, D. (2014), Astronomical dating of the Mahābhārata war. Erlenbach, Switzerland. (https://www.gilgamesh.ch/KochMahabharata6x9_V1.00.pdf)
+
+Sastry, T. S. K. (1984). Vedāṅga Jyotiṣa of Lagadha. Indian Journal of History of Science, 19(4), 1–74.
+
 Sengupta, P. C. (1947) Ancient Indian Chronology. Univ. of Calcutta.
-Srinivas, M. D. (2019). The untapped wealth of manuscripts on Indian
-astronomy and mathematics. Indian Journal of History of Science,
-54(3), 243–268.
-Thompson R. L. (2007). The Cosmology of the Bhāgavata Purāṇa
-(Indian Edn.) Motilal Banarsidass, Delhi.
-  
+
+Srinivas, M. D. (2019). The untapped wealth of manuscripts on Indian astronomy and mathematics. Indian Journal of History of Science, 54(3), 243–268.
+
+Thompson R. L. (2007). The Cosmology of the Bhāgavata Purāṇa(Indian Edn.) Motilal Banarsidass, Delhi.
