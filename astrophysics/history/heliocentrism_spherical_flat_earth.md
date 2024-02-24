@@ -148,3 +148,11 @@ In the manner of ants on a ball, the beings are stationed on the earth. Held by 
 - Modern visualizations - [SD](https://www.youtube.com/watch?v=oELKxRPHR6U).
 - "The Srimad-Bhagavatam’s mode of presentation is very different from the familiar modern approach. Although the Bhagavatam’s “Earth” (disk- shaped Bhu-mandala) may look unrealistic, careful study shows that the Bhagavatam uses Bhu-mandala to represent at least four reasonable and consistent models: (1) a polar- projection map of the Earth globe, (2) a map of the solar system, (3) a topographical map of south-central Asia, and (4) a map of the celestial realm of the demigods."
 - "He argues for the spheroid earth theory and synchronizes the calculations mentioned in the puranas with the modern calculation we have with our observations... this theory had already been challenged by other ISKCON members. One of the arguments is that in his theory he dismantles the idea of existence of plane bhumandala and reduces them to the imaginary description of the planetary orbits when seen from the geocentric reference. The data does match to about 65% accuracy."
+
+### koTa venkaTAchalam's samanvaya attempt
+- ఆర్య విజ్ఞానం-1 (బ్రహ్మాండ సృష్టి విజ్ఞానం) by కోట వెంకటాచలం
+
+Source: [TW](https://archive.org/details/in.ernet.dli.2015.371066/page/44/mode/1up)
+
+He asserts that Bhugola is different from the Bhu (Mahi)- Mandala to explain how one has to understand the Desa Samkirtana: पञ्चाशत्कोटि योजन विस्तीर्ण मही मण्डले
+
