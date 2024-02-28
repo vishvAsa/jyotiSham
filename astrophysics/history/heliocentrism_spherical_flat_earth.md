@@ -126,7 +126,7 @@ In the manner of ants on a ball, the beings are stationed on the earth. Held by 
 विनैव सर्वमुन्नेयं योजनाभेदतोत्र तु ।। इति ब्रह्माण्डे ।।7।। +++(ब्रह्माण्डपुराणग्रन्थेषु नैवोपलभ्यते।)+++
 
 ### वेदान्तदेशिकः (1268–1369)
-- He has written a work called भूगोलनिर्णय . Seems to closely follow bhAgavata. 
+- He is said to have written a work called भूगोलनिर्णय (which is traditionally contested by some scholars since, uncharacteristically, there are no citations to it in his other works). Seems to closely follow bhAgavata. 
 - "गोल" seems to refer to "गोलकटाह", a spherical manifold or section, according to the commentary -  "एवं सूर्याण्ड-गोल-कटाहयोर् मध्ये पञ्च-विंशति-कोटि-योजनत्वम् ऊर्द्ध्वम् अधश् चेत्य् अण्डकटाहान्तर-विवरोच्छ्रायस्य पञ्चाशत्-कोटियोजनत्वं सिद्धम् ॥"
 
 ### विजयध्वजतीर्थः (1450)
