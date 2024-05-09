@@ -21,26 +21,110 @@ Many of the uncited quotes and translations are by the mAnasatarangiNIkAra.
 - Via S kAk: Surya Siddhānta (SS) seems to remember this pre-epicyclic astronomy of the earlier period. The uccas and the node (pāta) are thus described in SS 2.1-5: "Forms of time, of invisible shape, stationed in the zodaic, called the sīghrocca, mandocca, and node (pāta), are causes of the motion of the planets. The planets, attached to these points by cords of air, are drawn away by them, with the right and left hand, forward or backward, according to nearness, toward their own place. A wind, called pravaha, impels them toward their own ucсas, being drawn away forward and backward."
 
 ## Aryabhata 500 AD
-- "Aryabhata (born in 476 AD. ) appears to have held the view that the **stars did not revolve round the earth, but the latter revolved round itself** and gave the illustration of a man sitting in a moving boat feeling that it is the stationary objects on the banks that rush past in the opposite direction. ... This was more than eleven hundred years before Galileo and there is nothing to show that Aryabhata suffered in the least for his views."- PV Kane
-- In the words of Thurston: "Not only did Aryabhaṭa believe that the earth rotates, but there are glimmerings in his system (and other similar Indian systems) of a possible underlying theory in which the earth (and the planets) orbits the sun, rather than the sun orbiting the earth. The evidence is that the basic planetary periods are relative to the sun. For the outer planets this is not significant: both earth and sun are inside their orbits and so the time taken to go round the earth and the time taken to go round the sun are the same. The significant evidence comes from the inner planets: the period of the śīghrocca is the time taken by the planet to orbit the sun." 
-- S Kak - "The śīghrocca maps the motion of the planet around the sun to the corresponding set of points around the earth. This indicates a tradition of heliocentric astronomy as applied to the solar system. The sun, with its winds that hold the solar system together, is, in turn, taken to go around the earth."
-- "Aryabhata held that earth was a sphere and rotated on its axis, and that the eclipses were not the work of Rāhu but caused by the shadow of the earth falling on the moon. Both these views were rejected and severely condemned by later astronomers like VarAhamihira and Brahmagupta."
-- Al Beruni's mis-characterization - "Al bIrUni accepts that spherical part. He (al bIrUnI) says he wrote a work arguing against a moving earth and in favor of geocentricity."
+> "Aryabhata (born in 476 AD. ) appears to have held the view that the **stars did not revolve round the earth, but the latter revolved round itself** and gave the illustration of a man sitting in a moving boat feeling that it is the stationary objects on the banks that rush past in the opposite direction. ... This was more than eleven hundred years before Galileo and there is nothing to show that Aryabhata suffered in the least for his views."
+> - PV Kane
+
+In the words of Thurston: 
+
+> "Not only did Aryabhaṭa believe that the earth rotates, but there are glimmerings in his system (and other similar Indian systems) of a possible underlying theory in which the earth (and the planets) orbits the sun, rather than the sun orbiting the earth. The evidence is that the basic planetary periods are relative to the sun. For the outer planets this is not significant: both earth and sun are inside their orbits and so the time taken to go round the earth and the time taken to go round the sun are the same. The significant evidence comes from the inner planets: the period of the śīghrocca is the time taken by the planet to orbit the sun." 
+
+S Kak - 
+
+> "The śīghrocca maps the motion of the planet around the sun to the corresponding set of points around the earth. This indicates a tradition of heliocentric astronomy as applied to the solar system. The sun, with its winds that hold the solar system together, is, in turn, taken to go around the earth."  
+> "Aryabhata held that earth was a sphere and rotated on its axis, and that the eclipses were not the work of Rāhu but caused by the shadow of the earth falling on the moon. Both these views were rejected and severely condemned by later astronomers like VarAhamihira and Brahmagupta."
+
+Al Beruni's mis-characterization - 
+
+> "Al bIrUni accepts that spherical part. He (al bIrUnI) says he wrote a work arguing against a moving earth and in favor of geocentricity."
+
+### Reception
+Later eminent scholars like Varāhamihira and Brahmagupta, who followed Āryabhaṭa, criticized his stance. Their criticsm over Āryabhaṭa scholars during 6th century CE was such a significant, leading to the rejection of Āryabhaṭa's theory by his own followers. They misinterpreted 2 passages and altered the reading of the text itself in the other two instances. 
+
+1. Āryabhaṭīya Gītikā Section, Verse 6 
+
+> शशिराशयष्ठ चक्रं तेऽशकलायोजनानि य-व-ञ-गुणाः।  
+प्राणेनैति कलां भूः+++(~~भं~~)+++  
+खयुगांशे ग्रह-जवो भवांशेऽर्कः ॥
+>
+> Reduce the Moon's revolutions (in a yuga) to signs, multiplying them by 12 (lit. using the fact that there are 12 signs in a circle or revolution). Those signs mutiplied successively by 30, 60 and 10 yield degrees, minutes and yojanas, respectively. (These yojanas give the length of the circumference of the sky). The Earth rotates through (an angle of) one minute of arc in one respiration (= 4 sidereal seconds). The circumference of the sky divided by the revolutions of a planet in a yuga gives (the length of) the orbit on which the planet moves.2 The orbit of the asterisms divided by 60 gives the orbit of the Sun.  
+
+> The reading bham (in place of bhuḥ) adopted by the commentators is evidently incorrect. The correct reading is bhūḥ, which has been mentioned by Brahmagupta (A.D. 628), Pṛthudaka (A. D. 860) and Udayadivakara (A.D. 1073).
+
+1. Āryabhaṭīya Gola Section, Verse 9-10.
 
 ## Brahmagupta 628 CE
 - In his Brahmasiddhanta or Brahmasphutasiddhanta he has found fault with Aryabhata's
-theory about the diurnal motion of the earth in the following verse :  "प्राणेनैति कलां भूर् यदि तर्हि कुतो व्रजेत् कम् अध्वानं । आवर्तनम् उर्व्यश् चेन् न पतन्ति समुच्छ्रयाः कस्मात् ॥"
+theory about the diurnal motion of the earth in the following verse :  
+
+> "प्राणेनैति कलां भूर् यदि  
+> तर्हि कुतो व्रजेत् कम् अध्वानं ।  
+> आवर्तनम् उर्व्यश् चेन्  
+> न पतन्ति समुच्छ्रयाः कस्मात् ॥"
+
+> The statement of the Earth's rotation through 1' in one respiration, stated in the text, has been criticised by Brahmagupta, who says:
+>
+> "If the Earth moves (revolves) through one minute of arc in one respiration, from where does it start its motion and where does it go? And, if it rotates (at the same place), why do tall lofty objects not fall down ?"
+
 
 ## varAhamihira ~600CE
 - "The Pancasiddhantika (13. 6) of Varahamihira refers to this+++(AryabhaTa's)+++ view and rejects it, not on the ground that it is opposed to the Veda, but on the ground that, if that view were correct, hawks and other birds flying high up in the sky would not be able to come back to their nests without fail He did not know that the atmosphere also goes with the earth. "- PV Kane
 
 ## lalla of lATa 750CE
-- गगन-मरुद्-अग्नि-जल-मृण्-मयो महाभूत-गुण-युतः स्वस्थः । कक्षाभिर् आवृतोऽयं भ-पञ्जरान्तश् च भूगोलः ॥ "The sphere of the earth formed of space, gas, heat, liquid, solid thus having the properties of the 5 great bhuta-s stands by itself in the celestial sphere surrounded by the celestial orbits."
-- मध्ये ऽयस्कान्तानां यथा स्थितो ऽयोगुडः ख-मध्यस्थः । तद्वद् अनाधारो ऽपि हि सर्वाधारो महीगोलः ॥ "Just as an iron ball when placed between magnets the earth-globe remains suspended in the midst of space without any support, while supporting all (that is on it)."
-- लङ्का प्राग् यमकोटिः पश्चाद् रोमकम् अधश् च सिद्धपुरम् । मेरुः स्थित उत्तरतो दक्षिणतो दैत्य-निलयः स्यात् । "Lankā (which is close to the equator), to the east is Yamakoti, Romaka to the west, Siddhapura on the opposite side of Lankā, Meru is at the north pole and abode of the Asura-s at the South Pole."
-- एते जल-स्थलस्था मेरुः स्थल-गो ऽसुरालयो जलगः । कु-परिधि-पादान्तरगा मन्यन्ते तिर्यग् अन्योऽन्यम् ॥ "(The first 4) are on separate continents separated by oceans, Meru is on land and the Asura abode in the midst of water. These (six places) are believed to be at a distance of 1/4th the earth's circumference from each other." 
-- भूपरिधि-दलान्तरगाः के नृछाये यथा तथोर्ध्वम् अधः । सर्वेषम् उपरि नभस् तद् अधो भूर उपरि ते भूमेः ॥ "Those who are situated at have the Earth's circumference are above and below each other like the shadow of a man. Above all this is the atmosphere. Below that is the earth on top of which are the earthlings." 
-- तरु-नग-नगर-सुर-नरैर् अयङ् केसरैर् इव समन्तात् । गोलः कादम्बो मधुकरीभिर् इव सर्वतः प्रचितः ॥ "This [earth] covered all over with forests, mountains, cities, gods and men is like the spherical kadamba flower with anthers and bees all around it."
+> गगन-मरुद्-अग्नि-जल-मृण्-मयो महाभूत-गुण-युतः स्वस्थः ।  
+> कक्षाभिर् आवृतोऽयं भ-पञ्जरान्तश् च भूगोलः ॥ 
+>
+> "The sphere of the earth formed of space, gas, heat, liquid, solid thus having the properties of the 5 great bhuta-s stands by itself in the celestial sphere surrounded by the celestial orbits."
+
+> मध्ये ऽयस्-कान्तानां यथा स्थितो ऽयो-गुडः ख-मध्यस्थः ।  
+> तद्वद् अनाधारो ऽपि हि सर्वाधारो महीगोलः ॥ 
+>
+> "Just as an iron ball when placed between magnets the earth-globe remains suspended in the midst of space without any support, while supporting all (that is on it)."
+
+> लङ्का, प्राग् यमकोटिः, पश्चाद् रोमकम्, अधश् च सिद्धपुरम् ।  
+> मेरुः स्थित उत्तरतो, दक्षिणतो दैत्य-निलयः स्यात् । 
+> 
+> 
+> "Lankā (which is close to the equator), to the east is Yamakoti, Romaka to the west, Siddhapura on the opposite side of Lankā, Meru is at the north pole and abode of the Asura-s at the South Pole."
+
+> एते जल-स्थल-स्था, मेरुः स्थल-गो, ऽसुरालयो जलगः ।  
+> कु-परिधि-पादान्तर-गा मन्यन्ते तिर्यग् अन्योऽन्यम् ॥  
+> 
+> "(The first 4) are on separate continents separated by oceans,  
+> Meru is on land  
+> and the Asura abode in the midst of water.  
+> These (six places) are believed to be at a distance of 1/4th the earth's circumference from each other." 
+
+> भूपरिधि-दलान्तरगाः के, नृ-छाये यथा - तथोर्ध्वम् अधः ।  
+> सर्वेषम् उपरि नभस्, तद्-अधो भूर, उपरि ते भूमेः ॥ 
+> 
+> "Those who are situated at have the Earth's circumference are above and below each other like the shadow of a man. Above all this is the atmosphere. Below that is the earth on top of which are the earthlings." 
+
+> तरु-नग-नगर-सुर-नरैर् अयङ् केसरैर् इव समन्तात् ।  
+> गोलः कादम्बो मधुकरीभिर् इव सर्वतः प्रचितः ॥ 
+> 
+> "This [earth] covered all over with forests, mountains, cities, gods and men is like the spherical kadamba flower with anthers and bees all around it."
+
+But, Lalla criticizes the Puranic view of earth being held by tortoise etc, then criticizes the theory that earth moves - 
+
+> कमठादिभिरुद्धृता मही यदि  
+ते केन धृता नभः स्थिताः ।  
+अत एषां वियति स्थितिर् यदि  
+क्षितिगोलस्य तु केन वार्यते ॥ ४१ ॥  
+>
+> यदि च भ्रमति क्षमा तदा  
+स्व-कुलायं कथम् आप्नुयुः खगाः ।  
+इषवो ऽभिनभः समुज्झिता  
+निपतन्तः स्युर् अपांपतेर् दिशि ॥ ४२ ॥  
+>
+> पूर्वाभिमुखे भ्रमे भुवो  
+वरुणाशाभिमुखो व्रजेद् घनः ।
+अथ मन्दगमात् तदा भवेत्  
+कथम् एकेन दिवा परिभ्रमः ॥ ४३ ॥  
+>
+> द्वितयं दिन-रात्रि-नाथयोः  
+> कथम् एकान्तरितं तद् उद्व्रजेत् ।  
+> यदि किं ध्रुव-तारका-  
+> तिमेर्?? दिवसेनैव परिभ्रमः ॥ ४४ ॥
 
 ## shankarAchArya 800CE
 - "उदयश्च नाम सवितुः तन्निवासिनां प्राणिनां चक्षुर्गोचरापत्तिः, तदत्ययश्च अस्तमनम् ; न परमार्थत उदयास्तमने स्तः ।"  Chandogya Up. Bh.3.8.4.
@@ -49,7 +133,14 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 
 ## pRthUdaka-svAmI  864 CE
 - He was a chaturvedin son of madhusUdana bhaTTa.
-- "भ-पञ्जरः स्थिरः । भूर् एवावृत्यावृत्य प्रति-दैवसिकौ उदयास्तमयौ सम्पादयति नक्षत्र-ग्रहाणाम् । आचार्यार्यभटेन+अपि भू-भ्रमणम् अभ्युपगतम्: “प्राणेनैति कलां भूः ।"" - "The celestial sphere is stationary. Only the earth keeps rotating and rotating, once everyday, causing the rising and setting of the stars and planets. The earth's rotation had been accepted by professor Aryabhata: "the earth rotates by the angle of a kala in unit of time of a prāņa"".
+
+> "भ-पञ्जरः स्थिरः ।  
+> भूर् एवावृत्यावृत्य प्रति-दैवसिकौ+++(←दिवस)+++ उदयास्तमयौ सम्पादयति नक्षत्र-ग्रहाणाम् ।  
+> आचार्यार्यभटेन+अपि भू-भ्रमणम् अभ्युपगतम् - “प्राणेनैति कलां भूः ।"" 
+
+>  "The celestial sphere is stationary. Only the earth keeps rotating and rotating, once everyday, causing the rising and setting of the stars and planets. The earth's rotation had been accepted by professor Aryabhata: 
+> 
+> "the earth rotates by the angle of a kala in unit of time of a prāņa"".
 
 ## Śrīdharācārya (10th century CE)
 
@@ -96,8 +187,41 @@ In the manner of ants on a ball, the beings are stationed on the earth. Held by 
 - गोलाकारं मण्डलम् अर्कादीनां स्मृतं गणक-मुख्यैः । दर्पण-वृत्ताकारं दूरगतत्वात् प्रदृश्यते ऽस्माभिः ॥ - The orbs of the sun and the like are known to be spheres according to great mathematicians. The appear like circular mirrors to us on account of their great distance. 
 - शशि-बिम्बे दर्पणवद् वृत्ते तस्यैक-देश-सित-लब्धिः । भनोः कर-सम्पाते व्यवधानाभावतो न संभवति ॥ २.४६-४७ - If the moon were like a plane circular mirror then only a part of it appearing lit by the rays of the sun falling on it is not possible because of the absence of obstruction.
 
+## Jñānarāja AD 1500
+author of Siddhāntasundara
+
+He tell us that if inconsistencies occur in two accounts of the same story (in this case, the shape of the Earth), they are explained by saying that the two accounts took place in two different world ages (kalpas), so called kalpabheda backup.+++(5)+++
+
+> There is oneness of both creation [accounts when exam- ined] with laudable reflections. If [however] there is a difference in some place, it is to be understood through kalpabheda.
+>
+> (76) The shapes, measures, and motions of the earth, planets, and stars given by the followers of the purāņas, which are ultimately true, are indeed for another kalpa. 
+> 
+> Now, [in this present kalpa,] the [shapes, and so on of the earth, and so on] given in the treatises that give knowledge of time [i.e., jyotiḥśāstra] are to be thoroughly studied by the wise.
+
+He concludes thus:
+
+> (77) He who knows the variegated body of the Cosmic Being that comprises everything and is spoken about by the ancient sages  
+> attains intimate union with the Supreme Being;  
+> thus is the meaning of the words of Vedavyāsa, [the compiler of the purāṇas]. 
+
+Knowledge of the cosmos is here presented as a means to spiritual liberation. This verse echoes passages in the purāṇas.
+
+
+
 ## nIlakaNTha somayAjI  (1444-1550)
 - Nīlakaṇtha's greatest contribution to the world was his geoheliocentric cosmological model, which said the planets orbit the sun which in turn orbits the earth, one step ahead of the dominant geocentric view that had prevailed for millenia. The same model would be proposed by Tycho Brahe 200 years later, by whose name it is known now.
+
+## Śaṅkara Vāriyar; c. 1500 – c. 1560
+
+> 42 After giving the number of sidereal days in a Mahāyuga, Śankara Variyar states that  
+> this number is exactly the same as the number of eastward revolutions made by the Earth in a Mahayuga (Yukti-dīpikā, Chapter 1, verse 73):
+>
+>> आर्क्षाः ख-खेषु-सप्ताग्नि-नेत्राश्व्यष्टेषु-भूमयः।  
+ऋक्ष-पर्यय-तुल्यं च  
+प्राङ्मुखं भ्रमणं भुवः॥
+>
+> The number of sidereal days is equal to 1582237500. The number of eastward revolutions of the Earth is same as the revolutions made by the stars [westwards].
+This idea of the rotation of the Earth (eastwards) has been given by Sankara Variyar as perhaps a tribute to Aryabhata, who proposed the idea for the first time in the Indian tradition.
 
 ## kamalAkara-bhaTTa 1600s
 - Not the more famous kamalAkarabhaTTa who authored शूद्रकमलाकर. Son of nRsiMha-jyotirvid. Actually travelled to Tajikistan to observe their astronomy.
