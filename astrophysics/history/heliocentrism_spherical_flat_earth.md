@@ -211,7 +211,7 @@ Knowledge of the cosmos is here presented as a means to spiritual liberation. Th
 ## nIlakaNTha somayAjI  (1444-1550)
 - Nīlakaṇtha's greatest contribution to the world was his geoheliocentric cosmological model, which said the planets orbit the sun which in turn orbits the earth, one step ahead of the dominant geocentric view that had prevailed for millenia. The same model would be proposed by Tycho Brahe 200 years later, by whose name it is known now.
 
-## Śaṅkara Vāriyar; c. 1500 – c. 1560
+## Śaṅkara Vāriyar; c. 1500 – c. 1560
 
 > 42 After giving the number of sidereal days in a Mahāyuga, Śankara Variyar states that  
 > this number is exactly the same as the number of eastward revolutions made by the Earth in a Mahayuga (Yukti-dīpikā, Chapter 1, verse 73):
