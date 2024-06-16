@@ -67,7 +67,8 @@ theory about the diurnal motion of the earth in the following verse :
 
 
 ## varAhamihira ~600CE
-- "The Pancasiddhantika (13. 6) of Varahamihira refers to this+++(AryabhaTa's)+++ view and rejects it, not on the ground that it is opposed to the Veda, but on the ground that, if that view were correct, hawks and other birds flying high up in the sky would not be able to come back to their nests without fail He did not know that the atmosphere also goes with the earth. "- PV Kane
+> "The Pancasiddhantika (13. 6) of Varahamihira refers to this+++(AryabhaTa's)+++ view and rejects it, not on the ground that it is opposed to the Veda, but on the ground that, if that view were correct, hawks and other birds flying high up in the sky would not be able to come back to their nests without fail He did not know that the atmosphere also goes with the earth. "  
+> - PV Kane
 
 ## lalla of lATa 750CE
 > गगन-मरुद्-अग्नि-जल-मृण्-मयो महाभूत-गुण-युतः स्वस्थः ।  
