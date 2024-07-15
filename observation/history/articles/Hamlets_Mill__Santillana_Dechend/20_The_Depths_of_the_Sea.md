@@ -7,27 +7,139 @@ CHAPTER XX — The Depths of the Sea
 
 
 
-Hast thou entered into the springs of the sea? 
-
-
-Or hast thou walked in the search of the depth? 
-
+> Hast thou entered into the springs of the sea?   
+Or hast thou walked in the search of the depth?  
 *Job* XXXVIII.*16*
 
 
+IT WILL HELP NOW to take a quick comparative look at the  
+different "dialects" of mythical language as applied to "Phaethon" in Greece and India.+++(5)+++  
 
+The Pythagoreans make Phaethon fall into Eridanus, burning part of its water,  
+and glowing still at the time when the Argonauts passed by.+++(5)+++  
 
-IT WILL HELP NOW to take a quick comparative look at the different "dialects" of mythical language as applied to "Phaethon" in Greece and India. The Pythagoreans make Phaethon fall into Eridanus, burning part of its water, and glowing still at the time when the Argonauts passed by. Ovid stated that since that fall the Nile hides its sources. *Rigveda 9*.73.3 says that the Great Varuna has hidden the ocean. The *Mahabharata* tells in its own style why the "heavenly Ganga" had to be brought down. \[1\]  At the end of the Golden Age \(Krita Yuga\) a class of Asura who had fought against the "gods" hid themselves in the ocean where the gods could not reach them, and planned to overthrow the government. So the gods implored Agastya \(Canopus, alpha Carinae = Eridu\) for help. The great Rishi did as he was bidden, drank up the water of the ocean, and thus laid bare the enemies, who were then slain by the gods. But now, there was no ocean anymore\! Implored by the gods to fill the sea again, the Holy One replied: "That water in sooth hath been digested by me. Some other expedient, therefore, must be thought of by you, if ye desire to make endeavour to fill the ocean." It was this sad state of things which made it necessary to bring the Galaxy "down." This is reminiscent of the detail in the Jewish tradition about Eben Shetiyyah, that the waters sank down so deeply that David had to recite the "fifteen songs of ascension" to make them rise again.
+Ovid stated that since that fall  
+the Nile hides its sources.+++(5)+++ 
 
-Now Agastya, the great Rishi, had a "sordid" origin similar to that of Erichthonios \(Auriga\), who was born of Gaia, "the Earth," from the "seed of Hephaistos who had dropped it while he was looking at Athena. \[2\]  In the case of the Rishi:
->  
-> He originated from the seed of Mitra and Varuna, which they dropped into a water-jar on seeing the heavenly Urvashi. From this double parentage he is called Maitrāvaruni, and from his being born from a jar he got the name Khumbasambhava." \[3\]  \(Khumba is the name of Aquarius in India and Indonesia, allegedly late Greek influence\)
+*Rigveda 9*.73.3 says that the Great Varuna has hidden the ocean. 
 
-On the very same time and occasion there also was "born" as son of Mitra and Varuna — only the seed fell on the ground not in the jar — the Rishi Vasishtha. This is unmistakably zeta Ursae Majoris, and the lining up of Canopus with zeta, more often with Alcor, the tiny star near zeta \(Tom Thumb, in Babylonia the "fox"-star\) has remained a rather constant feature, in Arabic Suhayl and as-Suha. This is the "birth" of the valid representatives of both the poles, the sons of Mitra and Varuna and also of their successors. To follow up the long and laborious way leading from Rigvedic Mitrāvaruna \(dual\) to the latest days of the Roman Empire where we still find a gloss saying "mithra funis, *quo navis media vincitur* "mithra is the rope, by which the middle of the ship is bound," would overstep the frame of this essay by far. Robert Eisler, \[4\]  relying upon his vast material, connected this fetter of "rope," mithra, right away with the "ship's belt" from the tenth book of Plato's *Republic*.
+The *Mahabharata* tells in its own style  
+why the "heavenly Ganga" had to be brought down. \[1\]   
+At the end of the Golden Age \(Krita Yuga\)  
+a class of Asura who had fought against the "gods"  
+hid themselves in the ocean where the gods could not reach them,  
+and planned to overthrow the government.  
+So the gods implored Agastya \(Canopus, alpha Carinae = Eridu\) for help.  
+The great Rishi did as he was bidden,  
+drank up the water of the ocean,  
+and thus laid bare the enemies,  
+who were then slain by the gods.  
 
-Of the inseparable dual Mitrāvaruna, Varuna is still of greater relevance, particularly because it is he who "surveyed the first creation" \(RV *8*.41.10\), he who hid the Ocean — Ovid had it that the sources of the Nile were hidden — and he who is himself called "the hidden Ocean" \(RV *8*.41.8\). Varuna states about himself: "I fastened the sky to the seat of the Rita" \(RV *4*.42.2\). And at that "seat of Rita" we find *Svarnara*, said to be "the name of the celestial spring . . . which Soma selected as his dwelling. \[5\]  This is no other "thing" than *Hvarna* \(Babylonian *melammu*\) which the "bad uncle" Afrasiyab attempted to steal by diving to the: bottom of Lake Vurukasha, although Hvarna belonged to Kai Khusrau \(see above, pp. 40, 201\). Thus in whichever dialect the phenomenon is spelled out, the fallen ruler of the Golden Age is held to dwell nearest to the celestial South Pole, particularly in Canopus which marks the steering oar of Argo, Canopus at the confluence of the rivers." This is true whether Varuna fastened the sky to the seat of the Rita \(and his own seat\), whether Enki-Ea-Enmesharra, dwelling in Eridu, held all the norms and measures \(Rita, Sumerian *me*: Akkadian: *parsu*\) — Thorkild Jacobsen called him very appropriately the "Lord modus operandi" — or whether Kronos-Saturn kept giving "all the measures of the whole creation" to Zeus while he himself slept in Ogygia-the-primeval.
+But now, there was no ocean anymore\!  
+Implored by the gods to fill the sea again,  
+the Holy One replied:  
 
-And there is little doubt, in fact none, that Phaethon \(in the strange transformation scenes of successive ages\) came to be understood as Saturn. There is the testimony of Erastosthenes' Catasterisms, \[6\]  according to which the planet Saturn was Phaethon who fell from the chariot into Eridanus, and Stephanus of Byzantium \[7\]  calls Phaethon a Titan. There is, moreover, the Orphic wording of the case: "After Kronos had emasculated Ouranos, Zeus threw his father \(Kronos\) from the chariot and 'entartarosed' him" right away, if we translate the word literally. \[8\]  Essential key words are easily mistaken for petty details, as in this case the "chariot," from which Kronos/Phaethon was thrown into "Tartaros." The vehicle in question is the two-wheeled race car, Greek *halma*, Latin *currus*, Babylonian *narkabtu*. It is the chariot of Auriga in Babylonia, surviving in the "Sphaera barbarica" of astrologers, \[9\]  whereas in our Sphere the Charioteer is bereft of any vehicle. And, indeed, no other than Erichthonios \(a Greek name for Auriga, besides Hēniochos\) is claimed to have invented the two-wheeled race car drawn by four horses \(Erat. Catast. no. 13, pp. 98-101\) which has to be distinguished carefully from the even more important four-wheeled truck, the Big Dipper, that is, Greek *hamaxa*, Latin *plaustrum*, Sumerian mul.MAR.GID.DA = Charles' Wain.
+> "That water in sooth hath been digested by me.  
+Some other expedient, therefore, must be thought of by you,  
+if ye desire to make endeavour to fill the ocean." 
+
+It was this sad state of things which made it necessary  
+to bring the Galaxy "down."  
+
+This is reminiscent of the detail in the Jewish tradition about Eben Shetiyyah,  
+that the waters sank down so deeply that  
+David had to recite the "fifteen songs of ascension" to make them rise again.
+
+Now Agastya, the great Rishi,  
+had a "sordid" origin similar to that of Erichthonios \(Auriga\),  
+who was born of Gaia, "the Earth," from the "seed of Hephaistos  
+who had dropped it while he was looking at Athena. \[2\]  
+
+In the case of the Rishi:
+
+> He originated from the seed of Mitra and Varuna,  
+which they dropped into a water-jar on seeing the heavenly Urvashi.  
+From this double parentage  
+he is called Maitrāvaruni,  
+and from his being born from a jar he got the name Khumbasambhava." \[3\]  
+
+\(Khumba is the name of Aquarius in India and Indonesia, allegedly late Greek influence\)
+
+On the very same time and occasion  
+there also was "born" as son of Mitra and Varuna —  
+only the seed fell on the ground not in the jar — the Rishi Vasishtha.  
+This is unmistakably zeta Ursae Majoris,  
+and the lining up of Canopus with zeta, more often with Alcor, the tiny star near zeta \(Tom Thumb, in Babylonia the "fox"-star\)  
+has remained a rather constant feature, in Arabic Suhayl and as-Suha.+++(5)+++ 
+
+This is the "birth" of the valid representatives of both the poles,  
+the sons of Mitra and Varuna and also of their successors.  
+To follow up the long and laborious way leading from Rigvedic Mitrāvaruna \(dual\)  
+to the latest days of the Roman Empire  
+where we still find a gloss saying 
+
+> "mithra funis, *quo navis media vincitur*" 
+> 
+> mithra is the rope, by which the middle of the ship is bound," 
+
+would overstep the frame of this essay by far. 
+
+Robert Eisler, \[4\]  relying upon his vast material,  
+connected this fetter of "rope," mithra,  
+right away with the "ship's belt" from the tenth book of Plato's *Republic*.
+
+Of the inseparable dual Mitrāvaruna,  
+Varuna is still of greater relevance,  
+particularly because it is he who "surveyed the first creation" \(RV *8*.41.10\),  
+he who hid the Ocean — Ovid had it that the sources of the Nile were hidden —  
+and he who is himself called "the hidden Ocean" \(RV *8*.41.8\).  
+
+Varuna states about himself: 
+
+> "I fastened the sky to the seat of the Rita" \(RV *4*.42.2\). 
+
+And at that "seat of Rita" we find *Svarnara*,  
+said to be "the name of the celestial spring . . .  
+which Soma selected as his dwelling. \[5\]   
+This is no other "thing" than *Hvarna* \(Babylonian *melammu*\)  
+which the "bad uncle" Afrasiyab attempted to steal by diving to the: bottom of Lake Vurukasha,  
+although Hvarna belonged to Kai Khusrau \(see above, pp. 40, 201\).  
+
+Thus in whichever dialect the phenomenon is spelled out,  
+the fallen ruler of the Golden Age is held to dwell nearest to the celestial South Pole,  
+particularly in Canopus which marks the steering oar of Argo,  
+Canopus at the confluence of the rivers.
+
+This is true  
+whether Varuna fastened the sky to the seat of the Rita \(and his own seat\),  
+whether Enki-Ea-Enmesharra, dwelling in Eridu, held all the norms and measures \(Rita, Sumerian *me*: Akkadian: *parsu*\) —  
+Thorkild Jacobsen called him very appropriately the "Lord modus operandi" —  
+or whether Kronos-Saturn kept giving "all the measures of the whole creation" to Zeus  
+while he himself slept in Ogygia-the-primeval.
+
+And there is little doubt, in fact none,  
+that Phaethon \(in the strange transformation scenes of successive ages\) came to be understood as Saturn.  
+There is the testimony of Erastosthenes' Catasterisms, \[6\]  according to which  
+the planet Saturn was Phaethon  
+who fell from the chariot into Eridanus,  
+and Stephanus of Byzantium \[7\]  calls Phaethon a Titan.  
+There is, moreover, the Orphic wording of the case: 
+
+> "After Kronos had emasculated Ouranos,  
+> Zeus threw his father \(Kronos\) from the chariot  
+> and 'entartarosed' him" right away,  
+> if we translate the word literally. \[8\]  
+
+Essential key words are easily mistaken for petty details,  
+as in this case the "chariot," from which Kronos/Phaethon was thrown into "Tartaros."  
+The vehicle in question is the two-wheeled race car, Greek *halma*, Latin *currus*, Babylonian *narkabtu*.  
+It is the chariot of Auriga in Babylonia,  
+surviving in the "Sphaera barbarica" of astrologers, \[9\]  
+whereas in our Sphere the Charioteer is bereft of any vehicle.+++(5)+++  
+And, indeed, no other than Erichthonios \(a Greek name for Auriga, besides Hēniochos\) is claimed to have invented  
+the two-wheeled race car drawn by four horses \(Erat. Catast. no. 13, pp. 98-101\)  
+which has to be distinguished carefully from the even more important four-wheeled truck, the Big Dipper,  
+that is, Greek *hamaxa*, Latin *plaustrum*, Sumerian mul.MAR.GID.DA = Charles' Wain.
 
 Slightly perplexing traditions have come down in cuneiform texts, but they clearly allude to the same "event." So, for instance, "The Elamitic chariot, without seat, carries the corpse of Enmesharra. The horses which are harnessed to it are the death-demon of Zu. The king who stands in the chariot is thd hero-king, the Lord Ninurta." Leaving aside the two last sentences which are, in reality, not so pitch dark as they look at first glance, the translator, Erich Ebeling, \[10\]  leaves no doubt that the "Elamitic chariot" is identlcal with the constellation "Chariot of Enmesharra," which the authorities on Babylonian astronomy have identified with beta and zeta Tauri. \[11\]  This Enmesharra now has a "telling" name: En.ME.SARRA is "Lord of all the *me*," that is, he is Lord of "norms and measures," also called "Lord of the World Order", "Lord of the Universe = Ea" and, this is important, \(the weighty one in the underworld" and "the sovereign of the underworld." \[12\]
 
@@ -53,12 +165,11 @@ The Chinese picture illustrates in true archaic spirit (which means that only hi
 It remains to be seen whether or not all the measuring planets can be recognized by their particular methods of doing the measuring. It is known how Saturn does it, and Jupiter. Jupiter "throws," and Saturn "falls." But, as was said before, Saturn giving the measures as resident in Canopus is hard to imagine. Maybe all the available keys to this door have not been tried? Observing so many characters occupied with measuring the depth of the sea, one stumbles over the strange name given to Canopus by the Arabs: they call it the weight," and the Tables of Alphonsus of Castile spell it "Suhel ponderosus," the heavy-weighing Canopus. \[19\]  This "weight" is the plumb at the end of the plumb line, by means of which this depth was measured. So far so good. But where does Saturn come in? He can be understood as the "living" plumb line. \[20\]  This would be hard to believe if the story of this surveying were not told by the plumb line itself, Phaethon. Only when he told it, he had another name, as belongs to the manners and customs of celestial characters: Hephaistos. \[21\]
 
 In the first book of the *Iliad* \(*1*.5 89ff.\), Hephaistos tries to appease his mother Hera who is very angry with her husband Zeus, and says to her:
->  
+
 > "It is hard to fight against the Olympian. There was a time once before now I was minded to help you and he caught me by the foot and threw me from the magic threshold, and all day long I dropped helpless, and about sunset I landed in Lemnos, and there was not much life left in me."
 
 Hephaistos mentions the event once more, when Thetis asks him to forge the shield for her son Achilles \(*18*.39Sff.\):
->  
-> 
+
 
 > "She saved me when I suffered much at the time of my great fall through the will of my own brazen-faced mother, \[22\]  who wanted to hide me for being lame. Then my soul would have taken much suffering had not Eurynome and Thetis caught me and held me. Eurynome, daughter of Ocean, whose stream bends back in a circle. With them I worked nine years as a smith."
 

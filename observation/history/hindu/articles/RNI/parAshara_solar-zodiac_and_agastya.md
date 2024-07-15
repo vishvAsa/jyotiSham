@@ -30,7 +30,7 @@ We have no idea when this recognition happened, but this Vedic text clearly corr
 
 > 3. Iyengar, R.N. Dhruva the Ancient Indian Pole Star: Fixity, Rotation and Movement. IJHS 46.1 (2011):23-39.
 
-Thus the first recognition of the southern star and its identification with Agastya seems to have happened c 2800 BC. +++(Wrong!! Just because a section of TA recalls 3200-2400 BC period, one cannot conclude that the TA compilation belongs to that time period. One would apply similar reasoning to non-dynamic dhruva-in-shishumAra purANa references as well. TA refers to ashvinI equinoctial period - "नक्षत्राणि रूपम्, अश्विनौ व्यात्तम्" in other places.)+++ It is interesting to note here that many of the legends connected with Agastya are about balancing the earth and rectification of the North-South direction. A popular astral legend appearing in the Mahābhārata is about King Nahuṣa seated in a palanquin being carried in the heavens by the Seven Sages and Agastya, on their shoulders, when Agastya was kicked by Nahuṣa for being too slow4. Agastya in anger curses the heavenly King Nahuṣa to lose his exalted position to become an ordinary ajagara (python or huge serpent; literally goat-swallower). This legend is most likely an allegory for precession being felt in the form of the Śiśumāra (Draco) constellation losing its prime northern celestial position, along with star Agastya coming into prominence as a new bright star in the south.+++(5)+++ It may be noted here that the Mahābhārata also explicitly refers to movement of the Pole Star Dhruva as a bad omen5. 
+Thus the first recognition of the southern star and its identification with Agastya seems to have happened c 2800 BC. +++(Wrong!! Just because a section of TA recalls 3200-2400 BC period, one cannot conclude that the TA compilation belongs to that time period. One would apply similar reasoning to non-dynamic dhruva-in-shishumAra purANa references as well. TA refers to ashvinI equinoctial period - "नक्षत्राणि रूपम्, अश्विनौ व्यात्तम्" in other places.)+++ It is interesting to note here that many of the legends connected with Agastya are about balancing the earth and rectification of the North-South direction. A popular astral legend appearing in the Mahābhārata is about King Nahuṣa seated in a palanquin being carried in the heavens by the Seven Sages and Agastya, on their shoulders, when Agastya was kicked by Nahuṣa for being too slow[^4]. Agastya in anger curses the heavenly King Nahuṣa to lose his exalted position to become an ordinary ajagara (python or huge serpent; literally goat-swallower). This legend is most likely an allegory for precession being felt in the form of the Śiśumāra (Draco) constellation losing its prime northern celestial position, along with star Agastya coming into prominence as a new bright star in the south.+++(5)+++ It may be noted here that the Mahābhārata also explicitly refers to movement of the Pole Star Dhruva as a bad omen[^5]. 
 
  While the Saptar̥ṣi constellation (U. Major) was circumpolar for people in North India in Vedic times, Agastya must have been visible in the southern sky rising to low altitudes every year but only during certain months, initially for a few days, but extending for longer periods as time progressed. There is no rigorous study on this topic except for a broad visibility calculation carried out by Abhyankar6. His inference is that Agastya as a new star could not have been easily visible for observers in the Kurukṣetra-Delhi region before 3100 BC. Further north at Jammu, first recognition of this new star in the southern horizon would have been possible around 1400 BC. Rise of Agastya is observed as a religious event in many parts of India even to this day. Some of the traditional almanacs provide the dates of first morning rise and last evening set of Canopus, for conducting prescribed rituals in the yearly calendar. Hence the first recognition of Canopus in the southern skies as observed from the northern parts of the country is a signature of seminal importance in delineating ancient Indian chronology and history of Hindu astronomy. 
 
@@ -126,18 +126,18 @@ shown in degrees and minutes)
 
 | Month | Nakṣatra 1             | Nakṣatra 2           | Nakṣatra 3              | Season  |
 |-------|------------------------|----------------------|-------------------------|---------|
-| 1     | Dhaniṣṭhādyāt (13o20′) | Śatabhiṣak (13o20′)  | P. Bhādra1⁄4 (3o20′)    | Śiśira  |
-| 2     | 1⁄4P. Bhādra (10o)     | U. Bhādra (13o20′)   | Revatyardhāntam (6o40′) |         |
-| 3     | Revatyardhāt (6o40′)   | Aśvini (13o20′)      | Bharaṇi3⁄4* (10o)       | Vasanta |
-| 4     | *3⁄4Bharaṇi (3o20’)    | Krittikā (13o20′)    | Rohinyantam (13o20′)    |         |
-| 5     | Mr̥gaśirādyāt (13o20′)  | Ardrā (13o20′)       | Punarvasu1⁄4 (3o20′)    | Varṣā   |
-| 6     | Punarvasu3⁄4(10o)      | Puṣya (13o20′)       | Āśleṣārdhāntam (6o40′)  |         |
-| 7     | Āśleṣārdhāt (6o40′)    | Maghā (13o20′)       | P.Phalguni3⁄4 (10o)     | Varṣā   |
-| 8     | 3⁄4P.Phalguni (3o20′)  | U. Phalguni (13o20′) | Hastāntam (13o20′)      |         |
-| 9     | Citrādyāt (13o20′)     | Svāti (13o20′)       | Viśākhā1⁄4 (3o20’)      | Śarat   |
-| 10    | 1⁄4Viśākhā (10o)       | Anurādhā (13o20′)    | Jyeṣṭhārdhāntam (6o40′) |         |
-| 11    | Jyeṣṭhārdhāt (6o40′)   | Mūlā (13o20′)        | P. Āṣāḍhā3⁄4 (10o)      | Hemanta |
-| 12    | 3⁄4P. Āṣāḍhā (3o20′)   | U. Āṣāḍhā (13o20′)   | Śravaṇāntam (13o20′)    |         |
+| 1     | Dhaniṣṭhādyāt (13°20′) | Śatabhiṣak (13°20′)  | P. Bhādra1⁄4 (3°20′)    | Śiśira  |
+| 2     | 1⁄4P. Bhādra (10°)     | U. Bhādra (13°20′)   | Revatyardhāntam (6°40′) |         |
+| 3     | Revatyardhāt (6°40′)   | Aśvini (13°20′)      | Bharaṇi3⁄4* (10°)       | Vasanta |
+| 4     | *3⁄4Bharaṇi (3°20’)    | Krittikā (13°20′)    | Rohinyantam (13°20′)    |         |
+| 5     | Mr̥gaśirādyāt (13°20′)  | Ardrā (13°20′)       | Punarvasu1⁄4 (3°20′)    | Varṣā   |
+| 6     | Punarvasu3⁄4(10°)      | Puṣya (13°20′)       | Āśleṣārdhāntam (6°40′)  |         |
+| 7     | Āśleṣārdhāt (6°40′)    | Maghā (13°20′)       | P.Phalguni3⁄4 (10°)     | Varṣā   |
+| 8     | 3⁄4P.Phalguni (3°20′)  | U. Phalguni (13°20′) | Hastāntam (13°20′)      |         |
+| 9     | Citrādyāt (13°20′)     | Svāti (13°20′)       | Viśākhā1⁄4 (3°20’)      | Śarat   |
+| 10    | 1⁄4Viśākhā (10°)       | Anurādhā (13°20′)    | Jyeṣṭhārdhāntam (6°40′) |         |
+| 11    | Jyeṣṭhārdhāt (6°40′)   | Mūlā (13°20′)        | P. Āṣāḍhā3⁄4 (10°)      | Hemanta |
+| 12    | 3⁄4P. Āṣāḍhā (3°20′)   | U. Āṣāḍhā (13°20′)   | Śravaṇāntam (13°20′)    |         |
 
 In Table 2 the terminology used in PT for the beginning, middle and end of the star divisions is shown in italics. Since PT mentions only the seasons this table is an expansion to include the months and the remaining stars also. As in the previous discussion with MAU if we look for the six identifiable stars we find that PT specifically names Rohiṇī, Citrā and Jyeṣṭhā and their corresponding divisions. Since the sequence of the nakṣatra names has remained unchanged over several millennia, it is easy to recognize the positions of Kr̥ttikā, Maghā and Viśākhā also. It follows that for the epoch of PT the equinox should have been at the 3⁄4 point of the Bharaṇī-division. 
 
@@ -190,11 +190,11 @@ Table 3 and Table 4 demonstrate that if all the six prominent stars should have 
 
 The background for PT specifying that Agastya rises when Sun is in Hasta is made reasonably clear by the season zodiac discussed above. As per PT season Varṣā ends at the last point of Hasta division which is same as the beginning of season Śarat. Agastya rose when Sun was in this Hasta-nakṣatra division. Quite obviously the lunar month tithi positions of (PT.2) would have been too approximate to time the rise of Agastya correctly for observing prescribed Vedic rites. This should have been a strong motivation for PT to continuously observe Agastya and arrive at its novel solar zodiac scheme of equal r̥tu divisions of 41⁄2 nakṣatra lengths.+++(5)+++ However, like with the six individual stars being heliacally visible some time during the notional astronomical seasons, Agastya should have risen when constellation Hasta was visible in the eastern sky, such that Sun was still below the horizon. This point needs some further discussion with respect to the place of observation. 
 
-As we have seen previously, PT has connections with the Kr̥ṣṇa- Yajurveda texts that prescribe observation of early morning rise of stars. Hence Kurukṣetra as a reference place for PT appears reasonable. To be on the safer side we include Puṣkara and Gagnāni also as possible alternates for further analysis. As a preliminary interpretation of (PT. 2) the early morning sky picture at Kurkṣetra on 21 st September of year -1300 when Agastya would be visible on the southern horizon is shown in Fig.1 using the Stellarium software (www.stellarium.org). It can be observed that sun was still 10o below the horizon and the constellation Hasta would be clearly visible in the eastern sky. The predominant star γ-Corvi was more than 8° above the horizon at Kurukṣetra. Hence for the epoch of PT a relation between Hasta and Agastya was natural. Within a few minutes it would be day light and the star becomes invisible. Thus any naked eye observer would remember the position of Sun as that patch below or very near to the constellation Hasta.  
+As we have seen previously, PT has connections with the Kr̥ṣṇa- Yajurveda texts that prescribe observation of early morning rise of stars. Hence Kurukṣetra as a reference place for PT appears reasonable. To be on the safer side we include Puṣkara and Gagnāni also as possible alternates for further analysis. As a preliminary interpretation of (PT. 2) the early morning sky picture at Kurkṣetra on 21 st September of year -1300 when Agastya would be visible on the southern horizon is shown in Fig.1 using the Stellarium software (www.stellarium.org). It can be observed that sun was still 10° below the horizon and the constellation Hasta would be clearly visible in the eastern sky. The predominant star γ-Corvi was more than 8° above the horizon at Kurukṣetra. Hence for the epoch of PT a relation between Hasta and Agastya was natural. Within a few minutes it would be day light and the star becomes invisible. Thus any naked eye observer would remember the position of Sun as that patch below or very near to the constellation Hasta.  
 
 On similar lines the evening sky view for Puṣkara on 16th April -1200 is shown in Fig.2. Canopus was approaching its last visibility which was on 24th April. Star Rohiṇī would have been visible in the western sky very near its last visibility. Again it may be noted that the setting of Canopus was coeval with the western visibility of Aldebaran. Like with its rise, the setting of Agastya got observationally associated with Sun being near to Rohiṇī. The above two sky pictures indicate the reason for Parāśara to bring in solar nakṣatra divisions of (PT.3) in stating the visibility condition for Agastya. It is equally well possible the importance of the visibility and set of Agastya provided the motivation for developing the season solar zodiac. 
 
-The above analysis helps one to get a better understanding as to how ancient should have been the tradition of PT during the time of VM. The difference in the epochs of VM and Parāśara can be visualized by the simulation of the early morning rise of Agastya at Ujjain shown in Fig.3 for 530 AD. The constellation of Hasta was well below the horizon and naturally PT statement would have been taken as incorrect by VM and by his commentator Utpala. The star that was rising at the eastern horizon at Ujjain can be easily identified as Regulus. As per BS, Sun was 7° behind the beginning of sign Virgo. That is Sun was in Simha Rāśi, at longitude 143° and this was quite accurate for the era of VM as per the twelve Rāśi zodiac taking the equinox to coincide with the first point of star Aśvinī. The amount of precession between the epoch of PT and that of BS would be 23o20′ which number was first computed by William Jones correctly though not with reference to rise of star Agastya. 
+The above analysis helps one to get a better understanding as to how ancient should have been the tradition of PT during the time of VM. The difference in the epochs of VM and Parāśara can be visualized by the simulation of the early morning rise of Agastya at Ujjain shown in Fig.3 for 530 AD. The constellation of Hasta was well below the horizon and naturally PT statement would have been taken as incorrect by VM and by his commentator Utpala. The star that was rising at the eastern horizon at Ujjain can be easily identified as Regulus. As per BS, Sun was 7° behind the beginning of sign Virgo. That is Sun was in Simha Rāśi, at longitude 143° and this was quite accurate for the era of VM as per the twelve Rāśi zodiac taking the equinox to coincide with the first point of star Aśvinī. The amount of precession between the epoch of PT and that of BS would be 23°20′ which number was first computed by William Jones correctly though not with reference to rise of star Agastya. 
 
 
 The above discussion helps us to understand that the phrase "hastasthe savitari" in (PT. 2) should not be taken in its literal sense as Sun staying at/in/near star Hasta. It is the star division of that name as defined by the season zodiac of (PT. 3) in which Sun is said to be stationed. This does not mean that the stars γ-Corvi (Gienah) and Aldebaran should not have been visible within a few days interval. It is the near simultaneity of the first visibility (udaya) and last visibility (praveśa, pravāsa, asta) of Agastya with the respective morning rise and evening set of the above two nakṣatras that has lead to the concept of referring to Sun being in those star divisions. 
@@ -202,7 +202,7 @@ The above discussion helps us to understand that the phrase "hastasthe savitari"
 ## FIRST AND LAST VISIBILITY DATES
 To complete the analysis of Parāśara’s observations on Agastya one more step is remaining. This is to acquire the visibility dates and longitude of Sun for the epoch of PT. The software PLVS comes in handy for this purpose. This has provision of varying arcus visionis that is the minimum vertical separation needed between sun and a chosen star for visibility of the star on the same horizon. The software also has option for changing the critical altitude of visibility of a star to account for atmospheric perturbations at the horizon. But this parameter is unknown for ancient star observations. We can however reason out that for the naked eye visibility of star Agastya, emerging from below the horizon for the first time near the end of the rainy season, on a yet unknown date, some altitude would have been essential. On the other hand once it was visible in the evening sky nearer to the spring equinox the observer had to only follow it and hence could see it vanish almost at zero altitude. Dates of first and last visibility of Agastya at three different locations for two altitude values are shown in Table 5 and Table 6.     
 
-These tables provide a further rational basis for understanding the statements of PT. The Hasta-division in the scheme of PT extended from 136o40′ to 150o00′. As per the first visibility shown in Table 5 for altitude values of (0o- 4o) Agastya would have been visible at Puṣkara when Sun was in the Hasta-division. For other places also this would be valid if the altitude for observing Agastya were to be reduced to zero degree which, however does not appear to be realistic. The Rohinī-division of Parāśra’s zodiac was from 16o40′ to 30o00′. Again the condition of Sun in the Rohiṇī-division gets satisfied at Puṣkara for altitude of visibility between 0o and 4o. But at the other two places the condition is not satisfactory. We have previously noted that for last visibility zero altitude may be sufficient. Under this argument at Kurukṣetra, Sun in Rohiṇī- division would be acceptable but the observation year slides towards c 950 BC. These results point in the direction of Puṣkara as the place of composition of PT where, Parāśara is said to have held his discourse.  
+These tables provide a further rational basis for understanding the statements of PT. The Hasta-division in the scheme of PT extended from 136°40′ to 150°00′. As per the first visibility shown in Table 5 for altitude values of (0°- 4°) Agastya would have been visible at Puṣkara when Sun was in the Hasta-division. For other places also this would be valid if the altitude for observing Agastya were to be reduced to zero degree which, however does not appear to be realistic. The Rohinī-division of Parāśra’s zodiac was from 16°40′ to 30°00′. Again the condition of Sun in the Rohiṇī-division gets satisfied at Puṣkara for altitude of visibility between 0° and 4°. But at the other two places the condition is not satisfactory. We have previously noted that for last visibility zero altitude may be sufficient. Under this argument at Kurukṣetra, Sun in Rohiṇī- division would be acceptable but the observation year slides towards c 950 BC. These results point in the direction of Puṣkara as the place of composition of PT where, Parāśara is said to have held his discourse.  
 
 ## CONCLUSION
 The efforts of Parāśara culminated in proposing a zodiac with six equal seasons, which were not strictly experiential based on weather, but each of four-and-half nakṣatra length along the ecliptic harmonizing with the heliacal visibility of some of the prominent nakṣatras and the southern star Agastya. Fixing the solstice point precisely might not have been possible, but this as the starting point was the best naked eye observational option.+++(why?)+++ Some of the Vedic nakṣatras could not have been observed before sunrise in their assigned periods simply because they were at unequal distances. But taking an astronomical definition of six equal divisions of the year, each comprising of 4 1⁄2 nakṣatras, at least some of the stars handed down by the Vedic tradition could be seen in the putative seasons. The solar season scheme of (PT.3) represents a scientific development of considerable significance in the history of Hindu astronomy. The six division r̥tu zodiac evolved as an improvement over the older two division ayana zodiac of MAU. Vr̥ddhagarga seems to have changed the notation of six-r̥tu to six-rāśi, where the word rāśi meant a group of 4 1⁄2 nakṣatras.+++(5)+++ This we see clearly in the commentary of Somākara on the fifth verse of the Vedāñgajyotiṣa, where Garga is quoted24  
@@ -222,93 +222,92 @@ Discussions with Dr. S.Y. Wakankar, Visiting Professor, IIT Gandhinagar and corr
 
 
 
-4.Mahābhārata, Udyoga Parvan, Ch.17, v. 14-18. (BORI, Pune Critical Edition).
+[^4]: Mahābhārata, Udyoga Parvan, Ch.17, v. 14-18. (BORI, Pune Critical Edition).
 
 
 
-5.dhruvaḥ prajvalito ghoram apasavyam pravartate (MB Bhīṣma-parvan Ch.3, v. 17b)
+[^5]: dhruvaḥ prajvalito ghoram apasavyam pravartate (MB Bhīṣma-parvan Ch.3, v. 17b)
 
 
 
-6.Abhyankar, K.D. Folklore and Astronomy: Agastya a Sage and a Star. Current Science, 89.12 (2005):2174-2176.
+[^6]: Abhyankar, K.D. Folklore and Astronomy: Agastya a Sage and a Star. Current Science, 89.12 (2005):2174-2176.
 
 
 
-7.Iyengar, R.N. Archaic Atsronomy of Parāśara and Vr̥ddha-Garga. IJHS, 43.1(2008):1-27.
+[^7]: Iyengar, R.N. Archaic Atsronomy of Parāśara and Vr̥ddha-Garga. IJHS, 43.1(2008):1-27.
 
 
 
-8.Vedāñgajyotiṣa of Lagadha (Ed.Trans.) K.S. Sastry, IJHS, 19.4 (1984) Supplement: 1-74.
+[^8]: Vedāñgajyotiṣa of Lagadha (Ed.Trans.) K.S. Sastry, IJHS, 19.4 (1984) Supplement: 1-74.
 
 
 
-9.Sarma, K.V. A Survey of Source Materials in Special Issue of History of Astronomy in India, IJHS, 20.1-
-4(1985):1-20. 
+[^9]: Sarma, K.V. A Survey of Source Materials in Special Issue of History of Astronomy in India, IJHS, 20.1- 4(1985):1-20.
 
 
-10. prākr̥tāvimiśrasañkṣiptatīkṣṇayogāntapāpākhyāḥ| sapta parāśaratantre nakṣatraiḥ kīrtitā gatayaḥ || (BS 7.8)
+[^10]: prākr̥tāvimiśrasañkṣiptatīkṣṇayogāntapāpākhyāḥ| sapta parāśaratantre nakṣatraiḥ kīrtitā gatayaḥ || (BS 7.8)
 
 
 
-11. Parāśarasiddhāntaskandhāḥ, Catalogue No.103 of
+[^11]: Parāśarasiddhāntaskandhāḥ, Catalogue No.103 of
 1873-74; cupboard 29. BORI, Pune. 
 
 
-12. Iyengar, R.N. Parāśaratantra; Reconstructed text with Translation & Notes, Jain University Press, Bangalore 2013.
+[^12]: Iyengar, R.N. Parāśaratantra; Reconstructed text with Translation & Notes, Jain University Press, Bangalore 2013.
 
 
 
-13. dr̥śyate sa kila hsatagate’rke mupagate’stamupaiti|| (BS 12.21b)
+[^13]: dr̥śyate sa kila hsatagate’rke mupagate’stamupaiti|| (BS 12.21b)
 rohiṇī- 
 
 
-14. yadyapi atra gaṇitasāmyam na bhavati tathāpi ācāryeṇa pūrvaśāstradr̥ṣṭatvāt kr̥tam|| [Utpala’s
+[^14]: yadyapi atra gaṇitasāmyam na bhavati tathāpi ācāryeṇa pūrvaśāstradr̥ṣṭatvāt kr̥tam|| [Utpala’s
 commentary on BS (12.21)] 
 
 
-15. Jones, W. A Supplement to the Essay on Indian Chronology. Asiatic Researches, 1790, pp.391-403.
+[^15]: Jones, W. A Supplement to the Essay on Indian Chronology. Asiatic Researches, 1790, pp.391-403.
 
 
 
-16. Wilford, C. On the Chronology of the Hindus. Asiatic Researches, 1797, p.288.
+[^16]: Wilford, C. On the Chronology of the Hindus. Asiatic Researches, 1797, p.288.
 
 
 
-17. Maitrī or Maitrāyaṇīya Upaniṣad with Commentary of Rāmatīrtha (Ed. Transl.) E.B. Cowell London, 1888.
+[^17]: Maitrī or Maitrāyaṇīya Upaniṣad with Commentary of Rāmatīrtha (Ed. Transl.) E.B. Cowell London, 1888.
 
 
 
-18. Sacred Books of the East; The Upanishads Vol.2, (Transl). Max Mueller, 1888.
+[^18]: Sacred Books of the East; The Upanishads Vol.2, (Transl). Max Mueller, 1888.
 
 
 
-19. punarvasū sūnr̥tā cāru puṣyo bhānuraśleṣā ayanam maghā me|
+[^19]: punarvasū sūnr̥tā cāru puṣyo bhānuraśleṣā ayanam maghā me|
 (Atharvaṇa Veda Samhitā 19.7.2b) 
 
 
-20. r̥tubhirhi samvatsaraḥ śaknoti sthātum| (Śatapatha Brāhmaṇa VI.7.1.18)
+[^20]: r̥tubhirhi samvatsaraḥ śaknoti sthātum| (Śatapatha Brāhmaṇa VI.7.1.18)
 
 
 
-21. tasya ṣḍvimśatirardhamāsāstrayodaśamāsāḥ saptartavo dve ahorātre |
+[^21]: tasya ṣḍvimśatirardhamāsāstrayodaśamāsāḥ saptartavo dve ahorātre |
 (Śatapatha Brāhmaṇa VIII.4.1.25) 
 
 
-22. Taittirīya Brāhmaṇa with Commentary of Bhaṭṭa Bhāskara. Vol. I (Ed.) A. Mahadeva Sastri, Oriental
+[^22]: Taittirīya Brāhmaṇa with Commentary of Bhaṭṭa Bhāskara. Vol. I (Ed.) A. Mahadeva Sastri, Oriental
 Research Institute, Mysore, 1908. 
 
 
-23. Taittirīya Brāhmaṇa with Commentary of Sāyaṇācārya. Vol. I (Ed.) Narayana Shastri Godbole,
+[^23]: Taittirīya Brāhmaṇa with Commentary of Sāyaṇācārya. Vol. I (Ed.) Narayana Shastri Godbole,
 Anandashrama Series No.37, Pune, 1979. 
 
 
-24. Lagadhamuniproktam Vedāñgajyotiṣam with the commentaries of Somākara and Kauṇḍinyāyana (in
+[^24]: Lagadhamuniproktam Vedāñgajyotiṣam with the commentaries of Somākara and Kauṇḍinyāyana (in
 Sanskrit with notes in Hindi) Śivarāja Ācārya Kauṇḍinyāyana, Chaukāmba Vidyābhavan. Vārāṇasī, 2005.
 
 
 
-25. Vr̥ddhagargasaṁhitā, Mss. No. 8199(2)-ASB, f.44. The Asiatic Society, Calcutta.
+[^25]: Vr̥ddhagargasaṁhitā, Mss. No. 8199(2)-ASB, f.44. The Asiatic Society, Calcutta.
 
 
 
-26. Gargasaṁhitā, Mss. No. R.15.96. f.108. Copied in 1814, Trinity College Library, Cambridge, U.K.
+[^26]: Gargasaṁhitā, Mss. No. R.15.96. f.108. Copied in 1814, Trinity College Library, Cambridge, U.K.
