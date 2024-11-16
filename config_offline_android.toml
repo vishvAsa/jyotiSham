@@ -9,7 +9,7 @@ disablePathToLower = true
   githubEditMePathBase = "https://github.com/vishvAsa/jyotiSham/edit/master/content/"
   contactLink = "https://github.com/vishvAsa/jyotiSham/issues/new"
   env = "production"
-  disqusShortcode = "vvasuki-site"
+  # disqusShortcode = "vvasuki-site"
 
 [markup.goldmark.renderer]
   unsafe = true
