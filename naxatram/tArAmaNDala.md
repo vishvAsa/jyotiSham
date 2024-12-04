@@ -82,7 +82,7 @@ Vedic Taittiriya Aranyaka names।  \[[ऽत्र](/devaH/AryaH/hindukaH/class
 - भाग्यसूक्ते "सम॑ध्व॒रायो॒षसो॑ नमन्त …" इत्यादिर् उररीकरोतीव दधिक्राव्णो ऽश्वस्य प्रोष्ठपदाभिस् सम्बन्धम्
   - इह युगपत् शुचिपदानां दधिक्राव्ण उल्लेखः,
   - भगेन (फाल्गुनेन) तत्सम्बन्धः (ननु खे विपरीतदिशोर् वर्तमानौ दृश्यमाना फाल्गुन्यः प्रोष्ठपदाश्च)।
-- प्रोष्ठपदानां धिष्णियाभिस् सम्बन्धः संहितायां व्यक्तः। धिष्णियाश् च सुपर्णेन गरुत्मता सम्बन्धो ऽप्य् आम्नातः। सर्वम् एतद् [अन्यत्र](/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/3/03_dhiShNiyAH/) प्रपञ्चितम्।
+- प्रोष्ठपदानां धिष्णियाभिस् सम्बन्धः संहितायां व्यक्तः। धिष्णियाश् च सुपर्णेन गरुत्मता सम्बन्धो ऽप्य् आम्नातः। सर्वम् एतद् [अन्यत्र](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3/03_dhiShNiyAH/) प्रपञ्चितम्।
 
 > From the Rgveda we may infer that dadhikra, the flying horse, probably stood for a constellation whose rising before dawn was significant to the early Arya-s. It remains as yet unclear if that was in someway associate with Pegasus. 
 > 
