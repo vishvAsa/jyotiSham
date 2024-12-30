@@ -237,12 +237,15 @@ This idea of the rotation of the Earth (eastwards) has been given by Sankara Var
 
 ## nIlakaNTha-dIxita
 - prime minister of tirumala nAyaka, grand-nephew of appayya.
-- "भुमिर् भ्राम्यति बुद्ध एव मरुतः प्रत्यग् भ्रमोऽत्य्-अद्भुतो,  
-  भ्राम्यन्त्य् एव सहाश्रयेण यदि वा, ज्योतींषि सर्वाण्य् अपि ।  
-  आवर्त्यो ऽयम् अपाम् भ्रमः परिचिता, मूर्तिर् हरस्याष्टमी -   
-  या साऽस्त्य् अप्पयदीक्षितो जयति सा, मुर्तिर निरस्तभ्रमा॥"
-  - "Indeed it is known the earth rotates, the Marut-s [atmospheric winds] rotate in opposite direction most marvellously, thus are caused to rotate all the heavenly bodies as if along with the celestial globe. This rotation is the movement of the waters. The forms of Rudra are known to be eight of which Appaya Dīkṣita shines as that form which is stationary (or: without delusion)."
-  - This can be "a reflexive attempt at correcting Appayya's insistence on a geocentric, geostationary cosmology in commenting on a shrutivAkya".
+
+> "भुमिर् **भ्राम्यति** बुद्ध एव, मरुतः प्रत्यग् भ्रमोऽत्य्-अद्भुतो,  
+**भ्राम्यन्त्य्** एव सहाश्रयेण यदि वा, ज्योतींषि सर्वाण्य् अपि ।  
+**आवर्त्यो** ऽयम् अपाम् भ्रमः परिचिता, मूर्तिर् हरस्याष्टमी -   
+या साऽस्त्य् अप्पय-दीक्षितो **जयति** सा, मुर्तिर निरस्त-भ्रमा॥"
+
+> "Indeed it is known the earth rotates, the Marut-s [atmospheric winds] rotate in opposite direction most marvellously, thus are caused to rotate all the heavenly bodies as if along with the celestial globe. This rotation is the movement of the waters. The forms of Rudra are known to be eight of which Appaya Dīkṣita shines as that form which is stationary (or: without delusion)."
+  
+This can be "a reflexive attempt at correcting Appayya's insistence on a geocentric, geostationary cosmology in commenting on a shrutivAkya".
 
 ## bhAgavata-s
 {{< figure src="../images/bhAgavata-universe.png"  class="thumbnail">}}
