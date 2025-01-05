@@ -7419,6 +7419,12 @@ _________
 > ग्रीष्मे तीव्रकरो भानुर्न हेमन्ते तथाविधः।  
 > कियती तत्करप्राप्तिर्मानानि कति किं च तैः॥८॥
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Sometimes, light travels through less atmosphere to reach the ground. At higher latitudes (Europe, US) and during winters, sunlight travels through more atmosphere at an angle. This atmospheric filtering scatters more blue light and reduces overall light intensity.
+</details>
+
+
 गूढार्थप्रकाशकेन सहितः। २९९
 
 ग्रीष्मर्तौ सूर्यो यथा तीक्ष्णकिरण उष्णकिरणस्तथाविधस्तादृशो हेमन्ते न भवतीति किम्।
