@@ -20,4 +20,14 @@ title = "वासरः weekdays"
 > तृतीयाश् च प्रकीर्तिताः॥७८॥
 
 ## मूलम्
-> It is notable that though the week concept seems to be a west Asian rather than Indo-European one, only a Hindu Sanskrit text gives the rationale of naming its days explicitly. - MT
+> What is the rationale for the next weekday in the sequence to be the 4th in the order of decreasing speed? It is because the grahas are assigned in that same order (Chaldean order of planets) to 24 planetary hours (starting from dawn). The ruler of the planetary hour at dawn gives its name to the weekday.
+>
+> Reference to Dio Cassius work there in the link. Also reference Vettius Valens Anthology. See above link referencing fragments dated 1st century BC, approx. 500 yrs before Aryabhata.
+> 
+> Source: [TW](http://melammu-project.eu/database/gen_html/a0001164.html)
+> 
+> Source: [TW](https://blogs.fu-berlin.de/zodiacblog/2022/05/02/the-origins-of-the-planetary-week/)
+
+
+
+
