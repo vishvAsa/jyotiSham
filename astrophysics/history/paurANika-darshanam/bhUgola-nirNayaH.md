@@ -3,11 +3,16 @@ title = "भूगोल-निर्णयः"
 unicode_script = "devanagari"
 +++
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details open><summary>विश्वास-टिप्पनी</summary>
 
 भूगोल-निर्णयः - नैतद् वेदान्त-देशिक-प्रणीतम् इति केचिद् विद्वांसः श्रीवैष्णवाः।  
 यतः - अन्येषां तद्रचितग्रन्थानां तद्रचित-ग्रन्थान्तरेषूल्लेखा विद्यन्ते, न त्व् अस्य। 
+
+Geographical Determination - Some learned Śrīvaiṣṇava scholars say this was not composed by Vedānta Deśika.
+Because - References to this work are not found in his other composed texts, unlike his other works.
+
 </details>
+
 
 
 _____________
@@ -18,6 +23,17 @@ _____________
 प्लक्षद्वीपेन सोऽपि द्वि-गुण-विततिना तावतेक्ष्व्-अब्धिना ऽसौ  
 द्वीपाद् द्वैगुण्य-भाजस् स्व-सदृग्-उदधिभिस् संवृता एवम् एव ॥ १ ॥  
 </details>
+
+<details><summary>ClaudeAI</summary>
+
+The earth's surface measures fifty crore yojanas, and indeed  
+The Jambū-dvīpa is one niyuta (million) [yojanas], surrounded by an ocean of equal measure.  
+That is encircled by Plakṣa-dvīpa which is twice its extent, and that [Plakṣa-dvīpa] in turn by the sugarcane ocean of equal size.  
+Similarly, islands of twice the size [of the previous] are surrounded by oceans of equal measure. [1]
+</details>
+
+
+
 <details><summary>मूलम्</summary>
 
 पञ्चाशत्कोटिभिस्स्यान्मितमवनितलं योजनानां तथा हि  
@@ -45,6 +61,10 @@ _____________
 न्माल्यवद्गन्धमादनयोश्चतुस्सहस्रयोजनत्वाच्च लक्षयोजनत्वं सिद्धम् । दक्षिणोत्तरमपीलावृतस्य चतुस्त्रिंशत्सहस्रयोजनत्वादन्येषां षण्णां वर्षाणां चतुःपञ्चाशत्सहस्रयोजनत्वात् षण्णां पर्वतानां द्वादशसहस्रयोजनत्वाच्च लक्षयोजनविस्तीर्णेन लवणसमुद्रेण वेष्टितम् । सोऽपि समुद्रो द्विलक्षयोजनविस्तृतेन प्लक्षद्वीपेन परिवेष्टितः । प्लक्षद्वीपोऽपि तावत्प्रमाणेनेक्षुसमुद्रेण परिवेष्टितः । एवमेव शाल्मलिकुशक्रौञ्चशाकपुष्करद्वीपा उत्तरोत्तरं पूर्वस्मात् द्विगुणप्रमाणा द्रष्टव्याः ॥१॥
 </details>
 
+<details><summary>Commentary - ClaudeAI</summary>
+
+In this, the wall of the cauldron (of the universe) measures one crore yojanas, and the inner space of the egg-cauldron extends fifty crore yojanas high and fifty crore yojanas wide. Within it are the seven worlds known as Bhū, Bhuva, Suva, Maha, Jana, Tapa, and Satya. Of these, the earth (Bhū) extends fifty crore yojanas. Indeed, Jambū-dvīpa extends one lakh yojanas. It is divided into nine regions (varṣas), namely Bhārata, Kimpuruṣa, Harivarṣa, Ilāvṛta, Ramyaka, Hiraṇyaka, Kuru, Bhadrāśva, and Ketumāla. The mountains dividing these regions are eight: Himavat, Hemakūṭa, Niṣadha, Nīla, Śveta, Śṛṅgi, Mālyavat, and Gandhamādana. Of these, Himavat, Hemakūṭa, and Niṣadha are the southern mountains from Meru; Nīla, Śveta, and Śṛṅgi are the northern mountains; Mālyavat is in the east; and Gandhamādana is in the west. Among these, six mountains excepting Mālyavat and Gandhamādana are two thousand yojanas high and two thousand yojanas wide; Mālyavat and Gandhamādana are one thousand yojanas high and equally wide. The six eastern mountains extend from east to west across the ocean. Of these, the middle ones, Nīla and Niṣadha, extend one lakh yojanas; Hemakūṭa and Śveta extend ninety thousand; Himavat and Śṛṅgi extend eighty thousand. Due to the circular shape of Jambū-dvīpa, the measurements increase accordingly. Mālyavat and Gandhamādana extend to Nīla and Niṣadha, thirty-four thousand yojanas high. Among the regions (varṣas), Bhārata, Kimpuruṣa, and Harivarṣa are to the south of Meru; Ramyaka, Hiraṇyaka, and Kuru are to the north of Meru; Bhadrāśva is to the east; Ketumāla is to the west; and Ilāvṛta is in the middle. In its center stands Mount Meru, eighty-four thousand yojanas high, sixteen thousand yojanas submerged, sixteen thousand yojanas wide at the base, and thirty-two thousand yojanas wide at the top. Mount Meru is shaped like the pericarp of the earth-lotus. Around the four directions of Meru, it is nine thousand yojanas in circumference and sixteen thousand yojanas wide. Ilāvṛta extends thirty-four thousand yojanas in all directions, and up to Nīla and Niṣadha it extends thirty-four thousand yojanas. The other six regions are each nine thousand yojanas wide. Bhadrāśva region extends from south to north and east to west. Up to Mālyavat and the ocean, it extends thirty-two thousand yojanas. Up to Nīla and Niṣadha, it extends thirty-four thousand yojanas. Towards Gandhamādana and the ocean, it measures thirty-two thousand yojanas, and up to Nīla and Niṣadha, it extends thirty-four thousand yojanas. The other six regions each extend nine thousand yojanas, running from south to north and east to west up to the ocean. Thus, since Jambū-dvīpa measures east to west sixty-four thousand yojanas through Bhadrāśva and Ketumāla, and since Ilāvṛta is thirty-four thousand yojanas, and Mālyavat and Gandhamādana are four thousand yojanas, the total of one lakh yojanas is established. Similarly, from south to north, since Ilāvṛta is thirty-four thousand yojanas, the other six regions total fifty-four thousand yojanas, and the six mountains total twelve thousand yojanas, Jambū-dvīpa extends one lakh yojanas and is surrounded by the salt ocean. That ocean is in turn surrounded by Plakṣa-dvīpa, which extends two lakh yojanas. Plakṣa-dvīpa is surrounded by the sugarcane ocean of equal measure. Similarly, the islands of Śālmali, Kuśa, Krauñca, Śāka, and Puṣkara should be understood as progressively doubling in size from the previous one. [1]
+</details>
 
 
 _____________
@@ -53,6 +73,15 @@ _____________
 जम्बू-प्लक्ष-शाल्मलि-कुश-क्रौञ्च-शाक-पुष्कर-द्वीपाः ।  
 लवणेक्षु-सुरा-घृत-दधि-दुग्धाम्भस्-सिन्धु-संवृताः क्रमशः ॥ २ ॥  
 </details>
+
+<details><summary>ClaudeAI</summary>
+
+Jambū, Plakṣa, Śālmali, Kuśa, Krauñca, Śāka, and Puṣkara islands
+Are surrounded respectively by oceans of salt, sugarcane juice, liquor, ghee, curd, milk, and sweet water. [2]
+
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 जम्बूप्लक्षशाल्मलिकुशक्रौञ्चशाकपुष्करद्वीपाः ।  
@@ -69,6 +98,10 @@ _____________
 एवं च सति समुद्राणां सप्तद्वीपानामायामप्रमाणेन सप्तलक्षोत्तरपञ्चकोटिपरिमितत्वमवगन्तव्यम् ॥ २ ॥
 </details>
 
+<details><summary>Commentary - ClaudeAI</summary>
+
+The oceans of liquor, ghee, curd, milk, and pure water should be understood as equal in measure to their respective islands. In the five islands of Plakṣa and others, seven mountain ranges extending to the ocean on both sides create seven regions. The Puṣkara island is circular in the middle, with a mountain called Mānasottara fifty thousand yojanas high and equally wide, dividing it into two regions. Thus, from one side of Meru, the seven oceans extend twenty-seven lakh and one crore yojanas, and the five islands extend fifty thousand, twenty-six lakh, and one crore yojanas. From the freshwater ocean to the far shore, it should be understood as two crore, fifty-three lakh, and fifty thousand yojanas. Thus, the total extent of the seven oceans and seven islands by linear measurement should be understood as five crore and seven lakh yojanas. [2]
+</details>
 
 
 _____________
@@ -79,6 +112,16 @@ _____________
 लोकालोकाच् च मेरोर् भवति हि धरणी यावती ध्वान्त-भूम्या  
 तावत्या ऽसौ वृतस् सा ऽप्य् उदक-परिधिना साऽपि वेधोण्ड-भित्त्या ॥ ३ ॥  
 </details>
+
+<details><summary>ClaudeAI</summary>
+
+The seven islands with their oceans are surrounded by a golden land twice their combined size,  
+Which is encircled by the Lokāloka mountain range, ten thousand yojanas high and equally wide.  
+From Lokāloka to Mount Meru, the earth is surrounded by a land of darkness equal in extent,  
+That is encircled by a watery expanse, which in turn is bounded by the shell of Brahmā's cosmic egg. [3]
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 सप्तद्वीपं ससिन्धुं द्विगुणगुणितया स्वर्णभूम्या परीतं  
@@ -99,6 +142,10 @@ _____________
 एवं भूमण्डलादूर्ध्वं चाधश्च सर्वत्राण्डकटाहः, तद्विवरस्य पञ्चाशत्कोटीविस्तीर्णत्वमवबोद्धव्यम् ॥ ३ ॥
 </details>
 
+<details><summary>Commentary - ClaudeAI</summary>
+
+This ocean with its seven islands is surrounded by a golden land twice its size. That golden land is encircled on all sides by the Lokāloka mountain, which is ten thousand yojanas high and equally wide. Thus, from one side of Meru to Lokāloka, the distance is established as twelve crore, sixty-seven lakh, and fifty thousand yojanas. The Lokāloka is also surrounded by a land of darkness equal in extent to the distance from Meru to Lokāloka. Beyond that is the shell of the cosmic egg. Thus, from one side of Meru to the shell of the cosmic egg, there are twenty-five crore and thirty-five lakh yojanas. Of this, the embryonic water measures thirty-five lakh yojanas, and the rest, measuring twenty-five crore yojanas, constitutes the earth-sphere. This should be understood in all four directions from Meru, making the earth fifty crore yojanas wide. Thus, above and below the earth-sphere in all directions is the shell of the cosmic egg, and the inner space should be understood as fifty crore yojanas wide. [3]
+</details>
 
 
 _____________
@@ -109,6 +156,16 @@ _____________
 लक्षैः पञ्चायुतैस् स्याद् अथ शर-नयनैः कोटिभिर् भूत-रामैर्  
 लक्षैस् स्याच् चक्र-वालान्तरम् अमर-शिखर्य्-अण्ड-भित्त्योश् च मध्यम् ॥ ४ ॥  
 </details>
+
+<details><summary>ClaudeAI</summary>
+
+The seven islands with their oceans measure five crores and seven thousand yojanas,
+The distance between Lokāloka mountain and Mount Meru is sixty-seven crores of [yojanas].
+It is fifty lakhs and five ayutas [yojanas], and the distance between the cosmic boundary
+And the peak of the divine mountain to the shell of the cosmic egg is five crores and arrow-eyed lakhs [of yojanas]. [4]
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 सप्तद्वीपं समुद्रैस्सह मुनिनियुतैः कोटिभिः पञ्चभिस्स्यात्  
@@ -126,6 +183,14 @@ _____________
 शरनेत्रकोटिभिर्भूपरिधिजलं बाणवह्निलक्षैस्स्यात् ।  
 अभितो मेरोरेवं पञ्चाशत्कोटियोजना भूमिः ॥५॥  
 </details>
+
+<details><summary>ClaudeAI</summary>
+
+The earth's perimeter water extends to five crores and arrow-fire (53) lakhs [of yojanas].  
+Thus, all around Mount Meru, the earth measures fifty crore yojanas. [5]
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 शरनेत्रकोटिभिर्भूपरिधिजलं बाणवह्निलक्षैस्स्यात् ।  
@@ -142,6 +207,10 @@ _____________
 'सूर्याण्डगोलयोर्मध्ये कोट्यस्स्युः पञ्चविंशतिः ।' इति श्रीभागवत(5.20.43)श्लोकमर्यादया एवं परिमाणमवसेयम् ॥४-५॥
 </details>
 
+<details><summary>Commentary - ClaudeAI</summary>
+
+This earth is seventy thousand yojanas high. Below this earth are the cave-like regions known as Atala, Vitala, Nitala, Gabhastimat, Mahātala, Sutala, and Pātāla, each nine thousand yojanas high. In between each and below the earth-sphere, there is a layer of earth one thousand yojanas high. Below the realm of Śeṣa is the embryonic water and the hellish regions. This measures slightly less than twenty-five crore and two lakh yojanas in height. According to the verse from Śrī Bhāgavata (5.20.43) which states, "Between the sun and the egg-sphere are twenty-five crores," this measurement should be inferred. [4-5]
+</details>
 
 
 _____________
@@ -152,6 +221,17 @@ _____________
 अन्यान्य् आब्धीन्दु-लक्षाण्य् अथ शशि-नयनोष्टार्किकोट्यान्यलोका  
 ध्वान्तं न्यून-द्वि-कोटीत्य् उपरि सवितृतो ऽण्डं हि भूताक्षि-कोट्यः ॥ ६ ॥  
 </details>
+
+<details><summary>ClaudeAI</summary>
+
+At one lakh [yojanas height] are the sun, moon, stars, Mercury, Venus, Mars, Jupiter, and Saturn at two lakhs each,
+At one lakh [further] are the seven sages, and then fixed is Dhruva (Pole Star); this space is the celestial realm.
+Beyond are other oceans and lunar regions, and beyond the moon-eyed-eight-sun crores are the transcendent worlds,
+The darkness less than two crores [yojanas], and above the sun is the cosmic egg at five-arrow-eye crores. [6]
+
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 लक्षे सूर्येन्दुताराज्ञकविकुजसुराचार्यमन्दा द्विलक्षे  
@@ -168,6 +248,17 @@ _____________
 तस्याधो नारकास् स्युस् तद् इदम् इषु-दृशः कोटयः किंचिद् ऊनाः  
 पञ्चाशत्-कोटि-तुङ्गं विततम् इदम् अतो ह्य् अण्ड-भित्तिस् तु कोटिः ॥ ७ ॥
 </details>
+
+<details><summary>ClaudeAI</summary>
+
+With mountains and netherworld gaps of nine, ten, hundreds and seven, the earth-chariot below
+In the middle-middle [has spaces of] thousands, and below that is the realm of Śeṣa and water.
+Below that are the hellish worlds; this measures arrow-eyes (5) crores slightly less,
+Fifty crore [yojanas] high is this expanded [universe], and thus the shell of the cosmic egg is one crore. [7]
+</details>
+
+
+
 <details><summary>मूलम्</summary>
 
 शैलैः पातालरन्ध्रैर्नवदशशतकैस्सप्तभिर्भूरथोऽधो  
@@ -188,3 +279,9 @@ _____________
 </details>
 
 
+<details><summary>Commentary - ClaudeAI</summary>
+
+Above the earth at a distance of one lakh yojanas is the sphere of the sun. Since the earth is seventy thousand yojanas high and all the remaining worlds are to be understood as below the earth, one lakh yojanas above the earth is the solar sphere. This is known as the Bhuvar-loka. One lakh yojanas above the sun is the lunar sphere. One lakh yojanas above that is the stellar sphere. Two lakh yojanas beyond that is Mercury. Two lakh yojanas beyond that is Venus. Two lakh yojanas above that is Mars. Two lakh yojanas above that is Jupiter. Two lakh yojanas above that is Saturn. One lakh yojanas above Saturn is the sphere of the seven sages. One lakh yojanas above the sphere of the seven sages is Dhruva, which supports the wheel of celestial bodies. Thus, from the solar sphere up to Dhruva extends the Svar-loka, with a height of fourteen lakh yojanas.
+
+Above the sphere of the seven sages up to the sphere of Dhruva is a certain Viṣṇu-loka. Above the sphere of Dhruva is Mahar-loka, one crore yojanas high. Beyond that is Jana-loka, two crore yojanas high. Tapo-loka is eight crore yojanas high. Satya-loka is twelve crore yojanas high. Thus, from Dhruva upwards to the upper boundary of Satya-loka are twenty-three crore yojanas. Above that is darkness extending slightly less than two crore yojanas; beyond that is the shell of the cosmic egg. Thus, between the sun and the shell of the cosmic egg are twenty-five crore yojanas, both upwards and downwards, making the total height of the space within the cosmic egg fifty crore yojanas. [6-7]
+</details>
