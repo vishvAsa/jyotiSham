@@ -5,7 +5,9 @@ title = "10 AP 5-B Zero-point of the Hindu Zodiac"
 [Jumbled 2 column text needs to be fixed]
 
 
-The Zero-point of the Hindu Zodiac i By this is meant have been given taking the position of the. V.E. point at the the Vernal Equinoctial Point (first point of Aries) at the Observer's time as the fiducial point. It is : possible to time when the Hindu savants swibobed on from the old locate it, 48 Burgess had shown in his edition of the 8.8., if Vedāriga-Jyōtiṣa calondar to the Siddhānitio calendar (let with the aid of the data given, d; i.o., celestial longitude of us call this the spoch of the Siddhānta-Jyōtiṣa or S. J.). the junction-stars in the epoch of S.J. is calculated, and There is a wide spread belief that a definite location can be compare it with the i of the same stars for 1950: - Let the found for this point from the data given in the Sūry& two values of Å be denoted by lz and dg, die being the value Siddhārta and other standard trbatiges. This impression is at the spoch of S. J., dg for the year 1950. Thenigde however wrong 
+The Zero-point of the Hindu Zodiac 
+
+i By this is meant have been given taking the position of the. V.E. point at the the Vernal Equinoctial Point (first point of Aries) at the Observer's time as the fiducial point. It is : possible to time when the Hindu savants swibobed on from the old locate it, 48 Burgess had shown in his edition of the 8.8., if Vedāriga-Jyōtiṣa calondar to the Siddhānitio calendar (let with the aid of the data given, d; i.o., celestial longitude of us call this the spoch of the Siddhānta-Jyōtiṣa or S. J.). the junction-stars in the epoch of S.J. is calculated, and There is a wide spread belief that a definite location can be compare it with the i of the same stars for 1950: - Let the found for this point from the data given in the Sūry& two values of Å be denoted by lz and dg, die being the value Siddhārta and other standard trbatiges. This impression is at the spoch of S. J., dg for the year 1950. Thenigde however wrong 
 
 should have a constant value, which is the colestial ... Its location has to be inferred from the co-ordinates 
 
