@@ -75,6 +75,9 @@ unicode_script: devanagari
   - People who blindly follow siddhAnta calculations without accounting for precession or season are violating the siddhAnta texts they supposedly revere!
     - सूर्यसिद्धान्तादेर् दोषाः/ deviations - "[इतिहासपृष्ठम्](../history/)" दृश्यताम्।
 
+पुत्तिगे-पालिमारु-पेजावराडमारु-मठाः १९९९-तः दृक्-पञ्चाङ्गम् आश्रित्य साधारणतिथिनिर्णयं कुर्वन्ति - "ग्रहण-क्षणं येन साधु गण्यते तद् ग्राह्यम्" इत्यर्थवतः कस्यचन वराह-पुराण-वाक्यस्य प्रेरणया।  
+नितराम् प्रशंसनीयम्।
+
 ## Longitude
 - The eclipse timing method is simple: first, you determine the local time that the lunar eclipse starts or ends by direct observation. Then you compare your local time for that event against the local time at some distant place. The difference in the two times is the difference in longitude.
 - "you'll find a method based on eclipses given by pR^ithUdakasvAmin using ujjayinI as the prime meridian. The method was evidently known well before that for varAhamihira gives different long differences. There is some discussion by parameshvara the nambUtiri too."
