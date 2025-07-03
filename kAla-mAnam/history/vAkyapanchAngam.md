@@ -20,6 +20,10 @@ title: वाक्यपञ्चाङ्गम्
 > Yes, the vākya-s were written before H discovered evection & variation, but this would still bring the Moon within ~2-3 degrees.   
 > the fact that the tables encoded by the candravākyas are out of date. The effort led by nityāgnihotrī śrīramaṇa śarmā aṇṇa aimed at doing pariśkāra of the vākyas (which are essentially shortcuts).
 
+Location effects - 
+
+vAkya-s assume position to be astronomical lanka.  
+But, the position of the moon in the sky doesn't depend much on whether you look up from "lanka" or shrIrangam. moon being 30 earth diameters away, location would make max diff of 1 / 30 radians = 1.91 deg only.
 
 ### Conjunctions, eclipses
 - This manifests in inability to precisely predicting eclipses.
