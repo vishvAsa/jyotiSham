@@ -13,19 +13,31 @@ title: वाक्यपञ्चाङ्गम्
 ## Errors
 - Understanding precession in terms of trepidation (Details [here](../saura-mAnam/ayanachalanam/).
 - vAkya-panchAnga-s oft give erroneous results regarding graha-s
-  - This manifests in inability to precisely predicting eclipses. Hence, contemporary ritualists fully use dRk-panchAnga-s for grahaNa-observations.
-  - Around Jan 6, 2018 conjunction of Mars and Jupiter could be observed while they placed Mars still in 1st qtr about 1½° (three moon sizes) away.
-  - Apr 13, 2017: Vakya Panchanga said Budha supposedly in Ashvini 3rd qtr transited Surya in Bharani 4th qtr - but NASA showed Mercury passing Surya. [TW](https://twitter.com/ShriramanaS/status/852378750909988864)
-- Wrong tithi boundaries.
-  - June 21 2020 was a special day - it was the solstice day, there was an annular solar eclipse visible from India (with peak at 11:47:35 am IST), and it naturally was amAvAsyA until 11:47:35 am IST. vAkya-panchAnga-s had obvious errors with regards to sun-moon conjunction (and consequently eclipse and end of amAvAsyA) - so tithi junction was till 12:30 or so. Some ritualists simply followed pop culture and used more accurate dRk-panchAnga-s for eclipse observances; while following vAkya-panchanga regarding parva-rituals! Such inconsistency! So, they incorrectly conducted sthAlIpAka the following day. (Not to mention, they must have continued saying "uttarAyaNe" in their sankalpa-s as well.)
-- Sometimes saura-paxa-panchAnga-s are not even able to determine if an eclipse will "happen" or not.
-- "The word "sankalpa" reminds me that we recite the daily "samkalpa" about Kalpa, Manvantara, Yuga, varsha etc. as per the Surya Siddhanta (instead of Aryabhatiya!!) but do not calculate even our horoscopes from the same work."
 
-### Error correction
-- अयनचलनप्रतिक्रिया दृक्तुल्यताप्राधान्यम् च अन्यत्र\+ उक्तम्।
-- shankAr dIxit and the shrautin of Colaba [MT_TW](https://twitter.com/blog_supplement/status/907061604981903360)
-- raghunAthAchAri, \[[MT](https://manasataramgini.wordpress.com/2015/06/02/remembering-raghunathachari/)\].
-    - gave several public lectures in Chennai to attempt to increase the awareness of Hindus on modern astronomy and the importance of first hand and meticulous observations
-    - "discussed the importance of modern astronomy with the ācarya of the Sriperumbudur śrīvaiṣṇava maṭha and convinced him to adopt a modern astronomical almanac, "
-    - "demonstrated to his Vedic ritualist friends, Venkateshvara Dikshita and Sundaresha Shrautin, that the astronomical tables of the traditional astronomers of Andhra and Dramiḍa were otiose and that they badly mis-predicted basic astronomical events which are central to Vaidika rituals"
-    - "during the solar eclipse of August 18, 1868 raghunAthAchAri was able to demonstrate his predictions: He got the eclipse time correct with an error of 12 seconds using calculations done by his hand while the traditional astronomers performed dismally with a whopping 24 minute error. This had a strong effect and many traditional Hindus now switched over to his side. He then demolished the most recalcitrant traditional astronomers in a sadas of brāhmaṇa-s of the Dramiḍa country. Seeing this the Śaṃkara maṭha sent out a circular stating that the Vedic ritualists Venkateshvara Dikshita and Sundaresha Shrautin were correct in adopting modern theory and techniques for their rituals. His efforts were paralleled by those of Ketkar in Maharashtra and Venkatakrishna Raya in Andhra to get the Hindus to use modern astronomical calculations."
+### Conjunctions, eclipses
+- This manifests in inability to precisely predicting eclipses.
+- Sometimes saura-paxa-panchAnga-s are not even able to determine if an eclipse will "happen" or not.
+- Some ritualists simply follow pop culture and used more accurate dRk-panchAnga-s for eclipse observances; while following vAkya-panchanga regarding parva-rituals! Such inconsistency!
+- Around Jan 6, 2018 conjunction of Mars and Jupiter could be observed while they placed Mars still in 1st qtr about 1½° (three moon sizes) away.
+- Apr 13, 2017: Vakya Panchanga said Budha supposedly in Ashvini 3rd qtr transited Surya in Bharani 4th qtr - but NASA showed Mercury passing Surya. [TW](https://twitter.com/ShriramanaS/status/852378750909988864)
+
+### Wrong tithi boundaries.
+> Gaṇaka-s subscribing to the vākya technique are unaware that tithi-s etc have anything to do with the Sun/Moon visible in the sky. They believe that some divine property of Sanskrit sentences produces these magic numbers. Technically, even this wouldn't be an issue if they applied the techniques correctly - Yes, the vākya-s were written before H discovered evection & variation, but this would still bring the Moon within ~2-3 degrees. But they apply vākya-s meant for astronomical Laṅkā, directly at Śrīraṅgam without deśāntara corrections.
+
+Source of error - vAkya-panchAnga-s have obvious errors with regards to sun-moon conjunction (and consequently eclipse and end of amAvAsyA).
+
+
+> "The word "sankalpa" reminds me that we recite the daily "samkalpa" about Kalpa, Manvantara, Yuga, varsha etc. as per the Surya Siddhanta (instead of Aryabhatiya!!) but do not calculate even our horoscopes from the same work."
+
+<details><summary>2020 Solstice</summary>
+
+June 21 2020 was a special day - it was the solstice day, there was an annular solar eclipse visible from India (with peak at 11:47:35 am IST), and it naturally was amAvAsyA until 11:47:35 am IST. vAkya-panchAnga-s had obvious errors with regards to sun-moon conjunction (and consequently eclipse and end of amAvAsyA) - so tithi junction was till 12:30 or so. Some ritualists simply followed pop culture and used more accurate dRk-panchAnga-s for eclipse observances; while following vAkya-panchanga regarding parva-rituals! Such inconsistency! So, they incorrectly conducted sthAlIpAka the following day. (Not to mention, they must have continued saying "uttarAyaNe" in their sankalpa-s as well.)
+</details>
+
+
+#### Correction
+पुत्तिगे-पालिमारु-पेजावराडमारु-मठाः १९९९-तः दृक्-पञ्चाङ्गम् आश्रित्य साधारण-तिथि-निर्णयं कुर्वन्ति - "ग्रहण-क्षणं येन साधु गण्यते तद् ग्राह्यम्" इत्यर्थवतः कस्यचन वराह-पुराण-वाक्यस्य प्रेरणया।  
+नितराम् प्रशंसनीयम्।
+
+#### ayana
+- अयनचलनप्रतिक्रिया दृक्तुल्यताप्राधान्यम् च [अन्यत्र](/jyotiSham/kAla-mAnam/saura-mAnam/solstice) \+ उक्तम्।

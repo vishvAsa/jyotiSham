@@ -74,9 +74,7 @@ unicode_script: devanagari
 - श्रीरमणशर्मा [वक्ति](https://groups.yahoo.com/neo/groups/swisseph/conversations/topics/6581) \- "the whole purpose of jyautisha is to know beforehand what will be observed or to compute later on what would have been observed as the Surya Siddhanta 2-14 says: tattadgativaśān nityam yathā \*dṛktulyatām\* grahāḥ / prayānti tat pravakṣyāmi sphuṭīkaraṇam ādarāt // 
   - People who blindly follow siddhAnta calculations without accounting for precession or season are violating the siddhAnta texts they supposedly revere!
     - सूर्यसिद्धान्तादेर् दोषाः/ deviations - "[इतिहासपृष्ठम्](../history/)" दृश्यताम्।
-
-पुत्तिगे-पालिमारु-पेजावराडमारु-मठाः १९९९-तः दृक्-पञ्चाङ्गम् आश्रित्य साधारणतिथिनिर्णयं कुर्वन्ति - "ग्रहण-क्षणं येन साधु गण्यते तद् ग्राह्यम्" इत्यर्थवतः कस्यचन वराह-पुराण-वाक्यस्य प्रेरणया।  
-नितराम् प्रशंसनीयम्।
+  
 
 ## Longitude
 - The eclipse timing method is simple: first, you determine the local time that the lunar eclipse starts or ends by direct observation. Then you compare your local time for that event against the local time at some distant place. The difference in the two times is the difference in longitude.
