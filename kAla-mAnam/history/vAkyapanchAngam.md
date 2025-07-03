@@ -6,13 +6,20 @@ title: वाक्यपञ्चाङ्गम्
 
 ## History
 - In Shaka 444 i.e. 522 CE, mean longitudes of the Old SS and Aryabhatiya etc. tallied almost exactly with the so called sayana i.e. tropical mean longitudes of planets as per modern astronomy.
-- "These are thus works like Grahalaghva and Makaranda, both of them having been based on the Surya Siddhanta formulae with some insignificant "beeja corrections"."
-- "There are several Vakya panchangams in Tamil nadu, the famous  being the Pampu (snake) panchangam, Thanigai Panchangam, Sri Rangam Panchangam, Garudan Panchangam, Arcot  Sitarama Iyer panchangam  and so on. There will invariably be a difference in timings between drik Ganitha and  Vakya Panchangam. But they invariably take the Drik calculation to show correct timings of eclipses (so that they make believe their system is ancient and also accurate). Some of them, especially Arcot Sita Rama Iyer panchangam, make some predictions about weather and politics that have proved accurate.  May be a case of making correct predictions from wrong data."
-- "There is a textual record that till as late as 1996 the most reputed panchanga-maker of Kashmir [Vijayeshwar-Panchang] was giving the timings of tithi, nakshatra etc. as per "Khaṇḍa-khādyaka" a sixth century ''handbook" of Brahmagupta, for the last about 100 years whereas he had switched over to "drik-ganita" for planetary positions very recently then!"
+
+> "These are thus works like Grahalaghva and Makaranda, both of them having been based on the Surya Siddhanta formulae with some insignificant "beeja corrections"."
+
+> "There are several Vakya panchangams in Tamil nadu, the famous  being the Pampu (snake) panchangam, Thanigai Panchangam, Sri Rangam Panchangam, Garudan Panchangam, Arcot  Sitarama Iyer panchangam  and so on. There will invariably be a difference in timings between drik Ganitha and  Vakya Panchangam. But they invariably take the Drik calculation to show correct timings of eclipses (so that they make believe their system is ancient and also accurate). Some of them, especially Arcot Sita Rama Iyer panchangam, make some predictions about weather and politics that have proved accurate.  May be a case of making correct predictions from wrong data."
+
+> "There is a textual record that till as late as 1996 the most reputed panchanga-maker of Kashmir [Vijayeshwar-Panchang] was giving the timings of tithi, nakshatra etc. as per "Khaṇḍa-khādyaka" a sixth century ''handbook" of Brahmagupta, for the last about 100 years whereas he had switched over to "drik-ganita" for planetary positions very recently then!"
 
 ## Errors
 - Understanding precession in terms of trepidation (Details [here](../saura-mAnam/ayanachalanam/).
 - vAkya-panchAnga-s oft give erroneous results regarding graha-s
+
+> Yes, the vākya-s were written before H discovered evection & variation, but this would still bring the Moon within ~2-3 degrees.   
+> the fact that the tables encoded by the candravākyas are out of date. The effort led by nityāgnihotrī śrīramaṇa śarmā aṇṇa aimed at doing pariśkāra of the vākyas (which are essentially shortcuts).
+
 
 ### Conjunctions, eclipses
 - This manifests in inability to precisely predicting eclipses.
@@ -22,8 +29,6 @@ title: वाक्यपञ्चाङ्गम्
 - Apr 13, 2017: Vakya Panchanga said Budha supposedly in Ashvini 3rd qtr transited Surya in Bharani 4th qtr - but NASA showed Mercury passing Surya. [TW](https://twitter.com/ShriramanaS/status/852378750909988864)
 
 ### Wrong tithi boundaries.
-> Gaṇaka-s subscribing to the vākya technique are unaware that tithi-s etc have anything to do with the Sun/Moon visible in the sky. They believe that some divine property of Sanskrit sentences produces these magic numbers. Technically, even this wouldn't be an issue if they applied the techniques correctly - Yes, the vākya-s were written before H discovered evection & variation, but this would still bring the Moon within ~2-3 degrees. But they apply vākya-s meant for astronomical Laṅkā, directly at Śrīraṅgam without deśāntara corrections.
-
 Source of error - vAkya-panchAnga-s have obvious errors with regards to sun-moon conjunction (and consequently eclipse and end of amAvAsyA).
 
 
