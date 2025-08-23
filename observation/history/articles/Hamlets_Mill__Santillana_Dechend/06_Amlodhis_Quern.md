@@ -110,11 +110,14 @@ However obscure the prophecy, it brought its own fulfillment. The maidens ground
 
 "And from that time there has been a whirlpool in the sea where the water falls through the hole in the mill-stone. It was then that the sea became salt."
 
-{{< figure src="../images/carta-marina_with_maelstorm.png" title="The Carta Marina of Olaus Magnus (16th century) shows the 'horrenda caribdis,' i.e., the Maelstrom, on the lower right, with ships, destructive sea-animals, and icebergs on the left." class="thumbnail">}}
+![](../images/carta-marina_with_maelstorm.png)
+{caption="The Carta Marina of Olaus Magnus (16th century) shows the 'horrenda caribdis,' i.e., the Maelstrom, on the lower right, with ships, destructive sea-animals, and icebergs on the left." class="thumbnail"}
 
-{{< figure src="../images/norvegianus_vortex.png" title="The whirlpool, here called “Norvegianus Vortex,” but usually spoken of as “gurges mirabilis” by Athanasius Kircher, as depicted in his Mundus Subterraneus." class="thumbnail">}}
+![](../images/norvegianus_vortex.png)
+{caption="The whirlpool, here called “Norvegianus Vortex,” but usually spoken of as “gurges mirabilis” by Athanasius Kircher, as depicted in his Mundus Subterraneus." class="thumbnail"}
 
-{{< figure src="../images/kircher_subterranean-river-from-vortex.png" title="Kircher's rather curious conception of the subterranean flow of rivers may have been evoked by Socrates' last tale, but transposed to a strictly geological level. This drawing illustrates the subterranean connection between the whirlpool west of Norway and the Baltic Sea." class="thumbnail">}}
+![](../images/kircher_subterranean-river-from-vortex.png)
+{caption="Kircher's rather curious conception of the subterranean flow of rivers may have been evoked by Socrates' last tale, but transposed to a strictly geological level. This drawing illustrates the subterranean connection between the whirlpool west of Norway and the Baltic Sea." class="thumbnail"}
 
 
 Here ends Snorri's tale \(appendix \#7\). Three fundamental and far-reaching themes have been set: the broken mill, the whirlpool, the salt. As for the curse of the miller women, it stands out alone like a megalith abandoned in the landscape. But surprisingly it can also be found, already looking strange, in the world of Homer, two thousand years before. \[4\]

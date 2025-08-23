@@ -19,4 +19,5 @@ Brhat-Samhitā, III, 1
 
 Translation : The beginning of the southern motion when the sun has passed half of Aśleṣā and the beginning of the northern motion when the sun has passed the beginning of Dhaniṣthā, must have taken place at some epoch; for these are recorded in old treatises. He appeals to his readers to ascertain for themselves by actual observation which of the two positions of the solstices is the correct one.
 
-{{< figure src="/jyotiSham/astrophysics/history/images/zodiac_history/ce-0499-12-20_revatI_chitrA_equinox_makara-sankramaNa_shroNa-10deg_punarvasU_solstice.png"  >}}
+![](/jyotiSham/astrophysics/history/images/zodiac_history/ce-0499-12-20_revatI_chitrA_equinox_makara-sankramaNa_shroNa-10deg_punarvasU_solstice.png)
+{ }

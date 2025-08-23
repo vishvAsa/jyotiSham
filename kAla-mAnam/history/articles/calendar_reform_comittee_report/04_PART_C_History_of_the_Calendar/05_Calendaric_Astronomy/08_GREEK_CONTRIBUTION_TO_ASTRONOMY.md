@@ -53,7 +53,8 @@ Hipparchos, had probably some knowledge of **plane and spherical trigonometry** 
 
 Chord (2 a)=2 R Sin a 
 
-{{< figure src="../../../images/hipparchus_double_chord.png" title="Fig. 20" class="thumbnail">}}
+![](../../../images/hipparchus_double_chord.png)
+{caption="Fig. 20" class="thumbnail"}
 
 and gave a table of double-chords from 0° to 90°, which was later improved by Ptolemy in his Syntaxis. It is suggested by Neugebauer, that the '**Sine function**' (**Jya** in Hindu astronomy) was introduced 600 years later by **Aryabhaṭa**, and replaced the double chord. The Hindu astronomers used **Utkramajyā** which is the **ver sine** function, **1-cos a**, but do not appear to have used the cosine function as such. Neither the Greeks nor the Hindus used the **tangent, and the cotangent**, which were introduced by Arab +++(Harran Sabean)+++ astronomers about the ninth century (**al-Battāni**, 858-929 A.D.), and were known in Latin in early days as Umbra Versa, and Umbra Extensa (extent of shadow ) respectively. These are reminiscent of the practice of designating the zenith distance+++(→angle)+++ Z of the sun by the length l of the shadow of the gnomon, l=p tan Z, p being the height of the gnomon. 
 

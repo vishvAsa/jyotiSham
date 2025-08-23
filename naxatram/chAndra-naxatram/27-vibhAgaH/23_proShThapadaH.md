@@ -9,7 +9,8 @@ unicode_script = "devanagari"
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/pUrva-proShThapadau.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/pUrva-proShThapadau.png)
 +++(α and β Pegasi)+++
 
-{{< figure src="/jyotiSham/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg" title="" class="thumbnail">}}
+![](/jyotiSham/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg)
+{caption="" class="thumbnail"}
 
 
 - धिष्णियाभिस् तार्क्ष्य-सम्बन्धो ऽन्यत्र प्रपञ्चितः। सर्वम् एतद् [अन्यत्र](/jyotiSham/naxatram/tArAmaNDala) प्रपञ्चितम्।

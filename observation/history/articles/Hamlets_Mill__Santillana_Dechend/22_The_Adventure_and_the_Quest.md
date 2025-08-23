@@ -19,22 +19,29 @@ Together they plan an expedition to the great Forest, to overcome the terrible o
 
 Even if it is taken for granted that fights with dragons or ogres were a popular subject once upon a time, some dry data on this "monster" would do no harm. He "is invariably called a god in the texts" \[6\]  and appears to correspond to the Elamitic god Humba or Humban, who shares the title "the prevalent, the strong" with the planets Mercury and Jupiter and with Procyon \(alpha Canis Minoris\). He occurs, moreover, in a star list, carrying the determinative mul \(Babylonian kakkab\) announcing stars, as mulHumba \(appendix \#26\). The identification with Procyon may eventually turn out to be the decisive clue which will reconcile the Sumerian version with the many others.
 
-{{< figure src="../images/humbaba.png" title="This terra-cotta mask shows the unlovely face of Humbaba/Huwawa, the guardian of the cedar felled by Gilgamesh and Enkidu. The title of 'God of the fortress of intestines' is also given to him, and some scholars conclude from this title, as well as from the pictorial evidence, that Humbaba was the inhabitant and lord of the labyrinth, a predecessor of Minotaurus." class="thumbnail">}}
+![](../images/humbaba.png)
+{caption="This terra-cotta mask shows the unlovely face of Humbaba/Huwawa, the guardian of the cedar felled by Gilgamesh and Enkidu. The title of 'God of the fortress of intestines' is also given to him, and some scholars conclude from this title, as well as from the pictorial evidence, that Humbaba was the inhabitant and lord of the labyrinth, a predecessor of Minotaurus." class="thumbnail"}
 
-{{< figure src="../images/tlaloc.png" title="As revolting as the face of Humbaba are the features of Tlaloc, the so-called raingod of Mexico. They are revealing, however: constructed out of two serpents, Tlaloc's head represents, as it were, the caduceus of Hermes/Mercury." class="thumbnail">}}
+![](../images/tlaloc.png)
+{caption="As revolting as the face of Humbaba are the features of Tlaloc, the so-called raingod of Mexico. They are revealing, however: constructed out of two serpents, Tlaloc's head represents, as it were, the caduceus of Hermes/Mercury." class="thumbnail"}
 
-{{< figure src="../images/mercury-movements.png" title="" class="thumbnail">}}
+![](../images/mercury-movements.png)
+{caption="" class="thumbnail"}
 
-{{< figure src="../images/saturn-movement.png" title="" class="thumbnail">}}
+![](../images/saturn-movement.png)
+{caption="" class="thumbnail"}
 
 The reason the caduceus, the face of Tlaloc, and the notion of a "god of intestines" point exclusively to Mercury, one of the inferior planets (together with Venus) which are nearer to the sun than our planet Earth, becomes evident from figures 3-5, which illustrate Mercury's movements; it becomes even more evident if the representations of Mercury's racing feats within one solar year are compared to those of one of the superior planets within the same time (figure 6). It takes Saturn thirty years to accomplish his revolution around the sun, returning to the same fixed star; Mercury comes around in eighty-seven days (sidereal revolution; 115 days synodical).
 
 
-{{< figure src="../images/serqet.png" title="The Egyptian goddess Serqet, or Selket." class="thumbnail">}}
+![](../images/serqet.png)
+{caption="The Egyptian goddess Serqet, or Selket." class="thumbnail"}
 
-{{< figure src="../images/scarab.png" title="A green jasper scarab of Greco-Phoenician origin (6th-5th century B.C.) shows the goddess with 'the rear of a four-legged, winged scorpion'; the archaeologists recognize “the fore part of Isis,” but the Scorpion lady is clearly in evidence." class="thumbnail">}}
+![](../images/scarab.png)
+{caption="A green jasper scarab of Greco-Phoenician origin (6th-5th century B.C.) shows the goddess with 'the rear of a four-legged, winged scorpion'; the archaeologists recognize “the fore part of Isis,” but the Scorpion lady is clearly in evidence." class="thumbnail"}
 
-{{< figure src="../images/maya-scorpion-tail-godess.png" title="In the Maya Codex Tro-Cortesianus we meet again the “old goddess with the scorpion's tail,” although with a very different graphic convention. In Nicaragua and Honduras, “Mother Scorpion, who dwells at the end of the Milky Way,” is described as many-breasted." class="thumbnail">}}
+![](../images/maya-scorpion-tail-godess.png)
+{caption="In the Maya Codex Tro-Cortesianus we meet again the “old goddess with the scorpion's tail,” although with a very different graphic convention. In Nicaragua and Honduras, “Mother Scorpion, who dwells at the end of the Milky Way,” is described as many-breasted." class="thumbnail"}
 
 
 
@@ -132,15 +139,19 @@ Leaving the boat on the shore, Gilgamesh and the boatman walked for another 50 d
 >  
 > When they arrived in Uruk, the enclosure, Gilgamesh said to him, to Urshanabi, the boatman: "Urshanabi, climb upon the wall of Uruk \(and walk about\); inspect the foundation terrace and examine the brickwork, \(to see\) if its brickwork is not of burnt bricks, And \(if\) the seven wise men did not lay its foundation\!" \(*11*.301-305\).
 
-{{< figure src="../images/god-boat_ziggurat.png" title="The Mesopotamian cylinder seal shows in the upper part the God Boat; in the lower part people are building a ziggurat, the proposition being that the boat is bringing the me from Eridu-Canopus, the measures of creation." class="thumbnail">}}
+![](../images/god-boat_ziggurat.png)
+{caption="The Mesopotamian cylinder seal shows in the upper part the God Boat; in the lower part people are building a ziggurat, the proposition being that the boat is bringing the me from Eridu-Canopus, the measures of creation." class="thumbnail"}
 
-{{< figure src="../images/god-boat_constellations.png" title="The “God Boat” surrounded by the crescent moon, three single stars, and constellations; recognizable are the Scorpion, the Plow (=mulAPIN, Triangulum), and perhaps the Lion following directly behind the boat; the jug above the Lion might indicate Aquarius." class="thumbnail">}}
+![](../images/god-boat_constellations.png)
+{caption="The “God Boat” surrounded by the crescent moon, three single stars, and constellations; recognizable are the Scorpion, the Plow (=mulAPIN, Triangulum), and perhaps the Lion following directly behind the boat; the jug above the Lion might indicate Aquarius." class="thumbnail"}
 
 
-{{< figure src="../images/mAya-god-boat.png" title="The same character clearly occurs in the Maya Codex Tro-Cortesianus, second row." class="thumbnail">}}
+![](../images/mAya-god-boat.png)
+{caption="The same character clearly occurs in the Maya Codex Tro-Cortesianus, second row." class="thumbnail"}
 
 
-{{< figure src="../images/arab-god-boat.png" title="The 'God Boat' in the appropriate surroundings on the Arabian celestial globe made by Tabari (in the year 684 of the Hijra), after the catalogue of stars of 'Abd ar Rahman as Sufi. The name of Suhayl (Canopus) is written below the oar of this personified boat, i.e., of Argo, closest to the celestial South Pole." class="thumbnail">}}
+![](../images/arab-god-boat.png)
+{caption="The 'God Boat' in the appropriate surroundings on the Arabian celestial globe made by Tabari (in the year 684 of the Hijra), after the catalogue of stars of 'Abd ar Rahman as Sufi. The name of Suhayl (Canopus) is written below the oar of this personified boat, i.e., of Argo, closest to the celestial South Pole." class="thumbnail"}
 
 
 But before the Epic started \(Tabl. *1*, 19\), it was said that "the Seven Wise Ones" had laid the foundation of ramparted Uruk. So the ring has been closed.

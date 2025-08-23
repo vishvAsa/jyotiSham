@@ -87,4 +87,5 @@ In this Improved Calendar :
 - Each year begins on Sunday, 1 January ; each working year begins on Monday, 2 January. Each quarter begins on Sunday, ends on Saturday. 
 - The calendar is stabilized and perpetual, by ending the year with a 365th day that follows 30 December each year, called Worldsday dated “W” or 31 December, a year-end world holiday. Leap-year day is similarly added at the end of the second quarter, called Leapyear Day dated “W” or 31 June, another world holiday in leap years.. 
 
-{{< figure src="../../images/world_calendar.png" title="World calendar" class="thumbnail">}}
+![](../../images/world_calendar.png)
+{caption="World calendar" class="thumbnail"}

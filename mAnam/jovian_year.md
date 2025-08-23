@@ -12,7 +12,8 @@ A great conjunction is a conjunction of the planets Jupiter and Saturn (Κρόν
 - In this way, the conjunctions will move in the same rAshi trines creating a triangle in the zodiac. ... The cycle will stay in one rAshi trine for about 200 years, then it will enter the next rAshi triad. ... 
 - The cycle will move through all the zodiac signs every 800 years (794.37 years or 40 conjunctions) returning to within .93° of the starting point if one uses a tropical calculation. (A given vertex will take \~800 years to reach the sign occupied by the next vertex, they being 4 rAshis apart.) 
 
-{{< figure src="../images/great_conjunction_triangles_1941.jpg" title="Great conjunction triangles" class="thumbnail">}}
+![](../images/great_conjunction_triangles_1941.jpg)
+{caption="Great conjunction triangles" class="thumbnail"}
 
 ## Connection to yugas
 "This 1° discrepancy creates a larger cycle in which the exact degree returns in 288,000 years (800 X 360). In Satya Yuga there are 6 of these cycles, in Tretā Yuga there are 4.5, in Dvāpara there are 3, and in Kali Yuga there are 1.5 which gives a total of 15 of the grand 288,000 year cycles in a Mahāyuga."

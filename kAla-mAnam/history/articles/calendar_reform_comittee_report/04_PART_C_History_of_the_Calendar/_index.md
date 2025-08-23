@@ -12,7 +12,8 @@ Sri N. C. LAHIRI, M. A. Secretary, Calendar Reform Committee.
 
 
 
-{{< figure src="../images/world_timeline.png" title="Chronology" class="thumbnail">}}
+![](../images/world_timeline.png)
+{caption="Chronology" class="thumbnail"}
 
 
 - [YV](https://archive.org/stream/HistoryOfCalendarPanchangaCommittee/History-of-Calendar-Panchanga-Committee#page/n77/mode/2up).

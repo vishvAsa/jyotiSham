@@ -8,7 +8,9 @@ Mahamahopadhyaya Chandrasekhara Singha Harichandana Mahapatra Samanta, better kn
 ## साधनानि
 Samanta was a self-taught astronomer, and learnt by reading the books available at the Royal Library until the age of 15. During his youth, Samanta measured the length of the shadows throughout the day by using bamboo and wood to create measuring instruments, which he called mana yantra. He also measured time by using his version of a sundial. He was the only Indian astronomer who discovered all three irregularities of the moon independently of European astronomers, which were unknown to ancient Indian astronomers. After studying mathematics and traditional astronomy he used his knowledge to match predictions made by ancient Indian mathematicians and astronomers such as Aryabhata, Varahamihira, and Brahmagupta. His findings were recorded in his book titled Siddhanta Darpana and were mentioned in the European and American press in 1899. Samanta’s calculations were eventually used in the preparation of almanacs in Odisha. 
 
-{{< figure src="../images/sAmanta-chandrashekharaH/orbital-periods.jpg" title="" class="thumbnail">}}
+![](../images/sAmanta-chandrashekharaH/orbital-periods.jpg)
+{caption="" class="thumbnail"}
 
-{{< figure src="../images/sAmanta-chandrashekharaH/ecliptic-inclinations.jpg" title="" class="thumbnail">}}
+![](../images/sAmanta-chandrashekharaH/ecliptic-inclinations.jpg)
+{caption="" class="thumbnail"}
 

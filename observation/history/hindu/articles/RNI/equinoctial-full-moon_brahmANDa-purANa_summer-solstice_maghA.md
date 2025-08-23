@@ -125,7 +125,8 @@ The purāṇa bringing up the equinox definition twice within about twenty verse
 
 ## 3 Equinoctial full moon
 
-{{< figure src="../images/full-moon-longitudes_vs_kRttikA_vishAkhA.png" title="" class="thumbnail">}}
+![](../images/full-moon-longitudes_vs_kRttikA_vishAkhA.png)
+{caption="" class="thumbnail"}
 
 Fig. 1 Full moon points around 180° longitude with sun at 0° longitude (vasanta/spring equinox) are marked in the viśākhā sector. Full moon points around 0° longitude with sun at 180° longitude (śarat/autumn equinox) are marked in the kṛttikā sector. Red and blue lines show the variation in longitude of the stars kṛttikā (η-Tau) and viśākhā (α1-Lib) due to precession of the equinoxes 
 
@@ -143,7 +144,8 @@ The FM data thus obtained is sieved to select only those that are on the equinoc
 
 Observation of FM near the stars kṛttikā or viśākha in a year is not at all rare. But FM on or close to the equinoctial day is not that frequent. The simulated results show that there will be about fifteen such events per century. Thus, the rationale behind the BP text can be taken as observation of a few equinoctial FM near the two visible stars in their designated sectors. In Fig. 1, the locus of these stars kṛttikā (η-Tau) and viśākha (α1-Lib) is indicated by red and blue lines, incorporating the effect of precession of the equinoxes.
 
-{{< figure src="../images/bce_1702_1712_kRttikA_vishAkha_equinox_maghA_shraviShThA_solstice_naxatra-chakra.png" title="" class="thumbnail">}}
+![](../images/bce_1702_1712_kRttikA_vishAkha_equinox_maghA_shraviShThA_solstice_naxatra-chakra.png)
+{caption="" class="thumbnail"}
 
 Fig. 2 a, b Dial plot of the 27 nakṣatra sectors, each 13(5/9) days long, super posed on the invariant N-S axis defining the beginning of the śiśira ṛtu (WS) and the varṣa ṛtu (SS) as in the Vedic MAU. The E-W axis bisects the centre of the vasanta (SE) and śarat ṛtu (AE) domains as in the Brahmāṇḍa Purāṇa.
 

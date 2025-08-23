@@ -108,15 +108,20 @@ Out of these layers, the first represents the terrestrial world;" the second lay
 The whole altar is just an expansion of the tripartite system of the world:-- 
 “the first layer is this very (terrestrial) world; and the uppermost (layer) is the sky; and those three (intermediate layers) are the air”. These layers are shown in the Figures 1 through 5. 
 
-{{< figure src="../images/altar/sb_altar_layer1.png" title="Figure 1. Layer 1, the earth" class="thumbnail">}}
+![](../images/altar/sb_altar_layer1.png)
+{caption="Figure 1. Layer 1, the earth" class="thumbnail"}
 
-{{< figure src="../images/altar/sb_altar_layer2.png" title="Layer 2, the lower atmosphere. " class="thumbnail">}}
+![](../images/altar/sb_altar_layer2.png)
+{caption="Layer 2, the lower atmosphere. " class="thumbnail"}
 
-{{< figure src="../images/altar/sb_altar_layer3.png" title="Layer 3, the mid-atmosphere. " class="thumbnail">}}
+![](../images/altar/sb_altar_layer3.png)
+{caption="Layer 3, the mid-atmosphere. " class="thumbnail"}
 
-{{< figure src="../images/altar/sb_altar_layer4.png" title="Layer 4, the upper atmosphere." class="thumbnail">}}
+![](../images/altar/sb_altar_layer4.png)
+{caption="Layer 4, the upper atmosphere." class="thumbnail"}
 
-{{< figure src="../images/altar/sb_altar_layer5.png" title="Layer 5, the orbit of the sun." class="thumbnail">}}
+![](../images/altar/sb_altar_layer5.png)
+{caption="Layer 5, the orbit of the sun." class="thumbnail"}
 
 The fifth layer, being a representation of the sky, presents a most interesting overview of the understanding of the physical universe. The details of how the bricks of the fifth layer are to be laid are described in the fifth adhyāya of the 8th kānḍa. Note that there are some differences between our Figure 5 and that drawn by Eggeling,29 who has used incorrect sizes for many of the bricks that go inside the ring. When the size of each stomabhāgā brick is one unit square, the outer diameter of the ring should be 11 units rather than the 12 units which has been used by Eggeling. This becomes clear when Eggeling's drawing for the fifth layer is compared to those of the first and third layers and we find that the viśvajyoti (V) bricks do not line up as they are supposed to. 
 
@@ -132,9 +137,11 @@ On top of the central gārhapatya altar, lie the two perforated bricks at an off
 "He then lays down the vikarṇi and svayamātiṇā (bricks), -- the vikarṇi is Vāyu (the wind), and the svayamātmā is the sky: he thus sets up both the wind and the sky. He lays them down as the last (highest), for wind and sky are the highest...... [The] yonder sun strings these worlds (the earth and the atmosphere] to himself on a thread. Now that thread is the same as the wind; and that wind is the same as this vikarṇi ....." 
 
 
-{{< figure src="../images/altar/sb_altar_layer5_1.png" title="Figure 6. Layer 5, with the design of layer 1 inscribed within. " class="thumbnail">}}
+![](../images/altar/sb_altar_layer5_1.png)
+{caption="Figure 6. Layer 5, with the design of layer 1 inscribed within. " class="thumbnail"}
 
-{{< figure src="../../images/earth_solar_orbit_center.png" title="Figure 7. The earth and the centre of the sun's orbit." class="thumbnail">}}
+![](../../images/earth_solar_orbit_center.png)
+{caption="Figure 7. The earth and the centre of the sun's orbit." class="thumbnail"}
  
 It is possible, indeed likely, that the meeting point of these two bricks, which is offset from the center of the circle, was taken to be the center of the motion of the sun. The vikarṇī, as the binding force of the sun, will then reach right down to the earth. 
 
@@ -169,7 +176,8 @@ The theory that the sun was the “lotus” (the central point of the sky and th
 
 The continuing analysis of the astronomical references in the Brāhmaṇas has made it clear that the theory that the Siddhantic astronomy was somehow derived from the Babylonians and the Greeks is wrong. What is emerging from texts, that are anterior, by any reckoning, to the eras of astronomical advance in Babylonia or in Greece is that astronomical ideas developed in India in stages and these stages can be seen in the different layers of the Vedic texts, the Brāhmaṇas, and the Vedānga Jyotiṣa. 
 
-{{< figure src="../../images/perihelion_aphelion_solstice_equinox_2000CE.png" title="Figure 8. The current dates of the perihelion and the aphelion. " class="thumbnail">}}
+![](../../images/perihelion_aphelion_solstice_equinox_2000CE.png)
+{caption="Figure 8. The current dates of the perihelion and the aphelion. " class="thumbnail"}
 
 ## REFERENCES AND NOTES 
 - 1. Kak, S.C. “Astronomy in the śatapatha Brāhmaṇa”, Indian Journal of History of Science, 28 (1993), 15-34. 

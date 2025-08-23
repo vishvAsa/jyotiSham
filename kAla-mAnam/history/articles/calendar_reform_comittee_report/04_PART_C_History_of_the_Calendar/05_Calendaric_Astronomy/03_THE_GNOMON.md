@@ -6,7 +6,8 @@ Observations of the positions of the sun, the moon, planets and stars are now ma
 
 The earliest instrument used-by primitive astrono mers appears to have been the gnomon; which we now describe. 
 
-{{< figure src="../../../images/gnomon.png" title="Fig. 7-The gnomon." class="thumbnail">}} 
+![](../../../images/gnomon.png)
+{caption="Fig. 7-The gnomon." class="thumbnail"} 
 
 The ancients determined the latitude of the place, obliquity of the ecliptic, the length of the year and the time of day by measuring the length and direction of shadow of the gnomon, The figure shows the noon-shadow of the gnomon AB, AE being the equinoctial shadow and AC and AD the shadow on two solstice-days, at a place on latitude = Φ. 
 

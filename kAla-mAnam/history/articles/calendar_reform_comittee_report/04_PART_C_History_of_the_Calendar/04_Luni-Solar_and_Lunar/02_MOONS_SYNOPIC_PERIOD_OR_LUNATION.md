@@ -46,7 +46,8 @@ These rules came into vogue at a time (383 B.C.), when Babylon had lost her inde
 The 'Nineteen-year cycle' is generally known as the '**Metonic Cycle**' after Meton, an Athenian astronomer who unsuccessfully tried to introduce it at Athens in 432 B.C. But there is no proof that it was used at Athens before 343 B.C. The question of ‘priority of this discovery is therefore a disputed one. 
 
 
-{{< figure src="../../images/chaldean_19_year_cycle.png" title="Table 3.-The 19-year cycle.. Cycle of 19 years showing Intercalary Months (Compiled from Pannekoek's calculation of dates in Babylonian Tables of planets)" class="thumbnail">}}
+![](../../images/chaldean_19_year_cycle.png)
+{caption="Table 3.-The 19-year cycle.. Cycle of 19 years showing Intercalary Months (Compiled from Pannekoek's calculation of dates in Babylonian Tables of planets)" class="thumbnail"}
 
 
 - 312-Seleucidean era = Christian era B.C. (Jan. to Sept.) 

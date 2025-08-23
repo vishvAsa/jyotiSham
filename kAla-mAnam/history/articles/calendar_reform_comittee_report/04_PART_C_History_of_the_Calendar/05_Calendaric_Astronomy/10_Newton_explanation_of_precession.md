@@ -13,13 +13,15 @@ The earth is kept in its orbit by the gravitational pull of the sun, which is si
 
 This is explained by means of the following figure.
 
-{{< figure src="../../../images/newton_precession.png" title="Fig. 21-Showing the precession of the equinoxes" class="thumbnail">}}
+![](../../../images/newton_precession.png)
+{caption="Fig. 21-Showing the precession of the equinoxes" class="thumbnail"}
 
 In the above figure (No. 21), C is the pole of the ecliptic EL\'L. Let γ₁ midway between E and L be the first point of Aries for year 1. Then the celestial pole is P₁, and the celestial equator is E₁γ₁Q₁. Due to precession of the equinoxes, the first point of Aries is slowly moving in the backward direction Lγ₂E along the ecliptic. If γ₁ shifts to γ₂ in year 2, the celestial pole shifts to P₂, along the small circle P₁P₂P₃.., where CP= obliquity of the ecliptic. The celestial equator assumes a new position E₂γ₂Q₂ in year 2. 
 
 The celestial pole P therefore goes round the pole of the ecliptic C, and it makes a complete cycle in a period of about 26000 years as shown in fig. 22. 
 
-{{< figure src="../../../images/celestial_pole_precession_circle.png" title="Fig. 22—Showing the precessional path of the celestial pole among the stars. (Taken from Astronomy by Russell & others)" class="thumbnail">}}
+![](../../../images/celestial_pole_precession_circle.png)
+{caption="Fig. 22—Showing the precessional path of the celestial pole among the stars. (Taken from Astronomy by Russell & others)" class="thumbnail"}
 
 At present (1950 A. D.), the celestial pole is 58' from Polaris (a Ursa Minoris) which is a star of the second magnitude. CP, i.e., the line joining the pole of the ecliptic C to the celestial pole P continues to approach the Polaris up to 2105 A. D., when the pole would be only 30' away from the star and will then begin to recede from it.
 
@@ -76,7 +78,8 @@ But there is another complication. The moon's orbit is not coincident with he su
 
 ## Combination of the two precessional motions. 
 
-{{< figure src="../../../images/combining_solar_lunar_precessions.png" title="Fig. 24-Combination of two precessional motions. " class="thumbnail">}}
+![](../../../images/combining_solar_lunar_precessions.png)
+{caption="Fig. 24-Combination of two precessional motions. " class="thumbnail"}
 
 The two precessions can be combined as in fig. 24. Here C, M are the poles of the ecliptic and of the moon's orbit. P is the celestial pole. The solar precession can be represented by the vector ψs, along the line PS perpendicular to CP, but the lunar precession is represented by the vector PR, which goes up and down as M goes round C in a complete cycle of 18.6 years (period of moon's node). Therefore the motion is equivalent to 
 

@@ -22,11 +22,13 @@ The motion of the brilliant luminary, Jupiter across the sky attracted early att
 ### Retrograde motion
 The three planets, **Mars, Jupiter, and Saturn** though generally moving to the east, from time to time reverse their direction of motion ( **retrograde motion** ), as shown in Fig. 11 +++(Video [YT](https://www.youtube.com/watch?v=72FrZz_zJFU). )+++. 
 
- {{< figure src="../../../images/mars_retrograde_path_1939.png" title="Fig. 11  Showing the retrograde motion of Mars 1939." class="thumbnail">}} 
+ ![](../../../images/mars_retrograde_path_1939.png)
+{caption="Fig. 11  Showing the retrograde motion of Mars 1939." class="thumbnail"} 
 
 Although the planets always move in the same direction round the sun, their apparent motion among the fixed stars as seen from the earth, is not always in the same forward direction. They sometimes appear to move also in the backward direction among the stars, and this is known as the retrograde motion of a planet. The above figure reproduced from Pictorial Astronomy by Alter and Cleminshaw illustrates how Mars was seen to retrograde during June 24 to August 24. 
 
- {{< figure src="../../../images/mars_retrograde_path_explanation.png" title="Fig. 12-Showing the motion of Mars relative to the earth." class="thumbnail">}} 
+ ![](../../../images/mars_retrograde_path_explanation.png)
+{caption="Fig. 12-Showing the motion of Mars relative to the earth." class="thumbnail"} 
 
  By placing the sun at the centre and having the earth and the other planets revolve in circles around it, **Copernicus (1473-1543)** was able to **explain the backward motion** of the planets among the stars much **more simply than in the Ptolemaic system**. This is illustrated in the above figure, taken from Pictorial Astronomy, in the case of Mars as seen from the earth. The **earth's speed is 184 miles a second** while that of **Mars is only 15 miles a second**. As the **earth overtakes** Mars, the **latter seems to move backward**. The direct motion of Mars to the east is shown at positions 1, 2 and 3, backward or retrograde motion to the West at 4 and 5, and direct motion to the east again at 6 and 7. 
 
@@ -132,13 +134,15 @@ Fig. 17–Babylonian Boundary stone showing lunar ephemeris engraved on it (A. 3
 
 'Regulus' or α Leonis was the 'Royal Star' in Babylonian mythology. In Indian classics, it is known as Maghā (or the Great ) and the presiding deity is Indra, the most powerful Vedic god. It is almost exactly on the ecliptic. Citrā ( or α Virginis ) is 2° to : the south. 
 
-{{< figure src="../../../images/armillary_sphere.png" title="Fig. 18–Armillary sphere. . (Reproduced from Encyclopaedia Britannica)." class="thumbnail">}}
+![](../../../images/armillary_sphere.png)
+{caption="Fig. 18–Armillary sphere. . (Reproduced from Encyclopaedia Britannica)." class="thumbnail"}
 
 ### Precession of Equinoxes 
 
 But the first point of Aries is not a fixed point on the ecliptic, though all ancient astronomers belived it to be fixed once for all. It moves steadily to the west at the rate of 50" per year. Astronomers of different ages must have given measurements of stellar positions from observations made either during their own times, or from observations made by their predecessors, quite unconscious of the fact that the reference point had shifted. The result is that the positions of stars given by different astronomers of antiquity do not tally, and the positions given by the same astronomer are not always consistent. This is illustrated in Fig. 19 of the Zodiac. 
 
-{{< figure src="../../../images/precession_of_equinox.png" title="Fig. 19—The Zodiac through ages." class="thumbnail">}}
+![](../../../images/precession_of_equinox.png)
+{caption="Fig. 19—The Zodiac through ages." class="thumbnail"}
 
 Let us take Hipparchos's First point of Aries ♈ as our standard point. Ptolemy's first point of Ariés ♈ is 4° to the west of Hipparchos's.
 

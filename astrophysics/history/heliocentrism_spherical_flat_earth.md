@@ -248,7 +248,8 @@ This idea of the rotation of the Earth (eastwards) has been given by Sankara Var
 This can be "a reflexive attempt at correcting Appayya's insistence on a geocentric, geostationary cosmology in commenting on a shrutivAkya".
 
 ## bhAgavata-s
-{{< figure src="../images/bhAgavata-universe.png"  class="thumbnail">}}
+![](../images/bhAgavata-universe.png)
+{class="thumbnail"}
 
 ### भागवत-पुराणम्
 - References to "bhUgola" in multiple purANa-s including bhAgavata -  [IMG](https://i.imgur.com/GsxAOcY.png) . As is clear from interpretations by vedAntadeshika and later bhAgavata-s, this is to be understood as a spherical manifold (गोलकटाह) or hemisphere rather than a full sphere. 

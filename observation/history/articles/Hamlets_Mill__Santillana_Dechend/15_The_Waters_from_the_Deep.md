@@ -49,9 +49,11 @@ A strange pastime for the heavenly queen, but it seems to have been a rather cel
 
 This is, however, no Iranian invention: the ritual text of the Babylonian New Year addresses Sirius as "mul.KAK.SI.DI. who measures the depth of the Sea." mul is the prefix announcing the star, KAK.SI.DI means "arrow," and it is this particular arrow which is behind most of the bewildering tales of archery. The bow from which it is sent on its way is a constellation, built from stars of Argo and Canis Major, which is common to the spheres of Mesopotamia, Egypt and China. \[11\]  And since the name Ishtar is shared by both Venus and Sirius, one may guess who "stirs up the apsu before Ea."
 
-{{< figure src="../images/mesopotamian-bow-arrow.png" title="The Mesopotamian constellation of Bow and Arrow (mulBAN and mulKAK.SI.DI, or gagsi.sa), as reconstructed on the evidence of astronomical cuneiform texts; gag.si.sa/KAKSIDI is Sirius, the Arrow-Star." class="thumbnail">}}
+![](../images/mesopotamian-bow-arrow.png)
+{caption="The Mesopotamian constellation of Bow and Arrow (mulBAN and mulKAK.SI.DI, or gagsi.sa), as reconstructed on the evidence of astronomical cuneiform texts; gag.si.sa/KAKSIDI is Sirius, the Arrow-Star." class="thumbnail"}
 
-{{< figure src="../images/chinese-bow-arrow.png" title="The Chinese constellation built up by the same stars. In China, however, the arrow is shorter: Sirius is not the tip of the arrow, but the target: the celestial jackal Tien-lang." class="thumbnail">}}
+![](../images/chinese-bow-arrow.png)
+{caption="The Chinese constellation built up by the same stars. In China, however, the arrow is shorter: Sirius is not the tip of the arrow, but the target: the celestial jackal Tien-lang." class="thumbnail"}
 
 And here is what the "fire" accomplished, according to a Finnish rune of origin, \[12\]  after it had been "cradled . . . over there on the navel of the sky, on the peak of the famous mountain," when it rushed straightaway through seven or nine skies and fell into the sea: "The spark . . . rolled . . . to the bottom of Lake Aloe, roaring it rushed to the bottom of the sea, down into the narrow depression \(?\). This Lake Aloe then, thrice in the summer night, rose foaming to the height of its firs, driven in fury beyond its banks. Thereupon again Lake Aloe thrice in the summer night dried up its waters to the bottom, its perch on the rocks, its pope \(small fishes\) on the skerries."
 
@@ -59,11 +61,14 @@ And here is what the "fire" accomplished, according to a Finnish rune of origin,
 
 A violent spark this seems to have been; yet — is it not also said of the old Sage: "Vainamoinen in the mouth of the whirlpool boils like fire in water"? \[13\]  Which goes to show that mythical "fire" means more than meets the eye. Actually, the enigmatical events in "Lake Aloe" cannot be severed from those occurring in lake Vurukasha and the coming into being of the "three outlets," the first of which had the name Hausravahf/Kai Khusrau \(see chapter XIII, "Of Time and the Rivers," p. 201\).
 
-{{< figure src="../images/chinese-star-map_mercator-projection.png" title="The star maps for the celestial globe in the Hsin I Hsiang Fa Yao of 1092 “Mercator's” projection. The constellation of the bow is seen near the center of the lower half." class="thumbnail">}}
+![](../images/chinese-star-map_mercator-projection.png)
+{caption="The star maps for the celestial globe in the Hsin I Hsiang Fa Yao of 1092 “Mercator's” projection. The constellation of the bow is seen near the center of the lower half." class="thumbnail"}
 
-{{< figure src="../images/chinese_bow-and-sirius-jackal.png" title="Drawing the bow at Sirius, the celestial jackal, as it was done by the mythical emperors of Ancient China." class="thumbnail">}}
+![](../images/chinese_bow-and-sirius-jackal.png)
+{caption="Drawing the bow at Sirius, the celestial jackal, as it was done by the mythical emperors of Ancient China." class="thumbnail"}
 
-{{< figure src="../images/dendera-zodiac.png" title="In the so-called 'Round Zodiac' of Dendera (Roman Egypt), the goddess Satit is aiming her arrow from the same bow at the star on the head of the Sothis-cow-Sirius again (on the right, lower half). The Egyptian conception is closer to that of the Chinese than to the Babylonian." class="thumbnail">}}
+![](../images/dendera-zodiac.png)
+{caption="In the so-called 'Round Zodiac' of Dendera (Roman Egypt), the goddess Satit is aiming her arrow from the same bow at the star on the head of the Sothis-cow-Sirius again (on the right, lower half). The Egyptian conception is closer to that of the Chinese than to the Babylonian." class="thumbnail"}
 
 
 Before we move on to many motifs which will be shown as related to the same "eddy-field" or whirl, it is appropriate to quote in full a version of the fire and water story from the Indians of Guyana. This not only provides charming variations, but presents that rarest of deities, a creator power neither conceited nor touchy nor jealous nor quarrelsome nor eager to slap down unfortunates with "inborn sin," but a god aware that his powers are not really unlimited. He behaves modestly, sensibly and thoughtfully and is rewarded with heartfelt cooperation from his creatures, at least from all except for the usual lone exception.
@@ -127,7 +132,8 @@ But first, some stock-taking is in order at this point. There are a number of fi
 
 The Saturnalia, from Rome to Mexico, commemorated just this aspect of Saturn's rule, with their general amnesties, masters serving slaves, etc., even if Saturn was not always directly mentioned. When this festival was due in China, so to speak "sub delta Geminorum" — more correctly, delta and the Gemini stars 61 and 56 of Flamsteed — "there was a banquet in which all hierarchic distinctions were set aside . . . The Sovereign invited his subjects through the 'Song of Stags'." \[25\]
 
-{{< figure src="../images/kepler-polyhedra.png" title="The Polyhedra inscribed into the planetary orbits. Kepler's drawing is a pure geometrical fancy, but it is meant to correspond to the actual relation between the radii of the planetary orbits. Most important here is the cube, fitted into the outermost sphere of Saturn." class="thumbnail">}}
+![](../images/kepler-polyhedra.png)
+{caption="The Polyhedra inscribed into the planetary orbits. Kepler's drawing is a pure geometrical fancy, but it is meant to correspond to the actual relation between the radii of the planetary orbits. Most important here is the cube, fitted into the outermost sphere of Saturn." class="thumbnail"}
 
 
 The cube was Saturn's figure, as Kepler showed in his *Mysterium Cosmographicum*; this is the reason for the insistence on cubic stones and cubic arks. Everywhere, the power who warns "Noah" and urges him to build his ark is Saturn, as Jehovah, as Enki, as Tane, etc. Sigu's basket stopper was obviously an inadequate version of the cube seen through the fantasy of basket-weaving natives. This leads to the conclusion that Noah's ark originally had a definite role in bringing the flood to an end. A interesting and unexpected conclusion for Bible experts.

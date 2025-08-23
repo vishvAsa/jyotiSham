@@ -57,7 +57,8 @@ The table shows the picture for Saturday. On this day, Saturn keeps watch at the
 
 Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, and Friday... 
 
-{{< figure src="../../../images/weekday_succession.png" title="Fig. 1-The order of week-days derived from the order of planets. Saturday followed by Sunday, then Monday and so on." class="thumbnail">}} 
+![](../../../images/weekday_succession.png)
+{caption="Fig. 1-The order of week-days derived from the order of planets. Saturday followed by Sunday, then Monday and so on." class="thumbnail"} 
 
 The Jews, it may be mentioned, reckon the days by ordinal numbers--the first, second......... seventh day. The first day is Saturday. 
 
