@@ -25,6 +25,9 @@ title = "BCE 3000 - Vernal equinox at rohiNI"
 
 ## तैत्तिरीये
 - आरण्यके ध्रुववन्दनम् अत्र \[[ऽत्र](/devaH/AryaH/hindukaH/classes/lokAntaram/yajuH/dhruva/)\]
+- “नक्षत्राणि रूपम्, अश्विनौ व्यात्तम्” विस्तारो [ऽत्र](/jyotiSham/observation/history/hindu/precession_records/equinoctial_records/BCE_1000_-_Summer_solstice_at_AshreShA_shrAvaNa_monsoons) । 
+
+> - "Here Nārāyaṇa is identified with the constellations even as Prajāpati was earlier identified with them in the ritual of the Nakṣatra-rūpin Prajāpati specified in the Yajurveda (Taittirīya Brāhmaṇa 1.5.2.2). This identification continues through later Vaiṣṇava tradition. ... The text is clearly a late one clinging to the edge of the Vaidika productions but when exactly was it composed. If one takes Aśvayujau to imply the start of the nakṣatra cycle having shifted to this asterism it would yield a date of around 2300 YBP. This date resonates with the white Indologists who ascribe late dates to all Vedic production. However, we do not think the mouth should be taken as the beginning of the nakṣatra cycle. Rather, that position is usually reserved for the top of the head. Hence, the mouth likely implies the nakṣatra after it which might imply the equinoctial coelure passing before Aśvayujau suggesting a date of around 3300-3000 YBP. (equinox at bharaNI)" [MT1](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/)
 
 ## फाल्गुनय् उत्तरायणम्
 - विवाहसूक्ते तथा ([MT](https://twitter.com/blog_supplement/status/1214057993840578561))।
