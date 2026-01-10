@@ -89,7 +89,9 @@ Letter dated 26. 2. 54. (i) Suggests collection of opinion from the compilers of
 
 Letter dated 25. 5. 53. 
 
-(i) Tithi and nakṣatra to be calculated according to Sūrya Siddhānta and not according to modern correct method. (ii) Dr̥ksiddha calculations to be taken only for eclipse purposes. (iii) Single calendar for the whole of India may be adopted for dating purposes and not for religious purposes, and this calendar is also unnecessary if we take the present English calendar for dating purposes. 
+(i) Tithi and nakṣatra to be calculated according to Sūrya Siddhānta and not according to modern correct method.  
+(ii) Dr̥ksiddha calculations to be taken only for eclipse purposes.  
+(iii) Single calendar for the whole of India may be adopted for dating purposes and not for religious purposes, and this calendar is also unnecessary if we take the present English calendar for dating purposes. 
 
 ## 12. Shri Ambhujprasad P. Shulet
 Merśakasan's Chawk, Ghodhandur Road, Jogeswari, Bombay. Letter dated 1. 3. 53. 
