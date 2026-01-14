@@ -4,7 +4,9 @@ title = "BCE 2300 - Vernal equinox at kRttikA"
 +++
 {{< figure src="/jyotiSham/astrophysics/history/images/zodiac_history/bce-2300-01-13_kRttikA_anUrAdhAH_equinox_dhaniShThA-shatabhiShak_maghA_solstice.png">}}
 
-{{< figure src="/jyotiSham/astrophysics/history/images/zodiac_history/bce-2300_naxatra-chakra.png">}}
+![](/jyotiSham/astrophysics/history/images/zodiac_history/bce-2300_naxatra-chakra.png)
+{caption="" class="thumbnail"}
+
 
 - Vernal equinox was at actual kRttikA in 2300 BCE - yajurveda period (described elsewhere).
 - Corresponds to daxiNAyanArambha in maghA and uttarAyaNArambha in mAgha.
