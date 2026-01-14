@@ -18,9 +18,9 @@ solisticial points here are indicated as maghAdyam|sarpAdyam+++(=their boundary)
 
 Corresponds to equinox close to bharaNI.
 
-![]("/jyotiSham/astrophysics/history/images/zodiac_history/bce-1800-08-31-kRttikA_vishAkhA_equinox_dhaniShTha_AshreShA-maghA_solstice.png")
+![](/jyotiSham/astrophysics/history/images/zodiac_history/bce-1800-08-31-kRttikA_vishAkhA_equinox_dhaniShTha_AshreShA-maghA_solstice.png)
 {caption="" class="thumbnail">}
 
 
-![]("/jyotiSham/astrophysics/history/images/zodiac_history/bce-1400-01-13_bharaNi-3deg_vishAkhA_equinox_dhaniShTha_AshreShA-maghA_solstice.png")
+![](/jyotiSham/astrophysics/history/images/zodiac_history/bce-1400-01-13_bharaNi-3deg_vishAkhA_equinox_dhaniShTha_AshreShA-maghA_solstice.png)
 {caption="" class="thumbnail">}
