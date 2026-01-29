@@ -9,8 +9,15 @@ title: वाक्यपञ्चाङ्गम्
 
 > "These are thus works like Grahalaghva and Makaranda, both of them having been based on the Surya Siddhanta formulae with some insignificant "beeja corrections"."
 
+### tuLu-nADu
+The 8 mAdhva-maThas, intending to use drig-gaNita, end up using expired formula-texts called padaka-s (पदकानि).
+
+अयं तु निर्णयामृतकारस्याभिप्रायः, न प्रमाणवचनम्। पौरुषेयस्यार्यभटीयस्यार्वाचीनस्य विधानं प्राचीनम् पुराणं किमपि न कर्तुम् अर्हतीत्य् अपरो विषयः। 
+
+### tamiL 
 > "There are several Vakya panchangams in Tamil nadu, the famous  being the Pampu (snake) panchangam, Thanigai Panchangam, Sri Rangam Panchangam, Garudan Panchangam, Arcot  Sitarama Iyer panchangam  and so on. There will invariably be a difference in timings between drik Ganitha and  Vakya Panchangam. But they invariably take the Drik calculation to show correct timings of eclipses (so that they make believe their system is ancient and also accurate). Some of them, especially Arcot Sita Rama Iyer panchangam, make some predictions about weather and politics that have proved accurate.  May be a case of making correct predictions from wrong data."
 
+### kAshmIra
 > "There is a textual record that till as late as 1996 the most reputed panchanga-maker of Kashmir [Vijayeshwar-Panchang] was giving the timings of tithi, nakshatra etc. as per "Khaṇḍa-khādyaka" a sixth century ''handbook" of Brahmagupta, for the last about 100 years whereas he had switched over to "drik-ganita" for planetary positions very recently then!"
 
 ## Errors

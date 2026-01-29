@@ -72,11 +72,52 @@ unicode_script: devanagari
   - In the case of an inferior planet, it is an imaginary point moving around the earth with the same angular velocity as the angular velocity of the planet round the sun; its direction from the earth is always parallel to the line joining the sun and the inferior planet.
 
 ## दृक्-तुल्यता-प्राधान्यम्
-- While the practice has degenerated in the last hundred years or two, from my discussions with shrI RN Iyengar, it seems to have been the case that the jyotiSha mistakes in nirNaya grantha-s did not automatically hold sway over all vaidika-s (who were quite decentralized) - each hamlet or village had a local jyotiSha expert who would make observations by placing shanku-s and constructing requisite instruments.
-- श्रीरमणशर्मा [वक्ति](https://groups.yahoo.com/neo/groups/swisseph/conversations/topics/6581) \- "the whole purpose of jyautisha is to know beforehand what will be observed or to compute later on what would have been observed as the Surya Siddhanta 2-14 says: tattadgativaśān nityam yathā \*dṛktulyatām\* grahāḥ / prayānti tat pravakṣyāmi sphuṭīkaraṇam ādarāt // 
-  - People who blindly follow siddhAnta calculations without accounting for precession or season are violating the siddhAnta texts they supposedly revere!
-    - सूर्यसिद्धान्तादेर् दोषाः/ deviations - "[इतिहासपृष्ठम्](../history/)" दृश्यताम्।
-  
+While the practice has degenerated in the last hundred years or two, from my discussions with shrI RN Iyengar, it seems to have been the case that the jyotiSha mistakes in nirNaya grantha-s did not automatically hold sway over all vaidika-s (who were quite decentralized) - each hamlet or village had a local jyotiSha expert who would make observations by placing shanku-s and constructing requisite instruments.
+
+> तत्तद्गतिवशान्नित्यं तथा दृक्तुल्यतां ग्रहाः ।  
+प्रयान्ति तत् प्रवक्ष्यामि स्फुटीकरणमादरात् ॥
+
+इति सूर्यसिद्धान्ते प्रतिज्ञा। तेन, दृग्गणित-विरोधेन +अधुनापि सूर्यसिद्धान्तग्रहणं तत्-प्रतिकूलम् ।
+
+एवम् आर्यभटीये ऽपि विचार्यम्।
+
+श्रीरमणशर्मा [वक्ति](https://groups.yahoo.com/neo/groups/swisseph/conversations/topics/6581) \- 
+
+> "the whole purpose of jyautisha is to know beforehand what will be observed or to compute later on what would have been observed as the Surya Siddhanta 2-14 says: tattadgativaśān nityam yathā \*dṛktulyatām\* grahāḥ / prayānti tat pravakṣyāmi sphuṭīkaraṇam ādarāt // 
+>
+> People who blindly follow siddhAnta calculations without accounting for precession or season are violating the siddhAnta texts they supposedly revere!
+
+- सूर्यसिद्धान्तादेर् दोषाः/ deviations - "[इतिहासपृष्ठम्](../history/)" दृश्यताम्।
+
+### सिद्धान्त-ग्रन्थ-ग्रहण-विधिः
+
+केचित् २०२६ तमे वर्षे ऽपि माध्व-व्यास-राज-मठाद्य्-अनुयायिनः  
+दशम्यादित्रयाणां निर्णये यातयामता-ग्रस्त-गणनां परिगृह्णन्ति ।  
+एवं कृष्णामृतमहार्णव-टीकायाम् -
+
+> > वृद्धी प्रवृद्ध-सिद्धान्तम्  
+> अधिगम्य मुनीश्वराः ।
+देवज्ञनिर्णयः कार्यः  
+दशम्यादिदिनत्रये ।। 
+> 
+> इति ।।
+>
+> तथा अधिक-सिद्धान्तेनार्यभट्टेन गणनमित्यत्र निर्णयामृते- 
+> 
+> > व्रतानामेव सर्वषां  
+> सौरेणैव विनिर्णयः ।
+दशम्यादित्रयाणां तु  
+आर्येणैव तु निर्णयः ।।
+>
+> “वृद्धावार्यभटो ग्राह्यः" इति  
+> "तथा विष्णुधर्मेषु योऽधिकः" इति च ।  
+> तथाच "दशम्यादित्रयाणां तु स्तम्भेनैव तु कारयेत्" इति ।  
+> स्तम्भः आर्यभटः इति व्याख्यानाद् इति ।
+
+अयं तु निर्णयामृतकारस्याभिप्रायः,  
+न प्रमाणवचनम्।  
+पौरुषेयस्यार्यभटीयस्यार्वाचीनस्य नियमेन विधानं  
+प्राचीनम् पुराणं किमपि न कर्तुम् अर्हतीत्य् अपरो विषयः।
 
 ## Longitude
 - The eclipse timing method is simple: first, you determine the local time that the lunar eclipse starts or ends by direct observation. Then you compare your local time for that event against the local time at some distant place. The difference in the two times is the difference in longitude.

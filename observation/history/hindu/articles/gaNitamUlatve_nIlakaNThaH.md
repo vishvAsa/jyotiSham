@@ -31,8 +31,8 @@ He explains that some of Aryabhaṭa's work itself has become incorrect as new d
 ## Astronomy application
 Source: [TW](https://vriitrahan.wordpress.com/2020/12/11/nilaka%E1%B9%87%E1%B9%ADha-somayaji-s-wisdom/)
 
-> पञ्चसिद्धन्तास् तावत्  
-क्वचित्काले प्रमाणम् एव इत्य् अवगन्तव्यम् ।  
+> पञ्चसिद्धान्तास् तावत्  
+क्वचित्-काले प्रमाणम् एव इत्य् अवगन्तव्यम् ।  
 अपि च यः सिद्धान्तः दर्शनाविसंवादी भवति  
 सोऽन्वेषणीयः ।  
 दर्शन-संवादश् च  
