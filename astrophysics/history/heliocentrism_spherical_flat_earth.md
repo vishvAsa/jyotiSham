@@ -6,6 +6,18 @@ title: Heliocentrism, spherical earth …
 Many of the uncited quotes and translations are by the mAnasatarangiNIkAra.
 
 ## Aitreya Brāhmaṇa 2.7 1kBCE or older
+
+Source: [TW](/vedAH_Rk/shAkalam/aitareya-brAhmaNam/sarva-prastutiH/3/14_khaNDaH_1-6/44)
+
+> स वा एष न कदाचनास्तमेति नोदेति ।  
+> तं यद् अस्तम् एतीति मन्यन्ते  
+> ऽह्न एव तद् अन्तम् इत्वा  
+> ऽथा ऽऽत्मानं विपर्यस्यते  
+> रात्रीम् एवावस्तात् कुरुते ऽहः परस्तात् ।  
+> स वा एष न कदाचन निम्रोचति ।  
+
+
+
 - "The (sun) never really sets or rises. In that they think of him “He is setting", having reached the end of the day, he inverts himself; thus he makes evening below, day above. Again in that they think of him “He is rising in the morning”, having reached the end of the night he inverts himself; thus he makes day below, night above. He never sets; indeed he never sets." 
 - Subhash kAk on this passage: "One way to visualize it is to see the universe as the hollow of a sphere so that the inversion of the sun now shines the light on the world above ours. But this is impossible since the sun does move across the sky during the day and if the sun doesn't set or rise it doesn't move either. Clearly, the idea of “inversion" denotes nothing but a movement of the earth."
 
@@ -128,8 +140,9 @@ But, Lalla criticizes the Puranic view of earth being held by tortoise etc, then
 > तिमेर्?? दिवसेनैव परिभ्रमः ॥ ४४ ॥
 
 ## shankarAchArya 800CE
-- "उदयश्च नाम सवितुः तन्निवासिनां प्राणिनां चक्षुर्गोचरापत्तिः, तदत्ययश्च अस्तमनम् ; न परमार्थत उदयास्तमने स्तः ।"  Chandogya Up. Bh.3.8.4.
-- "पृथिवीछायां हि शार्वरं तम आचक्षते" इति (बृ.उ.भा. 6.2.11)। [TW](https://twitter.com/kumar856/status/1282167950384848896)
+> "उदयश्च नाम सवितुः तन्निवासिनां प्राणिनां चक्षुर्गोचरापत्तिः, तदत्ययश्च अस्तमनम् ; न परमार्थत उदयास्तमने स्तः ।"  Chandogya Up. Bh.3.8.4.
+
+> "पृथिवीछायां हि शार्वरं तम आचक्षते" इति (बृ.उ.भा. 6.2.11)। [TW](https://twitter.com/kumar856/status/1282167950384848896)
 
 
 ## pRthUdaka-svAmI  864 CE
@@ -230,7 +243,7 @@ This idea of the rotation of the Earth (eastwards) has been given by Sankara Var
 
 ## appayya-dIxita 1540 CE, baTTatiri
 - Appayadikṣita refers in the following passages to Aryabhata and his theory regarding the earth's motion - स्वर्ग-पृथिव्योः परस्परम् उपजीव्योपजीवक-भावस्य तुल्यतया स्वर्गो न प्रतिष्ठा पृथिवी प्रतिष्ठेति व्यवस्थितोक्त्य्-अयोगात् । किं तु निश्चलत्वम् इह प्रतिष्ठा-शब्दार्थः । तत् तु ज्योतिश्-चक्रान्तर्गतत्वेन भ्रमति स्वर्गे नास्ति, अस्ति तु पृथिव्याम् - "पृथिवी प्रतिष्ठेति" श्रुत्यन्तरात् । आर्यभटाद्य्-अभिमत-भू-भ्रमणादि-वादानां श्रुति-न्याय-विरोधेन हेयत्वात्।"
-- appayya vs bhaTTatiri argument about heliocentricism:
+- appayya vs bhaTTatiri argument about rotation of earth:
   - Bhattatiri asked whether moon is closer to earth or the stars? Obviously moon (Since it occludes the stars).
   - It is known that certain stars rise earlier than the moon the following day (which is actually due to the true motion of the moon). Bhattathiri’s argument is: How come a far away object can have shorter period? It is logical absurdity and appayya was summarily beaten.
   - Bhattathiri was a great astronomer. Not many know it- They just end with nArAyaNIyam and at most his paada saptati.
@@ -274,9 +287,17 @@ This can be "a reflexive attempt at correcting Appayya's insistence on a geocent
 > > इति ब्रह्माण्डे ।।7।।  
 > +++(ब्रह्माण्डपुराणग्रन्थेषु नैवोपलभ्यते।)+++
 
-### वेदान्तदेशिकः (1268–1369)
-- He is said to have written a work called भूगोलनिर्णय (which is traditionally contested by some scholars since, uncharacteristically, there are no citations to it in his other works). Seems to closely follow bhAgavata. 
+### वेङ्कटनाथः, वेदान्तदेशिकः (1268–1369)
+तत्त्व-मुक्ता-कलापे - 
+
+> तिष्ठत्य् उर्वी, भ-चक्रं पवन-रय-वशाद् **भ्राम्यतीत्य् उक्तम्** आप्तैर्,  
+भ्रान्तैः **कॢप्तं** त्रिलोकी-**भ्रमणम्** इह, तथा मेदिनी-+++(आर्यभटोक्त-)+++**भ्रान्ति**-+++(जैन-)+++**पातौ** ।  
+तद्+++(→भू)+++-भ्रान्तौ प्राक्-प्रतीचोः **प्रसजति पतने** पत्रिणोस् तारतम्यं;  
+**पाते** गुर्व्यास् तु तस्याः +++(भुवः)+++, प्रलघु दिवि **समुत्क्षिप्तम्** एनां **न यायात्** ॥ ६३ ॥
+
+- He is said to have written a work called भूगोलनिर्णय (which is traditionally contested by some scholars since, uncharacteristically, there are no citations to it in his other works). Seems to closely follow bhAgavata.
 - "गोल" seems to refer to "गोलकटाह", a spherical manifold or section, according to the commentary -  "एवं सूर्याण्ड-गोल-कटाहयोर् मध्ये पञ्च-विंशति-कोटि-योजनत्वम् ऊर्द्ध्वम् अधश् चेत्य् अण्डकटाहान्तर-विवरोच्छ्रायस्य पञ्चाशत्-कोटियोजनत्वं सिद्धम् ॥"
+
 
 ### विजय-ध्वज-तीर्थः (1450)
 - अधोक्षजमठपीठाधिपो माध्वः। टीकाचार्यस्य जयतीर्थस्य समकालीनः। गौडीयानाम् अपि पूज्यः।
