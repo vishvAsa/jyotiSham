@@ -139,12 +139,6 @@ But, Lalla criticizes the Puranic view of earth being held by tortoise etc, then
 > यदि किं ध्रुव-तारका-  
 > तिमेर्?? दिवसेनैव परिभ्रमः ॥ ४४ ॥
 
-## shankarAchArya 800CE
-> "उदयश्च नाम सवितुः तन्निवासिनां प्राणिनां चक्षुर्गोचरापत्तिः, तदत्ययश्च अस्तमनम् ; न परमार्थत उदयास्तमने स्तः ।"  Chandogya Up. Bh.3.8.4.
-
-> "पृथिवीछायां हि शार्वरं तम आचक्षते" इति (बृ.उ.भा. 6.2.11)। [TW](https://twitter.com/kumar856/status/1282167950384848896)
-
-
 ## pRthUdaka-svAmI  864 CE
 - He was a chaturvedin son of madhusUdana bhaTTa.
 
@@ -172,6 +166,7 @@ But, Lalla criticizes the Puranic view of earth being held by tortoise etc, then
 **दर्पण्य् अभूद्** धृतम् अ-पङ्क-शशाङ्क-पृष्ठं  
 तद् धाम सुन्दर-भुजस्य महान् वनाद्रिः ॥ ६ ॥
 
+reference to back side of the moon.
 
 ## bhaTTa-bhAskarakaNTha of kAshmIra 1200-1600CE
 ब्रह्माण्डाकाशमध्ये तु पृथ्वी कन्दुकवत् स्थिता । ...
@@ -269,6 +264,33 @@ This can be "a reflexive attempt at correcting Appayya's insistence on a geocent
 - Essentially a flat earth model. 
 - Example: 5.21.8 - [VB](https://vedabase.io/en/library/sb/5/21/8-9/). Zero calculations. Best treated as kavi-samaya type arthavAda.
 - Also see late bhAgavata-s (below).
+
+### shankarAchArya 800CE
+> उदयश्च नाम सवितुः तन्निवासिनां प्राणिनां चक्षुर्गोचरापत्तिः, तदत्ययश्च अस्तमनम् ; न परमार्थत उदयास्तमने स्तः ।  
+> …  
+> सर्वेषां च मेरुर् उत्तरतो भवति ।  
+यदा अमरावत्यां मध्याह्नगतः सविता,  
+तदा संयमन्याम् उद्यन् दृश्यते ;  
+तत्र मध्याह्नगतो वारुण्याम् उद्यन् दृश्यते ;  
+तथोत्तरस्याम् , प्रदक्षिणावृत्तेस् तुल्यत्वात् ।
+> 
+> Chandogya Up. Bh.3.8.4.
+
+References an AchArya's (draviDAchArya acc. to Ānandagiri) reconciliation with viShNu-purANa.
+
+Sun circumambulates meru.  
+Meru is surrounded by AmarAvatI to the east, saMyamanI to the south, vAruNI to the west and soma's city to the north.  
+In the middle, there is Ilāvṛta surrounded by further mountains.
+
+> अयं वै लोकोऽग्निर्गौतम। … तस्याग्नेः पृथिव्येव समित् ;…  
+> पार्थिवं हि इन्धन-द्रव्यम् आश्रित्य अग्निर् उत्तिष्ठति …  
+> पृथिवीछायां हि शार्वरं तम आचक्षते 
+
+इति (बृ.उ.भा. 6.2.11)। 
+
+अत्र पृथिवीतत्त्वम् उक्तम् भाति। 
+
+
 
 ### मध्वः आनन्दतीर्थयतिः (1238–1317)
 भागवतत्तत्पर्ये षोडशोध्याये लिखति -  
