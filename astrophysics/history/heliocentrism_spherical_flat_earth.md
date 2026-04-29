@@ -236,12 +236,14 @@ This idea of the rotation of the Earth (eastwards) has been given by Sankara Var
 - Not the more famous kamalAkarabhaTTa who authored शूद्रकमलाकर. Son of nRsiMha-jyotirvid. Actually travelled to Tajikistan to observe their astronomy.
 - भूगोलो जल-मग्नोऽस्ति जलाद बहिर् अपि स्थितः । तत्र+अधिको जलान्तः स्थो बहिः स्वल्पोऽस्ति गोलवित् ॥ १.१२४  "The earth-sphere is covered with water with some parts which are indeed above it. The greater part is underwater and the smaller part is above it, geographer."
 
-## appayya-dIxita 1540 CE, baTTatiri
-- Appayadikṣita refers in the following passages to Aryabhata and his theory regarding the earth's motion - स्वर्ग-पृथिव्योः परस्परम् उपजीव्योपजीवक-भावस्य तुल्यतया स्वर्गो न प्रतिष्ठा पृथिवी प्रतिष्ठेति व्यवस्थितोक्त्य्-अयोगात् । किं तु निश्चलत्वम् इह प्रतिष्ठा-शब्दार्थः । तत् तु ज्योतिश्-चक्रान्तर्गतत्वेन भ्रमति स्वर्गे नास्ति, अस्ति तु पृथिव्याम् - "पृथिवी प्रतिष्ठेति" श्रुत्यन्तरात् । आर्यभटाद्य्-अभिमत-भू-भ्रमणादि-वादानां श्रुति-न्याय-विरोधेन हेयत्वात्।"
+## bhaTTatiri vs appayya
+appayya's view quoted separately.
+
 - appayya vs bhaTTatiri argument about rotation of earth:
   - Bhattatiri asked whether moon is closer to earth or the stars? Obviously moon (Since it occludes the stars).
   - It is known that certain stars rise earlier than the moon the following day (which is actually due to the true motion of the moon). Bhattathiri’s argument is: How come a far away object can have shorter period? It is logical absurdity and appayya was summarily beaten.
   - Bhattathiri was a great astronomer. Not many know it- They just end with nArAyaNIyam and at most his paada saptati.
+
 
 ## nIlakaNTha-dIxita
 - prime minister of tirumala nAyaka, grand-nephew of appayya.
@@ -260,9 +262,22 @@ This can be "a reflexive attempt at correcting Appayya's insistence on a geocent
 {class="thumbnail"}
 
 ### भागवत-पुराणम्
-- References to "bhUgola" in multiple purANa-s including bhAgavata -  [IMG](https://i.imgur.com/GsxAOcY.png) . As is clear from interpretations by vedAntadeshika and later bhAgavata-s, this is to be understood as a spherical manifold (गोलकटाह) or hemisphere rather than a full sphere. 
+- References to "bhUgola" in multiple purANa-s including bhAgavata. As is clear from interpretations by vedAntadeshika and later bhAgavata-s, this is to be understood as a spherical manifold (गोलकटाह) or hemisphere rather than a full sphere. 
 - Essentially a flat earth model. 
-- Example: 5.21.8 - [VB](https://vedabase.io/en/library/sb/5/21/8-9/). Zero calculations. Best treated as kavi-samaya type arthavAda.
+- Example: 5.21.8 - [VB](https://vedabase.io/en/library/sb/5/21/8-9/). 
+
+> +++(मेरुः→)+++ तत्रत्यानां दिवस-मध्यङ्-गत एव सदाऽऽदित्यस् तपति  
+> सव्येनाचलं दक्षिणेन +++(परिगमनं)+++ करोति ॥ ८ ॥  
+> यत्रोदेति, तस्य ह समान-सूत्र-निपाते +++(भूकटाहे विपरीत-भागे)+++ निम्‍लोचति  
+> यत्र क्‍वचन स्यन्देनाभितपति  
+> तस्य हैष समान-सूत्र-निपाते प्रस्वापयति  
+> तत्र गतं न पश्यन्ति  
+> ये तं समनुपश्येरन् ॥ ९ ॥  
+> यदा चैन्द्य्राः पुर्याः प्रचलते  
+> पञ्चदशघटिकाभिर् याम्यां सपादकोटिद्वयं योजनानां सार्धद्वादशलक्षाणि साधिकानि चोपयाति ॥ १० ॥
+
+- Zero calculations.
+- Best treated as kavi-samaya type arthavAda.
 - Also see late bhAgavata-s (below).
 
 ### shankarAchArya 800CE
@@ -296,18 +311,18 @@ In the middle, there is Ilāvṛta surrounded by further mountains.
 भागवतत्तत्पर्ये षोडशोध्याये लिखति -  
 
 > यथा भागवते तूक्तं  
-भौवनं कोशलक्षणम् ।  
+भौवनं कोश-लक्षणम् ।  
 तस्याविरोधतो योज्यं  
-सर्वं ग्रन्थान्तरस्थितम् ।।   
+सर्वं ग्रन्थान्तर-स्थितम् ।।   
 मण्डोदे पूरणं चैव  
-व्यत्यासं क्षीरसागरे ।  
-राहुसोमरवीणां च  
+व्यत्यासं क्षीर-सागरे ।  
+राहु-सोम-रवीणां च  
 मण्डलाद् द्विगुणोक्तिताम् ।।  
-विनैव सर्वमुन्नेयं  
+विनैव सर्वम् उन्नेयं  
 योजनाभेदतोऽत्र तु ।।  
 > 
 > > इति ब्रह्माण्डे ।।7।।  
-> +++(ब्रह्माण्डपुराणग्रन्थेषु नैवोपलभ्यते।)+++
+> +++(ब्रह्माण्ड-पुराण-ग्रन्थेषु नैवोपलभ्यते।)+++
 
 ### वेङ्कटनाथः, वेदान्तदेशिकः (1268–1369)
 तत्त्व-मुक्ता-कलापे - 
@@ -322,7 +337,9 @@ In the middle, there is Ilāvṛta surrounded by further mountains.
 
 
 ### विजय-ध्वज-तीर्थः (1450)
-- अधोक्षजमठपीठाधिपो माध्वः। टीकाचार्यस्य जयतीर्थस्य समकालीनः। गौडीयानाम् अपि पूज्यः।
+- अधोक्षजमठपीठाधिपो माध्वः।  
+  टीकाचार्यस्य जयतीर्थस्य समकालीनः।  
+  गौडीयानाम् अपि पूज्यः।
 - SB 10.8.37: bhUgolaM bhUmaNDalaM|
 
 ### वादीराजतीर्थः (1480–1600)
@@ -331,15 +348,30 @@ In the middle, there is Ilāvṛta surrounded by further mountains.
 ### वल्लभाचार्यः (1479–1531 CE)
 - SB 10.8.37 - अद्रयो मेर्वादयो द्वीपा जम्बुद्वीपादयो अब्धयो लवणादय एतैः सहितं भूगोलम्।
 
+### appayya-dIxita 1540 CE, baTTatiri
+Appayadikṣita refers in the following passages to Aryabhata and his theory regarding the earth's motion - 
+
+स्वर्ग-पृथिव्योः परस्परम् उपजीव्योपजीवक-भावस्य तुल्यतया स्वर्गो न प्रतिष्ठा पृथिवी प्रतिष्ठेति व्यवस्थितोक्त्य्-अयोगात् । किं तु निश्चलत्वम् इह प्रतिष्ठा-शब्दार्थः । तत् तु ज्योतिश्-चक्रान्तर्गतत्वेन भ्रमति स्वर्गे नास्ति, अस्ति तु पृथिव्याम् - "पृथिवी प्रतिष्ठेति" श्रुत्यन्तरात् । आर्यभटाद्य्-अभिमत-भू-भ्रमणादि-वादानां श्रुति-न्याय-विरोधेन हेयत्वात्।"
+
+See bhaTTatiri, nIlakaNTha corrections.
+
 ### विश्वनाथ-चक्रवर्ति-ठाकुरः ( c. 1626 – c. 1708)
-- विश्वनाथ-चक्रवर्ति-ठाकुरः इत्यसाव् एवम् अलिखत् " एतावाल्ँ लोक-विन्यासो मान-लक्षण-संस्थाभिर् विचिन्तितः कविभिः। स तु पञ्चाशत्-कोटि-गणितस्य भू-गोलस्य तुरीय-भागो ऽयं लोकालोकाचलः।" इति भागवतवाक्यव्याख्याने - स तु लोकालोकस् तु भू-गोलकस्य भू-सम्बन्धाण्ड-गोलकस्येत्य् अर्थः; सूर्यस्येव भुवो ऽप्य् +++(ब्रह्म+)+++अण्ड-गोलकयोर् मध्य-वर्तित्वात् ख-गोलम् इव। **भू-गोलम्** अपि पञ्चाशत्-कोटि-योजन-प्रमाणम्। तस्य तुरीय-भागः सार्ध-द्वादश-कोटि-योजन-विस्तारोच्छ्राय इत्य् अर्थः। **भूस्** तु चतुस्-त्रिंशल्-लक्षोनपञ्चाशत्-कोटि-प्रमाणा (५० कोटि - .३४) ज्ञेया। … अत एवाण्ड-गोलकात् सर्वतो दिक्षु सप्त-दश-लक्ष-योजनावकाशे (.१७ कोटि) वर्तमाने सति पृथिव्याः **शेष-नागेन धारणं, दिग्-गजैश् च निश्चली-करणं** सार्थकं भवेद्, अन्यथा तु व्याख्यान्तरे पञ्चाशत्-कोटि-प्रमाणत्वाद् अण्ड-गोलक-लग्नत्वे तत् तत् सर्वम् अकिञ्चित्-करं स्यात् चाक्षुषे मन्वन्तरे चाकस्मान् मज्जनं, श्री-वराह-देवेनोत्थापनं च दुर्घटं स्याद्, इत्य् आदिकं विवेचनीयम्।
+विश्वनाथ-चक्रवर्ति-ठाकुरः इत्यसाव् एवम् अलिखत् 
+
+> " एतावाल्ँ लोक-विन्यासो मान-लक्षण-संस्थाभिर् विचिन्तितः कविभिः। स तु पञ्चाशत्-कोटि-गणितस्य भू-गोलस्य तुरीय-भागो ऽयं लोकालोकाचलः।" 
+
+इति भागवतवाक्यव्याख्याने -  
+
+> स तु लोकालोकस् तु भू-गोलकस्य भू-सम्बन्धाण्ड-गोलकस्येत्य् अर्थः; सूर्यस्येव भुवो ऽप्य् +++(ब्रह्म+)+++अण्ड-गोलकयोर् मध्य-वर्तित्वात् ख-गोलम् इव। **भू-गोलम्** अपि पञ्चाशत्-कोटि-योजन-प्रमाणम्। तस्य तुरीय-भागः सार्ध-द्वादश-कोटि-योजन-विस्तारोच्छ्राय इत्य् अर्थः। **भूस्** तु चतुस्-त्रिंशल्-लक्षोनपञ्चाशत्-कोटि-प्रमाणा (५० कोटि - .३४) ज्ञेया। … अत एवाण्ड-गोलकात् सर्वतो दिक्षु सप्त-दश-लक्ष-योजनावकाशे (.१७ कोटि) वर्तमाने सति पृथिव्याः **शेष-नागेन धारणं, दिग्-गजैश् च निश्चली-करणं** सार्थकं भवेद्, अन्यथा तु व्याख्यान्तरे पञ्चाशत्-कोटि-प्रमाणत्वाद् अण्ड-गोलक-लग्नत्वे तत् तत् सर्वम् अकिञ्चित्-करं स्यात् चाक्षुषे मन्वन्तरे चाकस्मान् मज्जनं, श्री-वराह-देवेनोत्थापनं च दुर्घटं स्याद्, इत्य् आदिकं विवेचनीयम्।
 - नाम, ब्रह्माण्डगोलकस्य भागौ द्वौ - भूगोलम्, खगोलञ्चेति। तयोर् मध्ये वर्तते भूमण्डलम्।
 
 ### सदपूतदासः (1947-2008)
 - "Sadaputa Dasa who was a scientist and ISKCON devotee (disciple of A. C. Bhaktivedanta Swami Prabhupada)."
 - Modern visualizations - [SD](https://www.youtube.com/watch?v=oELKxRPHR6U).
-- "The Srimad-Bhagavatam’s mode of presentation is very different from the familiar modern approach. Although the Bhagavatam’s “Earth” (disk- shaped Bhu-mandala) may look unrealistic, careful study shows that the Bhagavatam uses Bhu-mandala to represent at least four reasonable and consistent models: (1) a polar- projection map of the Earth globe, (2) a map of the solar system, (3) a topographical map of south-central Asia, and (4) a map of the celestial realm of the demigods."
-- "He argues for the spheroid earth theory and synchronizes the calculations mentioned in the puranas with the modern calculation we have with our observations... this theory had already been challenged by other ISKCON members. One of the arguments is that in his theory he dismantles the idea of existence of plane bhumandala and reduces them to the imaginary description of the planetary orbits when seen from the geocentric reference. The data does match to about 65% accuracy."
+
+> "The Srimad-Bhagavatam’s mode of presentation is very different from the familiar modern approach. Although the Bhagavatam’s “Earth” (disk- shaped Bhu-mandala) may look unrealistic, careful study shows that the Bhagavatam uses Bhu-mandala to represent at least four reasonable and consistent models: (1) a polar- projection map of the Earth globe, (2) a map of the solar system, (3) a topographical map of south-central Asia, and (4) a map of the celestial realm of the demigods."
+
+> "He argues for the spheroid earth theory and synchronizes the calculations mentioned in the puranas with the modern calculation we have with our observations... this theory had already been challenged by other ISKCON members. One of the arguments is that in his theory he dismantles the idea of existence of plane bhumandala and reduces them to the imaginary description of the planetary orbits when seen from the geocentric reference. The data does match to about 65% accuracy."
 
 ### koTa venkaTAchalam's samanvaya attempt
 - ఆర్య విజ్ఞానం-1 (బ్రహ్మాండ సృష్టి విజ్ఞానం) by కోట వెంకటాచలం
