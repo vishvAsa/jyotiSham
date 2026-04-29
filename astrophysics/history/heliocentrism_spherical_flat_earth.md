@@ -33,6 +33,11 @@ Source: [TW](/vedAH_Rk/shAkalam/aitareya-brAhmaNam/sarva-prastutiH/3/14_khaNDaH_
 - Via S kAk: Surya Siddhānta (SS) seems to remember this pre-epicyclic astronomy of the earlier period. The uccas and the node (pāta) are thus described in SS 2.1-5: "Forms of time, of invisible shape, stationed in the zodaic, called the sīghrocca, mandocca, and node (pāta), are causes of the motion of the planets. The planets, attached to these points by cords of air, are drawn away by them, with the right and left hand, forward or backward, according to nearness, toward their own place. A wind, called pravaha, impels them toward their own ucсas, being drawn away forward and backward."
 
 ## Aryabhata 500 CE
+> अनुलोम-गतिर् नौस्थः  
+> पश्यत्य् अचलं विलोम-गं यद्वत्।  
+अचलानि भानि समपश्चिम-गानि लङ्कायां॥
+
+
 > "Aryabhata (born in 476 CE. ) appears to have held the view that the **stars did not revolve round the earth, but the latter revolved round itself** and gave the illustration of a man sitting in a moving boat feeling that it is the stationary objects on the banks that rush past in the opposite direction. ... This was more than eleven hundred years before Galileo and there is nothing to show that Aryabhata suffered in the least for his views."
 > - PV Kane
 
