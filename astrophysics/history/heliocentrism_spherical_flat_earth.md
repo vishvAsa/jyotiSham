@@ -32,8 +32,8 @@ Source: [TW](/vedAH_Rk/shAkalam/aitareya-brAhmaNam/sarva-prastutiH/3/14_khaNDaH_
 - "Thus everywhere on [the surface of] the terrestrial globe, people suppose their own place higher [than that of others], yet this globe is in space where there is no above nor below." —Surya Siddhanta, XII.53
 - Via S kAk: Surya Siddhānta (SS) seems to remember this pre-epicyclic astronomy of the earlier period. The uccas and the node (pāta) are thus described in SS 2.1-5: "Forms of time, of invisible shape, stationed in the zodaic, called the sīghrocca, mandocca, and node (pāta), are causes of the motion of the planets. The planets, attached to these points by cords of air, are drawn away by them, with the right and left hand, forward or backward, according to nearness, toward their own place. A wind, called pravaha, impels them toward their own ucсas, being drawn away forward and backward."
 
-## Aryabhata 500 AD
-> "Aryabhata (born in 476 AD. ) appears to have held the view that the **stars did not revolve round the earth, but the latter revolved round itself** and gave the illustration of a man sitting in a moving boat feeling that it is the stationary objects on the banks that rush past in the opposite direction. ... This was more than eleven hundred years before Galileo and there is nothing to show that Aryabhata suffered in the least for his views."
+## Aryabhata 500 CE
+> "Aryabhata (born in 476 CE. ) appears to have held the view that the **stars did not revolve round the earth, but the latter revolved round itself** and gave the illustration of a man sitting in a moving boat feeling that it is the stationary objects on the banks that rush past in the opposite direction. ... This was more than eleven hundred years before Galileo and there is nothing to show that Aryabhata suffered in the least for his views."
 > - PV Kane
 
 In the words of Thurston: 
@@ -196,7 +196,7 @@ In the manner of ants on a ball, the beings are stationed on the earth. Held by 
 - गोलाकारं मण्डलम् अर्कादीनां स्मृतं गणक-मुख्यैः । दर्पण-वृत्ताकारं दूरगतत्वात् प्रदृश्यते ऽस्माभिः ॥ - The orbs of the sun and the like are known to be spheres according to great mathematicians. The appear like circular mirrors to us on account of their great distance. 
 - शशि-बिम्बे दर्पणवद् वृत्ते तस्यैक-देश-सित-लब्धिः । भनोः कर-सम्पाते व्यवधानाभावतो न संभवति ॥ २.४६-४७ - If the moon were like a plane circular mirror then only a part of it appearing lit by the rays of the sun falling on it is not possible because of the absence of obstruction.
 
-## Jñānarāja AD 1500
+## Jñānarāja CE 1500
 author of Siddhāntasundara
 
 He tell us that if inconsistencies occur in two accounts of the same story (in this case, the shape of the Earth), they are explained by saying that the two accounts took place in two different world ages (kalpas), so called kalpabheda backup.+++(5)+++
