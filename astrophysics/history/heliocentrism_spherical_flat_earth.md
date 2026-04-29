@@ -192,7 +192,7 @@ Just as the amber gem attracts objects towards itself, Why indeed, so too the ea
 परितः पात-शङ्कान न कार्येषां तथा स्थितेः ॥  
 In the manner of ants on a ball, the beings are stationed on the earth. Held by this force all around they have no risk of falling off from here.
 
-## makkibhaTTa 1377AD
+## makkibhaTTa 1377 CE
 - Commented on Sripati's Siddhantasekhara.
 - He agreed with AryabhaTTa.
 
@@ -206,7 +206,7 @@ author of Siddhāntasundara
 
 He tell us that if inconsistencies occur in two accounts of the same story (in this case, the shape of the Earth), they are explained by saying that the two accounts took place in two different world ages (kalpas), so called kalpabheda backup.+++(5)+++
 
-> There is oneness of both creation [accounts when exam- ined] with laudable reflections. If [however] there is a difference in some place, it is to be understood through kalpabheda.
+> There is oneness of both creation [accounts when examined] with laudable reflections. If [however] there is a difference in some place, it is to be understood through kalpabheda.
 >
 > (76) The shapes, measures, and motions of the earth, planets, and stars given by the followers of the purāņas, which are ultimately true, are indeed for another kalpa. 
 > 
@@ -239,15 +239,20 @@ This idea of the rotation of the Earth (eastwards) has been given by Sankara Var
 
 ## kamalAkara-bhaTTa 1600s
 - Not the more famous kamalAkarabhaTTa who authored शूद्रकमलाकर. Son of nRsiMha-jyotirvid. Actually travelled to Tajikistan to observe their astronomy.
-- भूगोलो जल-मग्नोऽस्ति जलाद बहिर् अपि स्थितः । तत्र+अधिको जलान्तः स्थो बहिः स्वल्पोऽस्ति गोलवित् ॥ १.१२४  "The earth-sphere is covered with water with some parts which are indeed above it. The greater part is underwater and the smaller part is above it, geographer."
+
+भूगोलो जल-मग्नोऽस्ति जलाद् बहिर् अपि स्थितः ।  
+तत्र+अधिको जलान्तः स्थो बहिः स्वल्पोऽस्ति गोलवित् ॥ १.१२४  
+
+> "The earth-sphere is covered with water with some parts which are indeed above it. The greater part is underwater and the smaller part is above it, geographer."
 
 ## bhaTTatiri vs appayya
-appayya's view quoted separately.
+Bhattathiri was a great astronomer. Not many know it- They just end with nArAyaNIyam and at most his paada saptati.
 
-- appayya vs bhaTTatiri argument about rotation of earth:
-  - Bhattatiri asked whether moon is closer to earth or the stars? Obviously moon (Since it occludes the stars).
-  - It is known that certain stars rise earlier than the moon the following day (which is actually due to the true motion of the moon). Bhattathiri’s argument is: How come a far away object can have shorter period? It is logical absurdity and appayya was summarily beaten.
-  - Bhattathiri was a great astronomer. Not many know it- They just end with nArAyaNIyam and at most his paada saptati.
+
+appayya vs bhaTTatiri argument about rotation of earth (appayya's view quoted separately):
+
+- Bhattatiri asked whether moon is closer to earth or the stars? Obviously moon (Since it occludes the stars).
+- It is known that certain stars rise earlier than the moon the following day (which is actually due to the true motion of the moon). Bhattathiri’s argument is: How come a far away object can have shorter period? It is logical absurdity and appayya was summarily beaten.
 
 
 ## nIlakaNTha-dIxita
