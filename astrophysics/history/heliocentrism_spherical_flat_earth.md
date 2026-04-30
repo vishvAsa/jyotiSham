@@ -13,7 +13,8 @@ Video - [TW](/content/conversations/YT/jyotiSham/2026_04_29_vedAntin-physics-err
 ## References
 Many of the uncited quotes and translations are by the mAnasatarangiNIkAra.
 
-## Aitreya Brāhmaṇa 2.7 1kBCE or older
+## vedAH
+### Aitreya Brāhmaṇa 2.7 1kBCE or older
 
 Source: [TW](/vedAH_Rk/shAkalam/aitareya-brAhmaNam/sarva-prastutiH/3/14_khaNDaH_1-6/44)
 
@@ -29,25 +30,206 @@ Source: [TW](/vedAH_Rk/shAkalam/aitareya-brAhmaNam/sarva-prastutiH/3/14_khaNDaH_
 - "The (sun) never really sets or rises. In that they think of him “He is setting", having reached the end of the day, he inverts himself; thus he makes evening below, day above. Again in that they think of him “He is rising in the morning”, having reached the end of the night he inverts himself; thus he makes day below, night above. He never sets; indeed he never sets." 
 - Subhash kAk on this passage: "One way to visualize it is to see the universe as the hollow of a sphere so that the inversion of the sun now shines the light on the world above ours. But this is impossible since the sun does move across the sky during the day and if the sun doesn't set or rise it doesn't move either. Clearly, the idea of “inversion" denotes nothing but a movement of the earth."
 
-## shatapatha-brAhmaNa 1k BCE
+### shatapatha-brAhmaNa 1k BCE
 - ŚB 4.1.5.16 describes the sun as puṣkaramādityo, “the lotus of the sky”. ŚB 8.7.3.10 says :  - tudasāvāditya imāmlokānt sūtre samāvayate, tad yat tat sūtram vāyuh .... 
   - The sun strings these worlds (the earth, the planets, the atmosphere] to himself on a thread. This thread is the same as the wind ..... 
 - This suggests a **central role to the sun** in defining the motions of the planets and ideas such as these must have ultimately led to the theory of the śīghrocca and the mandocca cycles. 
 
-## sUryasiddhAnta
+## paurANika-s
+![](../images/bhAgavata-universe.png)
+{class="thumbnail"}
+
+### विष्णु-पुराणम्
+२.२ - सप्त द्वीपाः, सप्त समुद्रैर् आवृताः।  
+मध्ये मेरुः। तत्-परितः इलावृतम्, ४ पर्वताः।   
+
+
+
+### भागवत-पुराणम्
+- References to "bhUgola" in multiple purANa-s including bhAgavata. As is clear from interpretations by vedAntadeshika and later bhAgavata-s, this is to be understood as a spherical manifold (गोलकटाह) or hemisphere rather than a full sphere.
+- Essentially a flat earth model.
+- Example: 5.21.8 - [VB](https://vedabase.io/en/library/sb/5/21/8-9/).
+
+> +++(मेरुः→)+++ तत्रत्यानां दिवस-मध्यङ्-गत एव सदाऽऽदित्यस् तपति  
+> सव्येनाचलं दक्षिणेन +++(परिगमनं)+++ करोति ॥ ८ ॥  
+> यत्रोदेति, तस्य ह समान-सूत्र-निपाते +++(भूकटाहे विपरीत-भागे)+++ निम्‍लोचति  
+> यत्र क्‍वचन स्यन्देनाभितपति  
+> तस्य हैष समान-सूत्र-निपाते प्रस्वापयति  
+> तत्र गतं न पश्यन्ति  
+> ये तं समनुपश्येरन् ॥ ९ ॥  
+> यदा चैन्द्य्राः पुर्याः प्रचलते  
+> पञ्चदशघटिकाभिर् याम्यां सपादकोटिद्वयं योजनानां सार्धद्वादशलक्षाणि साधिकानि चोपयाति ॥ १० ॥
+
+- Zero calculations.
+- Best treated as kavi-samaya type arthavAda.
+- Also see late bhAgavata-s (below).
+
+### shankarAchArya 800CE
+> उदयश्च नाम सवितुः तन्निवासिनां प्राणिनां चक्षुर्गोचरापत्तिः, तदत्ययश्च अस्तमनम् ; न परमार्थत उदयास्तमने स्तः ।  
+> …  
+> सर्वेषां च मेरुर् उत्तरतो भवति ।  
+यदा अमरावत्यां मध्याह्नगतः सविता,  
+तदा संयमन्याम् उद्यन् दृश्यते ;  
+तत्र मध्याह्नगतो वारुण्याम् उद्यन् दृश्यते ;  
+तथोत्तरस्याम् , प्रदक्षिणावृत्तेस् तुल्यत्वात् ।
+>
+> Chandogya Up. Bh.3.8.4.
+
+References an AchArya's (draviDAchArya acc. to Ānandagiri) reconciliation with viShNu-purANa.
+
+Sun circumambulates meru.  
+Meru is surrounded by AmarAvatI to the east, saMyamanI to the south, vAruNI to the west and soma's city to the north.  
+In the middle, there is Ilāvṛta surrounded by further mountains.
+
+> अयं वै लोकोऽग्निर्गौतम। … तस्याग्नेः पृथिव्येव समित् ;…  
+> पार्थिवं हि इन्धन-द्रव्यम् आश्रित्य अग्निर् उत्तिष्ठति …  
+> पृथिवीछायां हि शार्वरं तम आचक्षते
+
+इति (बृ.उ.भा. 6.2.11)।
+
+अत्र वायु-स्थम् पृथिवीतत्त्वम् उक्तम् भाति।
+
+<details><summary>आनन्दगिरिः</summary>
+
+एतल्-लोक-पृथिव्योर् देह-देहि-भावेन भेद इत्याह —  
+पृथिवीच्छायां हीति ।
+
+> ‘एतानि हि चन्द्रं रात्रेस् तमसो मृत्योर् बिभ्यतम् अत्यपारयन्’
+
+इति श्रुते रात्रेस् तमस्त्वावगमात्  
+तस्य च
+
+> मृत्युर् वै तमश् छाया  
+> मृत्युम् एव तत् तमश् छायां तरति
+
+इति भू-छायात्वं श्रुतम् ।  
+तमो राहु-स्थानं, तच्च भूच्छायेति हि प्रसिद्धम् –
+
+> “उधृत्य पृथिवी-च्छायां  
+> निर्मितं मण्डलाकृति ।  
+> स्वर्भानोस् तु बृहत् स्थानं  
+> तृतीयं यत् तमोमयम् ॥“
+
+इति स्मृतेर् इत्य् अर्थः ।  
+सोमचन्द्रमसोराश्रयाश्रयिभावेन भेदः ॥११॥
+
+</details>
+
+
+
+### मध्वः आनन्दतीर्थयतिः (1238–1317)
+भागवतत्तत्पर्ये षोडशोध्याये लिखति -
+
+> यथा भागवते तूक्तं  
+भौवनं कोश-लक्षणम् ।  
+तस्याविरोधतो योज्यं  
+सर्वं ग्रन्थान्तर-स्थितम् ।।   
+मण्डोदे पूरणं चैव  
+व्यत्यासं क्षीर-सागरे ।  
+राहु-सोम-रवीणां च  
+मण्डलाद् द्विगुणोक्तिताम् ।।  
+विनैव सर्वम् उन्नेयं  
+योजनाभेदतोऽत्र तु ।।
+>
+> > इति ब्रह्माण्डे ।।7।।  
+> +++(ब्रह्माण्ड-पुराण-ग्रन्थेषु नैवोपलभ्यते।)+++
+
+### वेङ्कटनाथः, वेदान्तदेशिकः (1268–1369)
+तत्त्व-मुक्ता-कलापे -
+
+> तिष्ठत्य् उर्वी, भ-चक्रं पवन-रय-वशाद् **भ्राम्यतीत्य् उक्तम्** आप्तैर्,  
+भ्रान्तैः **कॢप्तं** त्रिलोकी-**भ्रमणम्** इह, तथा मेदिनी-+++(आर्यभटोक्त-)+++**भ्रान्ति**-+++(जैन-)+++**पातौ** ।  
+तद्+++(→भू)+++-भ्रान्तौ प्राक्-प्रतीचोः **प्रसजति पतने** पत्रिणोस् तारतम्यं;  
+**पाते** गुर्व्यास् तु तस्याः +++(भुवः)+++, प्रलघु दिवि **समुत्क्षिप्तम्** एनां **न यायात्** ॥ ६३ ॥
+
+- He is said to have written a work called भूगोलनिर्णय (which is traditionally contested by some scholars since, uncharacteristically, there are no citations to it in his other works). Seems to closely follow bhAgavata.
+- "गोल" seems to refer to "गोलकटाह", a spherical manifold or section, according to the commentary -  "एवं सूर्याण्ड-गोल-कटाहयोर् मध्ये पञ्च-विंशति-कोटि-योजनत्वम् ऊर्द्ध्वम् अधश् चेत्य् अण्डकटाहान्तर-विवरोच्छ्रायस्य पञ्चाशत्-कोटियोजनत्वं सिद्धम् ॥"
+
+### kUresha (11th CE)
+कूरेशः
+
+> यत्-तुङ्ग-शृङ्ग-विनिषङ्गि-सुराङ्गनानां  
+न्यस्तोर्ध्व-पुण्ड्र-मुख-मण्डन-मण्डितानाम् ।  
+**दर्पण्य् अभूद्** धृतम् अ-पङ्क-शशाङ्क-पृष्ठं  
+तद् धाम सुन्दर-भुजस्य महान् वनाद्रिः ॥ ६ ॥
+
+reference to back side of the moon.
+
+
+### विजय-ध्वज-तीर्थः (1450)
+- अधोक्षजमठपीठाधिपो माध्वः।  
+  टीकाचार्यस्य जयतीर्थस्य समकालीनः।  
+  गौडीयानाम् अपि पूज्यः।
+- SB 10.8.37: bhUgolaM bhUmaNDalaM|
+
+### वादीराजतीर्थः (1480–1600)
+- "भूगोल-वर्णनम्" इति लिलेख।
+
+### वल्लभाचार्यः (1479–1531 CE)
+- SB 10.8.37 - अद्रयो मेर्वादयो द्वीपा जम्बुद्वीपादयो अब्धयो लवणादय एतैः सहितं भूगोलम्।
+
+### appayya-dIxita 1540 CE, baTTatiri
+Appayadikṣita refers in the following passages to Aryabhata and his theory regarding the earth's motion -
+
+स्वर्ग-पृथिव्योः परस्परम् उपजीव्योपजीवक-भावस्य तुल्यतया स्वर्गो न प्रतिष्ठा पृथिवी प्रतिष्ठेति व्यवस्थितोक्त्य्-अयोगात् । किं तु निश्चलत्वम् इह प्रतिष्ठा-शब्दार्थः । तत् तु ज्योतिश्-चक्रान्तर्गतत्वेन भ्रमति स्वर्गे नास्ति, अस्ति तु पृथिव्याम् - "पृथिवी प्रतिष्ठेति" श्रुत्यन्तरात् । आर्यभटाद्य्-अभिमत-भू-भ्रमणादि-वादानां श्रुति-न्याय-विरोधेन हेयत्वात्।"
+
+See bhaTTatiri, nIlakaNTha corrections.
+
+### विश्वनाथ-चक्रवर्ति-ठाकुरः ( c. 1626 – c. 1708)
+विश्वनाथ-चक्रवर्ति-ठाकुरः इत्यसाव् एवम् अलिखत्
+
+> " एतावाल्ँ लोक-विन्यासो मान-लक्षण-संस्थाभिर् विचिन्तितः कविभिः। स तु पञ्चाशत्-कोटि-गणितस्य भू-गोलस्य तुरीय-भागो ऽयं लोकालोकाचलः।"
+
+इति भागवतवाक्यव्याख्याने -
+
+> स तु लोकालोकस् तु भू-गोलकस्य भू-सम्बन्धाण्ड-गोलकस्येत्य् अर्थः; सूर्यस्येव भुवो ऽप्य् +++(ब्रह्म+)+++अण्ड-गोलकयोर् मध्य-वर्तित्वात् ख-गोलम् इव। **भू-गोलम्** अपि पञ्चाशत्-कोटि-योजन-प्रमाणम्। तस्य तुरीय-भागः सार्ध-द्वादश-कोटि-योजन-विस्तारोच्छ्राय इत्य् अर्थः। **भूस्** तु चतुस्-त्रिंशल्-लक्षोनपञ्चाशत्-कोटि-प्रमाणा (५० कोटि - .३४) ज्ञेया। … अत एवाण्ड-गोलकात् सर्वतो दिक्षु सप्त-दश-लक्ष-योजनावकाशे (.१७ कोटि) वर्तमाने सति पृथिव्याः **शेष-नागेन धारणं, दिग्-गजैश् च निश्चली-करणं** सार्थकं भवेद्, अन्यथा तु व्याख्यान्तरे पञ्चाशत्-कोटि-प्रमाणत्वाद् अण्ड-गोलक-लग्नत्वे तत् तत् सर्वम् अकिञ्चित्-करं स्यात् चाक्षुषे मन्वन्तरे चाकस्मान् मज्जनं, श्री-वराह-देवेनोत्थापनं च दुर्घटं स्याद्, इत्य् आदिकं विवेचनीयम्।
+- नाम, ब्रह्माण्डगोलकस्य भागौ द्वौ - भूगोलम्, खगोलञ्चेति। तयोर् मध्ये वर्तते भूमण्डलम्।
+
+### सदपूतदासः (1947-2008)
+- "Sadaputa Dasa who was a scientist and ISKCON devotee (disciple of A. C. Bhaktivedanta Swami Prabhupada)."
+- Modern visualizations - [SD](https://www.youtube.com/watch?v=oELKxRPHR6U).
+
+> "The Srimad-Bhagavatam’s mode of presentation is very different from the familiar modern approach. Although the Bhagavatam’s “Earth” (disk- shaped Bhu-mandala) may look unrealistic, careful study shows that the Bhagavatam uses Bhu-mandala to represent at least four reasonable and consistent models: (1) a polar- projection map of the Earth globe, (2) a map of the solar system, (3) a topographical map of south-central Asia, and (4) a map of the celestial realm of the demigods."
+
+> "He argues for the spheroid earth theory and synchronizes the calculations mentioned in the puranas with the modern calculation we have with our observations... this theory had already been challenged by other ISKCON members. One of the arguments is that in his theory he dismantles the idea of existence of plane bhumandala and reduces them to the imaginary description of the planetary orbits when seen from the geocentric reference. The data does match to about 65% accuracy."
+
+### koTa venkaTAchalam's samanvaya attempt
+- ఆర్య విజ్ఞానం-1 (బ్రహ్మాండ సృష్టి విజ్ఞానం) by కోట వెంకటాచలం
+
+Source: [TW](https://archive.org/details/in.ernet.dli.2015.371066/page/44/mode/1up)
+
+He asserts that Bhugola is different from the Bhu (Mahi)- Mandala to explain how one has to understand the Desa Samkirtana: पञ्चाशत्कोटि योजन विस्तीर्ण मही मण्डले
+
+## ज्योतिर्-विदः
+
+### sUryasiddhAnta
 - Earth is said to be a stationary globe around which sun, moon and five planets orbit, with sun (via śīghrocca position) playing a major role in propelling the outer planets.
 - "It calculates the earth's diameter to be 8,000 miles (modern: 7,928 miles), diameter of moon as 2,400 miles (actual ~2,160) and the distance between moon and earth to be 258,000 miles (actual ~238,000)."
 - "Thus everywhere on [the surface of] the terrestrial globe, people suppose their own place higher [than that of others], yet this globe is in space where there is no above nor below." —Surya Siddhanta, XII.53
 - Via S kAk: Surya Siddhānta (SS) seems to remember this pre-epicyclic astronomy of the earlier period. The uccas and the node (pāta) are thus described in SS 2.1-5: "Forms of time, of invisible shape, stationed in the zodaic, called the sīghrocca, mandocca, and node (pāta), are causes of the motion of the planets. The planets, attached to these points by cords of air, are drawn away by them, with the right and left hand, forward or backward, according to nearness, toward their own place. A wind, called pravaha, impels them toward their own ucсas, being drawn away forward and backward."
 
-## Aryabhata 500 CE
+### Aryabhata 500 CE
+Earth with meru at center rotates about itself at the rate of 1 rotation per day.  
+
 > अनुलोम-गतिर् नौस्थः  
 > पश्यत्य् अचलं विलोम-गं यद्वत्।  
-अचलानि भानि समपश्चिम-गानि लङ्कायां॥
+अचलानि भानि समपश्चिम-गानि लङ्कायाम्॥
+
+
+Above the grahas revolve around meru - at a much slower pace, with epicycles.  
+Stars are fixed in the background.
+
+> भानाम् अधः शनैश्-  
+चर-सुरगुरु-भौमार्कशुक्रबुधचन्द्राः ।
+एषामधश् च भूमिर्  
+मेधी-भूता खमध्यस्था ॥ १५ ॥
+
 
 
 > "Aryabhata (born in 476 CE. ) appears to have held the view that the **stars did not revolve round the earth, but the latter revolved round itself** and gave the illustration of a man sitting in a moving boat feeling that it is the stationary objects on the banks that rush past in the opposite direction. ... This was more than eleven hundred years before Galileo and there is nothing to show that Aryabhata suffered in the least for his views."
 > - PV Kane
+
+<details><summary>Extrapolations (द्रष्टुं नोद्यम्)</summary>
 
 In the words of Thurston: 
 
@@ -58,11 +240,14 @@ S Kak -
 > "The śīghrocca maps the motion of the planet around the sun to the corresponding set of points around the earth. This indicates a tradition of heliocentric astronomy as applied to the solar system. The sun, with its winds that hold the solar system together, is, in turn, taken to go around the earth."  
 > "Aryabhata held that earth was a sphere and rotated on its axis, and that the eclipses were not the work of Rāhu but caused by the shadow of the earth falling on the moon. Both these views were rejected and severely condemned by later astronomers like VarAhamihira and Brahmagupta."
 
+</details>
+
+
 Al Beruni's mis-characterization - 
 
 > "Al bIrUni accepts that spherical part. He (al bIrUnI) says he wrote a work arguing against a moving earth and in favor of geocentricity."
 
-### Reception
+#### Reception
 Later eminent scholars like Varāhamihira and Brahmagupta, who followed Āryabhaṭa, criticized his stance. Their criticsm over Āryabhaṭa scholars during 6th century CE was such a significant, leading to the rejection of Āryabhaṭa's theory by his own followers. They misinterpreted 2 passages and altered the reading of the text itself in the other two instances. 
 
 1. Āryabhaṭīya Gītikā Section, Verse 6 
@@ -77,7 +262,7 @@ Later eminent scholars like Varāhamihira and Brahmagupta, who followed Āryabha
 
 1. Āryabhaṭīya Gola Section, Verse 9-10.
 
-## Brahmagupta 628 CE
+### Brahmagupta 628 CE
 In his Brahmasiddhanta or Brahmasphutasiddhanta he has found fault with Aryabhata's
 theory about the diurnal motion of the earth in the following verse :  
 
@@ -91,11 +276,11 @@ theory about the diurnal motion of the earth in the following verse :
 > "If the Earth moves (revolves) through one minute of arc in one respiration, from where does it start its motion and where does it go? And, if it rotates (at the same place), why do tall lofty objects not fall down ?"
 
 
-## varAhamihira ~600CE
+### varAhamihira ~600CE
 > "The Pancasiddhantika (13. 6) of Varahamihira refers to this+++(AryabhaTa's)+++ view and rejects it, not on the ground that it is opposed to the Veda, but on the ground that, if that view were correct, hawks and other birds flying high up in the sky would not be able to come back to their nests without fail He did not know that the atmosphere also goes with the earth. "  
 > - PV Kane
 
-## lalla of lATa 750CE
+### lalla of lATa 750CE
 > गगन-मरुद्-अग्नि-जल-मृण्-मयो महाभूत-गुण-युतः स्वस्थः ।  
 > कक्षाभिर् आवृतोऽयं भ-पञ्जरान्तश् च भूगोलः ॥ 
 >
@@ -152,7 +337,7 @@ But, Lalla criticizes the Puranic view of earth being held by tortoise etc, then
 > यदि किं ध्रुव-तारका-  
 > तिमेर्?? दिवसेनैव परिभ्रमः ॥ ४४ ॥
 
-## pRthUdaka-svAmI  864 CE
+### pRthUdaka-svAmI  864 CE
 - He was a chaturvedin son of madhusUdana bhaTTa.
 
 > "भ-पञ्जरः स्थिरः ।  
@@ -163,7 +348,7 @@ But, Lalla criticizes the Puranic view of earth being held by tortoise etc, then
 > 
 > "the earth rotates by the angle of a kala in unit of time of a prāņa"".
 
-## Śrīdharācārya (10th century CE)
+### Śrīdharācārya (10th century CE)
 
 Śrīdharācārya (10th century CE) states that sunlight, moonlight & so forth are white because of lack of any interference. It's in case of an interference that other colours appear. So, for him, Sun's colour is white. 
 
@@ -171,17 +356,7 @@ But, Lalla criticizes the Puranic view of earth being held by tortoise etc, then
 > 
 > - न्यायकन्दली, तेजोद्रव्यप्रकरण
 
-## kUresha (11th CE)
-कूरेशः
-
-> यत्-तुङ्ग-शृङ्ग-विनिषङ्गि-सुराङ्गनानां  
-न्यस्तोर्ध्व-पुण्ड्र-मुख-मण्डन-मण्डितानाम् ।  
-**दर्पण्य् अभूद्** धृतम् अ-पङ्क-शशाङ्क-पृष्ठं  
-तद् धाम सुन्दर-भुजस्य महान् वनाद्रिः ॥ ६ ॥
-
-reference to back side of the moon.
-
-## bhaTTa-bhAskarakaNTha of kAshmIra 1200-1600CE
+### bhaTTa-bhAskarakaNTha of kAshmIra 1200-1600CE
 ब्रह्माण्डाकाशमध्ये तु पृथ्वी कन्दुकवत् स्थिता । ...
 
 भूमिर् एषा महा-प्राणि-देहा खे ऽत्र स्वभवतः ।  
@@ -200,16 +375,16 @@ Just as the amber gem attracts objects towards itself, Why indeed, so too the ea
 परितः पात-शङ्कान न कार्येषां तथा स्थितेः ॥  
 In the manner of ants on a ball, the beings are stationed on the earth. Held by this force all around they have no risk of falling off from here.
 
-## makkibhaTTa 1377 CE
+### makkibhaTTa 1377 CE
 - Commented on Sripati's Siddhantasekhara.
 - He agreed with AryabhaTTa.
 
-## Vatasseri Parameshvara Nambudiri ( c. 1380–1460)
+### Vatasseri Parameshvara Nambudiri ( c. 1380–1460)
 - He wrote goladIpikA.
 - गोलाकारं मण्डलम् अर्कादीनां स्मृतं गणक-मुख्यैः । दर्पण-वृत्ताकारं दूरगतत्वात् प्रदृश्यते ऽस्माभिः ॥ - The orbs of the sun and the like are known to be spheres according to great mathematicians. The appear like circular mirrors to us on account of their great distance. 
 - शशि-बिम्बे दर्पणवद् वृत्ते तस्यैक-देश-सित-लब्धिः । भनोः कर-सम्पाते व्यवधानाभावतो न संभवति ॥ २.४६-४७ - If the moon were like a plane circular mirror then only a part of it appearing lit by the rays of the sun falling on it is not possible because of the absence of obstruction.
 
-## Jñānarāja CE 1500
+### Jñānarāja CE 1500
 author of Siddhāntasundara
 
 He tell us that if inconsistencies occur in two accounts of the same story (in this case, the shape of the Earth), they are explained by saying that the two accounts took place in two different world ages (kalpas), so called kalpabheda backup.+++(5)+++
@@ -230,10 +405,10 @@ Knowledge of the cosmos is here presented as a means to spiritual liberation. Th
 
 
 
-## nIlakaNTha somayAjI  (1444-1550)
+### nIlakaNTha somayAjI  (1444-1550)
 - Nīlakaṇtha's greatest contribution to the world was his geoheliocentric cosmological model, which said the planets orbit the sun which in turn orbits the earth, one step ahead of the dominant geocentric view that had prevailed for millenia. The same model would be proposed by Tycho Brahe 200 years later, by whose name it is known now.
 
-## Śaṅkara Vāriyar; c. 1500 – c. 1560
+### Śaṅkara Vāriyar; c. 1500 – c. 1560
 
 > 42 After giving the number of sidereal days in a Mahāyuga, Śankara Variyar states that  
 > this number is exactly the same as the number of eastward revolutions made by the Earth in a Mahayuga (Yukti-dīpikā, Chapter 1, verse 73):
@@ -245,7 +420,7 @@ Knowledge of the cosmos is here presented as a means to spiritual liberation. Th
 > The number of sidereal days is equal to 1582237500. The number of eastward revolutions of the Earth is same as the revolutions made by the stars [westwards].
 This idea of the rotation of the Earth (eastwards) has been given by Sankara Variyar as perhaps a tribute to Aryabhata, who proposed the idea for the first time in the Indian tradition.
 
-## kamalAkara-bhaTTa 1600s
+### kamalAkara-bhaTTa 1600s
 - Not the more famous kamalAkarabhaTTa who authored शूद्रकमलाकर. Son of nRsiMha-jyotirvid. Actually travelled to Tajikistan to observe their astronomy.
 
 भूगोलो जल-मग्नोऽस्ति जलाद् बहिर् अपि स्थितः ।  
@@ -253,7 +428,7 @@ This idea of the rotation of the Earth (eastwards) has been given by Sankara Var
 
 > "The earth-sphere is covered with water with some parts which are indeed above it. The greater part is underwater and the smaller part is above it, geographer."
 
-## bhaTTatiri vs appayya
+### bhaTTatiri vs appayya
 Bhattathiri was a great astronomer. Not many know it- They just end with nArAyaNIyam and at most his paada saptati.
 
 
@@ -263,7 +438,7 @@ appayya vs bhaTTatiri argument about rotation of earth (appayya's view quoted se
 - It is known that certain stars rise earlier than the moon the following day (which is actually due to the true motion of the moon). Bhattathiri’s argument is: How come a far away object can have shorter period? It is logical absurdity and appayya was summarily beaten.
 
 
-## nIlakaNTha-dIxita
+### nIlakaNTha-dIxita
 - prime minister of tirumala nAyaka, grand-nephew of appayya.
 
 > "भुमिर् **भ्राम्यति** बुद्ध एव, मरुतः प्रत्यग् भ्रमोऽत्य्-अद्भुतो,  
@@ -274,126 +449,4 @@ appayya vs bhaTTatiri argument about rotation of earth (appayya's view quoted se
 > "Indeed it is known the earth rotates, the Marut-s [atmospheric winds] rotate in opposite direction most marvellously, thus are caused to rotate all the heavenly bodies as if along with the celestial globe. This rotation is the movement of the waters. The forms of Rudra are known to be eight of which Appaya Dīkṣita shines as that form which is stationary (or: without delusion)."
   
 This can be "a reflexive attempt at correcting Appayya's insistence on a geocentric, geostationary cosmology in commenting on a shrutivAkya".
-
-## bhAgavata-s
-![](../images/bhAgavata-universe.png)
-{class="thumbnail"}
-
-### भागवत-पुराणम्
-- References to "bhUgola" in multiple purANa-s including bhAgavata. As is clear from interpretations by vedAntadeshika and later bhAgavata-s, this is to be understood as a spherical manifold (गोलकटाह) or hemisphere rather than a full sphere. 
-- Essentially a flat earth model. 
-- Example: 5.21.8 - [VB](https://vedabase.io/en/library/sb/5/21/8-9/). 
-
-> +++(मेरुः→)+++ तत्रत्यानां दिवस-मध्यङ्-गत एव सदाऽऽदित्यस् तपति  
-> सव्येनाचलं दक्षिणेन +++(परिगमनं)+++ करोति ॥ ८ ॥  
-> यत्रोदेति, तस्य ह समान-सूत्र-निपाते +++(भूकटाहे विपरीत-भागे)+++ निम्‍लोचति  
-> यत्र क्‍वचन स्यन्देनाभितपति  
-> तस्य हैष समान-सूत्र-निपाते प्रस्वापयति  
-> तत्र गतं न पश्यन्ति  
-> ये तं समनुपश्येरन् ॥ ९ ॥  
-> यदा चैन्द्य्राः पुर्याः प्रचलते  
-> पञ्चदशघटिकाभिर् याम्यां सपादकोटिद्वयं योजनानां सार्धद्वादशलक्षाणि साधिकानि चोपयाति ॥ १० ॥
-
-- Zero calculations.
-- Best treated as kavi-samaya type arthavAda.
-- Also see late bhAgavata-s (below).
-
-### shankarAchArya 800CE
-> उदयश्च नाम सवितुः तन्निवासिनां प्राणिनां चक्षुर्गोचरापत्तिः, तदत्ययश्च अस्तमनम् ; न परमार्थत उदयास्तमने स्तः ।  
-> …  
-> सर्वेषां च मेरुर् उत्तरतो भवति ।  
-यदा अमरावत्यां मध्याह्नगतः सविता,  
-तदा संयमन्याम् उद्यन् दृश्यते ;  
-तत्र मध्याह्नगतो वारुण्याम् उद्यन् दृश्यते ;  
-तथोत्तरस्याम् , प्रदक्षिणावृत्तेस् तुल्यत्वात् ।
-> 
-> Chandogya Up. Bh.3.8.4.
-
-References an AchArya's (draviDAchArya acc. to Ānandagiri) reconciliation with viShNu-purANa.
-
-Sun circumambulates meru.  
-Meru is surrounded by AmarAvatI to the east, saMyamanI to the south, vAruNI to the west and soma's city to the north.  
-In the middle, there is Ilāvṛta surrounded by further mountains.
-
-> अयं वै लोकोऽग्निर्गौतम। … तस्याग्नेः पृथिव्येव समित् ;…  
-> पार्थिवं हि इन्धन-द्रव्यम् आश्रित्य अग्निर् उत्तिष्ठति …  
-> पृथिवीछायां हि शार्वरं तम आचक्षते 
-
-इति (बृ.उ.भा. 6.2.11)। 
-
-अत्र वायु-स्थम् पृथिवीतत्त्वम् उक्तम् भाति। 
-
-
-### मध्वः आनन्दतीर्थयतिः (1238–1317)
-भागवतत्तत्पर्ये षोडशोध्याये लिखति -  
-
-> यथा भागवते तूक्तं  
-भौवनं कोश-लक्षणम् ।  
-तस्याविरोधतो योज्यं  
-सर्वं ग्रन्थान्तर-स्थितम् ।।   
-मण्डोदे पूरणं चैव  
-व्यत्यासं क्षीर-सागरे ।  
-राहु-सोम-रवीणां च  
-मण्डलाद् द्विगुणोक्तिताम् ।।  
-विनैव सर्वम् उन्नेयं  
-योजनाभेदतोऽत्र तु ।।  
-> 
-> > इति ब्रह्माण्डे ।।7।।  
-> +++(ब्रह्माण्ड-पुराण-ग्रन्थेषु नैवोपलभ्यते।)+++
-
-### वेङ्कटनाथः, वेदान्तदेशिकः (1268–1369)
-तत्त्व-मुक्ता-कलापे - 
-
-> तिष्ठत्य् उर्वी, भ-चक्रं पवन-रय-वशाद् **भ्राम्यतीत्य् उक्तम्** आप्तैर्,  
-भ्रान्तैः **कॢप्तं** त्रिलोकी-**भ्रमणम्** इह, तथा मेदिनी-+++(आर्यभटोक्त-)+++**भ्रान्ति**-+++(जैन-)+++**पातौ** ।  
-तद्+++(→भू)+++-भ्रान्तौ प्राक्-प्रतीचोः **प्रसजति पतने** पत्रिणोस् तारतम्यं;  
-**पाते** गुर्व्यास् तु तस्याः +++(भुवः)+++, प्रलघु दिवि **समुत्क्षिप्तम्** एनां **न यायात्** ॥ ६३ ॥
-
-- He is said to have written a work called भूगोलनिर्णय (which is traditionally contested by some scholars since, uncharacteristically, there are no citations to it in his other works). Seems to closely follow bhAgavata.
-- "गोल" seems to refer to "गोलकटाह", a spherical manifold or section, according to the commentary -  "एवं सूर्याण्ड-गोल-कटाहयोर् मध्ये पञ्च-विंशति-कोटि-योजनत्वम् ऊर्द्ध्वम् अधश् चेत्य् अण्डकटाहान्तर-विवरोच्छ्रायस्य पञ्चाशत्-कोटियोजनत्वं सिद्धम् ॥"
-
-
-### विजय-ध्वज-तीर्थः (1450)
-- अधोक्षजमठपीठाधिपो माध्वः।  
-  टीकाचार्यस्य जयतीर्थस्य समकालीनः।  
-  गौडीयानाम् अपि पूज्यः।
-- SB 10.8.37: bhUgolaM bhUmaNDalaM|
-
-### वादीराजतीर्थः (1480–1600)
-- "भूगोल-वर्णनम्" इति लिलेख।
-
-### वल्लभाचार्यः (1479–1531 CE)
-- SB 10.8.37 - अद्रयो मेर्वादयो द्वीपा जम्बुद्वीपादयो अब्धयो लवणादय एतैः सहितं भूगोलम्।
-
-### appayya-dIxita 1540 CE, baTTatiri
-Appayadikṣita refers in the following passages to Aryabhata and his theory regarding the earth's motion - 
-
-स्वर्ग-पृथिव्योः परस्परम् उपजीव्योपजीवक-भावस्य तुल्यतया स्वर्गो न प्रतिष्ठा पृथिवी प्रतिष्ठेति व्यवस्थितोक्त्य्-अयोगात् । किं तु निश्चलत्वम् इह प्रतिष्ठा-शब्दार्थः । तत् तु ज्योतिश्-चक्रान्तर्गतत्वेन भ्रमति स्वर्गे नास्ति, अस्ति तु पृथिव्याम् - "पृथिवी प्रतिष्ठेति" श्रुत्यन्तरात् । आर्यभटाद्य्-अभिमत-भू-भ्रमणादि-वादानां श्रुति-न्याय-विरोधेन हेयत्वात्।"
-
-See bhaTTatiri, nIlakaNTha corrections.
-
-### विश्वनाथ-चक्रवर्ति-ठाकुरः ( c. 1626 – c. 1708)
-विश्वनाथ-चक्रवर्ति-ठाकुरः इत्यसाव् एवम् अलिखत् 
-
-> " एतावाल्ँ लोक-विन्यासो मान-लक्षण-संस्थाभिर् विचिन्तितः कविभिः। स तु पञ्चाशत्-कोटि-गणितस्य भू-गोलस्य तुरीय-भागो ऽयं लोकालोकाचलः।" 
-
-इति भागवतवाक्यव्याख्याने -  
-
-> स तु लोकालोकस् तु भू-गोलकस्य भू-सम्बन्धाण्ड-गोलकस्येत्य् अर्थः; सूर्यस्येव भुवो ऽप्य् +++(ब्रह्म+)+++अण्ड-गोलकयोर् मध्य-वर्तित्वात् ख-गोलम् इव। **भू-गोलम्** अपि पञ्चाशत्-कोटि-योजन-प्रमाणम्। तस्य तुरीय-भागः सार्ध-द्वादश-कोटि-योजन-विस्तारोच्छ्राय इत्य् अर्थः। **भूस्** तु चतुस्-त्रिंशल्-लक्षोनपञ्चाशत्-कोटि-प्रमाणा (५० कोटि - .३४) ज्ञेया। … अत एवाण्ड-गोलकात् सर्वतो दिक्षु सप्त-दश-लक्ष-योजनावकाशे (.१७ कोटि) वर्तमाने सति पृथिव्याः **शेष-नागेन धारणं, दिग्-गजैश् च निश्चली-करणं** सार्थकं भवेद्, अन्यथा तु व्याख्यान्तरे पञ्चाशत्-कोटि-प्रमाणत्वाद् अण्ड-गोलक-लग्नत्वे तत् तत् सर्वम् अकिञ्चित्-करं स्यात् चाक्षुषे मन्वन्तरे चाकस्मान् मज्जनं, श्री-वराह-देवेनोत्थापनं च दुर्घटं स्याद्, इत्य् आदिकं विवेचनीयम्।
-- नाम, ब्रह्माण्डगोलकस्य भागौ द्वौ - भूगोलम्, खगोलञ्चेति। तयोर् मध्ये वर्तते भूमण्डलम्।
-
-### सदपूतदासः (1947-2008)
-- "Sadaputa Dasa who was a scientist and ISKCON devotee (disciple of A. C. Bhaktivedanta Swami Prabhupada)."
-- Modern visualizations - [SD](https://www.youtube.com/watch?v=oELKxRPHR6U).
-
-> "The Srimad-Bhagavatam’s mode of presentation is very different from the familiar modern approach. Although the Bhagavatam’s “Earth” (disk- shaped Bhu-mandala) may look unrealistic, careful study shows that the Bhagavatam uses Bhu-mandala to represent at least four reasonable and consistent models: (1) a polar- projection map of the Earth globe, (2) a map of the solar system, (3) a topographical map of south-central Asia, and (4) a map of the celestial realm of the demigods."
-
-> "He argues for the spheroid earth theory and synchronizes the calculations mentioned in the puranas with the modern calculation we have with our observations... this theory had already been challenged by other ISKCON members. One of the arguments is that in his theory he dismantles the idea of existence of plane bhumandala and reduces them to the imaginary description of the planetary orbits when seen from the geocentric reference. The data does match to about 65% accuracy."
-
-### koTa venkaTAchalam's samanvaya attempt
-- ఆర్య విజ్ఞానం-1 (బ్రహ్మాండ సృష్టి విజ్ఞానం) by కోట వెంకటాచలం
-
-Source: [TW](https://archive.org/details/in.ernet.dli.2015.371066/page/44/mode/1up)
-
-He asserts that Bhugola is different from the Bhu (Mahi)- Mandala to explain how one has to understand the Desa Samkirtana: पञ्चाशत्कोटि योजन विस्तीर्ण मही मण्डले
 
