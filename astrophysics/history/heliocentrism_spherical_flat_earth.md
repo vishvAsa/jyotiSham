@@ -2,6 +2,14 @@
 title: Heliocentrism, spherical earth …
 
 ---
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Video - [TW](/content/conversations/YT/jyotiSham/2026_04_29_vedAntin-physics-errors) 
+</details>
+
+
+
 ## References
 Many of the uncited quotes and translations are by the mAnasatarangiNIkAra.
 
@@ -70,7 +78,7 @@ Later eminent scholars like Varāhamihira and Brahmagupta, who followed Āryabha
 1. Āryabhaṭīya Gola Section, Verse 9-10.
 
 ## Brahmagupta 628 CE
-- In his Brahmasiddhanta or Brahmasphutasiddhanta he has found fault with Aryabhata's
+In his Brahmasiddhanta or Brahmasphutasiddhanta he has found fault with Aryabhata's
 theory about the diurnal motion of the earth in the following verse :  
 
 > "प्राणेनैति कलां भूर् यदि  
@@ -313,8 +321,7 @@ In the middle, there is Ilāvṛta surrounded by further mountains.
 
 इति (बृ.उ.भा. 6.2.11)। 
 
-अत्र पृथिवीतत्त्वम् उक्तम् भाति। 
-
+अत्र वायु-स्थम् पृथिवीतत्त्वम् उक्तम् भाति। 
 
 
 ### मध्वः आनन्दतीर्थयतिः (1238–1317)
