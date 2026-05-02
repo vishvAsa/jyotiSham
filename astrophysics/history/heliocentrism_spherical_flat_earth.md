@@ -25,15 +25,33 @@ Source: [TW](/vedAH_Rk/shAkalam/aitareya-brAhmaNam/sarva-prastutiH/3/14_khaNDaH_
 > रात्रीम् एवावस्तात् कुरुते ऽहः परस्तात् ।  
 > स वा एष न कदाचन निम्रोचति ।  
 
+> "The (sun) never really sets or rises. In that they think of him “He is setting", having reached the end of the day, he inverts himself; thus he makes evening below, day above. Again in that they think of him “He is rising in the morning”, having reached the end of the night he inverts himself; thus he makes day below, night above. He never sets; indeed he never sets." 
 
+Subhash kAk on this passage: 
 
-- "The (sun) never really sets or rises. In that they think of him “He is setting", having reached the end of the day, he inverts himself; thus he makes evening below, day above. Again in that they think of him “He is rising in the morning”, having reached the end of the night he inverts himself; thus he makes day below, night above. He never sets; indeed he never sets." 
-- Subhash kAk on this passage: "One way to visualize it is to see the universe as the hollow of a sphere so that the inversion of the sun now shines the light on the world above ours. But this is impossible since the sun does move across the sky during the day and if the sun doesn't set or rise it doesn't move either. Clearly, the idea of “inversion" denotes nothing but a movement of the earth."
+> "One way to visualize it is to see the universe as the hollow of a sphere so that the inversion of the sun now shines the light on the world above ours. But this is impossible since the sun does move across the sky during the day and if the sun doesn't set or rise it doesn't move either. Clearly, the idea of “inversion" denotes nothing but a movement of the earth."
+
+<details><summary>शास्त्र-चर्चायाम् प्रयोजनम् (द्रष्टुं नोद्यम्)</summary>
+
+(केचित् पुराणोक्तिभिर् देशिकादयः समर्थिताः।  
+आर्यभटादीनां पक्षे न किञ्चित् शास्त्रवाक्यम् अस्तीत्य् आक्षिपन्ति।  
+किञ्च ममाभिप्राये नैतत् किञ्चिद् अप्य् अपेक्षितम्।  
+आर्यभटपक्षे न किमपि शास्त्रम् अस्तीत्य् एतावत् तु प्रत्युक्तम् भवति।)
+
+श्रीभाष्योक्तरीत्या रात्राव् अपि सूर्यकिरणानि सन्तीति न विरुद्धम्।  
+किञ्चानेन उदयास्तंगत्योस् संज्ञामात्रत्वेन निश्चयेन
+दिन-रात्रि-साधने (मध्याह्नादि-साधनेऽपि) सूर्य-चलनस्यापि संज्ञामात्रत्वेन निश्चयः शक्य एव।
+</details>
+
 
 ### shatapatha-brAhmaNa 1k BCE
-- ŚB 4.1.5.16 describes the sun as puṣkaramādityo, “the lotus of the sky”. ŚB 8.7.3.10 says :  - tudasāvāditya imāmlokānt sūtre samāvayate, tad yat tat sūtram vāyuh .... 
-  - The sun strings these worlds (the earth, the planets, the atmosphere] to himself on a thread. This thread is the same as the wind ..... 
-- This suggests a **central role to the sun** in defining the motions of the planets and ideas such as these must have ultimately led to the theory of the śīghrocca and the mandocca cycles. 
+ŚB 4.1.5.16 describes the sun as puṣkaramādityo, “the lotus of the sky”. ŚB 8.7.3.10 says :  - 
+
+> tudasāvāditya imāmlokānt sūtre samāvayate, tad yat tat sūtram vāyuh .... 
+  
+> The sun strings these worlds (the earth, the planets, the atmosphere] to himself on a thread. This thread is the same as the wind ..... 
+
+This suggests a **central role to the sun** in defining the motions of the planets and ideas such as these must have ultimately led to the theory of the śīghrocca and the mandocca cycles. 
 
 ## paurANika-s
 ![](../images/bhAgavata-universe.png)
