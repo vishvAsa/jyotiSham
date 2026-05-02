@@ -21,5 +21,5 @@ title = "Corrections"
 Veliyanallur Narayanachariar used dRg-gaNitam for his daughters' events in 2000s. Source: [TW](https://youtu.be/9e2wrJ-rcOg?t=1924)
 वेल्लियनल्लूर्--नारायणार्येणापि तत्त्वमुक्ताकलाप-कालक्षेपय् उक्तं -  
 दृक्-पञ्चाङ्गस्योपादेयत्व-विषये -  
-स्वदुहितायाः विवाहार्थं तद् एव प्रयुक्तवान् इति।  
+स्वदुहितुर् विवाहार्थं तद् एव प्रयुक्तवान् इति।  
 ([TW](https://youtu.be/9e2wrJ-rcOg?t=1734))
