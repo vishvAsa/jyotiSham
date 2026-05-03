@@ -295,7 +295,7 @@ theory about the diurnal motion of the earth in the following verse :
 
 
 ### varAhamihira ~600CE
-> "The Pancasiddhantika (13. 6) of Varahamihira refers to this+++(AryabhaTa's)+++ view and rejects it, not on the ground that it is opposed to the Veda, but on the ground that, if that view were correct, hawks and other birds flying high up in the sky would not be able to come back to their nests without fail He did not know that the atmosphere also goes with the earth. "  
+> "The Pancasiddhantika (13. 6) of Varahamihira refers to this+++(AryabhaTa's)+++ view and rejects it, not on the ground that it is opposed to the Veda, but on the ground that, if that view were correct, hawks and other birds flying high up in the sky would not be able to come back to their nests without fail. He did not know that the atmosphere also goes with the earth. "  
 > - PV Kane
 
 ### lalla of lATa 750CE
@@ -372,18 +372,35 @@ But, Lalla criticizes the Puranic view of earth being held by tortoise etc, then
 
 > यत्त्वस्य लोहितं कपिलं वा रूपं क्वचित् प्रतीयते तदाश्रयोपाधिकृतम्, निराश्रयस्य शुक्लतामात्रप्रतीतेः यथा प्रदीपप्रभामण्डलस्य सौरचन्द्राद्यालोकस्य च। 
 > 
-> - न्यायकन्दली, तेजोद्रव्यप्रकरण
+> - न्याय-कन्दली, तेजोद्रव्यप्रकरण
+
+### vedAnta-deshika's pUrva-paxI pre-1200
+
+> भूगोल-घन-मध्य-देश एव सर्वेषाम् अधोधोदेशः,  
+तद्-अभिमुख-दत्त-चरण एव स्थल-जल-चरः सर्वो जन्तुवर्गः ।  
+भूमिस्तु तद्-आश्रिता नानाकेसर-परिवृत-कदम्ब-कुसुम-ग्रन्थिवन्  
+मक्षिकावृत-मधु-गोलवच् च तिष्ठति ।  
+अमरा नराश् च परस्परम् अधःस्थितान् मन्यन्ते ।  
+पतनं च सर्वेषां भूगोल-मध्य-देशाभिमुखम् एव ।  
+पृथिव्यंशास् त्व् अवकाशालाभान् न तत्र प्रविशन्ति ।  
+अतो महा-पृथिव्या न कदाचित् पतनम्,  
+ताम् अपेक्ष्य कस्यचिद् अधोदेशस्याभावात्
+
+इति पक्ष उदाहृतो वेदान्तदेशिकेन सर्वार्थ-सिद्धौ। 
 
 ### bhaTTa-bhAskarakaNTha of kAshmIra 1200-1600CE
-ब्रह्माण्डाकाशमध्ये तु पृथ्वी कन्दुकवत् स्थिता । ...
+ब्रह्माण्डाकाशमध्ये तु  
+पृथ्वी कन्दुकवत् स्थिता । ...
 
-भूमिर् एषा महा-प्राणि-देहा खे ऽत्र स्वभवतः ।  
-स्थितास् तत्र जना यूका इव सीमन्त-संस्थिताः ॥  
+भूमिर् एषा महा-प्राणि-  
+देहा खे ऽत्र स्वभवतः ।  
+स्थितास् तत्र जना यूका  
+इव सीमन्त-संस्थिताः ॥  
 This earth here is the body of a giant living being, self-supported in empty space. On that are situated the people like lice dwelling in the hair.
 
 पक्षी स्वभाव-वशतो यत्र तिष्ठति खे स्वयम् ।  
 तत्र भूमेः स्थितौ शङ्का केयं मूढेषु जृम्भते ॥  
-As a bird by the force of its own nature stands in space, the earth to is situated (in space], why does a doubt (regarding this) yawn among idiots? 
+As a bird by the force of its own nature stands in space, the earth to is situated (in space), why does a doubt (regarding this) yawn among idiots? 
 
 कढ़काख्यं यथा रत्नं वस्तु स्वं प्रति कर्षति ।  
 तथा पृथ्वी वस्तुजातं स्वभावे कैव चोदना ॥  
@@ -399,8 +416,13 @@ In the manner of ants on a ball, the beings are stationed on the earth. Held by 
 
 ### Vatasseri Parameshvara Nambudiri ( c. 1380–1460)
 - He wrote goladIpikA.
-- गोलाकारं मण्डलम् अर्कादीनां स्मृतं गणक-मुख्यैः । दर्पण-वृत्ताकारं दूरगतत्वात् प्रदृश्यते ऽस्माभिः ॥ - The orbs of the sun and the like are known to be spheres according to great mathematicians. The appear like circular mirrors to us on account of their great distance. 
-- शशि-बिम्बे दर्पणवद् वृत्ते तस्यैक-देश-सित-लब्धिः । भनोः कर-सम्पाते व्यवधानाभावतो न संभवति ॥ २.४६-४७ - If the moon were like a plane circular mirror then only a part of it appearing lit by the rays of the sun falling on it is not possible because of the absence of obstruction.
+
+> गोलाकारं मण्डलम् अर्कादीनां स्मृतं गणक-मुख्यैः । दर्पण-वृत्ताकारं दूरगतत्वात् प्रदृश्यते ऽस्माभिः ॥  
+> The orbs of the sun and the like are known to be spheres according to great mathematicians. The appear like circular mirrors to us on account of their great distance. 
+
+> शशि-बिम्बे दर्पणवद् वृत्ते तस्यैक-देश-सित-लब्धिः ।  
+> भनोः कर-सम्पाते व्यवधानाभावतो न संभवति ॥ २.४६-४७   
+> If the moon were like a plane circular mirror then only a part of it appearing lit by the rays of the sun falling on it is not possible because of the absence of obstruction.
 
 ### Jñānarāja CE 1500
 author of Siddhāntasundara
