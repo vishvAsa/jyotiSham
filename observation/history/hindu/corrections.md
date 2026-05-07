@@ -19,6 +19,20 @@ title = "Corrections"
 
 इति प्रसिद्धम्।
 
+An interesting set of references from the Liṅga & Vāyu purāṇas are cited by Śrī Viṣṇucitta in his commentary on the Viṣṇupurāṇa to emphasize that pratyakṣa observations along with calculations are necessary alongside textual inputs and inferences in astronomical matters (via aniruddha)
+
+> आगमादनुमानाच् च  
+प्रत्यक्षाद् उपपत्तितः ।  
+परीक्ष्य निपुणं बुद्ध्या  
+श्रद्धातव्यं विपश्चिता ॥
+> 
+> चक्षुषा लक्षितं लेख्यं  
+गणितं बुद्धिसत्तमाः ।  
+पंचैष हेतवो विप्रा  
+ज्योतिर्-गण-विचिन्तने ॥
+
+
+
 See note by nIlakaNTha somayAjin.
 
 ## Early modern reformers
