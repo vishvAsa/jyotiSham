@@ -242,9 +242,9 @@ Above the grahas revolve around meru - at a much slower pace, with epicycles.
 Stars are fixed in the background.
 
 > भानाम् अधः शनैश्-  
-चर-सुरगुरु-भौमार्कशुक्रबुधचन्द्राः ।
-एषामधश् च भूमिर्  
-मेधी-भूता खमध्यस्था ॥ १५ ॥
+चर--सुर-गुरु--भौमार्क-शुक्र-बुध-चन्द्राः ।
+एषाम् अधश् च भूमिर्  
+मेधी-भूता ख-मध्यस्था ॥ १५ ॥
 
 
 
