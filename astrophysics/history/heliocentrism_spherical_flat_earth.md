@@ -231,20 +231,56 @@ He asserts that Bhugola is different from the Bhu (Mahi)- Mandala to explain how
 - Via S kAk: Surya Siddhānta (SS) seems to remember this pre-epicyclic astronomy of the earlier period. The uccas and the node (pāta) are thus described in SS 2.1-5: "Forms of time, of invisible shape, stationed in the zodaic, called the sīghrocca, mandocca, and node (pāta), are causes of the motion of the planets. The planets, attached to these points by cords of air, are drawn away by them, with the right and left hand, forward or backward, according to nearness, toward their own place. A wind, called pravaha, impels them toward their own ucсas, being drawn away forward and backward."
 
 ### Aryabhata 500 CE
-Earth with meru at center rotates about itself at the rate of 1 rotation per day.  
+Earth is spherical with meru to vaDavAmukha axis at center. 
+
+> वृत्त-भ-पञ्जर-मध्ये  
+कक्ष्या-परिवेष्टितः ख-मध्य-गतः ।
+मृज्-जल-शिखि-वायुमयो  
+भूगोलः सर्वतो वृत्तः ॥ ५ ॥
+>
+> यद्वत् कदम्ब-पुष्पग्रन्थिः  
+प्रचितः समन्ततः कुसुमैः ।
+तद्वद्धि सर्वसत्त्वैर्  
+जलजैः स्थलजैः च भूगोलः ॥ ७ ॥
+>
+> स्वर्-मेरू स्थलमध्ये  
+नरको बडवा-मुखं च जल-मध्ये ।
+अमर-मरा मन्यन्ते  
+परस्परम् अधःस्थिताः नियतम् ॥ १२ ॥  
+> भू-व्यासार्धेनोनं+++(=<radius)+++  
+दृश्यं देशात् समाद् भगोलार्धम् ।  
+अर्धं भूमि-च्छन्नं  
+भू-व्यासार्धाधिकं चैव ॥ १५ ॥
+
+Disk shadows caused eclipse -
+
+> छादयति शशी सूर्यम्,  
+शशिनं महती च भूच्छाया ॥ ३७ ॥
+
+
+Earth rotates about itself at the rate of 1 rotation per day.  
+
 
 > अनुलोम-गतिर् नौस्थः  
 > पश्यत्य् अचलं विलोम-गं यद्वत्।  
 अचलानि भानि समपश्चिम-गानि लङ्कायाम्॥
+> 
+> उदयो यो लङ्कायां  
+सो ऽस्तमयः सवितुर् एव सिद्धपुरे ।
+मध्याह्नो यम-कोट्यां  
+रोमक-विषये ऽर्धरात्रः स्यात् ॥ १३ ॥
+
+Axis tilt, moon rotation seems known - 
+
+> रविवर्षार्धं देवाः  
+पश्यन्त्य् उदितं रविं तथा प्रेताः ।
+शशिमासार्धं पितरः  
+शशिगाः, कुदिनार्धमिह मनुजाः ॥ १७ ॥
 
 
-Above the grahas revolve around meru - at a much slower pace, with epicycles.  
+The grahas revolve around axis - at a much slower pace, with epicycles. 
 Stars are fixed in the background.
 
-> भानाम् अधः शनैश्-  
-चर--सुर-गुरु--भौमार्क-शुक्र-बुध-चन्द्राः ।
-एषाम् अधश् च भूमिर्  
-मेधी-भूता ख-मध्यस्था ॥ १५ ॥
 
 
 
@@ -283,6 +319,9 @@ Later eminent scholars like Varāhamihira and Brahmagupta, who followed Āryabha
 > The reading bham (in place of bhuḥ) adopted by the commentators is evidently incorrect. The correct reading is bhūḥ, which has been mentioned by Brahmagupta (A.D. 628), Pṛthudaka (A. D. 860) and Udayadivakara (A.D. 1073).
 
 1. Āryabhaṭīya Gola Section, Verse 9-10.
+
+### bhAskara 1 भास्करः 600 CE
+Commentator on AryabhaTa. Correctly understood AryabhaTa as spherical.
 
 ### Brahmagupta 628 CE
 In his Brahmasiddhanta or Brahmasphutasiddhanta he has found fault with Aryabhata's
