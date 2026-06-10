@@ -3,7 +3,9 @@ title = "+ज्योतिर्मीमांसा"
 unicode_script = "devanagari"
 +++
 
-Source: [TW](https://archive.org/details/Jyotirmimansa/page/n59/mode/2up)
+Source: [TW](https://archive.org/details/Jyotirmimansa/page/n59/mode/2up) 
+
+[अत्र](https://archive.org/details/jyotirjyotismimamsaofnilakanthainvestigationsintoastronomicaltheoriessarmak.v.vishveshvaranand_958_P/page/n41/mode/2up) ।
 
 JYOTIRMIMAMSA 
 
