@@ -5,7 +5,7 @@ title = "02 Committee work"
 
 ## APPOINTMENT OF THE COMMITTEE 
 
-The Council of Scientific and Industrial Research appointed in November 1952, a Calendar Reform Committee with:Prof. M.N. Saha, F.R.S., as Chairman and six other members (vide their letter No. 144 Bd. (G. P.)/52 dated the 11th November, 1952, intimating the decision of the Governing Body meeting held on 13. 8. 52) as follows: 
+The Council of Scientific and Industrial Research appointed in November 1952, a Calendar Reform Committee with: Prof. M.N. Saha, F.R.S., as Chairman and six other members (vide their letter No. 144 Bd. (G. P.)/52 dated the 11th November, 1952, intimating the decision of the Governing Body meeting held on 13. 8. 52) as follows: 
 
 The Calendar Reform Committee 
 
